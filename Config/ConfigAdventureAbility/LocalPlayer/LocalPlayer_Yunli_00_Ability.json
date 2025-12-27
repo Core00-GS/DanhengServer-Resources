@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Yunli_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -96,38 +95,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 9878424782
+                    "FixedValue": {
+                      "RawValue": 9878424782,
+                      "Value": 2.3
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 85899346
+                    "FixedValue": {
+                      "RawValue": 85899346,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 171798692
+                    "FixedValue": {
+                      "RawValue": 171798692,
+                      "Value": 0.04
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 17179869184
+                    "FixedValue": {
+                      "RawValue": 17179869184,
+                      "Value": 4.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1503238553600
+                    "FixedValue": {
+                      "RawValue": 1503238553600,
+                      "Value": 350.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   }
                 }
@@ -143,8 +149,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 386547057
+                "FixedValue": {
+                  "RawValue": 386547057,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -239,23 +246,27 @@
                   "MovingRangeList": [
                     {
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 8589934592
+                        "FixedValue": {
+                          "RawValue": 8589934592,
+                          "Value": 2.0
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 85899346
+                        "FixedValue": {
+                          "RawValue": 85899346,
+                          "Value": 0.02
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 171798692
+                        "FixedValue": {
+                          "RawValue": 171798692,
+                          "Value": 0.04
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 6442450946
+                        "FixedValue": {
+                          "RawValue": 6442450946,
+                          "Value": 1.5
                         }
                       }
                     }
@@ -271,8 +282,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 386547057
+                    "FixedValue": {
+                      "RawValue": 386547057,
+                      "Value": 0.09
                     }
                   },
                   "TaskEnabled": true,
@@ -367,23 +379,27 @@
                       "MovingRangeList": [
                         {
                           "OffsetTargetDistance": {
-                            "fixedValue": {
-                              "RawValue": 8589934592
+                            "FixedValue": {
+                              "RawValue": 8589934592,
+                              "Value": 2.0
                             }
                           },
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 85899346
+                            "FixedValue": {
+                              "RawValue": 85899346,
+                              "Value": 0.02
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 171798692
+                            "FixedValue": {
+                              "RawValue": 171798692,
+                              "Value": 0.04
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 4294967296
+                            "FixedValue": {
+                              "RawValue": 4294967296,
+                              "Value": 1.0
                             }
                           }
                         }
@@ -399,8 +415,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 386547057
+                        "FixedValue": {
+                          "RawValue": 386547057,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -494,8 +511,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 386547057
+                        "FixedValue": {
+                          "RawValue": 386547057,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -598,8 +616,7 @@
       ],
       "Name": "LocalPlayer_Yunli_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -623,8 +640,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 356482285
+            "FixedValue": {
+              "RawValue": 356482285,
+              "Value": 0.08
             }
           },
           "TaskEnabled": true,
@@ -678,8 +696,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 360777252
+            "FixedValue": {
+              "RawValue": 360777252,
+              "Value": 0.08
             }
           },
           "TaskEnabled": true,
@@ -693,8 +712,10 @@
           },
           "ID": 122101,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Yunli_00_Ability.AbilityList.1.OnStart.6.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -711,5 +732,257 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Yunli": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "EnterBattleBlockPosture"
+      ],
+      "TickInterval": 1.0,
+      "OnBeAttack": [
+        {
+          "$type": "RPG.GameCore.SetAttachmentScale",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "AttachPoints": [
+            {
+              "Name": "Weapon"
+            }
+          ],
+          "Scale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "normalized": {
+              "x": 0.577350259,
+              "y": 0.577350259,
+              "z": 0.577350259,
+              "normalized": {
+                "x": 0.5773503,
+                "y": 0.5773503,
+                "z": 0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.HideEffectByCharacterType",
+          "CharacterType": "Monster",
+          "IsHide": true,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.TriggerEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yunli_00/Eff_Avatar_Yunli_00_Passive_Block_Hit_02.prefab",
+          "PositionOffset": {
+            "y": 1.0,
+            "z": 0.5,
+            "normalized": {
+              "y": 0.8944272,
+              "z": 0.4472136,
+              "normalized": {
+                "y": 0.89442724,
+                "z": 0.44721362,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.118034,
+            "sqrMagnitude": 1.25
+          },
+          "Scale": {
+            "x": -1.0,
+            "y": -1.0,
+            "z": -1.0,
+            "normalized": {
+              "x": -0.577350259,
+              "y": -0.577350259,
+              "z": -0.577350259,
+              "normalized": {
+                "x": -0.5773503,
+                "y": -0.5773503,
+                "z": -0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "IsNeedFadeIn": true,
+          "ParamEntityUsage": "LookAt",
+          "TowardMaxPitchAngle": 90.0,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.TriggerEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yunli_00/Eff_Avatar_Yunli_00_Weapon_03_Appear.prefab",
+          "Scale": {
+            "x": -1.0,
+            "y": -1.0,
+            "z": -1.0,
+            "normalized": {
+              "x": -0.577350259,
+              "y": -0.577350259,
+              "z": -0.577350259,
+              "normalized": {
+                "x": -0.5773503,
+                "y": -0.5773503,
+                "z": -0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "IsNeedFadeIn": true,
+          "ParamEntityUsage": "LookAt",
+          "TowardMaxPitchAngle": 90.0,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RadialBlurEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "Active": true,
+          "Duration": 0.05,
+          "BlurX": 0.5,
+          "BlurY": 0.4,
+          "BlurRadius": 1.0,
+          "Iteration": 4,
+          "BlurStart": 0.005,
+          "BlurFeather": 0.01,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.AdventureTriggerAnimStateWithMove",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AdvLocalPlayer"
+          },
+          "AnimLogicState": "OnHit",
+          "AnimStateName": "Block_H2",
+          "MovingRangeList": [
+            {
+              "NormalizedTimeStart": {
+                "FixedValue": {
+                  "RawValue": 4294967,
+                  "Value": 0.0
+                }
+              },
+              "NormalizedTimeEnd": {
+                "FixedValue": {
+                  "RawValue": 214748365,
+                  "Value": 0.05
+                }
+              },
+              "DefaultMoveDistance": {
+                "FixedValue": {
+                  "RawValue": -8589934592,
+                  "Value": -2.0
+                }
+              },
+              "OnlyMoveForward": true,
+              "MaxSpeed": {
+                "FixedValue": {
+                  "RawValue": 1503238553600,
+                  "Value": 350.0
+                }
+              },
+              "SteerNormalizedTimeStart": {
+                "FixedValue": {
+                  "RawValue": 42949673,
+                  "Value": 0.01
+                }
+              },
+              "SteerNormalizedTimeEnd": {
+                "FixedValue": {
+                  "RawValue": 128849019,
+                  "Value": 0.03
+                }
+              },
+              "MaxSteerSpeed": {}
+            }
+          ],
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.TriggerEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yunli_00/Eff_Avatar_Yunli_00_Passive_Block_Hit_03.prefab",
+          "Scale": {
+            "x": -1.0,
+            "y": -1.0,
+            "z": -1.0,
+            "normalized": {
+              "x": -0.577350259,
+              "y": -0.577350259,
+              "z": -0.577350259,
+              "normalized": {
+                "x": -0.5773503,
+                "y": -0.5773503,
+                "z": -0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "IsNeedFadeIn": true,
+          "ParamEntityUsage": "LookAt",
+          "TowardMaxPitchAngle": 90.0,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

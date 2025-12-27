@@ -14,18 +14,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 189842798638268416
+            "FixedValue": {
+              "RawValue": 189842798638268416,
+              "Value": 44201221.01
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -69,13 +72,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 81604378624
+                "FixedValue": {
+                  "RawValue": 81604378624,
+                  "Value": 19.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }

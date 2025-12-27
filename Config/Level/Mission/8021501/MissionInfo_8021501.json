@@ -135,6 +135,7 @@
       "TakeParamIntList": [
         802150103
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -164,7 +165,9 @@
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "IsShowProgress": true,
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150105,
@@ -289,6 +292,7 @@
       "TakeParamIntList": [
         802150107
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -318,7 +322,9 @@
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "IsShowProgress": true,
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150109,
@@ -443,6 +449,7 @@
       "TakeParamIntList": [
         802150111
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -472,7 +479,9 @@
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "IsShowProgress": true,
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150113,
@@ -545,6 +554,8 @@
       "TakeParamIntList": [
         802150107
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -565,7 +576,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 284,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150116,
@@ -577,6 +590,8 @@
       "TakeParamIntList": [
         802150107
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -597,7 +612,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 284,
-      "WayPointEntityID": 300002
+      "WayPointEntityID": 300002,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150117,
@@ -609,6 +626,8 @@
       "TakeParamIntList": [
         802150107
       ],
+      "TakePriority": 3,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -629,7 +648,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 289,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150118,
@@ -641,6 +662,7 @@
       "TakeParamIntList": [
         802150107
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -655,7 +677,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150119,
@@ -690,6 +714,8 @@
       "TakeParamIntList": [
         802150103
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -710,7 +736,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 287,
-      "WayPointEntityID": 300002
+      "WayPointEntityID": 300002,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150121,
@@ -722,6 +750,8 @@
       "TakeParamIntList": [
         802150103
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -742,7 +772,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 287,
-      "WayPointEntityID": 300003
+      "WayPointEntityID": 300003,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150122,
@@ -754,6 +786,8 @@
       "TakeParamIntList": [
         802150103
       ],
+      "TakePriority": 3,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -774,7 +808,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 287,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150123,
@@ -786,6 +822,7 @@
       "TakeParamIntList": [
         802150103
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -800,7 +837,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150124,
@@ -837,6 +876,8 @@
       "TakeParamIntList": [
         802150111
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -857,7 +898,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 68,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150126,
@@ -869,6 +912,8 @@
       "TakeParamIntList": [
         802150111
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -889,7 +934,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 68,
-      "WayPointEntityID": 300002
+      "WayPointEntityID": 300002,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150127,
@@ -901,6 +948,8 @@
       "TakeParamIntList": [
         802150111
       ],
+      "TakePriority": 3,
+      "TakeParamStrList": [],
       "MazePlaneID": 20332,
       "MazeFloorID": 20332001,
       "FinishType": "PropState",
@@ -921,7 +970,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20332001,
       "WayPointGroupID": 68,
-      "WayPointEntityID": 300003
+      "WayPointEntityID": 300003,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 802150128,

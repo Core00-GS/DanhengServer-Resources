@@ -1,43 +1,53 @@
 [
   {
     "IconPath": "SpriteOutput/labyrinthPlay/PhoneMessageNewIcon.png",
-    "LittleWheelFuncID": "Message"
+    "LittleWheelFuncID": "Message",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/labyrinthPlay/TeamBuffIcon.png",
-    "LittleWheelFuncID": "TeamBuff"
+    "LittleWheelFuncID": "TeamBuff",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/Rogue/Tab/GenreBuffIcon.png",
-    "LittleWheelFuncID": "RogueBuff"
+    "LittleWheelFuncID": "RogueBuff",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/PhoneAPPIcon/TeachIcon.png",
-    "LittleWheelFuncID": "Tutorial"
+    "LittleWheelFuncID": "Tutorial",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/PhoneAPPIcon/ChatIcon.png",
-    "LittleWheelFuncID": "FriendChat"
+    "LittleWheelFuncID": "FriendChat",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconAtlas.png",
-    "LittleWheelFuncID": "SpiritAtlas"
+    "LittleWheelFuncID": "SpiritAtlas",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/PhoneAPPIcon/TeamIcon.png",
-    "LittleWheelFuncID": "SpiritTeamEdit"
+    "LittleWheelFuncID": "SpiritTeamEdit",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/TabIcon/Activity/AetherDivideIconMonster.png",
-    "LittleWheelFuncID": "SpiritDetail"
+    "LittleWheelFuncID": "SpiritDetail",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/Rogue/Tab/GenreBuffIcon.png",
-    "LittleWheelFuncID": "RogueDLCBuff"
+    "LittleWheelFuncID": "RogueDLCBuff",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/Rogue/Tab/MissionTreeOverIcon.png",
-    "LittleWheelFuncID": "RogueDLCDimension"
+    "LittleWheelFuncID": "RogueDLCDimension",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/UI/StoryLine/BtnStoryLineOutline.png",
@@ -46,10 +56,22 @@
   },
   {
     "IconPath": "SpriteOutput/Rogue/Tab/IconRogueMagicBagInventory.png",
-    "LittleWheelFuncID": "RogueMagicInventory"
+    "LittleWheelFuncID": "RogueMagicInventory",
+    "Type": "Icon"
   },
   {
     "IconPath": "SpriteOutput/PhoneAPPIcon/RougeGuideIcon.png",
-    "LittleWheelFuncID": "RogueTournBuildRef"
+    "LittleWheelFuncID": "RogueTournBuildRef",
+    "Type": "Icon"
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/ShopIcon.png",
+    "LittleWheelFuncID": "Shop",
+    "Type": "Icon"
+  },
+  {
+    "IconPath": "SpriteOutput/PhoneAPPIcon/FateActivityIcon.png",
+    "LittleWheelFuncID": "FateSupportPreview",
+    "Type": "Icon"
   }
 ]

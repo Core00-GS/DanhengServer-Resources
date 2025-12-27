@@ -48,13 +48,15 @@
                 },
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 274877906944
+                    "FixedValue": {
+                      "RawValue": 274877906944,
+                      "Value": 64.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288515958603776
+                    "FixedValue": {
+                      "RawValue": 1288515958603776,
+                      "Value": 300006.0
                     }
                   }
                 }
@@ -62,6 +64,7 @@
               "Execute": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -97,13 +100,15 @@
                 },
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 274877906944
+                    "FixedValue": {
+                      "RawValue": 274877906944,
+                      "Value": 64.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288515958603776
+                    "FixedValue": {
+                      "RawValue": 1288515958603776,
+                      "Value": 300006.0
                     }
                   }
                 }
@@ -112,6 +117,7 @@
               "Execute": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -145,13 +151,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 274877906944
+                "FixedValue": {
+                  "RawValue": 274877906944,
+                  "Value": 64.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }

@@ -73,7 +73,12 @@
   "ConflictWhiteList": [
     601
   ],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Crowd",
+      "TagHash": -581694062
+    }
+  ],
   "AnchorList": [
     {
       "Name": "Anchor1",
@@ -110,7 +115,8 @@
       "RotX": 9.999994,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor5",
       "RotY": 45.0,
@@ -132,7 +138,8 @@
       "RotZ": -1e-06,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor7",
       "RotY": 139.3882,
@@ -182,8 +189,7 @@
           },
           "magnitude": 0.3,
           "sqrMagnitude": 0.09
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -200,17 +206,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713941,
         "Hash64": 9043410032120036605
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -266,8 +272,7 @@
           },
           "magnitude": 0.3,
           "sqrMagnitude": 0.09
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -284,17 +289,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713941,
         "Hash64": 9043410032120036605
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -352,13 +357,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true,
-        "TargetList": []
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -403,8 +408,12 @@
       "OverrideSeriesID": 230701,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -448,8 +457,12 @@
       "OverrideSeriesID": 230801,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -496,8 +509,12 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -543,8 +560,12 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -582,8 +603,12 @@
       "DefaultIdleFreeStyleMotionID": 900090000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -621,8 +646,12 @@
       "DefaultIdleFreeStyleMotionID": 900090266,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -658,8 +687,12 @@
       "DefaultIdleFreeStyleMotionID": 380020900,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -1314,6 +1347,9 @@
     }
   ],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

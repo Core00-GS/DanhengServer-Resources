@@ -17,13 +17,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 64424509440
+                "FixedValue": {
+                  "RawValue": 64424509440,
+                  "Value": 15.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }
@@ -159,8 +161,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -185,8 +188,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -203,13 +207,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 47244640256
+                "FixedValue": {
+                  "RawValue": 47244640256,
+                  "Value": 11.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -220,8 +226,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "MaxAdvencePerTick": -1.0,

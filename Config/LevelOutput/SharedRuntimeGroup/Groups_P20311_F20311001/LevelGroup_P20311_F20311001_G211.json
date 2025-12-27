@@ -14,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Connection",
+      "TagHash": -295833477
+    }
+  ],
   "AnchorList": [
     {
       "Name": "HardSide_Back",
@@ -27,7 +32,8 @@
     {
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "H_Go_E",
       "RotY": 269.9999,
@@ -40,7 +46,8 @@
       "RotX": 14.65004,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "H_Go_S",
       "RotY": 259.0898,
@@ -142,20 +149,23 @@
       "CustomTriggerMapV2": {
         "InteractTrigger": {
           "Radius": 3.0,
-          "PointList": [],
           "Server": true
         }
       },
+      "StateConfigs": [],
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -181,5 +191,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

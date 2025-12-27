@@ -272,7 +272,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 4,
@@ -513,7 +533,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 2,
@@ -725,7 +765,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 5,
@@ -1120,7 +1180,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 3,
@@ -1521,7 +1601,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 6,
@@ -2007,7 +2107,27 @@
       ],
       "MapLayerList": [
         2
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ScaleInCanvas": 1.0,
@@ -6155,7 +6275,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/MiniMap_Chap00_INT_BarCarriage_Area_0_Background_L1.png",
@@ -6177,5 +6317,25 @@
     1,
     2
   ],
-  "Rotation": -90.0
+  "Rotation": -90.0,
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

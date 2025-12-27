@@ -8,6 +8,7 @@
           "SubmissionID": 802112202,
           "MissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
             "isLocal": true,
             "isRange": true,
             "ValidValueParamList": [
@@ -51,6 +52,7 @@
           "SubmissionID": 802112202,
           "MissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
             "isLocal": true,
             "isRange": true,
             "ValidValueParamList": [
@@ -68,6 +70,7 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

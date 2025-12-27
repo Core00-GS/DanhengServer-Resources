@@ -36,8 +36,9 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "TriggerConfig": {
@@ -46,8 +47,9 @@
         "TriggerName": "AddDebuffOnEnemyTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 38654705664
+          "FixedValue": {
+            "RawValue": 38654705664,
+            "Value": 9.0
           }
         },
         "UseVerticalBound": true,
@@ -66,6 +68,14 @@
               "Alias": "TaskActionTarget"
             },
             "ID": 100401,
+            "DynamicValues": {
+              "#ADF_5": {
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0
+                }
+              }
+            },
             "TaskEnabled": true,
             "IsClientOnly": true
           }

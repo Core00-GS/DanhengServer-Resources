@@ -31,6 +31,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 8003202,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "ValidValueParamList": [
                 1,
                 2,
@@ -64,6 +65,7 @@
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 8003202,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "ValidValueParamList": [
                     1,
                     2,
@@ -97,6 +99,7 @@
                     "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                     "MainMissionID": 8003202,
                     "MissionCustomValue": {
+                      "Name": "OldValue_0",
                       "ValidValueParamList": [
                         1,
                         2,
@@ -130,6 +133,7 @@
                         "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                         "MainMissionID": 8003202,
                         "MissionCustomValue": {
+                          "Name": "OldValue_0",
                           "ValidValueParamList": [
                             1,
                             2,

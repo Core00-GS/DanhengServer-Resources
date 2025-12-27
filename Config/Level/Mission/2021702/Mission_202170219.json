@@ -8,6 +8,7 @@
           "SubmissionID": 202170219,
           "MissionCustomValue": {
             "Index": 2,
+            "Name": "OldValue_2",
             "isLocal": true,
             "ValidValueParamList": [
               0,
@@ -33,8 +34,9 @@
         {
           "$type": "RPG.GameCore.ShowReading",
           "BookID": {
-            "fixedValue": {
-              "RawValue": 818259989364736
+            "FixedValue": {
+              "RawValue": 818259989364736,
+              "Value": 190516.0
             }
           },
           "WaitForExit": true,
@@ -44,6 +46,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

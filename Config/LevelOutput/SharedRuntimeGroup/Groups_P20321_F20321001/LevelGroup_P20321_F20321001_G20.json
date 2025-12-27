@@ -30,7 +30,12 @@
   "IsHoyoGroup": true,
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Gameplay",
+      "TagHash": -141571921
+    }
+  ],
   "AnchorList": [
     {
       "Name": "Teleport_Destination_1",
@@ -137,8 +142,7 @@
         "Radius": 0.7,
         "DimX": 0.8,
         "DimY": 1.0,
-        "DimZ": 0.8,
-        "PointList": []
+        "DimZ": 0.8
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -150,12 +154,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -223,15 +228,13 @@
           "Radius": 1.0,
           "DimX": 1.0,
           "DimY": 1.0,
-          "DimZ": 1.0,
-          "PointList": []
+          "DimZ": 1.0
         },
         "Trigger_02": {
           "Radius": 1.0,
           "DimX": 1.0,
           "DimY": 1.0,
-          "DimZ": 1.0,
-          "PointList": []
+          "DimZ": 1.0
         }
       },
       "DialogueTriggerAngle": 120,
@@ -239,7 +242,11 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideTriggerValidGuestConfig": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -247,6 +254,7 @@
         "TargetList": []
       },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -314,15 +322,13 @@
           "Radius": 1.0,
           "DimX": 1.0,
           "DimY": 1.0,
-          "DimZ": 1.0,
-          "PointList": []
+          "DimZ": 1.0
         },
         "Trigger_02": {
           "Radius": 1.0,
           "DimX": 1.0,
           "DimY": 1.0,
-          "DimZ": 1.0,
-          "PointList": []
+          "DimZ": 1.0
         }
       },
       "DialogueTriggerAngle": 120,
@@ -330,13 +336,18 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideTriggerValidGuestConfig": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "FakePlayer": true
       },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -406,12 +417,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -481,12 +493,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -536,8 +549,7 @@
         "Radius": 30.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -546,8 +558,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "InteractTrigger": {
-          "Radius": 0.4,
-          "PointList": []
+          "Radius": 0.4
         }
       },
       "DialogueTriggerAngle": 120,
@@ -555,7 +566,11 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideTriggerValidGuestConfig": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -563,6 +578,7 @@
         "TargetList": []
       },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -640,12 +656,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -699,12 +716,13 @@
         "UseOverridePos": true
       },
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -762,12 +780,13 @@
         "UseOverridePos": true
       },
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -831,8 +850,7 @@
         "Radius": 1.1,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -844,12 +862,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -902,32 +921,28 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 6.0,
-        "PointList": []
+        "DimZ": 6.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
-        "MissionTrigger": {
-          "PointList": []
-        },
-        "InteractTrigger": {
-          "PointList": []
-        }
+        "MissionTrigger": {},
+        "InteractTrigger": {}
       },
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -980,32 +995,28 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 6.0,
-        "PointList": []
+        "DimZ": 6.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
-        "MissionTrigger": {
-          "PointList": []
-        },
-        "InteractTrigger": {
-          "PointList": []
-        }
+        "MissionTrigger": {},
+        "InteractTrigger": {}
       },
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1052,8 +1063,7 @@
         "Radius": 1.0,
         "DimX": 8.0,
         "DimY": 3.0,
-        "DimZ": 4.0,
-        "PointList": []
+        "DimZ": 4.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -1073,5 +1083,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

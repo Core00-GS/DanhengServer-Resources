@@ -6,8 +6,8 @@
       103,
       104
     ],
-    "RaidCollectionType": "Penacony",
     "RaidCollectionTabID": 1,
+    "RaidCollectionType": "Penacony",
     "RaidCollectionTabName": {
       "Hash": 872856083,
       "Hash64": 10790204624722468711
@@ -20,8 +20,8 @@
       107,
       108
     ],
-    "RaidCollectionType": "Penacony",
     "RaidCollectionTabID": 2,
+    "RaidCollectionType": "Penacony",
     "RaidCollectionTabName": {
       "Hash": 872856080,
       "Hash64": 1167786252263574452
@@ -34,8 +34,8 @@
       203,
       204
     ],
-    "RaidCollectionType": "LuoFu",
     "RaidCollectionTabID": 3,
+    "RaidCollectionType": "LuoFu",
     "RaidCollectionTabName": {
       "Hash": 872856081,
       "Hash64": 17650694563260195309
@@ -48,8 +48,8 @@
       207,
       208
     ],
-    "RaidCollectionType": "LuoFu",
     "RaidCollectionTabID": 4,
+    "RaidCollectionType": "LuoFu",
     "RaidCollectionTabName": {
       "Hash": 872856078,
       "Hash64": 18378960470713923288
@@ -62,8 +62,8 @@
       303,
       304
     ],
-    "RaidCollectionType": "Amphoreus",
     "RaidCollectionTabID": 5,
+    "RaidCollectionType": "Amphoreus",
     "RaidCollectionTabName": {
       "Hash": 872856079,
       "Hash64": 14267468592612345252
@@ -76,8 +76,8 @@
       307,
       308
     ],
-    "RaidCollectionType": "Amphoreus",
     "RaidCollectionTabID": 6,
+    "RaidCollectionType": "Amphoreus",
     "RaidCollectionTabName": {
       "Hash": 872856076,
       "Hash64": 4720109847285912728

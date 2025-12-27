@@ -98,10 +98,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -188,15 +192,20 @@
         }
       },
       "StateConfigs": [],
+      "MappingInfoID": 10075,
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -298,10 +307,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -355,10 +368,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": 261,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -411,10 +428,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": 261,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

@@ -21,6 +21,7 @@
   "OwnerMainMissionID": 2011601,
   "ValueSource": {},
   "ConflictIDList": [
+    300601,
     176
   ],
   "StreamingTemplateType": "Standard",
@@ -38,7 +39,8 @@
       "RotX": 5.000001,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor2",
       "RotY": 333.583,
@@ -60,7 +62,8 @@
       "RotX": 5.000001,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor4",
       "RotY": 33.6375,
@@ -83,7 +86,8 @@
       "RotZ": -3e-06,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor6",
       "RotY": 48.58298,
@@ -97,7 +101,8 @@
       "RotZ": 4e-06,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor7",
       "RotY": 213.5829,
@@ -120,7 +125,8 @@
       "RotZ": -7e-06,
       "Usage": "Camera",
       "CustomParameter": {
-        "$type": "RPG.GameCore.LevelAnchorCameraParameter"
+        "$type": "RPG.GameCore.LevelAnchorCameraParameter",
+        "fov": 40.0
       },
       "Name": "Anchor9",
       "RotY": 48.58298,
@@ -156,12 +162,12 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Radius": 6.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -173,9 +179,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop1",
       "ID": 300001,
       "PosX": -58.56,
@@ -206,12 +219,12 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -223,9 +236,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "ID": 300002,
       "PosX": -58.26,
@@ -250,6 +270,8 @@
       ],
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 100010000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
       "Dialog": {
@@ -257,8 +279,14 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 10.0,
@@ -268,6 +296,11 @@
           "NeedFadeIn": true,
           "NeedFadeOut": true
         }
+      },
+      "ModelPresetConfig": {},
+      "TriggerValidGuest": {
+        "LocalPlayer": true,
+        "Teammember": true
       },
       "Name": "NPC1",
       "RotY": 286.4087,
@@ -286,10 +319,18 @@
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 311020000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 10.0,
@@ -299,6 +340,11 @@
           "NeedFadeIn": true,
           "NeedFadeOut": true
         }
+      },
+      "ModelPresetConfig": {},
+      "TriggerValidGuest": {
+        "LocalPlayer": true,
+        "Teammember": true
       },
       "Name": "NPC2",
       "RotY": 107.4063,
@@ -329,9 +375,14 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "RaidID": 4012301,
+      "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5
@@ -353,6 +404,7 @@
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 311020000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
       "Dialog": {
@@ -360,8 +412,13 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5
@@ -383,6 +440,7 @@
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 311020000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
       "Dialog": {
@@ -390,9 +448,14 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "RaidID": 4012201,
+      "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5
@@ -417,13 +480,31 @@
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 380020000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
-        "CaptureDistanceTolerance": 1.5
+        "CaptureDistanceTolerance": 1.5,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "ModelPresetConfig": {},
+      "TriggerValidGuest": {
+        "LocalPlayer": true,
+        "Teammember": true
       },
       "Name": "NPC6",
       "RotY": 253.2224,
@@ -435,5 +516,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

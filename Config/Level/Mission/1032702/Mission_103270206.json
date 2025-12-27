@@ -9,8 +9,9 @@
             "Value": "FCV_AdvBrd_Correct"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

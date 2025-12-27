@@ -10,13 +10,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 8589934592
+                "FixedValue": {
+                  "RawValue": 8589934592,
+                  "Value": 2.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }
@@ -90,13 +92,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 8589934592
+                "FixedValue": {
+                  "RawValue": 8589934592,
+                  "Value": 2.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }
@@ -108,8 +112,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -148,13 +153,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 47244640256
+                "FixedValue": {
+                  "RawValue": 47244640256,
+                  "Value": 11.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }
@@ -189,13 +196,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 8589934592
+                "FixedValue": {
+                  "RawValue": 8589934592,
+                  "Value": 2.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }

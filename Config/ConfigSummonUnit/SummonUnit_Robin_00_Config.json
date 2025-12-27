@@ -37,8 +37,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -74,8 +75,9 @@
         "TriggerName": "AttractNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 25769803776
+          "FixedValue": {
+            "RawValue": 25769803776,
+            "Value": 6.0
           }
         },
         "UseVerticalBound": true,
@@ -94,8 +96,9 @@
             },
             "ID": 130901,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": 2147483648000
+              "FixedValue": {
+                "RawValue": 2147483648000,
+                "Value": 500.0
               }
             },
             "TaskEnabled": true,
@@ -109,8 +112,9 @@
             },
             "ID": 130903,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": 2147483648000
+              "FixedValue": {
+                "RawValue": 2147483648000,
+                "Value": 500.0
               }
             },
             "TaskEnabled": true,
@@ -126,8 +130,9 @@
             },
             "ID": 130903,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": 6442450946
+              "FixedValue": {
+                "RawValue": 6442450946,
+                "Value": 1.5
               }
             },
             "TaskEnabled": true,
@@ -147,5 +152,6 @@
         "SkipFakeAvatar": true
       }
     ]
-  }
+  },
+  "DynamicValues": {}
 }

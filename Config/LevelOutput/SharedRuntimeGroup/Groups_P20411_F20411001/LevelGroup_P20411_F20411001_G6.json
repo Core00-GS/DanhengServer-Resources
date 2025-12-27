@@ -98,6 +98,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -115,6 +118,7 @@
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_BridgeAnimConfig_02.json",
             "ResetPlayerAnchorID": 2,
             "DetectColliderAttachPoint": "DetectColliderAttachPoint",
+            "EnableLoopRewindSnapRatio": 0.9,
             "BindSpecialControl": "DestructibleBridge",
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {
@@ -204,6 +208,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -221,6 +228,7 @@
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_BridgeAnimConfig_02.json",
             "ResetPlayerAnchorID": 1,
             "DetectColliderAttachPoint": "DetectColliderAttachPoint",
+            "EnableLoopRewindSnapRatio": 0.9,
             "BindSpecialControl": "DestructibleBridge",
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {
@@ -290,6 +298,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -350,6 +361,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -410,6 +424,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -470,6 +487,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -537,6 +557,9 @@
           "IconID": 327
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -603,6 +626,9 @@
           "IconID": 327
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,

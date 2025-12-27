@@ -1,8 +1,9 @@
 [
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueBossIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_BossIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
+    "MarkType": "None",
     "RoomType": "Boss",
     "RoomTypeName": {
       "Hash": 448036655,
@@ -11,8 +12,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueBossIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_BossIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueBossIcon.png",
     "MarkType": "Extra",
     "RoomType": "Boss",
     "RoomTypeName": {
@@ -22,8 +23,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueFoeIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
+    "MarkType": "None",
     "RoomType": "Battle",
     "RoomTypeName": {
       "Hash": 448036492,
@@ -32,8 +34,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueFoeIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeIcon.png",
     "MarkType": "ScepterUnitPuman",
     "RoomType": "Battle",
     "RoomTypeName": {
@@ -43,8 +45,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RoguePowerfulEnemyIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_PowerfulEnemyIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
+    "MarkType": "None",
     "RoomType": "Encounter",
     "RoomTypeName": {
       "Hash": 448036589,
@@ -53,8 +56,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RoguePowerfulEnemyIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_PowerfulEnemyIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
     "MarkType": "Double",
     "RoomType": "Encounter",
     "RoomTypeName": {
@@ -64,8 +67,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RoguePowerfulEnemyIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_PowerfulEnemyIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRoguePowerfulEnemyIcon.png",
     "MarkType": "Choice",
     "RoomType": "Encounter",
     "RoomTypeName": {
@@ -75,8 +78,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueRandomIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RandomIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
+    "MarkType": "None",
     "RoomType": "Event",
     "RoomTypeName": {
       "Hash": 448036690,
@@ -85,8 +89,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueRandomIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RandomIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
     "MarkType": "Double",
     "RoomType": "Event",
     "RoomTypeName": {
@@ -96,8 +100,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueRandomIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RandomIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueRandomIcon.png",
     "MarkType": "Choice",
     "RoomType": "Event",
     "RoomTypeName": {
@@ -107,8 +111,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueDlcGiftIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RewardIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
+    "MarkType": "None",
     "RoomType": "Reward",
     "RoomTypeName": {
       "Hash": 448036787,
@@ -117,8 +122,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueDlcGiftIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RewardIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
     "MarkType": "Double",
     "RoomType": "Reward",
     "RoomTypeName": {
@@ -128,8 +133,8 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueDlcGiftIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_RewardIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcRewardIcon.png",
     "MarkType": "Choice",
     "RoomType": "Reward",
     "RoomTypeName": {
@@ -139,8 +144,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueMoneyRoomIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueMoneyRoom.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_GoldIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueMoneyRoom.png",
+    "MarkType": "None",
     "RoomType": "Wealth",
     "RoomTypeName": {
       "Hash": 448036624,
@@ -149,8 +155,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueDealIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDealIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_DealIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDealIcon.png",
+    "MarkType": "None",
     "RoomType": "Shop",
     "RoomTypeName": {
       "Hash": 448036721,
@@ -159,8 +166,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueIntensifyIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueIntensifyIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_IntensifyIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueIntensifyIcon.png",
+    "MarkType": "None",
     "RoomType": "Reforge",
     "RoomTypeName": {
       "Hash": 448036294,
@@ -169,8 +177,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueDlcGameIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcGameIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_AdvIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueDlcGameIcon.png",
+    "MarkType": "None",
     "RoomType": "Adventure",
     "RoomTypeName": {
       "Hash": 448036391,
@@ -179,8 +188,9 @@
   },
   {
     "ToastIcon": "SpriteOutput/Rogue/Map/RogueFoeEliteIcon.png",
-    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeEliteIcon.png",
     "RoomIconEffect": "Stages/OriginalResPos/InteractiveProp/Rogue/Rogue_GameplayProp_Portal_01/Eff_Rogue_MAZ_NextRoom_FoeEliteIcon.prefab",
+    "RoomTypeIcon": "SpriteOutput/Rogue/SceneNavi/SceneNaviRogueFoeEliteIcon.png",
+    "MarkType": "None",
     "RoomType": "Elite",
     "RoomTypeName": {
       "Hash": 1734823355,

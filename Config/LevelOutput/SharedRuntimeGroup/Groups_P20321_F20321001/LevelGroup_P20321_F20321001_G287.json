@@ -1,10 +1,12 @@
 {
   "GroupName": "crowd",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G287",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Crowd",
         "Operation": "GreaterEqual",
         "Value": 5
@@ -23,7 +25,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Crowd",
+      "TagHash": -581694062
+    }
+  ],
   "AnchorList": [
     {
       "Name": "Anchor1",
@@ -129,7 +136,6 @@
           "FeatureID": "Tourist_Low_ChildGirl",
           "UniqueName": "287_1_03",
           "LookAtMode": "LookAnchor",
-          "LookAtTarget": "287_1_04",
           "LookAtAnchor": {
             "AreaName": "LevelArea_P20321_F20321001_G287",
             "AnchorName": "Anchor1"
@@ -156,7 +162,6 @@
           "FeatureID": "Tourist_High_OldLady",
           "UniqueName": "287_1_04",
           "LookAtMode": "LookAnchor",
-          "LookAtTarget": "287_1_03",
           "LookAtAnchor": {
             "AreaName": "LevelArea_P20321_F20321001_G287",
             "AnchorName": "Anchor1"
@@ -224,6 +229,9 @@
     }
   ],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

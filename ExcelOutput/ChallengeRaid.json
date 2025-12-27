@@ -7,6 +7,7 @@
       8003020,
       1022020
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5001,
     "ScoringGroupID": 5001
   },
@@ -16,6 +17,7 @@
       1003010,
       1003010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5002,
     "ScoringGroupID": 5002
   },
@@ -25,6 +27,7 @@
       1013020,
       1013010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5003,
     "ScoringGroupID": 5003
   },
@@ -35,6 +38,7 @@
       1014010,
       1012010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5004,
     "ScoringGroupID": 5004
   },
@@ -44,6 +48,7 @@
       8013010,
       8013010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5005,
     "ScoringGroupID": 5005
   },
@@ -54,6 +59,7 @@
       1004010,
       1022010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5006,
     "ScoringGroupID": 5006
   },
@@ -63,6 +69,7 @@
       8003010,
       1023010
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5007,
     "ScoringGroupID": 5007
   },
@@ -72,6 +79,7 @@
       8003030,
       8003030
     ],
+    "ScheduleDataID": 0,
     "ChallengeID": 5008,
     "ScoringGroupID": 5008
   }

@@ -5,7 +5,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -27,13 +29,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288524548538368
+                "FixedValue": {
+                  "RawValue": 1288524548538368,
+                  "Value": 300008.0
                 }
               }
             }
@@ -73,13 +77,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "MaxRange": 10,
@@ -91,13 +97,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "MaxRange": 10,
@@ -109,13 +117,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "MaxRange": 10,
@@ -127,13 +137,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288515958603776
+            "FixedValue": {
+              "RawValue": 1288515958603776,
+              "Value": 300006.0
             }
           },
           "MaxRange": 10,
@@ -145,13 +157,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288520253571072
+            "FixedValue": {
+              "RawValue": 1288520253571072,
+              "Value": 300007.0
             }
           },
           "MaxRange": 10,
@@ -185,13 +199,15 @@
             "MultiPropID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288494483767296
+                  "FixedValue": {
+                    "RawValue": 1288494483767296,
+                    "Value": 300001.0
                   }
                 }
               }
@@ -209,13 +225,15 @@
             "MultiPropID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -233,13 +251,15 @@
             "MultiPropID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288507368669184
+                  "FixedValue": {
+                    "RawValue": 1288507368669184,
+                    "Value": 300004.0
                   }
                 }
               }
@@ -257,13 +277,15 @@
             "MultiPropID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288515958603776
+                  "FixedValue": {
+                    "RawValue": 1288515958603776,
+                    "Value": 300006.0
                   }
                 }
               }
@@ -281,13 +303,15 @@
             "MultiPropID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288515958603776
+                  "FixedValue": {
+                    "RawValue": 1288515958603776,
+                    "Value": 300006.0
                   }
                 }
               }
@@ -316,13 +340,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288537433440256
+                  "FixedValue": {
+                    "RawValue": 1288537433440256,
+                    "Value": 300011.0
                   }
                 }
               }
@@ -339,13 +365,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288537433440256
+                  "FixedValue": {
+                    "RawValue": 1288537433440256,
+                    "Value": 300011.0
                   }
                 }
               }
@@ -363,13 +391,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288537433440256
+                  "FixedValue": {
+                    "RawValue": 1288537433440256,
+                    "Value": 300011.0
                   }
                 }
               }
@@ -393,25 +423,29 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "OnNameBoard": true,
@@ -444,6 +478,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -493,13 +528,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288533138472960
+                  "FixedValue": {
+                    "RawValue": 1288533138472960,
+                    "Value": 300010.0
                   }
                 }
               }
@@ -516,13 +553,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288533138472960
+                  "FixedValue": {
+                    "RawValue": 1288533138472960,
+                    "Value": 300010.0
                   }
                 }
               }
@@ -540,13 +579,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288533138472960
+                  "FixedValue": {
+                    "RawValue": 1288533138472960,
+                    "Value": 300010.0
                   }
                 }
               }
@@ -570,13 +611,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -611,6 +654,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -645,13 +689,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288528843505664
+                  "FixedValue": {
+                    "RawValue": 1288528843505664,
+                    "Value": 300009.0
                   }
                 }
               }
@@ -668,13 +714,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288528843505664
+                  "FixedValue": {
+                    "RawValue": 1288528843505664,
+                    "Value": 300009.0
                   }
                 }
               }
@@ -692,13 +740,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288528843505664
+                  "FixedValue": {
+                    "RawValue": 1288528843505664,
+                    "Value": 300009.0
                   }
                 }
               }
@@ -714,13 +764,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }
@@ -768,13 +820,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288515958603776
+                  "FixedValue": {
+                    "RawValue": 1288515958603776,
+                    "Value": 300006.0
                   }
                 }
               }
@@ -791,13 +845,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288515958603776
+                  "FixedValue": {
+                    "RawValue": 1288515958603776,
+                    "Value": 300006.0
                   }
                 }
               }
@@ -815,13 +871,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288515958603776
+                  "FixedValue": {
+                    "RawValue": 1288515958603776,
+                    "Value": 300006.0
                   }
                 }
               }
@@ -845,13 +903,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288515958603776
+                "FixedValue": {
+                  "RawValue": 1288515958603776,
+                  "Value": 300006.0
                 }
               }
             }
@@ -886,6 +946,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -920,13 +981,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288541728407552
+                  "FixedValue": {
+                    "RawValue": 1288541728407552,
+                    "Value": 300012.0
                   }
                 }
               }
@@ -943,13 +1006,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288541728407552
+                  "FixedValue": {
+                    "RawValue": 1288541728407552,
+                    "Value": 300012.0
                   }
                 }
               }
@@ -967,13 +1032,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 420906795008
+                  "FixedValue": {
+                    "RawValue": 420906795008,
+                    "Value": 98.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288541728407552
+                  "FixedValue": {
+                    "RawValue": 1288541728407552,
+                    "Value": 300012.0
                   }
                 }
               }
@@ -997,13 +1064,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 420906795008
+                "FixedValue": {
+                  "RawValue": 420906795008,
+                  "Value": 98.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288520253571072
+                "FixedValue": {
+                  "RawValue": 1288520253571072,
+                  "Value": 300007.0
                 }
               }
             }
@@ -1038,6 +1107,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -1074,8 +1144,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -1118,8 +1189,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -1193,13 +1265,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 420906795008
+            "FixedValue": {
+              "RawValue": 420906795008,
+              "Value": 98.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "DestroyList": [],

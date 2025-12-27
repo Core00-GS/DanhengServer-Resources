@@ -1,9 +1,10 @@
 {
-  "GroupName": "Default",
+  "GroupName": "DefaultData",
   "AreaAnchorName": "LevelArea_P30201_F30205001_G1",
   "SaveType": "Permanent",
   "LoadSide": "Server",
   "LoadOnInitial": true,
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -44,6 +45,7 @@
       "PropID": 105,
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -54,9 +56,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop1",
       "RotY": 90.0,
       "ID": 300001,
@@ -89,6 +98,7 @@
       "PropID": 105,
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -99,9 +109,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "RotY": 314.9539,
       "ID": 300002,
@@ -119,16 +136,24 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "PropsGroupID": 2,
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
-      "PosX": 297.01,
-      "PosZ": 519.5
+      "PosX": 11.01,
+      "PosY": -2.18,
+      "PosZ": -11.5
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

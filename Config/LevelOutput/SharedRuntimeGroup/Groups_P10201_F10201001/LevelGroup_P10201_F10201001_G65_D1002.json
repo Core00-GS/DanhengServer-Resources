@@ -117,7 +117,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -139,7 +141,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -161,7 +165,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -184,7 +190,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -207,7 +215,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -230,7 +240,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -253,7 +265,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -276,7 +290,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -299,7 +315,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -322,7 +340,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -345,7 +365,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -370,7 +392,9 @@
       "TalkDialogGroupIDList": [],
       "BornType": "Permanent",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -1817,172 +1841,6 @@
       "MemberList": [
         {
           "Identity": "XianZhou_Folk",
-          "FeatureID": "XianZhou_Folk_VidyadharaLady",
-          "DefaultState": "Praying01Loop",
-          "UniqueName": "Crowd41_01",
-          "LookAtMode": "LookCrowd",
-          "LookAtTarget": "Crowd41_02",
-          "LookAtPosition": {},
-          "LocalPosition": {
-            "x": -0.73,
-            "z": 1.85,
-            "normalized": {
-              "x": -0.367052048,
-              "z": 0.9302004,
-              "magnitude": 1.0,
-              "sqrMagnitude": 1.0
-            },
-            "magnitude": 1.98881876,
-            "sqrMagnitude": 3.95540023
-          },
-          "LocalRotationY": 115.4538,
-          "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020293
-        },
-        {
-          "Identity": "XianZhou_Folk",
-          "FeatureID": "XianZhou_Folk_VidyadharaMale",
-          "DefaultState": "SpeechLoop",
-          "UniqueName": "Crowd41_02",
-          "LookAtMode": "LookCrowd",
-          "LookAtTarget": "Crowd41_01",
-          "LookAtPosition": {},
-          "LocalPosition": {
-            "x": 0.631001,
-            "z": 1.826,
-            "normalized": {
-              "x": 0.326613218,
-              "z": 0.9451581,
-              "magnitude": 1.0,
-              "sqrMagnitude": 1.00000012
-            },
-            "magnitude": 1.93195188,
-            "sqrMagnitude": 3.732438
-          },
-          "LocalRotationY": 245.05,
-          "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295
-        },
-        {
-          "Identity": "XianZhou_Folk",
-          "FeatureID": "XianZhou_Folk_XianZhouMale",
-          "DefaultState": "Sit01",
-          "UniqueName": "Crowd41_03",
-          "LookAtMode": "LookCrowd",
-          "LookAtTarget": "Crowd41_02",
-          "LookAtPosition": {},
-          "LocalPosition": {
-            "x": -2.209999,
-            "z": 1.469999,
-            "normalized": {
-              "x": -0.8326295,
-              "z": 0.5538303,
-              "normalized": {
-                "x": -0.832629561,
-                "z": 0.5538304,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.00000012
-              },
-              "magnitude": 0.99999994,
-              "sqrMagnitude": 0.9999999
-            },
-            "magnitude": 2.65424061,
-            "sqrMagnitude": 7.0449934
-          },
-          "LocalRotationY": 94.59527,
-          "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010298
-        },
-        {
-          "Identity": "XianZhou_Folk",
-          "FeatureID": "XianZhou_Folk_XianZhouMale",
-          "DefaultState": "Sit01",
-          "UniqueName": "Crowd41_04",
-          "LookAtMode": "LookCrowd",
-          "LookAtTarget": "Crowd41_02",
-          "LookAtPosition": {},
-          "LocalPosition": {
-            "x": 1.806,
-            "z": 0.066,
-            "normalized": {
-              "x": 0.9993329,
-              "z": 0.0365204737,
-              "magnitude": 1.0,
-              "sqrMagnitude": 1.0
-            },
-            "magnitude": 1.80720556,
-            "sqrMagnitude": 3.265992
-          },
-          "LocalRotationY": 266.44,
-          "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010298
-        },
-        {
-          "Identity": "XianZhou_Folk",
-          "FeatureID": "XianZhou_Folk_FoxianLady",
-          "DefaultState": "HoldArm01Loop",
-          "UniqueName": "Crowd41_05",
-          "LookAtMode": "LookCrowd",
-          "LookAtTarget": "Crowd41_01",
-          "LookAtPosition": {},
-          "LocalPosition": {
-            "x": -1.68,
-            "z": -1.27,
-            "normalized": {
-              "x": -0.797715,
-              "z": -0.603034556,
-              "normalized": {
-                "x": -0.797715068,
-                "z": -0.6030346,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 0.99999994,
-              "sqrMagnitude": 0.99999994
-            },
-            "magnitude": 2.10601521,
-            "sqrMagnitude": 4.4353
-          },
-          "LocalRotationY": 32.29577,
-          "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020231
-        }
-      ],
-      "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10201001/MunicipalChatConfig_F10201001_0043.json",
-      "NewMunicipalChatCrowdInfos": [
-        {
-          "UniqueName": "1",
-          "CrowdUniqueName": "Crowd41_01"
-        },
-        {
-          "UniqueName": "2",
-          "CrowdUniqueName": "Crowd41_02"
-        }
-      ],
-      "TriggerRudius": 5.0,
-      "CenterPos": {
-        "x": -0.4366,
-        "z": 0.7884,
-        "normalized": {
-          "x": -0.4844554,
-          "z": 0.874815941,
-          "magnitude": 1.0,
-          "sqrMagnitude": 1.0
-        },
-        "magnitude": 0.9012181,
-        "sqrMagnitude": 0.8121941
-      },
-      "LoadPriority": "Middle",
-      "Name": "Crowd41",
-      "ID": 23,
-      "PosX": 43.69281,
-      "PosY": 4.959468,
-      "PosZ": -26.13
-    },
-    {
-      "MemberList": [
-        {
-          "Identity": "XianZhou_Folk",
           "FeatureID": "XianZhou_Folk_XianZhouChildBoy",
           "DefaultState": "Akimbo01Loop",
           "UniqueName": "Crowd42_01",
@@ -3096,19 +2954,7 @@
           "LookAtAnchor": {},
           "LookAtPosition": {},
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010295
         },
         {
           "Identity": "XianZhou_Sky-Faring",
@@ -3134,19 +2980,7 @@
           },
           "LocalRotationY": 343.0495,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020222,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020222
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10201001/MunicipalChatConfig_F10201001_0041.json",
@@ -3163,17 +2997,17 @@
       "TriggerRudius": 5.0,
       "CenterPos": {
         "x": 0.450001,
-        "y": 0.005586,
-        "z": -0.060001,
+        "y": 0.005587,
+        "z": -0.060002,
         "normalized": {
-          "x": 0.991152644,
-          "y": 0.0123034818,
-          "z": -0.1321556,
+          "x": 0.991152346,
+          "y": 0.01230568,
+          "z": -0.132157758,
           "magnitude": 1.0,
-          "sqrMagnitude": 1.0
+          "sqrMagnitude": 1.00000012
         },
-        "magnitude": 0.454017848,
-        "sqrMagnitude": 0.206132218
+        "magnitude": 0.454018,
+        "sqrMagnitude": 0.206132352
       },
       "LoadPriority": "Middle",
       "Name": "Crowd56",

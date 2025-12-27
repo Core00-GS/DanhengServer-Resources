@@ -28,7 +28,9 @@
           "Predicate": {
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 4040223,
-            "MissionCustomValue": {},
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            },
             "EquationType": "Equal",
             "TargetValue": 1,
             "TaskEnabled": true,
@@ -42,20 +44,23 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 489626271744
+                    "FixedValue": {
+                      "RawValue": 489626271744,
+                      "Value": 114.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288494483767296
+                    "FixedValue": {
+                      "RawValue": 1288494483767296,
+                      "Value": 300001.0
                     }
                   }
                 }
               },
               "InteractID": {
-                "fixedValue": {
-                  "RawValue": 515911471595520
+                "FixedValue": {
+                  "RawValue": 515911471595520,
+                  "Value": 120120.0
                 }
               },
               "TaskEnabled": true,

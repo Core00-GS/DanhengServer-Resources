@@ -10,13 +10,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 562640715776
+                "FixedValue": {
+                  "RawValue": 562640715776,
+                  "Value": 131.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }
@@ -42,6 +44,7 @@
               "SubmissionID": 800210402,
               "MissionCustomValue": {
                 "Index": 1,
+                "Name": "OldValue_1",
                 "ValidValueParamList": [
                   0,
                   1
@@ -87,6 +90,7 @@
               "SubmissionID": 800210402,
               "MissionCustomValue": {
                 "Index": 1,
+                "Name": "OldValue_1",
                 "isLocal": true,
                 "ValidValueParamList": [
                   0,
@@ -154,6 +158,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

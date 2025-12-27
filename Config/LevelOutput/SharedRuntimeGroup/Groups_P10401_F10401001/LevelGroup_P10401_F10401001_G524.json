@@ -14,8 +14,8 @@
   "ConflictWhiteList": [],
   "TagContainer": [
     {
-      "Tag": "Group.Level.Gameplay",
-      "TagHash": -141571921
+      "Tag": "Group.Level.SpecialGameplay",
+      "TagHash": 718389408
     }
   ],
   "AnchorList": [],
@@ -52,8 +52,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 4.0,
-          "PointList": []
+          "Radius": 4.0
         }
       },
       "StateConfigs": [],
@@ -62,10 +61,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -96,8 +99,7 @@
         "Radius": 2.5,
         "DimX": 2.5,
         "DimY": 2.5,
-        "DimZ": 2.5,
-        "PointList": []
+        "DimZ": 2.5
       },
       "StaticNPC": true,
       "DialogueTriggerAngle": 120,
@@ -119,7 +121,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -160,7 +164,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

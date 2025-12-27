@@ -3,6 +3,7 @@
   "AreaAnchorName": "LevelArea_P30301_F30301001_G1",
   "SaveType": "Reset",
   "LoadOnInitial": true,
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -27,16 +28,24 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "PropsGroupID": 2,
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
-      "PosX": 297.01,
-      "PosZ": 519.5
+      "PosX": 11.01,
+      "PosY": -2.18,
+      "PosZ": -11.5
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

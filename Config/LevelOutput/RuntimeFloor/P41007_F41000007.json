@@ -79,6 +79,7 @@
       "LoadOnInitial": true
     }
   },
+  "ValidSubmapList": [],
   "EnableGroupStreaming": true,
   "EnableGroupSpaceConflict": true
 }

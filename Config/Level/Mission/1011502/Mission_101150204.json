@@ -10,13 +10,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 51539607552
+                  "FixedValue": {
+                    "RawValue": 51539607552,
+                    "Value": 12.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288507368669184
+                  "FixedValue": {
+                    "RawValue": 1288507368669184,
+                    "Value": 300004.0
                   }
                 }
               }
@@ -86,13 +88,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "TaskEnabled": true,

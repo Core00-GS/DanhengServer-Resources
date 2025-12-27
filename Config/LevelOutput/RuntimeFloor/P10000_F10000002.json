@@ -291,9 +291,34 @@
       "ID": 74
     },
     {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G75.json",
+      "Name": "MainMission1040310_01",
+      "ID": 75
+    },
+    {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G76.json",
       "Name": "MainMission1040114_03",
       "ID": 76
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G77.json",
+      "Name": "MainMission1040309_Anchor",
+      "ID": 77
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G79.json",
+      "Name": "MainMission1040309_06X",
+      "ID": 79
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G86.json",
+      "Name": "Readable",
+      "ID": 86
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10000_F10000002/LevelGroup_P10000_F10000002_G90.json",
+      "Name": "MainMission4340200_Prop",
+      "ID": 90
     }
   ],
   "DimensionList": [
@@ -383,7 +408,12 @@
         52,
         53,
         54,
-        55
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -445,7 +475,11 @@
         52,
         53,
         54,
-        55
+        55,
+        56,
+        57,
+        58,
+        60
       ],
       "ExclusiveSavedGroupIDList": [
         60,
@@ -795,7 +829,34 @@
       "SaveType": "Reset",
       "IsHoyoGroup": true
     },
+    "75": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
     "76": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "77": {
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadOnInitial": true
+    },
+    "79": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "86": {
+      "Category": "Atmosphere",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
+    },
+    "90": {
       "Category": "Mission",
       "SaveType": "Reset",
       "IsHoyoGroup": true

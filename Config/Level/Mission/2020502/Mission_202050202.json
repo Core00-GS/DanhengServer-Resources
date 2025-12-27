@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718004098269184
+            "FixedValue": {
+              "RawValue": 1718004098269184,
+              "Value": 400004.0
             }
           },
           "CreateList": [],
@@ -58,18 +60,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 185546886449463296
+            "FixedValue": {
+              "RawValue": 185546886449463296,
+              "Value": 43201001.01
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

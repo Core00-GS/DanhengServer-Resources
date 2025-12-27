@@ -5,12 +5,14 @@
       102,
       103
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 1,
+    "ShowGroup": 1,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849139,
       "Hash64": 1565402620980138204
-    },
-    "SubStoryGroupID": 1,
-    "ShowGroup": 1
+    }
   },
   {
     "SubStoryList": [
@@ -18,13 +20,14 @@
       202,
       203
     ],
+    "UnlockID": 1000201,
+    "SubStoryGroupID": 2,
+    "ShowGroup": 1,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849142,
       "Hash64": 13453263349147299215
-    },
-    "SubStoryGroupID": 2,
-    "ShowGroup": 1,
-    "UnlockID": 1000201
+    }
   },
   {
     "SubStoryList": [
@@ -32,13 +35,14 @@
       302,
       303
     ],
+    "UnlockID": 1000202,
+    "SubStoryGroupID": 3,
+    "ShowGroup": 1,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849141,
       "Hash64": 11054949919198068227
-    },
-    "SubStoryGroupID": 3,
-    "ShowGroup": 1,
-    "UnlockID": 1000202
+    }
   },
   {
     "SubStoryList": [
@@ -46,12 +50,14 @@
       402,
       403
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 4,
+    "ShowGroup": 2,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849136,
       "Hash64": 8361327801396723274
-    },
-    "SubStoryGroupID": 4,
-    "ShowGroup": 2
+    }
   },
   {
     "SubStoryList": [
@@ -59,13 +65,14 @@
       502,
       503
     ],
+    "UnlockID": 1000204,
+    "SubStoryGroupID": 5,
+    "ShowGroup": 2,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849135,
       "Hash64": 14250004223664174132
-    },
-    "SubStoryGroupID": 5,
-    "ShowGroup": 2,
-    "UnlockID": 1000204
+    }
   },
   {
     "SubStoryList": [
@@ -73,12 +80,14 @@
       602,
       603
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 6,
+    "ShowGroup": 3,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849138,
       "Hash64": 2696338617794006135
-    },
-    "SubStoryGroupID": 6,
-    "ShowGroup": 3
+    }
   },
   {
     "SubStoryList": [
@@ -86,13 +95,14 @@
       702,
       703
     ],
+    "UnlockID": 1000206,
+    "SubStoryGroupID": 7,
+    "ShowGroup": 3,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849137,
       "Hash64": 14432108474152823560
-    },
-    "SubStoryGroupID": 7,
-    "ShowGroup": 3,
-    "UnlockID": 1000206
+    }
   },
   {
     "SubStoryList": [
@@ -100,12 +110,14 @@
       802,
       803
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 8,
+    "ShowGroup": 4,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849132,
       "Hash64": 8670457149963213169
-    },
-    "SubStoryGroupID": 8,
-    "ShowGroup": 4
+    }
   },
   {
     "SubStoryList": [
@@ -113,13 +125,14 @@
       902,
       903
     ],
+    "UnlockID": 1000208,
+    "SubStoryGroupID": 9,
+    "ShowGroup": 4,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1923849131,
       "Hash64": 12564025051337606803
-    },
-    "SubStoryGroupID": 9,
-    "ShowGroup": 4,
-    "UnlockID": 1000208
+    }
   },
   {
     "SubStoryList": [
@@ -127,12 +140,14 @@
       1002,
       1003
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 10,
+    "ShowGroup": 5,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1599992547,
       "Hash64": 4744323659850184019
-    },
-    "SubStoryGroupID": 10,
-    "ShowGroup": 5
+    }
   },
   {
     "SubStoryList": [
@@ -140,12 +155,14 @@
       1102,
       1103
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 11,
+    "ShowGroup": 6,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 33908606,
       "Hash64": 12408946562848755217
-    },
-    "SubStoryGroupID": 11,
-    "ShowGroup": 6
+    }
   },
   {
     "SubStoryList": [
@@ -153,13 +170,14 @@
       1202,
       1203
     ],
+    "UnlockID": 1000211,
+    "SubStoryGroupID": 12,
+    "ShowGroup": 6,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": -1532175335,
       "Hash64": 3822617754407439288
-    },
-    "SubStoryGroupID": 12,
-    "ShowGroup": 6,
-    "UnlockID": 1000211
+    }
   },
   {
     "SubStoryList": [
@@ -167,12 +185,14 @@
       1302,
       1303
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 13,
+    "ShowGroup": 7,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": 1196708020,
       "Hash64": 10450001256042309845
-    },
-    "SubStoryGroupID": 13,
-    "ShowGroup": 7
+    }
   },
   {
     "SubStoryList": [
@@ -180,11 +200,13 @@
       1402,
       1403
     ],
+    "UnlockID": 0,
+    "SubStoryGroupID": 14,
+    "ShowGroup": 8,
+    "UnlockSubStoryGroup": 0,
     "SubStoryGroupName": {
       "Hash": -725606281,
       "Hash64": 12841886490550390837
-    },
-    "SubStoryGroupID": 14,
-    "ShowGroup": 8
+    }
   }
 ]

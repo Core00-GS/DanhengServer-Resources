@@ -28,6 +28,7 @@
           "SuccessTaskList": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -58,6 +59,7 @@
           "FailedTaskList": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

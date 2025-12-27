@@ -4,16 +4,19 @@
       2200401
     ],
     "TriggerCustomString": "WolfGunPlay_Lv1",
-    "Title": {
-      "Hash": -80926931,
-      "Hash64": 8998444615258011685
-    },
     "TargetScore": 6000,
+    "UnlockConditionMode": 0,
+    "UnlockCondition": 0,
     "ShowInUI": true,
-    "GunLevel": 1,
     "Description": {
       "Hash": -1161169881,
       "Hash64": 7491557505754125272
+    },
+    "GunMode": "Normal",
+    "GunLevel": 1,
+    "Title": {
+      "Hash": -80926931,
+      "Hash64": 8998444615258011685
     }
   },
   {
@@ -21,17 +24,19 @@
       2200402
     ],
     "TriggerCustomString": "WolfGunPlay_Lv2",
-    "Title": {
-      "Hash": 322357596,
-      "Hash64": 5193095317851304264
-    },
     "TargetScore": 14500,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 1,
     "ShowInUI": true,
-    "GunLevel": 2,
     "Description": {
       "Hash": -1564454408,
       "Hash64": 15063017014753236107
+    },
+    "GunMode": "Normal",
+    "GunLevel": 2,
+    "Title": {
+      "Hash": 322357596,
+      "Hash64": 5193095317851304264
     }
   },
   {
@@ -39,17 +44,19 @@
       2200403
     ],
     "TriggerCustomString": "WolfGunPlay_Lv3",
-    "Title": {
-      "Hash": -1243726345,
-      "Hash64": 11342531359391159558
-    },
     "TargetScore": 8000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 2,
     "ShowInUI": true,
-    "GunLevel": 3,
     "Description": {
       "Hash": 1629533,
       "Hash64": 14810117903864307616
+    },
+    "GunMode": "Normal",
+    "GunLevel": 3,
+    "Title": {
+      "Hash": -1243726345,
+      "Hash64": 11342531359391159558
     }
   },
   {
@@ -57,17 +64,19 @@
       2200404
     ],
     "TriggerCustomString": "WolfGunPlay_Lv4",
-    "Title": {
-      "Hash": -484211458,
-      "Hash64": 7428246760577225812
-    },
     "TargetScore": 8500,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 3,
     "ShowInUI": true,
-    "GunLevel": 4,
     "Description": {
       "Hash": -757885354,
       "Hash64": 14646996056377613923
+    },
+    "GunMode": "Normal",
+    "GunLevel": 4,
+    "Title": {
+      "Hash": -484211458,
+      "Hash64": 7428246760577225812
     }
   },
   {
@@ -75,17 +84,19 @@
       2200405
     ],
     "TriggerCustomString": "WolfGunPlay_Lv5",
-    "Title": {
-      "Hash": -2050295399,
-      "Hash64": 10282833790127554798
-    },
     "TargetScore": 10000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 4,
     "ShowInUI": true,
-    "GunLevel": 5,
     "Description": {
       "Hash": 808198587,
       "Hash64": 11159019805800630708
+    },
+    "GunMode": "Normal",
+    "GunLevel": 5,
+    "Title": {
+      "Hash": -2050295399,
+      "Hash64": 10282833790127554798
     }
   },
   {
@@ -93,17 +104,19 @@
       2200406
     ],
     "TriggerCustomString": "WolfGunPlay_Lv6",
-    "Title": {
-      "Hash": -1647010872,
-      "Hash64": 11582478615600739322
-    },
     "TargetScore": 5500,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 5,
     "ShowInUI": true,
-    "GunLevel": 6,
     "Description": {
       "Hash": 404914060,
       "Hash64": 12756889692292266359
+    },
+    "GunMode": "Normal",
+    "GunLevel": 6,
+    "Title": {
+      "Hash": -1647010872,
+      "Hash64": 11582478615600739322
     }
   },
   {
@@ -111,17 +124,19 @@
       2200407
     ],
     "TriggerCustomString": "WolfGunPlay_Lv7",
-    "Title": {
-      "Hash": 1081872483,
-      "Hash64": 8534437153452489967
-    },
     "TargetScore": 13000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 6,
     "ShowInUI": true,
-    "GunLevel": 7,
     "Description": {
       "Hash": 1970998001,
       "Hash64": 2456099543913929220
+    },
+    "GunMode": "Normal",
+    "GunLevel": 7,
+    "Title": {
+      "Hash": 1081872483,
+      "Hash64": 8534437153452489967
     }
   },
   {
@@ -129,17 +144,19 @@
       2200408
     ],
     "TriggerCustomString": "WolfGunPlay_Lv8",
-    "Title": {
-      "Hash": 1128926650,
-      "Hash64": 12668839898128499688
-    },
     "TargetScore": 10000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 7,
     "ShowInUI": true,
-    "GunLevel": 8,
     "Description": {
       "Hash": 1211483114,
       "Hash64": 8414213559717707914
+    },
+    "GunMode": "Normal",
+    "GunLevel": 8,
+    "Title": {
+      "Hash": 1128926650,
+      "Hash64": 12668839898128499688
     }
   },
   {
@@ -147,17 +164,19 @@
       2200409
     ],
     "TriggerCustomString": "WolfGunPlay_Lv9",
-    "Title": {
-      "Hash": -437157291,
-      "Hash64": 1446593228189837327
-    },
     "TargetScore": 20000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 8,
     "ShowInUI": true,
-    "GunLevel": 9,
     "Description": {
       "Hash": -1517400241,
       "Hash64": 3360360191803536354
+    },
+    "GunMode": "Normal",
+    "GunLevel": 9,
+    "Title": {
+      "Hash": -437157291,
+      "Hash64": 1446593228189837327
     }
   },
   {
@@ -165,17 +184,19 @@
       2200410
     ],
     "TriggerCustomString": "WolfGunPlay_Lv10",
-    "Title": {
-      "Hash": 2044784701,
-      "Hash64": 11009906552462949913
-    },
     "TargetScore": 13000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 9,
     "ShowInUI": true,
-    "GunLevel": 10,
     "Description": {
       "Hash": 915950327,
       "Hash64": 9639122167396197361
+    },
+    "GunMode": "Normal",
+    "GunLevel": 10,
+    "Title": {
+      "Hash": 2044784701,
+      "Hash64": 11009906552462949913
     }
   },
   {
@@ -183,17 +204,19 @@
       2200411
     ],
     "TriggerCustomString": "WolfGunPlay_Lv11",
-    "Title": {
-      "Hash": 2044784700,
-      "Hash64": 11319885473963440255
-    },
     "TargetScore": 14000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 10,
     "ShowInUI": true,
-    "GunLevel": 11,
     "Description": {
       "Hash": 915950328,
       "Hash64": 10164765791197187924
+    },
+    "GunMode": "Normal",
+    "GunLevel": 11,
+    "Title": {
+      "Hash": 2044784700,
+      "Hash64": 11319885473963440255
     }
   },
   {
@@ -201,17 +224,19 @@
       2200412
     ],
     "TriggerCustomString": "WolfGunPlay_Lv12",
-    "Title": {
-      "Hash": 2044784703,
-      "Hash64": 11342712499799947916
-    },
     "TargetScore": 38000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 11,
     "ShowInUI": true,
-    "GunLevel": 12,
     "Description": {
       "Hash": 915950329,
       "Hash64": 5671289342979816288
+    },
+    "GunMode": "Normal",
+    "GunLevel": 12,
+    "Title": {
+      "Hash": 2044784703,
+      "Hash64": 11342712499799947916
     }
   },
   {
@@ -219,17 +244,19 @@
       2200413
     ],
     "TriggerCustomString": "WolfGunPlay_Lv13",
-    "Title": {
-      "Hash": 2044784702,
-      "Hash64": 2514381294047834215
-    },
     "TargetScore": 14000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 12,
     "ShowInUI": true,
-    "GunLevel": 13,
     "Description": {
       "Hash": 915950330,
       "Hash64": 9226741342895178976
+    },
+    "GunMode": "Normal",
+    "GunLevel": 13,
+    "Title": {
+      "Hash": 2044784702,
+      "Hash64": 2514381294047834215
     }
   },
   {
@@ -237,17 +264,19 @@
       2200414
     ],
     "TriggerCustomString": "WolfGunPlay_Lv14",
-    "Title": {
-      "Hash": 2044784705,
-      "Hash64": 8480557854071593835
-    },
     "TargetScore": 35000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 13,
     "ShowInUI": true,
-    "GunLevel": 14,
     "Description": {
       "Hash": 915950331,
       "Hash64": 9658958020512792244
+    },
+    "GunMode": "Normal",
+    "GunLevel": 14,
+    "Title": {
+      "Hash": 2044784705,
+      "Hash64": 8480557854071593835
     }
   },
   {
@@ -255,17 +284,19 @@
       2200415
     ],
     "TriggerCustomString": "WolfGunPlay_Lv15",
-    "Title": {
-      "Hash": 2044784704,
-      "Hash64": 8661371213323835201
-    },
     "TargetScore": 35000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 14,
     "ShowInUI": true,
-    "GunLevel": 15,
     "Description": {
       "Hash": 915950332,
       "Hash64": 4204747355761386636
+    },
+    "GunMode": "Normal",
+    "GunLevel": 15,
+    "Title": {
+      "Hash": 2044784704,
+      "Hash64": 8661371213323835201
     }
   },
   {
@@ -277,24 +308,37 @@
       2200420
     ],
     "TriggerCustomString": "WolfGunPlay_EndLess",
-    "Title": {
-      "Hash": 60235570,
-      "Hash64": 14758717645208815544
-    },
     "TargetScore": 100000,
+    "UnlockConditionMode": 0,
     "UnlockCondition": 15,
     "ShowInUI": true,
-    "GunMode": "EndLess",
-    "GunLevel": 1,
     "Description": {
       "Hash": 1587916450,
       "Hash64": 15647061818949019291
+    },
+    "GunMode": "EndLess",
+    "GunLevel": 1,
+    "Title": {
+      "Hash": 60235570,
+      "Hash64": 14758717645208815544
     }
   },
   {
     "QuestList": [],
     "TriggerCustomString": "WolfGunPlay_LvActivity01",
     "TargetScore": 4000,
-    "GunLevel": 99
+    "UnlockConditionMode": 0,
+    "UnlockCondition": 0,
+    "ShowInUI": false,
+    "Description": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "GunMode": "Normal",
+    "GunLevel": 99,
+    "Title": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

@@ -27,8 +27,7 @@
       ],
       "Name": "LocalPlayer_Bronya_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -107,8 +106,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 21474835
+                "FixedValue": {
+                  "RawValue": 21474835,
+                  "Value": 0.0
                 }
               },
               "TaskEnabled": true,
@@ -134,8 +134,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 77309409
+                "FixedValue": {
+                  "RawValue": 77309409,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -155,8 +156,9 @@
                 },
                 "CompareType": "LessEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "IgnoreRadius": true,
@@ -192,8 +194,9 @@
                     "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Bronya_00/Eff_Avatar_Bronya_00_MazeAttack_Trail01.prefab",
                     "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Bronya_00/Eff_Avatar_Bronya_00_MazeAttack_Hit01.prefab",
                     "LinearPitchAngle": {
-                      "fixedValue": {
-                        "RawValue": 429496730
+                      "FixedValue": {
+                        "RawValue": 429496730,
+                        "Value": 0.1
                       }
                     },
                     "BoomerangEccentricity": 1.0,
@@ -211,7 +214,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -245,7 +248,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -325,8 +328,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 300647711
+                    "FixedValue": {
+                      "RawValue": 300647711,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -377,7 +381,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -410,7 +414,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -489,8 +493,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 300647711
+                    "FixedValue": {
+                      "RawValue": 300647711,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -522,8 +527,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 42949673
+                "FixedValue": {
+                  "RawValue": 42949673,
+                  "Value": 0.01
                 }
               },
               "TaskEnabled": true,
@@ -590,8 +596,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 77309409
+                "FixedValue": {
+                  "RawValue": 77309409,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -640,7 +647,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -680,7 +687,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -730,8 +737,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 300647711
+                "FixedValue": {
+                  "RawValue": 300647711,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -763,8 +771,7 @@
       ],
       "Name": "LocalPlayer_Bronya_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -788,8 +795,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 760209210
+            "FixedValue": {
+              "RawValue": 760209210,
+              "Value": 0.18
             }
           },
           "TaskEnabled": true,
@@ -837,8 +845,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 760209210
+            "FixedValue": {
+              "RawValue": 760209210,
+              "Value": 0.18
             }
           },
           "TaskEnabled": true,
@@ -852,8 +861,9 @@
           },
           "ID": 110101,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -867,8 +877,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 858993460
+            "FixedValue": {
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           "TaskEnabled": true,
@@ -876,5 +887,18 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Bronya": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [],
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

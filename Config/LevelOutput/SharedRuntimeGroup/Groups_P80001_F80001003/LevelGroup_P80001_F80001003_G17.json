@@ -53,7 +53,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6708\u53f0",
+      "Name": "月台",
       "ID": 1,
       "PosX": 240.1,
       "PosY": 80.0,
@@ -96,7 +96,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u8c03\u5ea6\u5ba4",
+      "Name": "调度室",
       "ID": 2,
       "PosX": 189.5,
       "PosY": 86.4,
@@ -146,7 +146,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bc6\u95ed\u8d70\u5eca",
+      "Name": "密闭走廊",
       "ID": 3,
       "PosX": 149.0,
       "PosY": 83.0,
@@ -196,7 +196,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u8bbe\u5907\u68c0\u4fee\u901a\u9053",
+      "Name": "设备检修通道",
       "ID": 4,
       "PosX": 80.0,
       "PosY": 78.4,
@@ -246,7 +246,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u4e2d\u592e\u5e93\u623f",
+      "Name": "中央库房",
       "ID": 5,
       "PosX": 75.9,
       "PosY": 78.8,
@@ -296,7 +296,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u7535\u529b\u5ba4-\u5927",
+      "Name": "电力室-大",
       "ID": 6,
       "PosX": 19.47,
       "PosY": 83.16,
@@ -346,7 +346,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u7535\u529b\u5ba4-\u5c0f",
+      "Name": "电力室-小",
       "ID": 7,
       "PosX": 8.34,
       "PosY": 78.9,
@@ -396,7 +396,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bc6\u95ed\u8d70\u5eca",
+      "Name": "密闭走廊",
       "ID": 8,
       "PosX": 8.74,
       "PosY": 80.0,
@@ -446,7 +446,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u652f\u7ebf-\u4e2d\u592e\u5e93\u623f",
+      "Name": "支线-中央库房",
       "ID": 9,
       "PosX": 74.1,
       "PosY": 78.8,
@@ -496,7 +496,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u652f\u7ebf-\u8c03\u5ea6\u5ba4",
+      "Name": "支线-调度室",
       "ID": 10,
       "PosX": 125.73,
       "PosY": 84.0,
@@ -546,7 +546,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6708\u53f0\u5c0f\u533a\u57df",
+      "Name": "月台小区域",
       "ID": 11,
       "PosX": 194.57,
       "PosY": 86.4,

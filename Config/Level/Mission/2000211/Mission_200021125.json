@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 373662154752
+            "FixedValue": {
+              "RawValue": 373662154752,
+              "Value": 87.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717995508334592
+            "FixedValue": {
+              "RawValue": 1717995508334592,
+              "Value": 400002.0
             }
           },
           "NPCUniqueName": {
@@ -29,13 +31,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 373662154752
+            "FixedValue": {
+              "RawValue": 373662154752,
+              "Value": 87.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718008393236480
+            "FixedValue": {
+              "RawValue": 1718008393236480,
+              "Value": 400005.0
             }
           },
           "NPCUniqueName": {
@@ -48,13 +52,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 373662154752
+            "FixedValue": {
+              "RawValue": 373662154752,
+              "Value": 87.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718012688203776
+            "FixedValue": {
+              "RawValue": 1718012688203776,
+              "Value": 400006.0
             }
           },
           "NPCUniqueName": {

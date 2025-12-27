@@ -2,6 +2,7 @@
   "GroupName": "DefaultGroup",
   "AreaAnchorName": "LevelArea_P20133_F20133001_G2",
   "SaveType": "Reset",
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -41,13 +42,13 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
         "Radius": 1.0,
         "DimX": 12.0,
         "DimY": 10.0,
-        "DimZ": 15.0,
-        "PointList": []
+        "DimZ": 15.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -59,9 +60,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop1",
       "RotY": 337.6645,
       "ID": 300001,
@@ -93,13 +101,13 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 5.0,
-        "DimZ": 20.0,
-        "PointList": []
+        "DimZ": 20.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -111,9 +119,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "RotY": 354.93,
       "ID": 300002,
@@ -145,13 +160,13 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 5.0,
-        "DimZ": 20.0,
-        "PointList": []
+        "DimZ": 20.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -163,9 +178,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop3",
       "RotY": 268.0,
       "ID": 300003,
@@ -197,13 +219,13 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
         "Radius": 2.0,
         "DimX": 20.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -215,9 +237,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop4",
       "RotY": 41.57,
       "ID": 300004,
@@ -249,13 +278,13 @@
       },
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 2.0,
-        "DimZ": 3.0,
-        "PointList": []
+        "DimZ": 3.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -267,9 +296,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop5",
       "ID": 300005,
       "PosX": -28.12,
@@ -286,6 +322,7 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
       "AudioEnterEvent": [
         "Ev_amb_maze_belobog_m3_3_battle"
       ],
@@ -295,20 +332,22 @@
           "StateName": "State_EverWinterHill_Wide"
         }
       ],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "RotY": 210.2678,
       "ID": 1,
-      "PosX": -62.28994,
-      "PosY": 15.80621,
-      "PosZ": 2038.69
+      "PosX": -5.68994,
+      "PosY": 20.30621,
+      "PosZ": 32.69
     },
     {
       "EnviroProfile": "Stages/Outputs/Chapter01/EnviroProfile/Chap01_CloseView_BAT_Area_M303_02_Foggy.enviroProfile.asset",
       "Tags": [
         "BattleArea02"
       ],
+      "TagContainer": [],
       "AudioEnterEvent": [
         "Ev_amb_maze_belobog_m3_3_battle"
       ],
@@ -318,6 +357,7 @@
           "StateName": "State_EverWinterHill_Wide"
         }
       ],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea2",
@@ -342,8 +382,13 @@
       "DefaultIdleFreeStyleMotionID": 311010000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
       "Name": "NPC1",
       "RotY": 90.0,
       "ID": 400001,
@@ -369,8 +414,13 @@
       "DefaultIdleFreeStyleMotionID": 310020000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
       "Name": "NPC3",
       "ID": 400003,
       "PosX": -27.64,
@@ -380,5 +430,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

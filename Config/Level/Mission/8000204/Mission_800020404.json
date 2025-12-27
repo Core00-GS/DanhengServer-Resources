@@ -55,8 +55,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -73,13 +74,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 73014444032
+                "FixedValue": {
+                  "RawValue": 73014444032,
+                  "Value": 17.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -90,6 +93,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

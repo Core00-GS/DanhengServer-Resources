@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 743029342208
+                "FixedValue": {
+                  "RawValue": 743029342208,
+                  "Value": 173.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288537433440256
+                "FixedValue": {
+                  "RawValue": 1288537433440256,
+                  "Value": 300011.0
                 }
               }
             }
@@ -59,8 +61,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,

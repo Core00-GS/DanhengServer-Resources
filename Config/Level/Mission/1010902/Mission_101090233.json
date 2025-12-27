@@ -13,13 +13,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "TaskEnabled": true,
@@ -28,13 +30,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718004098269184
+            "FixedValue": {
+              "RawValue": 1718004098269184,
+              "Value": 400004.0
             }
           },
           "TaskEnabled": true,
@@ -43,13 +47,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718008393236480
+            "FixedValue": {
+              "RawValue": 1718008393236480,
+              "Value": 400005.0
             }
           },
           "TaskEnabled": true,
@@ -58,13 +64,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718012688203776
+            "FixedValue": {
+              "RawValue": 1718012688203776,
+              "Value": 400006.0
             }
           },
           "TaskEnabled": true,
@@ -73,13 +81,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TaskEnabled": true,
@@ -88,13 +98,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 214748364800
+            "FixedValue": {
+              "RawValue": 214748364800,
+              "Value": 50.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "TaskEnabled": true,
@@ -103,8 +115,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "MaxAdvencePerTick": -1.0,

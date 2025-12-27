@@ -17,13 +17,15 @@
             {
               "$type": "RPG.GameCore.ShowWaypointByProp",
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 412316860416
+                "FixedValue": {
+                  "RawValue": 412316860416,
+                  "Value": 96.0
                 }
               },
               "InstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               },
               "IconPath": "SpriteOutput/MapPics/Billboard/IconBillboardSubStoryMission02.png",
@@ -76,13 +78,15 @@
             {
               "$type": "RPG.GameCore.HideWaypointByProp",
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 412316860416
+                "FixedValue": {
+                  "RawValue": 412316860416,
+                  "Value": 96.0
                 }
               },
               "InstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               },
               "TaskEnabled": true,

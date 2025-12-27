@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 343597383680
+                "FixedValue": {
+                  "RawValue": 343597383680,
+                  "Value": 80.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -27,6 +29,7 @@
           "OnTriggerEnter": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

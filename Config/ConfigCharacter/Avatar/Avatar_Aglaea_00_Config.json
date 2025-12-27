@@ -2,14 +2,21 @@
   "SomatoType": "MiddleAvatar",
   "CharacterBodySize": "None",
   "BuffPanelOffset": {
-    "y": 1.4,
+    "x": "Infinity",
+    "y": "Infinity",
+    "z": "Infinity",
+    "IsInfinity": true,
+    "IsPositiveInfinity": true,
     "normalized": {
-      "y": 1.0,
-      "magnitude": 1.0,
-      "sqrMagnitude": 1.0
+      "x": "NaN",
+      "y": "NaN",
+      "z": "NaN",
+      "IsNaN": true,
+      "magnitude": "NaN",
+      "sqrMagnitude": "NaN"
     },
-    "magnitude": 1.4,
-    "sqrMagnitude": 1.95999992
+    "magnitude": "Infinity",
+    "sqrMagnitude": "Infinity"
   },
   "HitBoxWidth": 0.3,
   "HitBoxLength": 1.0,
@@ -25,7 +32,10 @@
   "AnimEventConfigList": [
     "Config/ConfigAnimEvents/Avatar/Effect/Avatar_Aglaea_00_Effect_AnimEvent.json",
     "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Aglaea_00_Designer_AnimEvent.json",
-    "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Aglaea_00_Audio_AnimEvent.json"
+    "Config/ConfigAnimEvents/Avatar/DesignerBaked/Avatar_Aglaea_00_Designer_AnimEvent_Baked.json",
+    "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Aglaea_00_Audio_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Common_Designer_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Common_ControllerVibration_AnimEvent.json"
   ],
   "SkillList": [
     {
@@ -161,69 +171,81 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "FormationType": "LightTeamSelectTarget",
       "EntryAbility": "Avatar_Aglaea_00_Skill01_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           }
         ]
@@ -319,49 +341,58 @@
             "$type": "RPG.GameCore.TargetAlias",
             "Alias": "CasterWithAglaeaServantEntity"
           },
-          "IsAliveOnly": true
+          "IsAliveOnly": true,
+          "FieldHideMode": "All"
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "FormationType": "LightTeamNormal",
       "TeamFormationConfigTemplateName": "LowSpacing",
       "EntryAbility": "Avatar_Aglaea_00_Skill02_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 12884901888
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -378,7 +409,7 @@
       "Name": "Skill11",
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
-      "LockType": "AdjoinDefault",
+      "AutoLockType": "AdjoinDefault",
       "MaxCastTimes": -1,
       "TargetInfo": {
         "TargetType": "EnemySelect",
@@ -509,62 +540,73 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Aglaea_00_Skill11_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "DefaultBPSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 3006477110
+              "RawValue": 3006477110,
+              "Value": 0.7
             }
           },
           {
             "GroupName": "BasepP_Aglaea_AttackMark",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           }
         ]
@@ -592,26 +634,31 @@
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_Ready",
       "ReadyAnimWaitTime": 0.3,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Aglaea_00_Skill03_Phase01",
       "PrepareAbility": "Avatar_Aglaea_00_Skill03_EnterReady",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 386547056640
+          "RawValue": 386547056640,
+          "Value": 90.0
         },
         "Groups": [
           {
             "GroupName": "DefaultUltra",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "Ultra_Common_ImmediateRelease",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -707,53 +754,63 @@
             "$type": "RPG.GameCore.TargetAlias",
             "Alias": "CasterWithAglaeaServantEntity"
           },
-          "IsAliveOnly": true
+          "IsAliveOnly": true,
+          "FieldHideMode": "All"
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Aglaea_00_Skill21_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           {
             "GroupName": "Base_Natasha_SingleHeal",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "DefaultBPSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -780,9 +837,11 @@
         "AllowEnemyServant": "Allow"
       },
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Aglaea_00_PassiveSkill01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -804,9 +863,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Aglaea_00_SkillMazeInLevel",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -829,9 +890,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Common_PassiveSkill",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -840,7 +903,7 @@
       "IsSkillInsertable": true
     },
     {
-      "Name": "PassiveSkill02",
+      "Name": "PassiveSkillSummoner",
       "SkillType": "Passive",
       "UseType": "Passive",
       "ActivateAfterRevive": true,
@@ -854,9 +917,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Summoner_Common_PassiveSkill",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -927,6 +992,7 @@
       ]
     }
   ],
+  "DynamicValues": {},
   "WeaponType": "WP_Magic",
   "SkillReadyTransits": [
     {
@@ -964,31 +1030,7 @@
   "OverrideHeightForCameraOffset": -1.0,
   "MonsterIgnoreGlobalDymanicOffset": true,
   "MaxMonsterPhase": 1,
-  "GlobalAIFactorGroups": {
-    "BasepP_Aglaea_AttackMark": {
-      "Factors": [
-        {
-          "Source": {
-            "$type": "RPG.GameCore.ComplexSkillAIContainModifier",
-            "IsTarget": true,
-            "ModifilerName": "MAvatar_Aglaea_00_GoldenSword_Mark"
-          },
-          "Mapper": {
-            "$type": "RPG.GameCore.ComplexSkillAIMapperMultiRange",
-            "Ranges": [
-              {
-                "xmax": {
-                  "RawValue": 4294967296
-                },
-                "ymax": {
-                  "RawValue": 429496729600
-                }
-              }
-            ]
-          }
-        }
-      ]
-    }
-  },
+  "AITagList": {},
+  "CastShadow": "Keep",
   "AlwaysCutOnSkillTargetTeamChange": true
 }

@@ -1,5 +1,5 @@
 {
-  "GroupName": "MainMission8020215_\u5f39\u73e0\u673a",
+  "GroupName": "MainMission8020215_弹珠机",
   "Category": "Mission",
   "LevelGraph": "Config/Level/GroupGraph/F44301015/Group_F44301015_G10.json",
   "AreaAnchorName": "LevelArea_P44301_F44301015_G10",
@@ -50,6 +50,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,

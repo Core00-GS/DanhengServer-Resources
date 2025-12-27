@@ -1,108 +1,122 @@
 [
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/AllTasksIcon.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestAllIcon.png",
-    "TypeChapterColor": "#ffffff",
     "TypeColor": "#ffffff",
+    "TypeChapterColor": "#ffffff",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/AllTasksIcon.png",
+    "IsDelete": false,
+    "IsShowRedDot": false,
+    "IconMapOptional": 0,
+    "Type": "None",
+    "WaypointIconType": 0,
+    "IconMapConnect": 0,
+    "TypePriority": 1,
+    "IconMapStarted": 0,
+    "IconMapToTake": 0,
     "TypeName": {
       "Hash": 403557608,
       "Hash64": 4262575404395154898
-    },
-    "TypePriority": 1
+    }
   },
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/MainMission.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestMainIcon.png",
-    "TypeChapterColor": "#ffcf70",
     "TypeColor": "#f2b438",
-    "TypeName": {
-      "Hash": 403557609,
-      "Hash64": 16945042163627111568
-    },
-    "IconMapToTake": 21,
+    "TypeChapterColor": "#ffcf70",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/MainMission.png",
+    "IsDelete": false,
+    "IsShowRedDot": false,
     "IconMapOptional": 233,
     "Type": "Main",
     "WaypointIconType": 22,
     "IconMapConnect": 45,
+    "TypePriority": 2,
     "IconMapStarted": 22,
-    "TypePriority": 2
+    "IconMapToTake": 21,
+    "TypeName": {
+      "Hash": 403557609,
+      "Hash64": 16945042163627111568
+    }
   },
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/GapMission.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestGapIcon.png",
-    "TypeChapterColor": "#ff9c5a",
     "TypeColor": "#fe8d47",
-    "TypeName": {
-      "Hash": 403557607,
-      "Hash64": 6446978920378243111
-    },
-    "IconMapToTake": 149,
+    "TypeChapterColor": "#ff9c5a",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/GapMission.png",
+    "IsDelete": false,
+    "IsShowRedDot": true,
     "IconMapOptional": 234,
     "Type": "Gap",
     "WaypointIconType": 150,
     "IconMapConnect": 152,
-    "IconMapStarted": 150,
     "TypePriority": 3,
-    "IsShowRedDot": true
+    "IconMapStarted": 150,
+    "IconMapToTake": 149,
+    "TypeName": {
+      "Hash": 403557607,
+      "Hash64": 6446978920378243111
+    }
   },
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/CompanionMission.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestCompanionIcon.png",
-    "TypeChapterColor": "#c197ff",
     "TypeColor": "#ba8bf9",
-    "TypeName": {
-      "Hash": 403557606,
-      "Hash64": 16866497297941125084
-    },
-    "IconMapToTake": 104,
+    "TypeChapterColor": "#c197ff",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/CompanionMission.png",
+    "IsDelete": false,
+    "IsShowRedDot": true,
     "IconMapOptional": 235,
     "Type": "Companion",
     "WaypointIconType": 105,
     "IconMapConnect": 107,
-    "IconMapStarted": 105,
     "TypePriority": 4,
-    "IsShowRedDot": true
+    "IconMapStarted": 105,
+    "IconMapToTake": 104,
+    "TypeName": {
+      "Hash": 403557606,
+      "Hash64": 16866497297941125084
+    }
   },
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/DailyMission.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestDailyIcon.png",
-    "TypeChapterColor": "#6ee0b6",
     "TypeColor": "#b7de6a",
-    "TypeName": {
-      "Hash": 403557611,
-      "Hash64": 11673927172168028307
-    },
-    "IconMapToTake": 27,
+    "TypeChapterColor": "#6ee0b6",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/DailyMission.png",
+    "IsDelete": true,
+    "IsShowRedDot": false,
     "IconMapOptional": 237,
     "Type": "Daily",
     "WaypointIconType": 28,
     "IconMapConnect": 47,
-    "IconMapStarted": 28,
     "TypePriority": 5,
-    "IsDelete": true
+    "IconMapStarted": 28,
+    "IconMapToTake": 27,
+    "TypeName": {
+      "Hash": 403557611,
+      "Hash64": 11673927172168028307
+    }
   },
   {
-    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/SideMission.png",
-    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
     "TypeIcon": "SpriteOutput/TabIcon/Quest/QuestSideIcon.png",
-    "TypeChapterColor": "#61d8f0",
     "TypeColor": "#61d7ef",
-    "TypeName": {
-      "Hash": 403557610,
-      "Hash64": 4647348822821974069
-    },
-    "IconMapToTake": 24,
+    "TypeChapterColor": "#61d8f0",
+    "MenuItemIcon": "SpriteOutput/TalkIcon/SpecialChatMissionIcon.png",
+    "TypeIconMini": "SpriteOutput/Mission/TypeIcon/SideMission.png",
+    "IsDelete": false,
+    "IsShowRedDot": true,
     "IconMapOptional": 236,
     "Type": "Branch",
     "WaypointIconType": 25,
     "IconMapConnect": 46,
-    "IconMapStarted": 25,
     "TypePriority": 6,
-    "IsShowRedDot": true
+    "IconMapStarted": 25,
+    "IconMapToTake": 24,
+    "TypeName": {
+      "Hash": 403557610,
+      "Hash64": 4647348822821974069
+    }
   }
 ]

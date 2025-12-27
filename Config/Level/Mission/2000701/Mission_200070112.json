@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 339302416384
+            "FixedValue": {
+              "RawValue": 339302416384,
+              "Value": 79.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "TaskEnabled": true,
@@ -21,13 +23,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 339302416384
+            "FixedValue": {
+              "RawValue": 339302416384,
+              "Value": 79.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288554613309440
+            "FixedValue": {
+              "RawValue": 1288554613309440,
+              "Value": 300015.0
             }
           },
           "TaskEnabled": true,
@@ -44,13 +48,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 339302416384
+                "FixedValue": {
+                  "RawValue": 339302416384,
+                  "Value": 79.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288558908276736
+                "FixedValue": {
+                  "RawValue": 1288558908276736,
+                  "Value": 300016.0
                 }
               }
             }
@@ -62,6 +68,7 @@
           "OnTriggerEnter": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

@@ -6,9 +6,16 @@
   "LoadSide": "Server",
   "LoadOnInitial": true,
   "GroupRefreshID": 1,
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Default",
+      "TagHash": 1403890554
+    }
+  ],
   "AnchorList": [
     {
       "Name": "Checkpoint1",
@@ -92,14 +99,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointEnable",
       "OverrideHintRange": -1.0,
@@ -107,7 +114,6 @@
       "CustomTriggerMap": {
         "CustomTrigger_Spring": {
           "Radius": 6.0,
-          "PointList": [],
           "Server": true
         }
       },
@@ -120,9 +126,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop1",
       "RotY": 135.0,
       "ID": 300001,
@@ -156,14 +169,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointDisable",
       "OverrideHintRange": -1.0,
@@ -171,7 +184,6 @@
       "CustomTriggerMap": {
         "CustomTrigger_Spring": {
           "Radius": 6.0,
-          "PointList": [],
           "Server": true
         }
       },
@@ -184,9 +196,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "RotY": 270.0,
       "ID": 300002,
@@ -220,14 +239,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointDisable",
       "OverrideHintRange": -1.0,
@@ -253,7 +272,6 @@
             "magnitude": 2.236068,
             "sqrMagnitude": 5.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -266,9 +284,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop3",
       "RotY": 270.0,
       "ID": 300003,
@@ -301,12 +326,12 @@
       "PropID": 103,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Chap01/InitLevelGraph_Prop_Chap01_MazeDoor_01.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 5.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -317,9 +342,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop9",
       "RotY": 135.0,
       "ID": 300009,
@@ -337,29 +369,38 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
       "PosX": 4.760004,
-      "PosZ": 783.08
+      "PosY": -0.25,
+      "PosZ": 6.08
     },
     {
       "EnviroProfile": "Stages/Outputs/Chapter01/EnviroProfile/Chap01_CloseView_ADV_Area_M203_01_Night.enviroProfile.asset",
       "Tags": [
         "BattleArea02"
       ],
+      "TagContainer": [],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea2",
       "RotY": -3e-06,
       "ID": 2,
-      "PosX": -429.6874,
-      "PosZ": 913.3025
+      "PosX": 15.0126,
+      "PosZ": 48.7025
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

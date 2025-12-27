@@ -6,7 +6,9 @@
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "ButtonIcon": "SpriteOutput/TalkIcon/ChatIcon.png",
-          "IconType": "ChatLoopIcon",
+          "IconType": {
+            "JsonValueStr": "ChatLoopIcon"
+          },
           "ButtonText": {
             "Hash": -827542546,
             "Hash64": 13610731199544143166
@@ -28,13 +30,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 558345748480
+                "FixedValue": {
+                  "RawValue": 558345748480,
+                  "Value": 130.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }

@@ -48,8 +48,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -66,13 +67,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 64424509440
+                "FixedValue": {
+                  "RawValue": 64424509440,
+                  "Value": 15.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288537433440256
+                "FixedValue": {
+                  "RawValue": 1288537433440256,
+                  "Value": 300011.0
                 }
               }
             }
@@ -83,8 +86,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -101,13 +105,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 68719476736
+            "FixedValue": {
+              "RawValue": 68719476736,
+              "Value": 16.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288541728407552
+            "FixedValue": {
+              "RawValue": 1288541728407552,
+              "Value": 300012.0
             }
           },
           "CreateList": [],
@@ -117,8 +123,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "MaxAdvencePerTick": -1.0,

@@ -115,23 +115,38 @@
       },
       "Trigger": {
         "Radius": 3.5,
-        "PointList": []
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {},
+      "StateConfigs": [],
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
-      "SpawnConfig": {},
+      "SpawnConfig": {
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
       "Name": "Prop_Municipal_0106",
       "ID": 300001,
       "PosX": 184.5955,
@@ -182,23 +197,38 @@
       },
       "Trigger": {
         "Radius": 5.0,
-        "PointList": []
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {},
+      "StateConfigs": [],
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
-      "SpawnConfig": {},
+      "SpawnConfig": {
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
       "Name": "Prop_Municipal_0106_Stop",
       "ID": 300002,
       "PosX": 184.5955,
@@ -249,23 +279,38 @@
       },
       "Trigger": {
         "Radius": 2.0,
-        "PointList": []
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {},
+      "StateConfigs": [],
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
-      "SpawnConfig": {},
+      "SpawnConfig": {
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
       "Name": "Prop_MunicipalConversation_0106",
       "ID": 300003,
       "PosX": 184.5955,
@@ -299,9 +344,12 @@
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 100020361,
       "AdditiveResidentEffect": [],
+      "OverrideSeriesID": 4294967295,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -317,6 +365,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true
@@ -351,7 +400,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -367,6 +418,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true
@@ -401,7 +453,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -417,6 +471,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true
@@ -457,7 +512,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -473,6 +530,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true

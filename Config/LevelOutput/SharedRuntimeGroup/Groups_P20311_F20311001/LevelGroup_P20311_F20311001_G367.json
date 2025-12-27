@@ -18,7 +18,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Monster",
+      "TagHash": -1058465803
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [
     {
@@ -40,7 +45,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -50,7 +57,7 @@
         }
       },
       "Name": "Monster1",
-      "RotY": 270.0,
+      "RotY": 270.1,
       "ID": 200002,
       "PosX": -123.21,
       "PosY": 8.829987,
@@ -65,5 +72,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

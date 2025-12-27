@@ -1,10 +1,12 @@
 {
   "GroupName": "crowd",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G328",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Crowd",
         "Operation": "Equal",
         "Value": 3
@@ -23,7 +25,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Crowd",
+      "TagHash": -581694062
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -299,6 +306,9 @@
     }
   ],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

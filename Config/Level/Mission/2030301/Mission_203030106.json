@@ -18,13 +18,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 893353197568
+                "FixedValue": {
+                  "RawValue": 893353197568,
+                  "Value": 208.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }

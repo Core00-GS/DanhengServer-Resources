@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Mar_7th_10_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -97,38 +96,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 115964115
+                    "FixedValue": {
+                      "RawValue": 115964115,
+                      "Value": 0.03
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 274877906
+                    "FixedValue": {
+                      "RawValue": 274877906,
+                      "Value": 0.06
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 115964115
+                    "FixedValue": {
+                      "RawValue": 115964115,
+                      "Value": 0.03
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 274877906
+                    "FixedValue": {
+                      "RawValue": 274877906,
+                      "Value": 0.06
                     }
                   }
                 }
@@ -144,8 +150,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 317827579
+                "FixedValue": {
+                  "RawValue": 317827579,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -213,23 +220,27 @@
                   "MovingRangeList": [
                     {
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 6442450946
+                        "FixedValue": {
+                          "RawValue": 6442450946,
+                          "Value": 1.5
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 115964115
+                        "FixedValue": {
+                          "RawValue": 115964115,
+                          "Value": 0.03
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 274877906
+                        "FixedValue": {
+                          "RawValue": 274877906,
+                          "Value": 0.06
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 10307921512
+                        "FixedValue": {
+                          "RawValue": 10307921512,
+                          "Value": 2.4
                         }
                       }
                     }
@@ -245,8 +256,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 317827579
+                    "FixedValue": {
+                      "RawValue": 317827579,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -331,23 +343,27 @@
                       "MovingRangeList": [
                         {
                           "OffsetTargetDistance": {
-                            "fixedValue": {
-                              "RawValue": 5583457486
+                            "FixedValue": {
+                              "RawValue": 5583457486,
+                              "Value": 1.3
                             }
                           },
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 115964115
+                            "FixedValue": {
+                              "RawValue": 115964115,
+                              "Value": 0.03
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 274877906
+                            "FixedValue": {
+                              "RawValue": 274877906,
+                              "Value": 0.06
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 6442450946
+                            "FixedValue": {
+                              "RawValue": 6442450946,
+                              "Value": 1.5
                             }
                           }
                         }
@@ -363,8 +379,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 317827579
+                        "FixedValue": {
+                          "RawValue": 317827579,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -448,8 +465,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 317827579
+                        "FixedValue": {
+                          "RawValue": 317827579,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -524,8 +542,7 @@
     {
       "Name": "LocalPlayer_Mar_7th_10_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -549,8 +566,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 962072674
+            "FixedValue": {
+              "RawValue": 962072674,
+              "Value": 0.22
             }
           },
           "TaskEnabled": true,
@@ -564,8 +582,9 @@
           },
           "ID": 122402,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -585,8 +604,7 @@
     {
       "Name": "LocalPlayer_Mar_7th_10_Listener",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -597,8 +615,9 @@
           },
           "ModifierName": "ADV_StageAbility_Maze_Mar_7th_10_Listener",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -606,5 +625,256 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Mar_7th_10_Energy": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnAfterLocalPlayerUseSkill": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAnd",
+            "PredicateList": [
+              {
+                "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                "SkillType": "MazeSkill",
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              {
+                "$type": "RPG.GameCore.ByCompareTarget",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ParamEntity"
+                },
+                "CompareType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "AliveStateMask": "Mask_AliveOrLimbo",
+                "Inverse": true,
+                "TaskEnabled": true
+              }
+            ],
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "Predicate": {
+                "$type": "RPG.GameCore.AdvByCompareDynamicValue",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "DynamicKey": "#ADF_1",
+                "CompareType": "GreaterEqual",
+                "CompareValue": {
+                  "FixedValue": {
+                    "RawValue": -149061134974976,
+                    "Value": -34706.0,
+                    "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.Predicate.CompareValue.FixedValue"
+                  }
+                },
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              "SuccessTaskList": [
+                {
+                  "$type": "RPG.GameCore.AddMazeBuff",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "ModifierOwnerEntity"
+                  },
+                  "ID": 122401,
+                  "Count": {
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
+                    }
+                  },
+                  "Level": {
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.SuccessTaskList.0.Level.FixedValue"
+                    }
+                  },
+                  "DynamicValues": {
+                    "#ADF_1": {
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.SuccessTaskList.0.DynamicValues.#ADF_1.FixedValue"
+                      }
+                    },
+                    "#ADF_2": {
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.SuccessTaskList.0.DynamicValues.#ADF_2.FixedValue"
+                      }
+                    }
+                  },
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                }
+              ],
+              "FailedTaskList": [
+                {
+                  "$type": "RPG.GameCore.AddMazeBuff",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "ModifierOwnerEntity"
+                  },
+                  "ID": 122401,
+                  "Count": {
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
+                    }
+                  },
+                  "Level": {
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.FailedTaskList.0.Level.FixedValue"
+                    }
+                  },
+                  "DynamicValues": {
+                    "#ADF_1": {
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.FailedTaskList.0.DynamicValues.#ADF_1.FixedValue"
+                      }
+                    },
+                    "#ADF_2": {
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_Mar_7th_10_Ability.GlobalModifiers.ADV_StageAbility_Maze_Mar_7th_10_Energy.OnAfterLocalPlayerUseSkill.0.SuccessTaskList.0.FailedTaskList.0.DynamicValues.#ADF_2.FixedValue"
+                      }
+                    }
+                  },
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                }
+              ],
+              "TaskEnabled": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_StageAbility_Maze_Mar_7th_10": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Mar_7th_10_Listener": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnAfterLocalPlayerUseSkill": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAnd",
+            "PredicateList": [
+              {
+                "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                "SkillType": "MazeSkill",
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              {
+                "$type": "RPG.GameCore.ByCompareTarget",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ParamEntity"
+                },
+                "CompareType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "AliveStateMask": "Mask_AliveOrLimbo",
+                "Inverse": true,
+                "TaskEnabled": true
+              },
+              {
+                "$type": "RPG.GameCore.ByCompareCarryMazebuff",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "Caster"
+                },
+                "BuffID": 122401,
+                "Inverse": true,
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              }
+            ],
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.AddMazeBuff",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "ModifierOwnerEntity"
+              },
+              "ID": 122401,
+              "Count": {
+                "FixedValue": {
+                  "RawValue": 4294967296,
+                  "Value": 1.0
+                }
+              },
+              "Level": {
+                "FixedValue": {
+                  "RawValue": 4294967296,
+                  "Value": 1.0
+                }
+              },
+              "DynamicValues": {
+                "#ADF_1": {
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
+                  }
+                },
+                "#ADF_2": {
+                  "FixedValue": {
+                    "RawValue": 12884901888,
+                    "Value": 3.0
+                  }
+                }
+              },
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Merge"
+    }
+  }
 }

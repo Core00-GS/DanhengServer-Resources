@@ -25,6 +25,7 @@
       "LevelGraph": "Config/Level/Maze/MazeRogue/Maze_Rogue_NPC_EventPainting.json",
       "LoadOnInitial": true,
       "ValueSource": {},
+      "StaticNPC": true,
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
@@ -34,7 +35,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -50,6 +53,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true

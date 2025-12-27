@@ -8,36 +8,19 @@
           "ValueSource": {},
           "PerformanceType": "D",
           "PerformanceID": 602010136,
+          "MaskConfig": {
+            "UseExcelData": true,
+            "StartBlack": "Full",
+            "EndBlack": "Full",
+            "MaskColor": "Black"
+          },
           "TaskEnabled": true,
           "IsClientOnly": true
         }
       ]
     },
     {
-      "TaskList": [
-        {
-          "$type": "RPG.GameCore.WaitCustomString",
-          "CustomString": {
-            "Value": "AnotherPerformance"
-          },
-          "TaskEnabled": true
-        },
-        {
-          "$type": "RPG.GameCore.TriggerPerformance",
-          "ValueSource": {},
-          "PerformanceType": "D",
-          "PerformanceID": 602010141,
-          "TaskEnabled": true,
-          "IsClientOnly": true
-        },
-        {
-          "$type": "RPG.GameCore.TriggerCustomString",
-          "CustomString": {
-            "Value": "Talk_602010103"
-          },
-          "TaskEnabled": true
-        }
-      ]
+      "TaskList": []
     },
     {
       "TaskList": [

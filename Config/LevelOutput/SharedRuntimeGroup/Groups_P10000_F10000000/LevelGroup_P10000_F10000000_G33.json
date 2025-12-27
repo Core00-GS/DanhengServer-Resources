@@ -44,8 +44,7 @@
         "Radius": 1.0,
         "DimX": 20.0,
         "DimY": 10.0,
-        "DimZ": 60.0,
-        "PointList": []
+        "DimZ": 60.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -87,8 +86,7 @@
         "Radius": 1.0,
         "DimX": 20.0,
         "DimY": 10.0,
-        "DimZ": 60.0,
-        "PointList": []
+        "DimZ": 60.0
       },
       "LoadOnInitial": true,
       "OnEnterRTPC": [
@@ -109,6 +107,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

@@ -356,7 +356,6 @@
     "ActionNameList": [
       "ActionGroup_Switch",
       "Menu_Confirm",
-      "ActionGroup_Handbook",
       "ActionGroup_Return"
     ],
     "ID": 124
@@ -365,7 +364,6 @@
     "ActionNameList": [
       "ActionGroup_Switch",
       "Menu_Confirm",
-      "ActionGroup_Handbook",
       "ActionGroup_Return"
     ],
     "ID": 125
@@ -878,5 +876,189 @@
       "ActionGroup_Return"
     ],
     "ID": 195
+  },
+  {
+    "ActionNameList": [
+      "Battle_TriggerUltra",
+      "Battle_SelectTargetUp",
+      "Battle_SelectTargetDown",
+      "Battle_SelectTargetLeft",
+      "Battle_SelectTargetRight",
+      "Battle_SkillSelect",
+      "Battle_SkillRelease"
+    ],
+    "ID": 196
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_PlanetFes_FriendInfo",
+      "ActionGroup_Return"
+    ],
+    "ID": 197
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Parkour_Car",
+      "ActionGroup_Scroll",
+      "ActionGroup_Return"
+    ],
+    "ID": 199
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Travel_Ship_Exit",
+      "Maze_Map",
+      "ActionGroup_Move"
+    ],
+    "ID": 200
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Travel_Ship_Exit",
+      "Maze_Map"
+    ],
+    "ID": 201
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Elf_Exchange",
+      "Menu_Confirm",
+      "ActionGroup_Return"
+    ],
+    "ID": 202
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Elf_TimeStop",
+      "ActionGroup_Elf_QuickSelectEvent",
+      "ActionGroup_Elf_QuickMenu",
+      "ActionGroup_Elf_VirtualMouse"
+    ],
+    "ID": 203
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Switch",
+      "ActionGroup_Scroll",
+      "ActionGroup_Return"
+    ],
+    "ID": 204
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Switch",
+      "ActionGroup_Return"
+    ],
+    "ID": 205
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_PropertyCheck",
+      "ActionGroup_Return"
+    ],
+    "ID": 206
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Hipplen_InteractRotate",
+      "Menu_Confirm",
+      "ActionGroup_Return"
+    ],
+    "ID": 207
+  },
+  {
+    "ActionNameList": [
+      "Menu_GridFight_PromotionInfo",
+      "ActionGroup_Return"
+    ],
+    "ID": 208
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_OpenDamageInfo",
+      "Battle_TriggerUltra",
+      "ActionGroup_GridFight_ChooseTarget"
+    ],
+    "ID": 209
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_CloseDamageInfo",
+      "Battle_TriggerUltra",
+      "ActionGroup_GridFight_ChooseTarget"
+    ],
+    "ID": 210
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_Remove",
+      "ActionGroup_GridFight_MoveEquipTrackRole",
+      "ActionGroup_Return"
+    ],
+    "ID": 211
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_CoinInfo",
+      "ActionGroup_GridFight_FakeMouse",
+      "ActionGroup_GridFight_EditPageCheckInfo",
+      "Menu_Confirm",
+      "ActionGroup_Return"
+    ],
+    "ID": 212
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_FakeMouseClose",
+      "ActionGroup_GridFight_Catch",
+      "ActionGroup_Return"
+    ],
+    "ID": 213
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_Set",
+      "ActionGroup_Return"
+    ],
+    "ID": 214
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_Buy",
+      "ActionGroup_Return"
+    ],
+    "ID": 215
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_GridFight_OCHint",
+      "ActionGroup_GridFight_CoinInfo",
+      "ActionGroup_GridFight_FakeMouse",
+      "ActionGroup_GridFight_EditPageCheckInfo",
+      "Menu_Confirm",
+      "ActionGroup_Return"
+    ],
+    "ID": 216
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_ChimeraDuel_BattleDetail",
+      "ActionGroup_Return"
+    ],
+    "ID": 217
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_ChimeraDuel_BattleSwitch",
+      "ActionGroup_Scroll",
+      "ActionGroup_Return"
+    ],
+    "ID": 218
+  },
+  {
+    "ActionNameList": [
+      "ActionGroup_ChimeraDuel_ShopBuyAndUse"
+    ],
+    "ID": 219
   }
 ]

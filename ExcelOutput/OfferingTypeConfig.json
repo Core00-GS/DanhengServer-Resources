@@ -1,40 +1,101 @@
 [
   {
+    "ID": 1,
+    "MaxLevel": 50,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
     "ItemID": 120003,
     "UnlockID": 9937,
-    "MaxLevel": 50,
-    "ID": 1
+    "ActivityModuleID": 0
   },
   {
+    "ID": 2,
+    "MaxLevel": 10,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
     "ItemID": 281005,
     "UnlockID": 104001,
-    "MaxLevel": 10,
-    "ID": 2
+    "ActivityModuleID": 0
   },
   {
-    "ItemID": 281024,
-    "IsAutoOffer": true,
-    "LongTailLimit": 12,
+    "ID": 3,
     "MaxLevel": 7,
-    "ActivityModuleID": 5001400,
-    "ID": 3
+    "LongTailLimit": 12,
+    "IsAutoOffer": true,
+    "ItemID": 281024,
+    "UnlockID": 0,
+    "ActivityModuleID": 5001400
   },
   {
+    "ID": 4,
+    "MaxLevel": 20,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
     "ItemID": 281025,
     "UnlockID": 105101,
-    "MaxLevel": 20,
-    "ID": 4
+    "ActivityModuleID": 0
   },
   {
+    "ID": 5,
+    "MaxLevel": 16,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
     "ItemID": 270003,
     "UnlockID": 105301,
-    "MaxLevel": 16,
-    "ID": 5
+    "ActivityModuleID": 0
   },
   {
+    "ID": 6,
+    "MaxLevel": 50,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
     "ItemID": 120004,
     "UnlockID": 9943,
+    "ActivityModuleID": 0
+  },
+  {
+    "ID": 7,
+    "MaxLevel": 10,
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
+    "ItemID": 270004,
+    "UnlockID": 0,
+    "ActivityModuleID": 0
+  },
+  {
+    "ID": 8,
+    "MaxLevel": 20,
+    "LongTailLimit": 0,
+    "IsAutoOffer": true,
+    "ItemID": 281028,
+    "UnlockID": 0,
+    "ActivityModuleID": 0
+  },
+  {
+    "ID": 9,
+    "MaxLevel": 8,
+    "LongTailLimit": 0,
+    "IsAutoOffer": true,
+    "ItemID": 281029,
+    "UnlockID": 0,
+    "ActivityModuleID": 5004100
+  },
+  {
+    "ID": 10,
     "MaxLevel": 50,
-    "ID": 6
+    "LongTailLimit": 0,
+    "IsAutoOffer": false,
+    "ItemID": 120005,
+    "UnlockID": 9956,
+    "ActivityModuleID": 0
+  },
+  {
+    "ID": 11,
+    "MaxLevel": 80,
+    "LongTailLimit": 0,
+    "IsAutoOffer": true,
+    "ItemID": 281033,
+    "UnlockID": 0,
+    "ActivityModuleID": 0
   }
 ]

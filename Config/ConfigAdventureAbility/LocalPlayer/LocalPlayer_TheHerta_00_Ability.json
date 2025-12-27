@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_TheHerta_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 171798692
+                "FixedValue": {
+                  "RawValue": 171798692,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -239,8 +239,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 171798692
+                "FixedValue": {
+                  "RawValue": 171798692,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -376,8 +377,7 @@
     {
       "Name": "LocalPlayer_TheHerta_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -407,8 +407,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "TaskEnabled": true,
@@ -437,8 +438,25 @@
               },
               "ID": 140102,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
+                }
+              },
+              "DynamicValues": {
+                "BasicDamagePercentage": {
+                  "FixedValue": {
+                    "RawValue": -149061134974976,
+                    "Value": -34706.0,
+                    "Path": "LocalPlayer_TheHerta_00_Ability.AbilityList.1.OnStart.3.SuccessTaskList.0.DynamicValues.BasicDamagePercentage.FixedValue"
+                  }
+                },
+                "EliteDamagePercentage": {
+                  "FixedValue": {
+                    "RawValue": -149061134974976,
+                    "Value": -34706.0,
+                    "Path": "LocalPlayer_TheHerta_00_Ability.AbilityList.1.OnStart.3.SuccessTaskList.0.DynamicValues.EliteDamagePercentage.FixedValue"
+                  }
                 }
               },
               "TaskEnabled": true,
@@ -455,8 +473,9 @@
           },
           "ID": 140101,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -493,7 +512,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Merge"
+      "Stacking": "Merge",
+      "DynamicValues": {}
     }
   }
 }

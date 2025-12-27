@@ -2032,19 +2032,7 @@
           },
           "LocalRotationY": 274.5264,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010222,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010222
         },
         {
           "Identity": "Family_Normal",
@@ -2068,19 +2056,7 @@
           },
           "LocalRotationY": 179.7085,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040231,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040231
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10301001/MunicipalChatConfig_F10301001_0092.json",
@@ -2141,19 +2117,7 @@
             "sqrMagnitude": 0.543998837
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040228,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040228
         },
         {
           "Identity": "Tourist_Low",
@@ -2183,19 +2147,7 @@
           },
           "LocalRotationY": 253.3855,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040210,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040210
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -2274,19 +2226,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010318,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010318
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10301001/MunicipalChatConfig_F10301001_0083.json",

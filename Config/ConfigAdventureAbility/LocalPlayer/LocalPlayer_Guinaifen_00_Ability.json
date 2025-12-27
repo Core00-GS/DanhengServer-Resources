@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Guinaifen_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -96,38 +95,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 7730941136
+                    "FixedValue": {
+                      "RawValue": 7730941136,
+                      "Value": 1.8
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 85899346
+                    "FixedValue": {
+                      "RawValue": 85899346,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 201863461
+                    "FixedValue": {
+                      "RawValue": 201863461,
+                      "Value": 0.05
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 30064771072
+                    "FixedValue": {
+                      "RawValue": 30064771072,
+                      "Value": 7.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1503238553600
+                    "FixedValue": {
+                      "RawValue": 1503238553600,
+                      "Value": 350.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   }
                 }
@@ -143,8 +149,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 90194313
+                "FixedValue": {
+                  "RawValue": 90194313,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -175,8 +182,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 274877906
+                "FixedValue": {
+                  "RawValue": 274877906,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -271,23 +279,27 @@
                   "MovingRangeList": [
                     {
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 6442450946
+                        "FixedValue": {
+                          "RawValue": 6442450946,
+                          "Value": 1.5
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 85899346
+                        "FixedValue": {
+                          "RawValue": 85899346,
+                          "Value": 0.02
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 201863461
+                        "FixedValue": {
+                          "RawValue": 201863461,
+                          "Value": 0.05
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 6871947676
+                        "FixedValue": {
+                          "RawValue": 6871947676,
+                          "Value": 1.6
                         }
                       }
                     }
@@ -303,8 +315,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 274877906
+                    "FixedValue": {
+                      "RawValue": 274877906,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -408,23 +421,27 @@
                       "MovingRangeList": [
                         {
                           "OffsetTargetDistance": {
-                            "fixedValue": {
-                              "RawValue": 8589934592
+                            "FixedValue": {
+                              "RawValue": 8589934592,
+                              "Value": 2.0
                             }
                           },
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 85899346
+                            "FixedValue": {
+                              "RawValue": 85899346,
+                              "Value": 0.02
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 201863461
+                            "FixedValue": {
+                              "RawValue": 201863461,
+                              "Value": 0.05
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 5153960756
+                            "FixedValue": {
+                              "RawValue": 5153960756,
+                              "Value": 1.2
                             }
                           }
                         }
@@ -440,8 +457,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 274877906
+                        "FixedValue": {
+                          "RawValue": 274877906,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -544,8 +562,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 274877906
+                        "FixedValue": {
+                          "RawValue": 274877906,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -622,8 +641,7 @@
     {
       "Name": "LocalPlayer_Guinaifen_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -666,8 +684,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 377957120
+                "FixedValue": {
+                  "RawValue": 377957120,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -692,8 +711,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Guinaifen_00/Eff_Avatar_Guinaifen_00_MazeSkill_Firecracker_bullet.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Guinaifen_00/Eff_Avatar_Guinaifen_00_Common_Boom.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -834,8 +854,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 377957120
+                "FixedValue": {
+                  "RawValue": 377957120,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -860,8 +881,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Guinaifen_00/Eff_Avatar_Guinaifen_00_MazeSkill_Firecracker_bullet.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Guinaifen_00/Eff_Avatar_Guinaifen_00_Common_Boom.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 85899345920
+                  "FixedValue": {
+                    "RawValue": 85899345920,
+                    "Value": 20.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -984,5 +1006,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Guinaifen": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

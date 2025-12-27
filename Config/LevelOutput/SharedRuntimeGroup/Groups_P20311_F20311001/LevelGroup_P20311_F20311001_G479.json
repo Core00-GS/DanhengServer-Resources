@@ -14,13 +14,18 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.TreasureChest",
+      "TagHash": 1042911019
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
     {
-      "RotX": 271.9818,
-      "RotZ": 269.9998,
+      "RotX": 271.9817,
+      "RotZ": 269.9997,
       "Scale": {
         "x": 1.0,
         "y": 1.0,
@@ -44,7 +49,6 @@
       },
       "PropID": 60301,
       "LoadOnInitial": true,
-      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_TreasureBox_01.json",
       "ValueSource": {
         "Values": [],
         "SharedValues": []
@@ -53,8 +57,7 @@
         "Radius": 1.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "ChestClosed",
@@ -68,11 +71,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -84,7 +89,7 @@
         }
       },
       "Name": "Chest_01",
-      "RotY": 180.0002,
+      "RotY": 180.0003,
       "ID": 300001,
       "PosX": -119.572,
       "PosY": 35.422,
@@ -98,5 +103,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

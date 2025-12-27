@@ -61,8 +61,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 6.0,
-          "PointList": []
+          "Radius": 6.0
         }
       },
       "StateConfigs": [],
@@ -71,10 +70,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -122,8 +125,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 2.5,
-          "PointList": []
+          "Radius": 2.5
         }
       },
       "StateConfigs": [],
@@ -135,9 +137,13 @@
       "HideInStory": true,
       "PerformanceHideFlags": 15,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -185,8 +191,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 15.0,
-          "PointList": []
+          "Radius": 15.0
         }
       },
       "StateConfigs": [],
@@ -195,10 +200,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -236,7 +245,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -278,9 +289,12 @@
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 100010222,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -325,7 +339,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -370,7 +386,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -393,9 +411,9 @@
       "Name": "NPC4",
       "RotY": 102.0,
       "ID": 400004,
-      "PosX": -113.263,
+      "PosX": -111.68,
       "PosY": 16.25098,
-      "PosZ": -240.233
+      "PosZ": -241.06
     },
     {
       "NPCID": 14138,
@@ -414,7 +432,9 @@
       "DefaultIdleFreeStyleMotionID": 100010210,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -440,6 +460,56 @@
       "PosX": -121.7049,
       "PosY": 16.25098,
       "PosZ": -234.7045
+    },
+    {
+      "NPCID": 1403,
+      "ValueSource": {},
+      "DialogueTriggerAngle": 120,
+      "DialogueGroups": [],
+      "ServerInteractVerificationIDList": [],
+      "DefaultLookAtMode": "LookPlayer",
+      "BoardShowList": [
+        8
+      ],
+      "TalkDialogGroupIDList": [],
+      "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 314030000,
+      "AdditiveResidentEffect": [],
+      "BornType": "Mission",
+      "InitialHiddenNodeList": [],
+      "Dialog": {
+        "LevelGraph": "Config/Level/NPCDialogue/P10401/F10401001_G110/DialogueMain_F10401001_G110_N400006.json",
+        "PackList": [],
+        "EnableDialogCamera": true
+      },
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
+      "SpawnConfig": {
+        "TryCapture": true,
+        "CaptureDistanceTolerance": 1.5,
+        "EntitySpawnConfig": {
+          "NeedBlackIn": true,
+          "BlackInDistance": 25.0,
+          "NeedFadeIn": true,
+          "NeedFadeOut": true
+        }
+      },
+      "TriggerValidGuest": {
+        "LocalPlayer": true,
+        "Teammember": true
+      },
+      "Name": "NPC6",
+      "RotY": 346.03,
+      "ID": 400006,
+      "PosX": -113.886,
+      "PosY": 16.25098,
+      "PosZ": -240.605
     }
   ],
   "CrowdList": [],

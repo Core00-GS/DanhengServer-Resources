@@ -16,11 +16,11 @@
   "LoadOnInitial": true,
   "GroupStateList": [
     {
-      "Comment": "\u8fd8\u6ca1\u88ab\u5939 to \u88ab\u95e8\u5939\u8fc7",
+      "Comment": "还没被夹 to 被门夹过",
       "DstState": 1
     },
     {
-      "Comment": "\u88ab\u95e8\u5939\u8fc7  to \u8fd8\u6ca1\u88ab\u5939",
+      "Comment": "被门夹过  to 还没被夹",
       "SrcState": 1
     }
   ],
@@ -184,6 +184,9 @@
           "Color": "#4b4b4b"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],

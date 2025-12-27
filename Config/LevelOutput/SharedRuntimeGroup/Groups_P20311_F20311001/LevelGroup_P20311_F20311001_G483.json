@@ -1,10 +1,10 @@
 {
   "GroupName": "Find",
+  "Category": "Atmosphere",
   "LevelGraph": "Config/Level/GroupGraph/F20311001/Group_F20311001_G483.json",
   "AreaAnchorName": "LevelArea_P20311_F20311001_G483",
   "SaveType": "Reset",
-  "SavedValueCondition": {
-    "Conditions": [],
+  "AtmosphereCondition": {
     "Operation": "And"
   },
   "LoadOnInitial": true,
@@ -14,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Interactable",
+      "TagHash": 597667137
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -46,8 +51,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -64,17 +68,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228235,
         "Hash64": 13089900576647298539
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -120,8 +124,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -138,17 +141,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228236,
         "Hash64": 15559728543731144642
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -194,8 +197,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -212,17 +214,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228236,
         "Hash64": 15559728543731144642
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -268,8 +270,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -286,17 +287,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -341,8 +342,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -359,17 +359,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 1723370593,
         "Hash64": 16358209041595319153
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -415,8 +415,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -433,17 +432,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228233,
         "Hash64": 15099664445708325245
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -489,8 +488,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -507,17 +505,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -563,8 +561,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -581,17 +578,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -637,8 +634,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -655,17 +651,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -711,8 +707,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -729,17 +724,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -785,8 +780,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -803,17 +797,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -859,8 +853,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -877,17 +870,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -933,8 +926,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -951,17 +943,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1019,8 +1011,7 @@
           },
           "magnitude": 4.214748,
           "sqrMagnitude": 17.7641
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1037,17 +1028,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1093,8 +1084,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1111,17 +1101,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1167,8 +1157,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1185,17 +1174,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1241,8 +1230,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1259,17 +1247,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1320,8 +1308,7 @@
           "x": -1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1338,17 +1325,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1394,8 +1381,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1412,17 +1398,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1468,8 +1454,7 @@
         "Radius": 5.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1486,17 +1471,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1542,8 +1527,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1560,17 +1544,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1616,8 +1600,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1634,17 +1617,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1691,8 +1674,7 @@
         "Radius": 5.0,
         "DimX": 8.0,
         "DimY": 2.0,
-        "DimZ": 3.0,
-        "PointList": []
+        "DimZ": 3.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1709,17 +1691,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228231,
         "Hash64": 3117713053112783257
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1766,8 +1748,7 @@
         "Radius": 5.0,
         "DimX": 8.0,
         "DimY": 2.0,
-        "DimZ": 3.0,
-        "PointList": []
+        "DimZ": 3.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1784,17 +1765,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228231,
         "Hash64": 3117713053112783257
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1839,8 +1820,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1852,12 +1832,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1902,8 +1883,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1915,12 +1895,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1965,8 +1946,7 @@
         "Radius": 3.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -1978,12 +1958,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2030,8 +2011,7 @@
         "Radius": 3.5,
         "DimX": 2.0,
         "DimY": 2.0,
-        "DimZ": 9.0,
-        "PointList": []
+        "DimZ": 9.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2048,17 +2028,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228232,
         "Hash64": 13590165601623586963
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2104,8 +2084,7 @@
         "Radius": 4.5,
         "DimX": 2.0,
         "DimY": 2.0,
-        "DimZ": 9.0,
-        "PointList": []
+        "DimZ": 9.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2122,17 +2101,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2178,8 +2157,7 @@
         "Radius": 3.5,
         "DimX": 2.0,
         "DimY": 2.0,
-        "DimZ": 9.0,
-        "PointList": []
+        "DimZ": 9.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2196,17 +2174,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2252,8 +2230,7 @@
         "Radius": 4.5,
         "DimX": 3.0,
         "DimY": 2.0,
-        "DimZ": 11.0,
-        "PointList": []
+        "DimZ": 11.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2270,17 +2247,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2326,8 +2303,7 @@
         "Radius": 3.5,
         "DimX": 2.0,
         "DimY": 2.0,
-        "DimZ": 9.0,
-        "PointList": []
+        "DimZ": 9.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2344,17 +2320,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2400,8 +2376,7 @@
         "Radius": 3.5,
         "DimX": 2.0,
         "DimY": 2.0,
-        "DimZ": 9.0,
-        "PointList": []
+        "DimZ": 9.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2418,17 +2393,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228229,
         "Hash64": 8048305468877258158
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2484,8 +2459,7 @@
           },
           "magnitude": 4.45,
           "sqrMagnitude": 19.8024979
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -2502,17 +2476,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": -602228230,
         "Hash64": 6217460781025767381
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -2537,5 +2511,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

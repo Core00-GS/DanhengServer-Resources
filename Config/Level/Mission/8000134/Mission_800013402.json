@@ -10,13 +10,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 309237645312
+                  "FixedValue": {
+                    "RawValue": 309237645312,
+                    "Value": 72.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -36,13 +38,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 309237645312
+                  "FixedValue": {
+                    "RawValue": 309237645312,
+                    "Value": 72.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -75,13 +79,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 309237645312
+                  "FixedValue": {
+                    "RawValue": 309237645312,
+                    "Value": 72.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -103,8 +109,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2576980380
+            "FixedValue": {
+              "RawValue": 2576980380,
+              "Value": 0.6
             }
           },
           "MaxAdvencePerTick": -1.0,

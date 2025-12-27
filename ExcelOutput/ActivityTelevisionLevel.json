@@ -1,29 +1,5 @@
 [
   {
-    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle01.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [
-      20.0
-    ],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      3002051,
-      2024014,
-      1004011
-    ],
-    "TargetTextList": [
-      {
-        "Hash": -1293614005,
-        "Hash64": 12423621184827415367
-      },
-      {
-        "Hash": -890329478,
-        "Hash64": 6087417648307933468
-      }
-    ],
     "SpecialAvatarList": [
       3021006,
       3021303,
@@ -31,12 +7,24 @@
       3021110,
       3021214
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      100.0,
+      50.0,
+      60.0
+    ],
+    "MonsterList": [
+      3002051,
+      2024014,
+      1004011
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       4,
       8,
       12
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle01.png",
     "AllMonsterList": [
       3002051,
       2013010,
@@ -48,56 +36,6 @@
       8003041,
       1004011
     ],
-    "ParmList": [
-      100.0,
-      50.0,
-      60.0
-    ],
-    "RecommadNature": [
-      "Quantum"
-    ],
-    "BuffDesc": {
-      "Hash": -479757657,
-      "Hash64": 12577405363125881862
-    },
-    "UIEnterBattleAreaID": 2031102,
-    "BuffTips": {
-      "Hash": -1321909134,
-      "Hash64": 8836876089658519468
-    },
-    "MonsterBuffTips": {
-      "Hash": 1505404688,
-      "Hash64": 4804298768494049085
-    },
-    "MonsterBuffDesc": {
-      "Hash": 355965243,
-      "Hash64": 12649482857836573305
-    },
-    "TelevisionID": 2,
-    "MonsterBuffShortDesc": {
-      "Hash": 1437595645,
-      "Hash64": 16661573903982373453
-    },
-    "BuffShortDesc": {
-      "Hash": -1505475879,
-      "Hash64": 14087162483382905294
-    },
-    "MazeBuffID": 3105004,
-    "EventID": 413004
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle02.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      3003011,
-      2004010,
-      2004021
-    ],
     "TargetTextList": [
       {
         "Hash": -1293614005,
@@ -108,6 +46,50 @@
         "Hash64": 6087417648307933468
       }
     ],
+    "MonsterParmList": [
+      20.0
+    ],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Quantum"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": -479757657,
+      "Hash64": 12577405363125881862
+    },
+    "MonsterBuffTips": {
+      "Hash": 1505404688,
+      "Hash64": 4804298768494049085
+    },
+    "FirstMonsterWave": 0,
+    "EventID": 413004,
+    "MazeBuffID": 3105004,
+    "UIEnterBattleAreaID": 2031102,
+    "BuffShortDesc": {
+      "Hash": -1505475879,
+      "Hash64": 14087162483382905294
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 1437595645,
+      "Hash64": 16661573903982373453
+    },
+    "MonsterBuffDesc": {
+      "Hash": 355965243,
+      "Hash64": 12649482857836573305
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 2,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": -1321909134,
+      "Hash64": 8836876089658519468
+    }
+  },
+  {
     "SpecialAvatarList": [
       3021307,
       3021005,
@@ -115,12 +97,22 @@
       3021108,
       3021111
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      50.0
+    ],
+    "MonsterList": [
+      3003011,
+      2004010,
+      2004021
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       5,
       9,
       13
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle02.png",
     "AllMonsterList": [
       3003011,
       8003030,
@@ -131,55 +123,6 @@
       2023011,
       2004021
     ],
-    "ParmList": [
-      50.0
-    ],
-    "RecommadNature": [
-      "Wind"
-    ],
-    "BuffDesc": {
-      "Hash": -2045841598,
-      "Hash64": 4696495350002083869
-    },
-    "UIEnterBattleAreaID": 1030101,
-    "BuffTips": {
-      "Hash": 1406974221,
-      "Hash64": 10094710982645686655
-    },
-    "MonsterBuffTips": {
-      "Hash": 1505404689,
-      "Hash64": 8091298900071447695
-    },
-    "MonsterBuffDesc": {
-      "Hash": 355965244,
-      "Hash64": 13350712856708661515
-    },
-    "TelevisionID": 3,
-    "MonsterBuffShortDesc": {
-      "Hash": -128488296,
-      "Hash64": 18178241105082545314
-    },
-    "BuffShortDesc": {
-      "Hash": -1505475878,
-      "Hash64": 3191295813026638342
-    },
-    "MazeBuffID": 3105001,
-    "EventID": 413001,
-    "ExtraEffectID": 70000101
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle03.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      3003021,
-      1004010,
-      1014011
-    ],
     "TargetTextList": [
       {
         "Hash": -1293614005,
@@ -190,6 +133,48 @@
         "Hash64": 6087417648307933468
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Wind"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": -2045841598,
+      "Hash64": 4696495350002083869
+    },
+    "MonsterBuffTips": {
+      "Hash": 1505404689,
+      "Hash64": 8091298900071447695
+    },
+    "FirstMonsterWave": 0,
+    "EventID": 413001,
+    "MazeBuffID": 3105001,
+    "UIEnterBattleAreaID": 1030101,
+    "BuffShortDesc": {
+      "Hash": -1505475878,
+      "Hash64": 3191295813026638342
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": -128488296,
+      "Hash64": 18178241105082545314
+    },
+    "MonsterBuffDesc": {
+      "Hash": 355965244,
+      "Hash64": 13350712856708661515
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 3,
+    "ExtraEffectID": 70000101,
+    "BuffTips": {
+      "Hash": 1406974221,
+      "Hash64": 10094710982645686655
+    }
+  },
+  {
     "SpecialAvatarList": [
       3021104,
       3021112,
@@ -197,12 +182,24 @@
       3021107,
       3021001
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      10.0,
+      10.0,
+      300.0
+    ],
+    "MonsterList": [
+      3003021,
+      1004010,
+      1014011
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       20,
       30,
       40
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle03.png",
     "AllMonsterList": [
       3003021,
       8003050,
@@ -213,57 +210,6 @@
       8003041,
       1014011
     ],
-    "ParmList": [
-      10.0,
-      10.0,
-      300.0
-    ],
-    "RecommadNature": [
-      "Fire"
-    ],
-    "BuffDesc": {
-      "Hash": 1086326284,
-      "Hash64": 15574325411061193872
-    },
-    "UIEnterBattleAreaID": 1030101,
-    "BuffTips": {
-      "Hash": 244174807,
-      "Hash64": 12658970613839224146
-    },
-    "MonsterBuffTips": {
-      "Hash": 1505404691,
-      "Hash64": 7669036792698121707
-    },
-    "MonsterBuffDesc": {
-      "Hash": 355965246,
-      "Hash64": 7972151084218676861
-    },
-    "TelevisionID": 1,
-    "MonsterBuffShortDesc": {
-      "Hash": 1034311118,
-      "Hash64": 3891591485341376362
-    },
-    "BuffShortDesc": {
-      "Hash": -1505475880,
-      "Hash64": 5991921252369551374
-    },
-    "MazeBuffID": 3105002,
-    "EventID": 413002,
-    "ExtraEffectID": 70000102
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle04.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      300201001,
-      1004030,
-      1004022
-    ],
     "TargetTextList": [
       {
         "Hash": -1293614005,
@@ -274,6 +220,48 @@
         "Hash64": 6087417648307933468
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Fire"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": 1086326284,
+      "Hash64": 15574325411061193872
+    },
+    "MonsterBuffTips": {
+      "Hash": 1505404691,
+      "Hash64": 7669036792698121707
+    },
+    "FirstMonsterWave": 0,
+    "EventID": 413002,
+    "MazeBuffID": 3105002,
+    "UIEnterBattleAreaID": 1030101,
+    "BuffShortDesc": {
+      "Hash": -1505475880,
+      "Hash64": 5991921252369551374
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 1034311118,
+      "Hash64": 3891591485341376362
+    },
+    "MonsterBuffDesc": {
+      "Hash": 355965246,
+      "Hash64": 7972151084218676861
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 1,
+    "ExtraEffectID": 70000102,
+    "BuffTips": {
+      "Hash": 244174807,
+      "Hash64": 12658970613839224146
+    }
+  },
+  {
     "SpecialAvatarList": [
       3021213,
       3021306,
@@ -281,12 +269,23 @@
       3021203,
       3021206
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      4.0,
+      4.0
+    ],
+    "MonsterList": [
+      300201001,
+      1004030,
+      1004022
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       12,
       21,
       30
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle04.png",
     "AllMonsterList": [
       300201001,
       8033010,
@@ -298,67 +297,58 @@
       1013021,
       1004022
     ],
-    "ParmList": [
-      4.0,
-      4.0
-    ],
-    "RecommadNature": [
-      "Imaginary"
-    ],
-    "BuffDesc": {
-      "Hash": 326811397,
-      "Hash64": 1789821196128942097
-    },
-    "UIEnterBattleAreaID": 2031301,
-    "BuffTips": {
-      "Hash": -159109720,
-      "Hash64": 9802899638985190454
-    },
-    "MonsterBuffTips": {
-      "Hash": 1505404694,
-      "Hash64": 17787574843615771688
-    },
-    "MonsterBuffDesc": {
-      "Hash": 355965241,
-      "Hash64": 8819671162751907207
-    },
-    "TelevisionID": 4,
-    "MonsterBuffShortDesc": {
-      "Hash": 631026591,
-      "Hash64": 17748627054326224027
-    },
-    "BuffShortDesc": {
-      "Hash": -1505475885,
-      "Hash64": 8641152027363437447
-    },
-    "MazeBuffID": 3105003,
-    "EventID": 413003
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle05.png",
-    "MazeBuffMulList": [],
-    "PreTelevisionList": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "MonsterParmList": [],
-    "AvailableBuffList": [
-      3105004,
-      3105003,
-      3105001,
-      3105002
-    ],
-    "MonsterList": [
-      3014021
-    ],
     "TargetTextList": [
+      {
+        "Hash": -1293614005,
+        "Hash64": 12423621184827415367
+      },
       {
         "Hash": -890329478,
         "Hash64": 6087417648307933468
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Imaginary"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": 326811397,
+      "Hash64": 1789821196128942097
+    },
+    "MonsterBuffTips": {
+      "Hash": 1505404694,
+      "Hash64": 17787574843615771688
+    },
+    "FirstMonsterWave": 0,
+    "EventID": 413003,
+    "MazeBuffID": 3105003,
+    "UIEnterBattleAreaID": 2031301,
+    "BuffShortDesc": {
+      "Hash": -1505475885,
+      "Hash64": 8641152027363437447
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 631026591,
+      "Hash64": 17748627054326224027
+    },
+    "MonsterBuffDesc": {
+      "Hash": 355965241,
+      "Hash64": 8819671162751907207
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 4,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": -159109720,
+      "Hash64": 9802899638985190454
+    }
+  },
+  {
     "SpecialAvatarList": [
       3021006,
       3021303,
@@ -380,8 +370,27 @@
       3021107,
       3021001
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      30.0,
+      50.0
+    ],
+    "MonsterList": [
+      3014021
+    ],
+    "PreTelevisionList": [
+      1,
+      2,
+      3,
+      4
+    ],
     "BuffShowLevelList": [],
+    "AvailableBuffList": [
+      3105004,
+      3105003,
+      3105001,
+      3105002
+    ],
+    "MonsterPic": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle05.png",
     "AllMonsterList": [
       2023020,
       2023010,
@@ -389,49 +398,52 @@
       8003041,
       3014021
     ],
-    "ParmList": [
-      30.0,
-      50.0
+    "TargetTextList": [
+      {
+        "Hash": -890329478,
+        "Hash64": 6087417648307933468
+      }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
     "RecommadNature": [
       "Wind"
     ],
+    "MazeBuffMulList": [],
+    "BuffDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MonsterBuffTips": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "FirstMonsterWave": 0,
+    "EventID": 413005,
+    "MazeBuffID": 3105005,
     "UIEnterBattleAreaID": 2031101,
+    "BuffShortDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MonsterBuffDesc": {
       "Hash": 355965242,
       "Hash64": 12754681130250135877
     },
-    "TelevisionID": 5,
     "BuffCount": 2,
-    "MazeBuffID": 3105005,
-    "EventID": 413005
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 5,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster01Middle.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [
-      50.0,
-      50.0
-    ],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      401202104,
-      101401015,
-      202401202
-    ],
-    "TargetTextList": [
-      {
-        "Hash": -880625955,
-        "Hash64": 14820497805443725316
-      },
-      {
-        "Hash": -880625958,
-        "Hash64": 1752973402542913190
-      }
-    ],
     "SpecialAvatarList": [
       3231317,
       3231225,
@@ -440,17 +452,26 @@
       3238006,
       3238005
     ],
-    "ExtraInfoMonsterIDList": [
-      3003013,
-      3002011,
-      3002021,
-      3002041
+    "ParmList": [
+      100.0,
+      150.0,
+      3.0,
+      150.0,
+      50.0
     ],
+    "MonsterList": [
+      401202104,
+      101401015,
+      202401202
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       10,
       14,
       18
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster01Middle.png",
     "AllMonsterList": [
       9002325,
       2024010,
@@ -468,61 +489,6 @@
       202201015,
       2032010
     ],
-    "ParmList": [
-      100.0,
-      150.0,
-      3.0,
-      150.0,
-      50.0
-    ],
-    "RecommadNature": [
-      "Imaginary",
-      "Fire"
-    ],
-    "BuffDesc": {
-      "Hash": 635405799,
-      "Hash64": 9632938929582689638
-    },
-    "ExtraInfoMonsterWave": 15,
-    "UIEnterBattleAreaID": 1040101,
-    "BuffTips": {
-      "Hash": 39132306,
-      "Hash64": 7298530817135742474
-    },
-    "MonsterBuffTips": {
-      "Hash": -1148792112,
-      "Hash64": 12403252044772157767
-    },
-    "MonsterBuffDesc": {
-      "Hash": 999333275,
-      "Hash64": 5879740316512088526
-    },
-    "TelevisionID": 301,
-    "MonsterBuffShortDesc": {
-      "Hash": -516444675,
-      "Hash64": 18363957738363615943
-    },
-    "BuffShortDesc": {
-      "Hash": -1723602951,
-      "Hash64": 8550249731327729983
-    },
-    "FirstMonsterWave": 16,
-    "MazeBuffID": 3130001,
-    "EventID": 422001
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster02Middle.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      4012051,
-      3024012,
-      200401201
-    ],
     "TargetTextList": [
       {
         "Hash": -880625955,
@@ -533,6 +499,57 @@
         "Hash64": 1752973402542913190
       }
     ],
+    "MonsterParmList": [
+      50.0,
+      50.0
+    ],
+    "ExtraInfoMonsterIDList": [
+      3003013,
+      3002011,
+      3002021,
+      3002041
+    ],
+    "RecommadNature": [
+      "Imaginary",
+      "Fire"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": 635405799,
+      "Hash64": 9632938929582689638
+    },
+    "MonsterBuffTips": {
+      "Hash": -1148792112,
+      "Hash64": 12403252044772157767
+    },
+    "FirstMonsterWave": 16,
+    "EventID": 422001,
+    "MazeBuffID": 3130001,
+    "UIEnterBattleAreaID": 1040101,
+    "BuffShortDesc": {
+      "Hash": -1723602951,
+      "Hash64": 8550249731327729983
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": -516444675,
+      "Hash64": 18363957738363615943
+    },
+    "MonsterBuffDesc": {
+      "Hash": 999333275,
+      "Hash64": 5879740316512088526
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 15,
+    "TelevisionID": 301,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": 39132306,
+      "Hash64": 7298530817135742474
+    }
+  },
+  {
     "SpecialAvatarList": [
       3231401,
       3231306,
@@ -540,12 +557,24 @@
       3231013,
       3231302
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      25.0,
+      150.0,
+      20.0
+    ],
+    "MonsterList": [
+      4012051,
+      3024012,
+      200401201
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       15,
       30,
       43
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster02Middle.png",
     "AllMonsterList": [
       401205102,
       3024010,
@@ -566,57 +595,6 @@
       3021021,
       8001030
     ],
-    "ParmList": [
-      25.0,
-      150.0,
-      20.0
-    ],
-    "RecommadNature": [
-      "Ice"
-    ],
-    "BuffDesc": {
-      "Hash": -2093477556,
-      "Hash64": 12909498332755440028
-    },
-    "UIEnterBattleAreaID": 1040101,
-    "BuffTips": {
-      "Hash": 1605216247,
-      "Hash64": 8672117199798458847
-    },
-    "MonsterBuffTips": {
-      "Hash": -1148792109,
-      "Hash64": 15321703575004534300
-    },
-    "MonsterBuffDesc": {
-      "Hash": 999333278,
-      "Hash64": 8947590062537726755
-    },
-    "TelevisionID": 302,
-    "MonsterBuffShortDesc": {
-      "Hash": -919729202,
-      "Hash64": 6722687097299093384
-    },
-    "BuffShortDesc": {
-      "Hash": -1723602952,
-      "Hash64": 11971515795815076847
-    },
-    "FirstMonsterWave": 9,
-    "MazeBuffID": 3130003,
-    "EventID": 422003
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster03Middle.png",
-    "MazeBuffMulList": [
-      3
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      4013011,
-      2004020,
-      2034012
-    ],
     "TargetTextList": [
       {
         "Hash": -880625955,
@@ -627,6 +605,48 @@
         "Hash64": 1752973402542913190
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Ice"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": -2093477556,
+      "Hash64": 12909498332755440028
+    },
+    "MonsterBuffTips": {
+      "Hash": -1148792109,
+      "Hash64": 15321703575004534300
+    },
+    "FirstMonsterWave": 9,
+    "EventID": 422003,
+    "MazeBuffID": 3130003,
+    "UIEnterBattleAreaID": 1040101,
+    "BuffShortDesc": {
+      "Hash": -1723602952,
+      "Hash64": 11971515795815076847
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": -919729202,
+      "Hash64": 6722687097299093384
+    },
+    "MonsterBuffDesc": {
+      "Hash": 999333278,
+      "Hash64": 8947590062537726755
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 302,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": 1605216247,
+      "Hash64": 8672117199798458847
+    }
+  },
+  {
     "SpecialAvatarList": [
       3231220,
       3231309,
@@ -634,12 +654,24 @@
       3231224,
       3231223
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      5.0,
+      80.0,
+      150.0
+    ],
+    "MonsterList": [
+      4013011,
+      2004020,
+      2034012
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       8,
       15,
       20
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster03Middle.png",
     "AllMonsterList": [
       2022040,
       2022110,
@@ -654,57 +686,6 @@
       8032010,
       8022030
     ],
-    "ParmList": [
-      5.0,
-      80.0,
-      150.0
-    ],
-    "RecommadNature": [
-      "Wind"
-    ],
-    "BuffDesc": {
-      "Hash": -527393615,
-      "Hash64": 17200172322853744355
-    },
-    "UIEnterBattleAreaID": 2041302,
-    "BuffTips": {
-      "Hash": -1123667108,
-      "Hash64": 4951253889341788061
-    },
-    "MonsterBuffTips": {
-      "Hash": -1148792110,
-      "Hash64": 1581975654496979072
-    },
-    "MonsterBuffDesc": {
-      "Hash": 999333277,
-      "Hash64": 17681203785398426783
-    },
-    "TelevisionID": 303,
-    "MonsterBuffShortDesc": {
-      "Hash": 646354739,
-      "Hash64": 7712054765628131996
-    },
-    "BuffShortDesc": {
-      "Hash": -1723602953,
-      "Hash64": 2247061887349153645
-    },
-    "FirstMonsterWave": 9,
-    "MazeBuffID": 3130004,
-    "EventID": 422004
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster04Middle.png",
-    "MazeBuffMulList": [
-      2
-    ],
-    "PreTelevisionList": [],
-    "MonsterParmList": [],
-    "AvailableBuffList": [],
-    "MonsterList": [
-      4012031,
-      100402015,
-      1004011
-    ],
     "TargetTextList": [
       {
         "Hash": -880625955,
@@ -715,6 +696,48 @@
         "Hash64": 1752973402542913190
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Wind"
+    ],
+    "MazeBuffMulList": [
+      3
+    ],
+    "BuffDesc": {
+      "Hash": -527393615,
+      "Hash64": 17200172322853744355
+    },
+    "MonsterBuffTips": {
+      "Hash": -1148792110,
+      "Hash64": 1581975654496979072
+    },
+    "FirstMonsterWave": 9,
+    "EventID": 422004,
+    "MazeBuffID": 3130004,
+    "UIEnterBattleAreaID": 2041302,
+    "BuffShortDesc": {
+      "Hash": -1723602953,
+      "Hash64": 2247061887349153645
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 646354739,
+      "Hash64": 7712054765628131996
+    },
+    "MonsterBuffDesc": {
+      "Hash": 999333277,
+      "Hash64": 17681203785398426783
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 303,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": -1123667108,
+      "Hash64": 4951253889341788061
+    }
+  },
+  {
     "SpecialAvatarList": [
       3231402,
       3231313,
@@ -723,12 +746,25 @@
       3238007,
       3231009
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      70.0,
+      10.0,
+      5.0,
+      3.0
+    ],
+    "MonsterList": [
+      4012031,
+      100402015,
+      1004011
+    ],
+    "PreTelevisionList": [],
     "BuffShowLevelList": [
       8,
       16,
       24
     ],
+    "AvailableBuffList": [],
+    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster04Middle.png",
     "AllMonsterList": [
       4012031,
       2004024,
@@ -747,71 +783,58 @@
       2022050,
       2011010
     ],
-    "ParmList": [
-      70.0,
-      10.0,
-      5.0,
-      3.0
-    ],
-    "RecommadNature": [
-      "Thunder"
-    ],
-    "BuffDesc": {
-      "Hash": 1038690326,
-      "Hash64": 2205166455167147946
-    },
-    "UIEnterBattleAreaID": 2041201,
-    "BuffTips": {
-      "Hash": 798647193,
-      "Hash64": 12995963441927726386
-    },
-    "MonsterBuffTips": {
-      "Hash": -1148792107,
-      "Hash64": 164223610350171250
-    },
-    "MonsterBuffDesc": {
-      "Hash": 999333272,
-      "Hash64": 14448645816057608828
-    },
-    "TelevisionID": 304,
-    "MonsterBuffShortDesc": {
-      "Hash": 243070212,
-      "Hash64": 14912461175986547761
-    },
-    "BuffShortDesc": {
-      "Hash": -1723602954,
-      "Hash64": 1837727284299184225
-    },
-    "FirstMonsterWave": 11,
-    "MazeBuffID": 3130002,
-    "EventID": 422002
-  },
-  {
-    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster05Middle.png",
-    "MazeBuffMulList": [],
-    "PreTelevisionList": [
-      301,
-      302,
-      303,
-      304
-    ],
-    "MonsterParmList": [],
-    "AvailableBuffList": [
-      3130004,
-      3130003,
-      3130001,
-      3130002
-    ],
-    "MonsterList": [
-      4014012,
-      4014020
-    ],
     "TargetTextList": [
+      {
+        "Hash": -880625955,
+        "Hash64": 14820497805443725316
+      },
       {
         "Hash": -880625958,
         "Hash64": 1752973402542913190
       }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
+    "RecommadNature": [
+      "Thunder"
+    ],
+    "MazeBuffMulList": [
+      2
+    ],
+    "BuffDesc": {
+      "Hash": 1038690326,
+      "Hash64": 2205166455167147946
+    },
+    "MonsterBuffTips": {
+      "Hash": -1148792107,
+      "Hash64": 164223610350171250
+    },
+    "FirstMonsterWave": 11,
+    "EventID": 422002,
+    "MazeBuffID": 3130002,
+    "UIEnterBattleAreaID": 2041201,
+    "BuffShortDesc": {
+      "Hash": -1723602954,
+      "Hash64": 1837727284299184225
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 243070212,
+      "Hash64": 14912461175986547761
+    },
+    "MonsterBuffDesc": {
+      "Hash": 999333272,
+      "Hash64": 14448645816057608828
+    },
+    "BuffCount": 0,
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 304,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": 798647193,
+      "Hash64": 12995963441927726386
+    }
+  },
+  {
     "SpecialAvatarList": [
       3231220,
       3231309,
@@ -836,8 +859,28 @@
       3238007,
       3231009
     ],
-    "ExtraInfoMonsterIDList": [],
+    "ParmList": [
+      30.0,
+      50.0
+    ],
+    "MonsterList": [
+      4014012,
+      4014020
+    ],
+    "PreTelevisionList": [
+      301,
+      302,
+      303,
+      304
+    ],
     "BuffShowLevelList": [],
+    "AvailableBuffList": [
+      3130004,
+      3130003,
+      3130001,
+      3130002
+    ],
+    "MonsterPic": "SpriteOutput/Quest/Television/Season2/TVSeason2MonsterMiddle/TV2Monster05Middle.png",
     "AllMonsterList": [
       2023020,
       2023010,
@@ -845,23 +888,50 @@
       8003041,
       3014021
     ],
-    "ParmList": [
-      30.0,
-      50.0
+    "TargetTextList": [
+      {
+        "Hash": -880625958,
+        "Hash64": 1752973402542913190
+      }
     ],
+    "MonsterParmList": [],
+    "ExtraInfoMonsterIDList": [],
     "RecommadNature": [
       "Ice",
       "Thunder"
     ],
+    "MazeBuffMulList": [],
+    "BuffDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MonsterBuffTips": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "FirstMonsterWave": 1,
+    "EventID": 422005,
+    "MazeBuffID": 3130005,
     "UIEnterBattleAreaID": 2041103,
+    "BuffShortDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MonsterBuffShortDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MonsterBuffDesc": {
       "Hash": 999333271,
       "Hash64": 10331090814007822235
     },
-    "TelevisionID": 305,
     "BuffCount": 2,
-    "FirstMonsterWave": 1,
-    "MazeBuffID": 3130005,
-    "EventID": 422005
+    "ExtraInfoMonsterWave": 0,
+    "TelevisionID": 305,
+    "ExtraEffectID": 0,
+    "BuffTips": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

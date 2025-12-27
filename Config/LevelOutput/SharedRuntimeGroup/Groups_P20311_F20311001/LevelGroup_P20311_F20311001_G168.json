@@ -40,6 +40,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Gameplay",
+      "TagHash": -141571921
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -69,7 +75,6 @@
       },
       "PropID": 103025,
       "LoadOnInitial": true,
-      "InitLevelGraph": "Config/Level/Props/Chap03/InitLevelGraph_Prop_Chap03_OrigamiBird_01.json",
       "ValueSource": {
         "Values": [
           {
@@ -133,8 +138,7 @@
             },
             "magnitude": 1.118034,
             "sqrMagnitude": 1.25
-          },
-          "PointList": []
+          }
         }
       },
       "DialogueTriggerAngle": 120,
@@ -142,11 +146,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -210,11 +216,13 @@
           "IconID": 158
         }
       ],
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -259,8 +267,13 @@
       "DefaultIdleFreeStyleMotionID": 900090266,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 10.0,
@@ -286,5 +299,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

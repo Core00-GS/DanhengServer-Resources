@@ -70,8 +70,7 @@
         "Radius": 3.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 3.5,
-        "PointList": []
+        "DimZ": 3.5
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -88,8 +87,13 @@
       "TalkChosenType": "loop",
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -115,6 +119,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

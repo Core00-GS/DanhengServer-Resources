@@ -49,7 +49,9 @@
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "ButtonIcon": "SpriteOutput/TalkIcon/CheckIcon.png",
-          "IconType": "BoxIcon",
+          "IconType": {
+            "JsonValueStr": "BoxIcon"
+          },
           "ButtonText": {
             "Hash": -199246934,
             "Hash64": 12134815815030641458
@@ -71,13 +73,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 115964116992
+                "FixedValue": {
+                  "RawValue": 115964116992,
+                  "Value": 27.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }

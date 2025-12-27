@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }
@@ -34,17 +36,20 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 60129542144
+                    "FixedValue": {
+                      "RawValue": 60129542144,
+                      "Value": 14.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288524548538368
+                    "FixedValue": {
+                      "RawValue": 1288524548538368,
+                      "Value": 300008.0
                     }
                   }
                 }
               },
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -91,13 +96,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 60129542144
+                    "FixedValue": {
+                      "RawValue": 60129542144,
+                      "Value": 14.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288494483767296
+                    "FixedValue": {
+                      "RawValue": 1288494483767296,
+                      "Value": 300001.0
                     }
                   }
                 }
@@ -121,13 +128,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -145,17 +154,20 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 60129542144
+                    "FixedValue": {
+                      "RawValue": 60129542144,
+                      "Value": 14.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288524548538368
+                    "FixedValue": {
+                      "RawValue": 1288524548538368,
+                      "Value": 300008.0
                     }
                   }
                 }
               },
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

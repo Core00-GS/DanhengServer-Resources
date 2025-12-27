@@ -1,715 +1,1427 @@
 [
   {
     "UnlockFinishWay": 10100,
-    "RogueUnlockID": 1
+    "RogueUnlockID": 1,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10101,
-    "RogueUnlockID": 2
+    "RogueUnlockID": 2,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10102,
-    "RogueUnlockID": 3
+    "RogueUnlockID": 3,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10103,
-    "RogueUnlockID": 4
+    "RogueUnlockID": 4,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10104,
-    "RogueUnlockID": 5
+    "RogueUnlockID": 5,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10105,
-    "RogueUnlockID": 6
+    "RogueUnlockID": 6,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10106,
-    "RogueUnlockID": 7
+    "RogueUnlockID": 7,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10107,
-    "RogueUnlockID": 8
+    "RogueUnlockID": 8,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10108,
-    "RogueUnlockID": 9
+    "RogueUnlockID": 9,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10200,
-    "RogueUnlockID": 10
+    "RogueUnlockID": 10,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10201,
-    "RogueUnlockID": 11
+    "RogueUnlockID": 11,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10501,
-    "RogueUnlockID": 21
+    "RogueUnlockID": 21,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 22
+    "RogueUnlockID": 22,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 23
+    "RogueUnlockID": 23,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 24
+    "RogueUnlockID": 24,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 25
+    "RogueUnlockID": 25,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10506,
-    "RogueUnlockID": 26
+    "RogueUnlockID": 26,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10507,
-    "RogueUnlockID": 27
+    "RogueUnlockID": 27,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10508,
-    "RogueUnlockID": 28
+    "RogueUnlockID": 28,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10509,
-    "RogueUnlockID": 29
+    "RogueUnlockID": 29,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10100,
-    "RogueUnlockID": 101
+    "RogueUnlockID": 101,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12002,
-    "RogueUnlockID": 102
+    "RogueUnlockID": 102,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12001,
-    "RogueUnlockID": 103
+    "RogueUnlockID": 103,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12004,
-    "RogueUnlockID": 104
+    "RogueUnlockID": 104,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12005,
-    "RogueUnlockID": 105
+    "RogueUnlockID": 105,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12006,
-    "RogueUnlockID": 106
+    "RogueUnlockID": 106,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 612020
+    "RogueUnlockID": 612020,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612021
+    "RogueUnlockID": 612021,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612022
+    "RogueUnlockID": 612022,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612023
+    "RogueUnlockID": 612023,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 612120
+    "RogueUnlockID": 612120,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612121
+    "RogueUnlockID": 612121,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612122
+    "RogueUnlockID": 612122,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612123
+    "RogueUnlockID": 612123,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10404,
-    "RogueUnlockID": 612220
+    "RogueUnlockID": 612220,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10405,
-    "RogueUnlockID": 612221
+    "RogueUnlockID": 612221,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10405,
-    "RogueUnlockID": 612222
+    "RogueUnlockID": 612222,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10405,
-    "RogueUnlockID": 612223
+    "RogueUnlockID": 612223,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10303,
-    "RogueUnlockID": 612413
+    "RogueUnlockID": 612413,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10310,
-    "RogueUnlockID": 612414
+    "RogueUnlockID": 612414,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10317,
-    "RogueUnlockID": 612415
+    "RogueUnlockID": 612415,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10424,
-    "RogueUnlockID": 612520
+    "RogueUnlockID": 612520,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10425,
-    "RogueUnlockID": 612521
+    "RogueUnlockID": 612521,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10425,
-    "RogueUnlockID": 612522
+    "RogueUnlockID": 612522,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10425,
-    "RogueUnlockID": 612523
+    "RogueUnlockID": 612523,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10414,
-    "RogueUnlockID": 612320
+    "RogueUnlockID": 612320,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10415,
-    "RogueUnlockID": 612321
+    "RogueUnlockID": 612321,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10415,
-    "RogueUnlockID": 612322
+    "RogueUnlockID": 612322,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10415,
-    "RogueUnlockID": 612323
+    "RogueUnlockID": 612323,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 612420
+    "RogueUnlockID": 612420,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612421
+    "RogueUnlockID": 612421,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612422
+    "RogueUnlockID": 612422,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612423
+    "RogueUnlockID": 612423,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 612620
+    "RogueUnlockID": 612620,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612621
+    "RogueUnlockID": 612621,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612622
+    "RogueUnlockID": 612622,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 612623
+    "RogueUnlockID": 612623,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612230
+    "RogueUnlockID": 612230,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612231
+    "RogueUnlockID": 612231,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612232
+    "RogueUnlockID": 612232,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612240
+    "RogueUnlockID": 612240,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612241
+    "RogueUnlockID": 612241,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612242
+    "RogueUnlockID": 612242,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612243
+    "RogueUnlockID": 612243,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612244
+    "RogueUnlockID": 612244,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612245
+    "RogueUnlockID": 612245,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612246
+    "RogueUnlockID": 612246,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612250
+    "RogueUnlockID": 612250,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612251
+    "RogueUnlockID": 612251,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612252
+    "RogueUnlockID": 612252,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612253
+    "RogueUnlockID": 612253,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612254
+    "RogueUnlockID": 612254,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612255
+    "RogueUnlockID": 612255,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612256
+    "RogueUnlockID": 612256,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10504,
-    "RogueUnlockID": 612257
+    "RogueUnlockID": 612257,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612330
+    "RogueUnlockID": 612330,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612331
+    "RogueUnlockID": 612331,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612332
+    "RogueUnlockID": 612332,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612340
+    "RogueUnlockID": 612340,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612341
+    "RogueUnlockID": 612341,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612342
+    "RogueUnlockID": 612342,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612343
+    "RogueUnlockID": 612343,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612344
+    "RogueUnlockID": 612344,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612345
+    "RogueUnlockID": 612345,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612346
+    "RogueUnlockID": 612346,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612350
+    "RogueUnlockID": 612350,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612351
+    "RogueUnlockID": 612351,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612352
+    "RogueUnlockID": 612352,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612353
+    "RogueUnlockID": 612353,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612354
+    "RogueUnlockID": 612354,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612355
+    "RogueUnlockID": 612355,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612356
+    "RogueUnlockID": 612356,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10505,
-    "RogueUnlockID": 612357
+    "RogueUnlockID": 612357,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612430
+    "RogueUnlockID": 612430,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612431
+    "RogueUnlockID": 612431,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612432
+    "RogueUnlockID": 612432,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612440
+    "RogueUnlockID": 612440,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612441
+    "RogueUnlockID": 612441,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612442
+    "RogueUnlockID": 612442,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612443
+    "RogueUnlockID": 612443,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612444
+    "RogueUnlockID": 612444,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612445
+    "RogueUnlockID": 612445,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612446
+    "RogueUnlockID": 612446,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612450
+    "RogueUnlockID": 612450,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612451
+    "RogueUnlockID": 612451,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612452
+    "RogueUnlockID": 612452,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612453
+    "RogueUnlockID": 612453,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612454
+    "RogueUnlockID": 612454,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612455
+    "RogueUnlockID": 612455,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612456
+    "RogueUnlockID": 612456,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10502,
-    "RogueUnlockID": 612457
+    "RogueUnlockID": 612457,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612530
+    "RogueUnlockID": 612530,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612531
+    "RogueUnlockID": 612531,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612532
+    "RogueUnlockID": 612532,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612540
+    "RogueUnlockID": 612540,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612541
+    "RogueUnlockID": 612541,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612542
+    "RogueUnlockID": 612542,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612543
+    "RogueUnlockID": 612543,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612544
+    "RogueUnlockID": 612544,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612545
+    "RogueUnlockID": 612545,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612546
+    "RogueUnlockID": 612546,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612550
+    "RogueUnlockID": 612550,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612551
+    "RogueUnlockID": 612551,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612552
+    "RogueUnlockID": 612552,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612553
+    "RogueUnlockID": 612553,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612554
+    "RogueUnlockID": 612554,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612555
+    "RogueUnlockID": 612555,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612556
+    "RogueUnlockID": 612556,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10503,
-    "RogueUnlockID": 612557
+    "RogueUnlockID": 612557,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10201,
-    "RogueUnlockID": 10201
+    "RogueUnlockID": 10201,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 10301
+    "RogueUnlockID": 10301,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10302,
-    "RogueUnlockID": 10302
+    "RogueUnlockID": 10302,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10303,
-    "RogueUnlockID": 10303
+    "RogueUnlockID": 10303,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10304,
-    "RogueUnlockID": 10304
+    "RogueUnlockID": 10304,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10305,
-    "RogueUnlockID": 10305
+    "RogueUnlockID": 10305,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10306,
-    "RogueUnlockID": 10306
+    "RogueUnlockID": 10306,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10307,
-    "RogueUnlockID": 10307
+    "RogueUnlockID": 10307,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10308,
-    "RogueUnlockID": 10308
+    "RogueUnlockID": 10308,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10309,
-    "RogueUnlockID": 10309
+    "RogueUnlockID": 10309,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10310,
-    "RogueUnlockID": 10310
+    "RogueUnlockID": 10310,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10311,
-    "RogueUnlockID": 10311
+    "RogueUnlockID": 10311,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10312,
-    "RogueUnlockID": 10312
+    "RogueUnlockID": 10312,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10313,
-    "RogueUnlockID": 10313
+    "RogueUnlockID": 10313,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10314,
-    "RogueUnlockID": 10314
+    "RogueUnlockID": 10314,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10315,
-    "RogueUnlockID": 10315
+    "RogueUnlockID": 10315,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10316,
-    "RogueUnlockID": 10316
+    "RogueUnlockID": 10316,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10317,
-    "RogueUnlockID": 10317
+    "RogueUnlockID": 10317,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10318,
-    "RogueUnlockID": 10318
+    "RogueUnlockID": 10318,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10319,
-    "RogueUnlockID": 10319
+    "RogueUnlockID": 10319,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10320,
-    "RogueUnlockID": 10320
+    "RogueUnlockID": 10320,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10321,
-    "RogueUnlockID": 10321
+    "RogueUnlockID": 10321,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10322,
-    "RogueUnlockID": 10322
+    "RogueUnlockID": 10322,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10323,
-    "RogueUnlockID": 10323
+    "RogueUnlockID": 10323,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10324,
-    "RogueUnlockID": 10324
+    "RogueUnlockID": 10324,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10325,
-    "RogueUnlockID": 10325
+    "RogueUnlockID": 10325,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10326,
-    "RogueUnlockID": 10326
+    "RogueUnlockID": 10326,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10327,
-    "RogueUnlockID": 10327
+    "RogueUnlockID": 10327,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10328,
-    "RogueUnlockID": 10328
+    "RogueUnlockID": 10328,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10329,
-    "RogueUnlockID": 10329
+    "RogueUnlockID": 10329,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10330,
-    "RogueUnlockID": 10330
+    "RogueUnlockID": 10330,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10331,
-    "RogueUnlockID": 10331
+    "RogueUnlockID": 10331,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10332,
-    "RogueUnlockID": 10332
+    "RogueUnlockID": 10332,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10333,
-    "RogueUnlockID": 10333
+    "RogueUnlockID": 10333,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10334,
-    "RogueUnlockID": 10334
+    "RogueUnlockID": 10334,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10335,
-    "RogueUnlockID": 10335
+    "RogueUnlockID": 10335,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10336,
-    "RogueUnlockID": 10336
+    "RogueUnlockID": 10336,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10337,
-    "RogueUnlockID": 10337
+    "RogueUnlockID": 10337,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10338,
-    "RogueUnlockID": 10338
+    "RogueUnlockID": 10338,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10339,
-    "RogueUnlockID": 10339
+    "RogueUnlockID": 10339,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10340,
-    "RogueUnlockID": 10340
+    "RogueUnlockID": 10340,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10341,
-    "RogueUnlockID": 10341
+    "RogueUnlockID": 10341,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10342,
-    "RogueUnlockID": 10342
+    "RogueUnlockID": 10342,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10343,
-    "RogueUnlockID": 10343
+    "RogueUnlockID": 10343,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10390,
-    "RogueUnlockID": 10390
+    "RogueUnlockID": 10390,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10391,
-    "RogueUnlockID": 10391
+    "RogueUnlockID": 10391,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10392,
-    "RogueUnlockID": 10392
+    "RogueUnlockID": 10392,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10393,
-    "RogueUnlockID": 10393
+    "RogueUnlockID": 10393,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10394,
-    "RogueUnlockID": 10394
+    "RogueUnlockID": 10394,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10301,
@@ -1017,23 +1729,43 @@
   },
   {
     "UnlockFinishWay": 10339,
-    "RogueUnlockID": 10439
+    "RogueUnlockID": 10439,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10340,
-    "RogueUnlockID": 10440
+    "RogueUnlockID": 10440,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10341,
-    "RogueUnlockID": 10441
+    "RogueUnlockID": 10441,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10342,
-    "RogueUnlockID": 10442
+    "RogueUnlockID": 10442,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10343,
-    "RogueUnlockID": 10443
+    "RogueUnlockID": 10443,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10396,
@@ -1045,23 +1777,43 @@
   },
   {
     "UnlockFinishWay": 10390,
-    "RogueUnlockID": 10490
+    "RogueUnlockID": 10490,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10391,
-    "RogueUnlockID": 10491
+    "RogueUnlockID": 10491,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10392,
-    "RogueUnlockID": 10492
+    "RogueUnlockID": 10492,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10393,
-    "RogueUnlockID": 10493
+    "RogueUnlockID": 10493,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10394,
-    "RogueUnlockID": 10494
+    "RogueUnlockID": 10494,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10102,
@@ -1105,79 +1857,155 @@
   },
   {
     "UnlockFinishWay": 11000,
-    "RogueUnlockID": 11000
+    "RogueUnlockID": 11000,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 11001,
-    "RogueUnlockID": 11001
+    "RogueUnlockID": 11001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 11002,
-    "RogueUnlockID": 11002
+    "RogueUnlockID": 11002,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 11004,
-    "RogueUnlockID": 11004
+    "RogueUnlockID": 11004,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 11005,
-    "RogueUnlockID": 11005
+    "RogueUnlockID": 11005,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 11006,
-    "RogueUnlockID": 11006
+    "RogueUnlockID": 11006,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13001,
-    "RogueUnlockID": 11007
+    "RogueUnlockID": 11007,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13002,
-    "RogueUnlockID": 11008
+    "RogueUnlockID": 11008,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13003,
-    "RogueUnlockID": 11009
+    "RogueUnlockID": 11009,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13004,
-    "RogueUnlockID": 11010
+    "RogueUnlockID": 11010,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13005,
-    "RogueUnlockID": 11011
+    "RogueUnlockID": 11011,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13006,
-    "RogueUnlockID": 11012
+    "RogueUnlockID": 11012,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13007,
-    "RogueUnlockID": 11013
+    "RogueUnlockID": 11013,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13008,
-    "RogueUnlockID": 11014
+    "RogueUnlockID": 11014,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13009,
-    "RogueUnlockID": 11015
+    "RogueUnlockID": 11015,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13010,
-    "RogueUnlockID": 11016
+    "RogueUnlockID": 11016,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13011,
-    "RogueUnlockID": 11017
+    "RogueUnlockID": 11017,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13012,
-    "RogueUnlockID": 11018
+    "RogueUnlockID": 11018,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13101,
-    "RogueUnlockID": 12001
+    "RogueUnlockID": 12001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 13102,
@@ -1461,7 +2289,11 @@
   },
   {
     "UnlockFinishWay": 14001,
-    "RogueUnlockID": 14001
+    "RogueUnlockID": 14001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 15001,
@@ -1521,23 +2353,43 @@
   },
   {
     "UnlockFinishWay": 10301,
-    "RogueUnlockID": 16001
+    "RogueUnlockID": 16001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 10106,
-    "RogueUnlockID": 16002
+    "RogueUnlockID": 16002,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 12002,
-    "RogueUnlockID": 16003
+    "RogueUnlockID": 16003,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 16001,
-    "RogueUnlockID": 17001
+    "RogueUnlockID": 17001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 18001,
-    "RogueUnlockID": 18001
+    "RogueUnlockID": 18001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000001,
@@ -1605,19 +2457,35 @@
   },
   {
     "UnlockFinishWay": 1000009,
-    "RogueUnlockID": 1000009
+    "RogueUnlockID": 1000009,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000010,
-    "RogueUnlockID": 1000010
+    "RogueUnlockID": 1000010,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000011,
-    "RogueUnlockID": 1000011
+    "RogueUnlockID": 1000011,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000012,
-    "RogueUnlockID": 1000012
+    "RogueUnlockID": 1000012,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000013,
@@ -1669,95 +2537,187 @@
   },
   {
     "UnlockFinishWay": 1000019,
-    "RogueUnlockID": 1000019
+    "RogueUnlockID": 1000019,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000020,
-    "RogueUnlockID": 1000020
+    "RogueUnlockID": 1000020,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000021,
-    "RogueUnlockID": 1000021
+    "RogueUnlockID": 1000021,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000022,
-    "RogueUnlockID": 1000022
+    "RogueUnlockID": 1000022,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000101,
-    "RogueUnlockID": 1000101
+    "RogueUnlockID": 1000101,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000102,
-    "RogueUnlockID": 1000102
+    "RogueUnlockID": 1000102,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000103,
-    "RogueUnlockID": 1000103
+    "RogueUnlockID": 1000103,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000104,
-    "RogueUnlockID": 1000104
+    "RogueUnlockID": 1000104,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000105,
-    "RogueUnlockID": 1000105
+    "RogueUnlockID": 1000105,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000201,
-    "RogueUnlockID": 1000201
+    "RogueUnlockID": 1000201,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000202,
-    "RogueUnlockID": 1000202
+    "RogueUnlockID": 1000202,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000203,
-    "RogueUnlockID": 1000203
+    "RogueUnlockID": 1000203,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000204,
-    "RogueUnlockID": 1000204
+    "RogueUnlockID": 1000204,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000205,
-    "RogueUnlockID": 1000205
+    "RogueUnlockID": 1000205,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000206,
-    "RogueUnlockID": 1000206
+    "RogueUnlockID": 1000206,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000207,
-    "RogueUnlockID": 1000207
+    "RogueUnlockID": 1000207,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000208,
-    "RogueUnlockID": 1000208
+    "RogueUnlockID": 1000208,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000209,
-    "RogueUnlockID": 1000209
+    "RogueUnlockID": 1000209,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000210,
-    "RogueUnlockID": 1000210
+    "RogueUnlockID": 1000210,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000211,
-    "RogueUnlockID": 1000211
+    "RogueUnlockID": 1000211,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000212,
-    "RogueUnlockID": 1000212
+    "RogueUnlockID": 1000212,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000213,
-    "RogueUnlockID": 1000213
+    "RogueUnlockID": 1000213,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000214,
-    "RogueUnlockID": 1000214
+    "RogueUnlockID": 1000214,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000301,
@@ -1801,23 +2761,43 @@
   },
   {
     "UnlockFinishWay": 1000306,
-    "RogueUnlockID": 1000306
+    "RogueUnlockID": 1000306,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000307,
-    "RogueUnlockID": 1000307
+    "RogueUnlockID": 1000307,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000308,
-    "RogueUnlockID": 1000308
+    "RogueUnlockID": 1000308,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000309,
-    "RogueUnlockID": 1000309
+    "RogueUnlockID": 1000309,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000310,
-    "RogueUnlockID": 1000310
+    "RogueUnlockID": 1000310,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000311,
@@ -1829,11 +2809,19 @@
   },
   {
     "UnlockFinishWay": 1000312,
-    "RogueUnlockID": 1000312
+    "RogueUnlockID": 1000312,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1000313,
-    "RogueUnlockID": 1000313
+    "RogueUnlockID": 1000313,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001014,
@@ -1901,23 +2889,43 @@
   },
   {
     "UnlockFinishWay": 1001008,
-    "RogueUnlockID": 1001008
+    "RogueUnlockID": 1001008,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001009,
-    "RogueUnlockID": 1001009
+    "RogueUnlockID": 1001009,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001010,
-    "RogueUnlockID": 1001010
+    "RogueUnlockID": 1001010,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001011,
-    "RogueUnlockID": 1001011
+    "RogueUnlockID": 1001011,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001012,
-    "RogueUnlockID": 1001012
+    "RogueUnlockID": 1001012,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001013,
@@ -1929,15 +2937,27 @@
   },
   {
     "UnlockFinishWay": 1001014,
-    "RogueUnlockID": 1001014
+    "RogueUnlockID": 1001014,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001013,
-    "RogueUnlockID": 1001015
+    "RogueUnlockID": 1001015,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001013,
-    "RogueUnlockID": 1001016
+    "RogueUnlockID": 1001016,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001416,
@@ -1949,27 +2969,51 @@
   },
   {
     "UnlockFinishWay": 1001018,
-    "RogueUnlockID": 1001018
+    "RogueUnlockID": 1001018,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001103,
-    "RogueUnlockID": 1001103
+    "RogueUnlockID": 1001103,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001105,
-    "RogueUnlockID": 1001105
+    "RogueUnlockID": 1001105,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001106,
-    "RogueUnlockID": 1001106
+    "RogueUnlockID": 1001106,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001114,
-    "RogueUnlockID": 1001114
+    "RogueUnlockID": 1001114,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001120,
-    "RogueUnlockID": 1001120
+    "RogueUnlockID": 1001120,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001001,
@@ -2005,51 +3049,99 @@
   },
   {
     "UnlockFinishWay": 1001401,
-    "RogueUnlockID": 1001401
+    "RogueUnlockID": 1001401,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001402,
-    "RogueUnlockID": 1001402
+    "RogueUnlockID": 1001402,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001403,
-    "RogueUnlockID": 1001403
+    "RogueUnlockID": 1001403,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001404,
-    "RogueUnlockID": 1001404
+    "RogueUnlockID": 1001404,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001405,
-    "RogueUnlockID": 1001405
+    "RogueUnlockID": 1001405,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001406,
-    "RogueUnlockID": 1001406
+    "RogueUnlockID": 1001406,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001411,
-    "RogueUnlockID": 1001411
+    "RogueUnlockID": 1001411,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001412,
-    "RogueUnlockID": 1001412
+    "RogueUnlockID": 1001412,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001413,
-    "RogueUnlockID": 1001413
+    "RogueUnlockID": 1001413,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001414,
-    "RogueUnlockID": 1001414
+    "RogueUnlockID": 1001414,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001415,
-    "RogueUnlockID": 1001415
+    "RogueUnlockID": 1001415,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001416,
-    "RogueUnlockID": 1001416
+    "RogueUnlockID": 1001416,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001201,
@@ -2085,143 +3177,283 @@
   },
   {
     "UnlockFinishWay": 1001201,
-    "RogueUnlockID": 1002201
+    "RogueUnlockID": 1002201,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001202,
-    "RogueUnlockID": 1002202
+    "RogueUnlockID": 1002202,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001203,
-    "RogueUnlockID": 1002203
+    "RogueUnlockID": 1002203,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001204,
-    "RogueUnlockID": 1002204
+    "RogueUnlockID": 1002204,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001205,
-    "RogueUnlockID": 1002205
+    "RogueUnlockID": 1002205,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001206,
-    "RogueUnlockID": 1002206
+    "RogueUnlockID": 1002206,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001207,
-    "RogueUnlockID": 1002207
+    "RogueUnlockID": 1002207,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001208,
-    "RogueUnlockID": 1002208
+    "RogueUnlockID": 1002208,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001209,
-    "RogueUnlockID": 1002209
+    "RogueUnlockID": 1002209,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001210,
-    "RogueUnlockID": 1002210
+    "RogueUnlockID": 1002210,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001211,
-    "RogueUnlockID": 1002211
+    "RogueUnlockID": 1002211,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 1001212,
-    "RogueUnlockID": 1002212
+    "RogueUnlockID": 1002212,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000201,
-    "RogueUnlockID": 3000201
+    "RogueUnlockID": 3000201,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000202,
-    "RogueUnlockID": 3000202
+    "RogueUnlockID": 3000202,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000203,
-    "RogueUnlockID": 3000203
+    "RogueUnlockID": 3000203,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000204,
-    "RogueUnlockID": 3000204
+    "RogueUnlockID": 3000204,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000205,
-    "RogueUnlockID": 3000205
+    "RogueUnlockID": 3000205,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000206,
-    "RogueUnlockID": 3000206
+    "RogueUnlockID": 3000206,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000207,
-    "RogueUnlockID": 3000207
+    "RogueUnlockID": 3000207,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000301,
-    "RogueUnlockID": 3000301
+    "RogueUnlockID": 3000301,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000302,
-    "RogueUnlockID": 3000302
+    "RogueUnlockID": 3000302,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000303,
-    "RogueUnlockID": 3000303
+    "RogueUnlockID": 3000303,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000304,
-    "RogueUnlockID": 3000304
+    "RogueUnlockID": 3000304,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000305,
-    "RogueUnlockID": 3000305
+    "RogueUnlockID": 3000305,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000306,
-    "RogueUnlockID": 3000306
+    "RogueUnlockID": 3000306,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000307,
-    "RogueUnlockID": 3000307
+    "RogueUnlockID": 3000307,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000308,
-    "RogueUnlockID": 3000308
+    "RogueUnlockID": 3000308,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000309,
-    "RogueUnlockID": 3000309
+    "RogueUnlockID": 3000309,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000310,
-    "RogueUnlockID": 3000310
+    "RogueUnlockID": 3000310,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000401,
-    "RogueUnlockID": 3000401
+    "RogueUnlockID": 3000401,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000402,
-    "RogueUnlockID": 3000402
+    "RogueUnlockID": 3000402,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000403,
-    "RogueUnlockID": 3000403
+    "RogueUnlockID": 3000403,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000404,
-    "RogueUnlockID": 3000404
+    "RogueUnlockID": 3000404,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000405,
-    "RogueUnlockID": 3000405
+    "RogueUnlockID": 3000405,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000406,
-    "RogueUnlockID": 3000406
+    "RogueUnlockID": 3000406,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001401,
@@ -2321,39 +3553,91 @@
   },
   {
     "UnlockFinishWay": 3000803,
-    "RogueUnlockID": 3000805
+    "RogueUnlockID": 3000805,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000806,
-    "RogueUnlockID": 3000806
+    "RogueUnlockID": 3000806,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3000807,
-    "RogueUnlockID": 3000807
+    "RogueUnlockID": 3000807,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "UnlockFinishWay": 3000808,
+    "RogueUnlockID": 3000808,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "UnlockFinishWay": 3000809,
+    "RogueUnlockID": 3000809,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001001,
-    "RogueUnlockID": 3001001
+    "RogueUnlockID": 3001001,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001002,
-    "RogueUnlockID": 3001002
+    "RogueUnlockID": 3001002,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001003,
-    "RogueUnlockID": 3001003
+    "RogueUnlockID": 3001003,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001004,
-    "RogueUnlockID": 3001004
+    "RogueUnlockID": 3001004,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001005,
-    "RogueUnlockID": 3001005
+    "RogueUnlockID": 3001005,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001006,
-    "RogueUnlockID": 3001006
+    "RogueUnlockID": 3001006,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001101,
@@ -2453,79 +3737,155 @@
   },
   {
     "UnlockFinishWay": 3001301,
-    "RogueUnlockID": 3001301
+    "RogueUnlockID": 3001301,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001302,
-    "RogueUnlockID": 3001302
+    "RogueUnlockID": 3001302,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001303,
-    "RogueUnlockID": 3001303
+    "RogueUnlockID": 3001303,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001501,
-    "RogueUnlockID": 3001501
+    "RogueUnlockID": 3001501,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001502,
-    "RogueUnlockID": 3001502
+    "RogueUnlockID": 3001502,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001503,
-    "RogueUnlockID": 3001503
+    "RogueUnlockID": 3001503,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001504,
-    "RogueUnlockID": 3001504
+    "RogueUnlockID": 3001504,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001505,
-    "RogueUnlockID": 3001505
+    "RogueUnlockID": 3001505,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001506,
-    "RogueUnlockID": 3001506
+    "RogueUnlockID": 3001506,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001507,
-    "RogueUnlockID": 3001507
+    "RogueUnlockID": 3001507,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001508,
-    "RogueUnlockID": 3001508
+    "RogueUnlockID": 3001508,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001601,
-    "RogueUnlockID": 3001601
+    "RogueUnlockID": 3001601,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001602,
-    "RogueUnlockID": 3001602
+    "RogueUnlockID": 3001602,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001603,
-    "RogueUnlockID": 3001603
+    "RogueUnlockID": 3001603,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001604,
-    "RogueUnlockID": 3001604
+    "RogueUnlockID": 3001604,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001605,
-    "RogueUnlockID": 3001605
+    "RogueUnlockID": 3001605,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001606,
-    "RogueUnlockID": 3001606
+    "RogueUnlockID": 3001606,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001607,
-    "RogueUnlockID": 3001607
+    "RogueUnlockID": 3001607,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 3001701,
-    "RogueUnlockID": 3001701
+    "RogueUnlockID": 3001701,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013001,
@@ -2609,82 +3969,162 @@
   },
   {
     "UnlockFinishWay": 5013011,
-    "RogueUnlockID": 5013011
+    "RogueUnlockID": 5013011,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013012,
-    "RogueUnlockID": 5013012
+    "RogueUnlockID": 5013012,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013013,
-    "RogueUnlockID": 5013013
+    "RogueUnlockID": 5013013,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013014,
-    "RogueUnlockID": 5013014
+    "RogueUnlockID": 5013014,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013015,
-    "RogueUnlockID": 5013015
+    "RogueUnlockID": 5013015,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013016,
-    "RogueUnlockID": 5013016
+    "RogueUnlockID": 5013016,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013017,
-    "RogueUnlockID": 5013017
+    "RogueUnlockID": 5013017,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013018,
-    "RogueUnlockID": 5013018
+    "RogueUnlockID": 5013018,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013019,
-    "RogueUnlockID": 5013019
+    "RogueUnlockID": 5013019,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013020,
-    "RogueUnlockID": 5013020
+    "RogueUnlockID": 5013020,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013021,
-    "RogueUnlockID": 5013021
+    "RogueUnlockID": 5013021,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013022,
-    "RogueUnlockID": 5013022
+    "RogueUnlockID": 5013022,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013023,
-    "RogueUnlockID": 5013023
+    "RogueUnlockID": 5013023,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013024,
-    "RogueUnlockID": 5013024
+    "RogueUnlockID": 5013024,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013025,
-    "RogueUnlockID": 5013025
+    "RogueUnlockID": 5013025,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013026,
-    "RogueUnlockID": 5013026
+    "RogueUnlockID": 5013026,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013027,
-    "RogueUnlockID": 5013027
+    "RogueUnlockID": 5013027,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013028,
-    "RogueUnlockID": 5013028
+    "RogueUnlockID": 5013028,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013259,
-    "RogueUnlockID": 5013029
+    "RogueUnlockID": 5013029,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "UnlockFinishWay": 5013260,
-    "RogueUnlockID": 5013260
+    "RogueUnlockID": 5013260,
+    "RogueUnlockDetail": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

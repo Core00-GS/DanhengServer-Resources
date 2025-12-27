@@ -6,8 +6,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1073741825
+            "FixedValue": {
+              "RawValue": 1073741825,
+              "Value": 0.25
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -18,7 +19,9 @@
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "DisableAfterTriggered": true,
           "ButtonIcon": "SpriteOutput/TalkIcon/BoxIcon.png",
-          "IconType": "BoxIcon",
+          "IconType": {
+            "JsonValueStr": "BoxIcon"
+          },
           "ButtonText": {
             "Hash": -199246934,
             "Hash64": 12134815815030641458
@@ -40,13 +43,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 188978561024
+                "FixedValue": {
+                  "RawValue": 188978561024,
+                  "Value": 44.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -91,8 +96,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -105,13 +111,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 188978561024
+            "FixedValue": {
+              "RawValue": 188978561024,
+              "Value": 44.0
             }
           },
           "TaskEnabled": true,
@@ -127,8 +135,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,

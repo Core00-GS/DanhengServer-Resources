@@ -1,10 +1,12 @@
 {
   "GroupName": "shelter group",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G241",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Crowd",
         "Operation": "Equal"
       }
@@ -19,7 +21,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.SafeRoom",
+      "TagHash": 852846579
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -51,8 +58,7 @@
         "Radius": 1.0,
         "DimX": 110.0,
         "DimY": 30.0,
-        "DimZ": 80.0,
-        "PointList": []
+        "DimZ": 80.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -72,5 +78,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

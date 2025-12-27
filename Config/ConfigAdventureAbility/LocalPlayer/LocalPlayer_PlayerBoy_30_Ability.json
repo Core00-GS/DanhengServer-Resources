@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_PlayerBoy_30_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -94,8 +93,9 @@
           },
           "AnimStateName": "Attack_1",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 210453395
+            "FixedValue": {
+              "RawValue": 210453395,
+              "Value": 0.05
             }
           },
           "TaskEnabled": true,
@@ -135,8 +135,9 @@
           "NewProjectile": {
             "$type": "RPG.GameCore.LinearWithDetectProjectileData",
             "LinearPitchAngle": {
-              "fixedValue": {
-                "RawValue": 12884901888
+              "FixedValue": {
+                "RawValue": 12884901888,
+                "Value": 3.0
               }
             },
             "MaxLifeTime": 0.4,
@@ -165,7 +166,7 @@
               },
               "AttackRootTargetType": {
                 "$type": "RPG.GameCore.TargetAlias",
-                "Alias": "ProjectileHitEntity"
+                "Alias": "ProjectileHitPos"
               },
               "TriggerBattle": true,
               "TriggerBattleDelay": 0.1,
@@ -198,7 +199,7 @@
               },
               "AttackRootTargetType": {
                 "$type": "RPG.GameCore.TargetAlias",
-                "Alias": "ProjectileHitEntity"
+                "Alias": "ProjectileHitPos"
               },
               "TriggerBattle": true,
               "TriggerBattleDelay": 0.1,
@@ -230,8 +231,7 @@
     {
       "Name": "LocalPlayer_PlayerBoy_30_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -246,16 +246,19 @@
             "Alias": "Caster"
           },
           "Distance": {
-            "fixedValue": {
-              "RawValue": 5153960756
+            "FixedValue": {
+              "RawValue": 5153960756,
+              "Value": 1.2
             }
           },
           "OffsetX": {},
           "OffsetY": {},
           "YawAngle": {},
           "Duration": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_PlayerBoy_30_Ability.AbilityList.1.OnStart.0.Duration.FixedValue"
             }
           },
           "PosAdaption": {
@@ -265,7 +268,8 @@
             "PathFindMaxLengthLimit": 10.0,
             "StepGroundCheckDist": 0.5,
             "StepGroundCheckHeight": 1.0,
-            "StepGroundCheckDown": 10.0
+            "StepGroundCheckDown": 10.0,
+            "NavMeshEdgeAvoidanceRadius": 0.3
           },
           "OnCreate": [
             {
@@ -309,8 +313,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "TaskEnabled": true,
@@ -321,8 +326,7 @@
     {
       "Name": "LocalPlayer_PlayerBoy_30_BeforeBattleDebuffListener",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -333,8 +337,9 @@
           },
           "ModifierName": "ADV_StageAbility_PlayerBoy_30_BeforeBattleDebuffListener",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -411,13 +416,16 @@
             "IsClientOnly": true
           },
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_PlayerBoy_30_Ability.GlobalModifiers.ADV_StageAbility_PlayerBoy_30_BeforeBattleDebuffListener.OnBeforeBattle.0.LifeTime.FixedValue"
             }
           },
           "Count": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

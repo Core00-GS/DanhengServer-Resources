@@ -13,8 +13,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -23,6 +24,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -40,37 +42,43 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718004098269184
+            "FixedValue": {
+              "RawValue": 1718004098269184,
+              "Value": 400004.0
             }
           },
           "CreateList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 17179869184
+                "FixedValue": {
+                  "RawValue": 17179869184,
+                  "Value": 4.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1718008393236480
+                "FixedValue": {
+                  "RawValue": 1718008393236480,
+                  "Value": 400005.0
                 }
               }
             },
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 17179869184
+                "FixedValue": {
+                  "RawValue": 17179869184,
+                  "Value": 4.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1717999803301888
+                "FixedValue": {
+                  "RawValue": 1717999803301888,
+                  "Value": 400003.0
                 }
               }
             }
@@ -85,13 +93,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288515958603776
+            "FixedValue": {
+              "RawValue": 1288515958603776,
+              "Value": 300006.0
             }
           },
           "CreateList": [],
@@ -105,13 +115,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 17179869184
+                "FixedValue": {
+                  "RawValue": 17179869184,
+                  "Value": 4.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288515958603776
+                "FixedValue": {
+                  "RawValue": 1288515958603776,
+                  "Value": 300006.0
                 }
               }
             }
@@ -140,13 +152,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "CreateList": [],
@@ -160,13 +174,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 17179869184
+                "FixedValue": {
+                  "RawValue": 17179869184,
+                  "Value": 4.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }
@@ -201,6 +217,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

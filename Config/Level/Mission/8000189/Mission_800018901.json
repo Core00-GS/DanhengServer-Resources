@@ -9,8 +9,6 @@
           "ID": 400006,
           "GroupID": 3,
           "MapIconType": 120,
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }

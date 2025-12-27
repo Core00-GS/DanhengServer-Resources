@@ -6,8 +6,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnDestroy": [],
@@ -17,8 +18,9 @@
         "TriggerName": "HitNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 85899345920
+          "FixedValue": {
+            "RawValue": 85899345920,
+            "Value": 20.0
           }
         },
         "UseVerticalBound": true,

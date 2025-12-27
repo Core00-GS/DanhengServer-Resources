@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Lynx_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -98,38 +97,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 107374181
+                    "FixedValue": {
+                      "RawValue": 107374181,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 249108101
+                    "FixedValue": {
+                      "RawValue": 249108101,
+                      "Value": 0.06
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   }
                 }
@@ -145,8 +151,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -205,8 +212,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 472446403
+                "FixedValue": {
+                  "RawValue": 472446403,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -236,23 +244,27 @@
                   "MovingRangeList": [
                     {
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 5153960756
+                        "FixedValue": {
+                          "RawValue": 5153960756,
+                          "Value": 1.2
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 107374181
+                        "FixedValue": {
+                          "RawValue": 107374181,
+                          "Value": 0.02
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 249108101
+                        "FixedValue": {
+                          "RawValue": 249108101,
+                          "Value": 0.06
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 9448928052
+                        "FixedValue": {
+                          "RawValue": 9448928052,
+                          "Value": 2.2
                         }
                       }
                     }
@@ -284,23 +296,27 @@
                       "MovingRangeList": [
                         {
                           "OffsetTargetDistance": {
-                            "fixedValue": {
-                              "RawValue": 5153960756
+                            "FixedValue": {
+                              "RawValue": 5153960756,
+                              "Value": 1.2
                             }
                           },
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 107374181
+                            "FixedValue": {
+                              "RawValue": 107374181,
+                              "Value": 0.02
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 249108101
+                            "FixedValue": {
+                              "RawValue": 249108101,
+                              "Value": 0.06
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 7730941136
+                            "FixedValue": {
+                              "RawValue": 7730941136,
+                              "Value": 1.8
                             }
                           }
                         }
@@ -323,8 +339,9 @@
                       "MovingRangeList": [
                         {
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 7730941136
+                            "FixedValue": {
+                              "RawValue": 7730941136,
+                              "Value": 1.8
                             }
                           }
                         }
@@ -346,8 +363,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -407,8 +425,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 472446403
+                "FixedValue": {
+                  "RawValue": 472446403,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -422,8 +441,7 @@
     {
       "Name": "LocalPlayer_Lynx_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -463,8 +481,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 523986010
+            "FixedValue": {
+              "RawValue": 523986010,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -494,8 +513,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 932007902
+            "FixedValue": {
+              "RawValue": 932007902,
+              "Value": 0.22
             }
           },
           "TaskEnabled": true,
@@ -509,8 +529,9 @@
           },
           "ID": 111001,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -527,5 +548,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Lynx": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

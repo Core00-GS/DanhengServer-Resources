@@ -61,9 +61,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -118,9 +122,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -175,9 +183,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -232,10 +244,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "SoundProfileOverrideID": 3,
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -1756,12 +1772,11 @@
         "sqrMagnitude": 3.0
       },
       "Trigger": {
-        "Shape": "Box",
+        "Shape": "GeometryBox",
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 6.0,
-        "DimZ": 30.0,
-        "PointList": []
+        "DimZ": 30.0
       },
       "LoadOnInitial": true,
       "SoundUsage": "BGMEmotion",
@@ -1798,12 +1813,11 @@
         "sqrMagnitude": 3.0
       },
       "Trigger": {
-        "Shape": "Box",
+        "Shape": "GeometryBox",
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 6.0,
-        "DimZ": 25.0,
-        "PointList": []
+        "DimZ": 25.0
       },
       "LoadOnInitial": true,
       "SoundUsage": "BGMEmotion",
@@ -1843,8 +1857,7 @@
         "Radius": 15.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -1886,8 +1899,7 @@
         "Radius": 15.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -1929,8 +1941,7 @@
         "Radius": 15.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -1972,8 +1983,7 @@
         "Radius": 15.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {

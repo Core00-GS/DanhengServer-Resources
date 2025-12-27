@@ -45,7 +45,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5e73\u53f0\u5730\u6bb5",
+      "Name": "平台地段",
       "ID": 1,
       "PosX": -31.8,
       "PosY": 25.52,
@@ -106,7 +106,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u72ed\u7a84\u5730\u6bb5",
+      "Name": "狭窄地段",
       "ID": 2,
       "PosX": -91.3,
       "PosY": -2.1,
@@ -143,7 +143,7 @@
       },
       "LoadOnInitial": true,
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5e9f\u5f03\u623f\u5c4b",
+      "Name": "废弃房屋",
       "ID": 3,
       "PosX": -123.3,
       "PosY": 7.0,

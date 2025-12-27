@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 880468295680
+            "FixedValue": {
+              "RawValue": 880468295680,
+              "Value": 205.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "CreateList": [],

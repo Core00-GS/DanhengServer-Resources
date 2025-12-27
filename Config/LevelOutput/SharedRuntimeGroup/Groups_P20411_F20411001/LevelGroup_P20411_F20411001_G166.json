@@ -86,8 +86,7 @@
         "Radius": 1.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Open",
@@ -105,10 +104,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 15,
       "OverrideMapIconType": 99,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -120,10 +123,11 @@
         }
       },
       "Name": "Prop1",
+      "RotY": 300.0,
       "ID": 300001,
-      "PosX": 0.02,
-      "PosY": 82.54938,
-      "PosZ": -132.3851
+      "PosX": -227.75,
+      "PosY": 20.92062,
+      "PosZ": -223.16
     },
     {
       "Scale": {
@@ -148,7 +152,6 @@
         "sqrMagnitude": 3.0
       },
       "PropID": 100,
-      "LoadOnInitial": true,
       "ValueSource": {},
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -156,8 +159,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 10.0,
-          "PointList": []
+          "Radius": 10.0
         }
       },
       "StateConfigs": [],
@@ -166,10 +168,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

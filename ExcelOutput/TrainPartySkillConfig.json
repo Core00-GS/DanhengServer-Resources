@@ -1,7 +1,8 @@
 [
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_1.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_1.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_1.png",
+    "IsRare": false,
     "SKillID": 101,
     "SkillName": {
       "Hash": 1740402971,
@@ -13,8 +14,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_2.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_2.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_2.png",
+    "IsRare": false,
     "SKillID": 102,
     "SkillName": {
       "Hash": 1740402972,
@@ -26,8 +28,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_4.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_4.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_4.png",
+    "IsRare": false,
     "SKillID": 104,
     "SkillName": {
       "Hash": 1740402974,
@@ -39,8 +42,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_5.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_5.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_5.png",
+    "IsRare": false,
     "SKillID": 105,
     "SkillName": {
       "Hash": 1740402975,
@@ -52,10 +56,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_6.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_6.png",
-    "SKillID": 106,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_6.png",
     "IsRare": true,
+    "SKillID": 106,
     "SkillName": {
       "Hash": 1740402976,
       "Hash64": 8597038555239280516
@@ -66,8 +70,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_3.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_3.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_3.png",
+    "IsRare": false,
     "SKillID": 107,
     "SkillName": {
       "Hash": 1740402977,
@@ -79,10 +84,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_7.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_7.png",
-    "SKillID": 108,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_7.png",
     "IsRare": true,
+    "SKillID": 108,
     "SkillName": {
       "Hash": 1740402978,
       "Hash64": 6150463014166506987
@@ -93,10 +98,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_8.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_8.png",
-    "SKillID": 109,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_8.png",
     "IsRare": true,
+    "SKillID": 109,
     "SkillName": {
       "Hash": 1740402979,
       "Hash64": 8366240940467180284
@@ -107,8 +112,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_9.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_9.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_9.png",
+    "IsRare": false,
     "SKillID": 110,
     "SkillName": {
       "Hash": -988480385,
@@ -120,8 +126,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_10.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_10.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_10.png",
+    "IsRare": false,
     "SKillID": 111,
     "SkillName": {
       "Hash": -988480384,
@@ -133,8 +140,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_11.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_11.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_11.png",
+    "IsRare": false,
     "SKillID": 112,
     "SkillName": {
       "Hash": -988480383,
@@ -146,10 +154,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_12.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_12.png",
-    "SKillID": 113,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_12.png",
     "IsRare": true,
+    "SKillID": 113,
     "SkillName": {
       "Hash": -988480382,
       "Hash64": 16920675217060518084
@@ -160,8 +168,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_13.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_13.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_13.png",
+    "IsRare": false,
     "SKillID": 114,
     "SkillName": {
       "Hash": -988480381,
@@ -173,10 +182,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_14.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_14.png",
-    "SKillID": 115,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_14.png",
     "IsRare": true,
+    "SKillID": 115,
     "SkillName": {
       "Hash": -988480380,
       "Hash64": 18347338131704060525
@@ -187,10 +196,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_15.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_15.png",
-    "SKillID": 116,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_15.png",
     "IsRare": true,
+    "SKillID": 116,
     "SkillName": {
       "Hash": -988480379,
       "Hash64": 10900773276733150681
@@ -201,10 +210,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_16.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_16.png",
-    "SKillID": 117,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_16.png",
     "IsRare": true,
+    "SKillID": 117,
     "SkillName": {
       "Hash": -988480378,
       "Hash64": 14618066743245542031
@@ -215,8 +224,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_1.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_1.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_1.png",
+    "IsRare": false,
     "SKillID": 201,
     "SkillName": {
       "Hash": 1740403004,
@@ -228,8 +238,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_2.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_2.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_2.png",
+    "IsRare": false,
     "SKillID": 202,
     "SkillName": {
       "Hash": 1740403003,
@@ -241,8 +252,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_4.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_4.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_4.png",
+    "IsRare": false,
     "SKillID": 204,
     "SkillName": {
       "Hash": 1740403009,
@@ -254,8 +266,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_5.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_5.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_5.png",
+    "IsRare": false,
     "SKillID": 205,
     "SkillName": {
       "Hash": 1740403008,
@@ -267,10 +280,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_6.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_6.png",
-    "SKillID": 206,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_6.png",
     "IsRare": true,
+    "SKillID": 206,
     "SkillName": {
       "Hash": 1740403007,
       "Hash64": 6549180886935261909
@@ -281,8 +294,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_3.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_3.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_3.png",
+    "IsRare": false,
     "SKillID": 207,
     "SkillName": {
       "Hash": 1740403006,
@@ -294,10 +308,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_7.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_7.png",
-    "SKillID": 208,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_7.png",
     "IsRare": true,
+    "SKillID": 208,
     "SkillName": {
       "Hash": 1740403013,
       "Hash64": 3851900767448084790
@@ -308,10 +322,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_8.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_8.png",
-    "SKillID": 209,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_8.png",
     "IsRare": true,
+    "SKillID": 209,
     "SkillName": {
       "Hash": 1740403012,
       "Hash64": 8311502526521003920
@@ -322,8 +336,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_9.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_9.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_9.png",
+    "IsRare": false,
     "SKillID": 210,
     "SkillName": {
       "Hash": -988480350,
@@ -335,8 +350,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_10.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_10.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_10.png",
+    "IsRare": false,
     "SKillID": 211,
     "SkillName": {
       "Hash": -988480351,
@@ -348,8 +364,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_11.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_11.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_11.png",
+    "IsRare": false,
     "SKillID": 212,
     "SkillName": {
       "Hash": -988480352,
@@ -361,10 +378,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_12.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_12.png",
-    "SKillID": 213,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_12.png",
     "IsRare": true,
+    "SKillID": 213,
     "SkillName": {
       "Hash": -988480353,
       "Hash64": 17653349893632226000
@@ -375,8 +392,9 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_13.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_13.png",
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_13.png",
+    "IsRare": false,
     "SKillID": 214,
     "SkillName": {
       "Hash": -988480346,
@@ -388,10 +406,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_14.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_14.png",
-    "SKillID": 215,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_14.png",
     "IsRare": true,
+    "SKillID": 215,
     "SkillName": {
       "Hash": -988480347,
       "Hash64": 8107787818317780075
@@ -402,10 +420,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_15.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_15.png",
-    "SKillID": 216,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_15.png",
     "IsRare": true,
+    "SKillID": 216,
     "SkillName": {
       "Hash": -988480348,
       "Hash64": 13950280093209740789
@@ -416,10 +434,10 @@
     }
   },
   {
-    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_16.png",
     "SkillFigurePath": "SpriteOutput/Quest/TrainParty/Skill/ItemBigFigure/TrainPartyMTSkillIcon_16.png",
-    "SKillID": 217,
+    "SkillIconPath": "SpriteOutput/Quest/TrainParty/Skill/ItemFigure/TrainPartyMTSkillIcon_16.png",
     "IsRare": true,
+    "SKillID": 217,
     "SkillName": {
       "Hash": -988480349,
       "Hash64": 17265443345318657976

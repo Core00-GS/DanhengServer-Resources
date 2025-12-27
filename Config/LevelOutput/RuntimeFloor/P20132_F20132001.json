@@ -930,5 +930,6 @@
       "SaveType": "Permanent",
       "LoadSide": "Server"
     }
-  }
+  },
+  "ValidSubmapList": []
 }

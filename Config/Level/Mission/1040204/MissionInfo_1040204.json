@@ -1820,6 +1820,7 @@
       "TakeParamIntList": [
         104020418
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_104020456",
@@ -1858,6 +1859,7 @@
       "TakeParamIntList": [
         104020456
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_104020457",
@@ -1882,7 +1884,11 @@
       ],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
+      "WayPointType": "Anchor",
       "GotoParam": [],
+      "WayPointFloorID": 10401001,
+      "WayPointGroupID": 437,
+      "WayPointEntityID": 1,
       "StoryLineIDList": [],
       "IgnoreVerseParamList": []
     },
@@ -3014,6 +3020,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -3021,6 +3029,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1

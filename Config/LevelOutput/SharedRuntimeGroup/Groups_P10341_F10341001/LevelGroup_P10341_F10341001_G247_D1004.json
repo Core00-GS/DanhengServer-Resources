@@ -59,7 +59,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -115,7 +117,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -159,7 +163,9 @@
       "DefaultIdleFreeStyleMotionID": 900180000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -203,7 +209,9 @@
       "DefaultIdleFreeStyleMotionID": 900180000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -245,13 +253,17 @@
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 900180000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5,
@@ -291,7 +303,9 @@
       "DefaultIdleFreeStyleMotionID": 900180000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -320,12 +334,6 @@
     {
       "NPCID": 3143,
       "ValueSource": {},
-      "AIConfig": {
-        "AIFile": "Config/ConfigAI/Adventure/NPC/Special_AdvertBoard/ST_NPC_Special_AdvertBoard_Master.json",
-        "PathwayList": [],
-        "SlaveConfigList": []
-      },
-      "AIVariableSource": {},
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
@@ -333,13 +341,17 @@
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 900180000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5,
@@ -364,12 +376,6 @@
     {
       "NPCID": 3144,
       "ValueSource": {},
-      "AIConfig": {
-        "AIFile": "Config/ConfigAI/Adventure/NPC/Special_AdvertBoard/ST_NPC_Special_AdvertBoard_Master.json",
-        "PathwayList": [],
-        "SlaveConfigList": []
-      },
-      "AIVariableSource": {},
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
@@ -377,13 +383,17 @@
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
       "DefaultIdleFreeStyleMotionID": 900180000,
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5,

@@ -16,7 +16,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Gameplay",
+      "TagHash": -141571921
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [
     {
@@ -35,8 +40,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -44,7 +48,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -79,8 +85,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -88,7 +93,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -119,8 +126,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -128,7 +134,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -163,8 +171,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -172,7 +179,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -210,8 +219,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -219,7 +227,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -257,8 +267,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "EventID": 10301299,
       "BoardShowList": [
@@ -266,7 +275,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -294,8 +305,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "InitialAnimState": "SpecialStandBy1",
       "EventID": 10301299,
@@ -304,7 +314,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "OverrideSpawn": true,
         "EntitySpawnConfig": {}
@@ -355,12 +367,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -486,5 +499,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

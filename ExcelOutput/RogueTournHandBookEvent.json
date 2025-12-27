@@ -2,1973 +2,2553 @@
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 410301
+        "HHGAFBNILGL": 410301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 610301
+        "HHGAFBNILGL": 610301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 5,
-    "ImageID": 101,
+    "EventHandbookID": 5,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 5,
     "EventTitle": {
       "Hash": -1369720593,
       "Hash64": 7000029817862836798
-    },
-    "EventHandbookID": 5,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 410401
+        "HHGAFBNILGL": 410401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 610401
+        "HHGAFBNILGL": 610401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 6,
-    "ImageID": 101,
+    "EventHandbookID": 6,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 6,
     "EventTitle": {
       "Hash": 1359162762,
       "Hash64": 9420925357367033478
-    },
-    "EventHandbookID": 6,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 410701
+        "HHGAFBNILGL": 410701,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 610701
+        "HHGAFBNILGL": 610701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 9,
-    "ImageID": 103,
+    "EventHandbookID": 9,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 103,
+    "Priority": 9,
     "EventTitle": {
       "Hash": 1312108595,
       "Hash64": 1783219863256147340
-    },
-    "EventHandbookID": 9,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 410901
+        "HHGAFBNILGL": 410901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 610901
+        "HHGAFBNILGL": 610901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 12,
-    "ImageID": 105,
+    "EventHandbookID": 12,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 105,
+    "Priority": 12,
     "EventTitle": {
       "Hash": -193429939,
       "Hash64": 14709131794221233556
-    },
-    "EventHandbookID": 12,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411001
+        "HHGAFBNILGL": 411001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611001
+        "HHGAFBNILGL": 611001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 13,
-    "ImageID": 101,
+    "EventHandbookID": 13,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 13,
     "EventTitle": {
       "Hash": -193429940,
       "Hash64": 18169156384967660149
-    },
-    "EventHandbookID": 13,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411101
+        "HHGAFBNILGL": 411101,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611101
+        "HHGAFBNILGL": 611101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 14,
-    "ImageID": 101,
+    "EventHandbookID": 14,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 14,
     "EventTitle": {
       "Hash": -193429937,
       "Hash64": 15678659939585418488
-    },
-    "EventHandbookID": 14,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411201
+        "HHGAFBNILGL": 411201,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611201
+        "HHGAFBNILGL": 611201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 15,
-    "ImageID": 106,
+    "EventHandbookID": 15,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 106,
+    "Priority": 15,
     "EventTitle": {
       "Hash": -193429938,
       "Hash64": 14000350088077449664
-    },
-    "EventHandbookID": 15,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411301
+        "HHGAFBNILGL": 411301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611301
+        "HHGAFBNILGL": 611301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 16,
-    "ImageID": 107,
+    "EventHandbookID": 16,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 107,
+    "Priority": 16,
     "EventTitle": {
       "Hash": -193429935,
       "Hash64": 7903833197535906732
-    },
-    "EventHandbookID": 16,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411501
+        "HHGAFBNILGL": 411501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611501
+        "HHGAFBNILGL": 611501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 18,
-    "ImageID": 101,
+    "EventHandbookID": 18,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 18,
     "EventTitle": {
       "Hash": -193429949,
       "Hash64": 11410700560123411733
-    },
-    "EventHandbookID": 18,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 411601
+        "HHGAFBNILGL": 411601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 611601
+        "HHGAFBNILGL": 611601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 19,
-    "ImageID": 101,
+    "EventHandbookID": 19,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 19,
     "EventTitle": {
       "Hash": -193429950,
       "Hash64": 8846442972106325604
-    },
-    "EventHandbookID": 19,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412001
+        "HHGAFBNILGL": 412001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612001
+        "HHGAFBNILGL": 612001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 27,
-    "ImageID": 101,
+    "EventHandbookID": 27,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 27,
     "EventTitle": {
       "Hash": -1759513877,
       "Hash64": 18101323937802689342
-    },
-    "EventHandbookID": 27,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413301
+        "HHGAFBNILGL": 413301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613301
+        "HHGAFBNILGL": 613301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 29,
-    "ImageID": 110,
+    "EventHandbookID": 29,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 110,
+    "Priority": 29,
     "EventTitle": {
       "Hash": -1759513891,
       "Hash64": 5609158282090203700
-    },
-    "EventHandbookID": 29,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413501
+        "HHGAFBNILGL": 413501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613501
+        "HHGAFBNILGL": 613501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 30,
-    "ImageID": 101,
+    "EventHandbookID": 30,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 30,
     "EventTitle": {
       "Hash": 969369473,
       "Hash64": 2377986155851638151
-    },
-    "EventHandbookID": 30,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413502
+        "HHGAFBNILGL": 413502,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613502
+        "HHGAFBNILGL": 613502,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 31,
-    "ImageID": 101,
+    "EventHandbookID": 31,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 31,
     "EventTitle": {
       "Hash": 969369472,
       "Hash64": 381965694846330944
-    },
-    "EventHandbookID": 31,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413503
+        "HHGAFBNILGL": 413503,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613503
+        "HHGAFBNILGL": 613503,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 32,
-    "ImageID": 101,
+    "EventHandbookID": 32,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 32,
     "EventTitle": {
       "Hash": 969369475,
       "Hash64": 10881695737305382537
-    },
-    "EventHandbookID": 32,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413401
+        "HHGAFBNILGL": 413401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613401
+        "HHGAFBNILGL": 613401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 33,
-    "ImageID": 110,
+    "EventHandbookID": 33,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 110,
+    "Priority": 33,
     "EventTitle": {
       "Hash": 969369474,
       "Hash64": 6742219759665420962
-    },
-    "EventHandbookID": 33,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413701
+        "HHGAFBNILGL": 413701,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613701
+        "HHGAFBNILGL": 613701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 35,
-    "ImageID": 110,
+    "EventHandbookID": 35,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 110,
+    "Priority": 35,
     "EventTitle": {
       "Hash": 969369476,
       "Hash64": 5885409199863447555
-    },
-    "EventHandbookID": 35,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413801
+        "HHGAFBNILGL": 413801,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613801
+        "HHGAFBNILGL": 613801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 36,
-    "ImageID": 111,
+    "EventHandbookID": 36,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 111,
+    "Priority": 36,
     "EventTitle": {
       "Hash": 969369479,
       "Hash64": 1033533419594018566
-    },
-    "EventHandbookID": 36,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413901
+        "HHGAFBNILGL": 413901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613901
+        "HHGAFBNILGL": 613901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 37,
-    "ImageID": 111,
+    "EventHandbookID": 37,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 111,
+    "Priority": 37,
     "EventTitle": {
       "Hash": 969369478,
       "Hash64": 2683739974778112299
-    },
-    "EventHandbookID": 37,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 414001
+        "HHGAFBNILGL": 414001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 614001
+        "HHGAFBNILGL": 614001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 38,
-    "ImageID": 111,
+    "EventHandbookID": 38,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 111,
+    "Priority": 38,
     "EventTitle": {
       "Hash": 969369465,
       "Hash64": 16809425367567145674
-    },
-    "EventHandbookID": 38,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412201
+        "HHGAFBNILGL": 412201,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612201
+        "HHGAFBNILGL": 612201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 39,
-    "ImageID": 112,
+    "EventHandbookID": 39,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 112,
+    "Priority": 39,
     "EventTitle": {
       "Hash": 969369464,
       "Hash64": 754816518925583545
-    },
-    "EventHandbookID": 39,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412301
+        "HHGAFBNILGL": 412301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612301
+        "HHGAFBNILGL": 612301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 40,
-    "ImageID": 101,
+    "EventHandbookID": 40,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 40,
     "EventTitle": {
       "Hash": -952944828,
       "Hash64": 5198511361305046642
-    },
-    "EventHandbookID": 40,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412401
+        "HHGAFBNILGL": 412401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612401
+        "HHGAFBNILGL": 612401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 41,
-    "ImageID": 117,
+    "EventHandbookID": 41,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 117,
+    "Priority": 41,
     "EventTitle": {
       "Hash": -952944829,
       "Hash64": 1885197011133589867
-    },
-    "EventHandbookID": 41,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412501
+        "HHGAFBNILGL": 412501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612501
+        "HHGAFBNILGL": 612501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 42,
-    "ImageID": 114,
+    "EventHandbookID": 42,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 114,
+    "Priority": 42,
     "EventTitle": {
       "Hash": -952944826,
       "Hash64": 8747739386449880697
-    },
-    "EventHandbookID": 42,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412601
+        "HHGAFBNILGL": 412601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612601
+        "HHGAFBNILGL": 612601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 43,
-    "ImageID": 104,
+    "EventHandbookID": 43,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 104,
+    "Priority": 43,
     "EventTitle": {
       "Hash": -952944827,
       "Hash64": 16958000641781582678
-    },
-    "EventHandbookID": 43,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412701
+        "HHGAFBNILGL": 412701,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612701
+        "HHGAFBNILGL": 612701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 44,
-    "ImageID": 108,
+    "EventHandbookID": 44,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 108,
+    "Priority": 44,
     "EventTitle": {
       "Hash": -952944824,
       "Hash64": 8830799312055207927
-    },
-    "EventHandbookID": 44,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 412901
+        "HHGAFBNILGL": 412901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 612901
+        "HHGAFBNILGL": 612901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 46,
-    "ImageID": 116,
+    "EventHandbookID": 46,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 116,
+    "Priority": 46,
     "EventTitle": {
       "Hash": -952944822,
       "Hash64": 11657012777474637179
-    },
-    "EventHandbookID": 46,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 413001
+        "HHGAFBNILGL": 413001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 613001
+        "HHGAFBNILGL": 613001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 47,
-    "ImageID": 104,
+    "EventHandbookID": 47,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 104,
+    "Priority": 47,
     "EventTitle": {
       "Hash": -952944823,
       "Hash64": 17062839083715556421
-    },
-    "EventHandbookID": 47,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 414301
+        "HHGAFBNILGL": 414301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 614301
+        "HHGAFBNILGL": 614301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 52,
-    "ImageID": 105,
+    "EventHandbookID": 52,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 105,
+    "Priority": 52,
     "EventTitle": {
       "Hash": 1775938529,
       "Hash64": 15358529693311567857
-    },
-    "EventHandbookID": 52,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 414301
+        "HHGAFBNILGL": 414301,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 414301
+        "HHGAFBNILGL": 414301,
+        "ANLHDPFLCBM": 2
       },
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 414301
+        "HHGAFBNILGL": 414301,
+        "ANLHDPFLCBM": 3
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 614301
+        "HHGAFBNILGL": 614301,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 614301
+        "HHGAFBNILGL": 614301,
+        "ANLHDPFLCBM": 2
       },
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 614301
+        "HHGAFBNILGL": 614301,
+        "ANLHDPFLCBM": 3
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 53,
-    "ImageID": 105,
+    "EventHandbookID": 53,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 105,
+    "Priority": 53,
     "EventTitle": {
       "Hash": 1775938528,
       "Hash64": 1941253810518525170
-    },
-    "EventHandbookID": 53,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 414401
+        "HHGAFBNILGL": 414401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 614401
+        "HHGAFBNILGL": 614401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 54,
-    "ImageID": 113,
+    "EventHandbookID": 54,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 113,
+    "Priority": 54,
     "EventTitle": {
       "Hash": 1775938531,
       "Hash64": 3322956277406006810
-    },
-    "EventHandbookID": 54,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 414401
+        "HHGAFBNILGL": 414401,
+        "ANLHDPFLCBM": 2
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 614401
+        "HHGAFBNILGL": 614401,
+        "ANLHDPFLCBM": 2
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 55,
-    "ImageID": 113,
+    "EventHandbookID": 55,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 113,
+    "Priority": 55,
     "EventTitle": {
       "Hash": 1775938530,
       "Hash64": 17511462038072111398
-    },
-    "EventHandbookID": 55,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 414501
+        "HHGAFBNILGL": 414501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 614501
+        "HHGAFBNILGL": 614501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 56,
-    "ImageID": 101,
+    "EventHandbookID": 56,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 56,
     "EventTitle": {
       "Hash": 1775938533,
       "Hash64": 10877306869379686747
-    },
-    "EventHandbookID": 56,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 419301
+        "HHGAFBNILGL": 419301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 619301
+        "HHGAFBNILGL": 619301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 60,
-    "ImageID": 108,
+    "EventHandbookID": 60,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 108,
+    "Priority": 60,
     "EventTitle": {
       "Hash": 209854586,
       "Hash64": 5658965009400636124
-    },
-    "EventHandbookID": 60,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 419401
+        "HHGAFBNILGL": 419401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 410001
+        "HHGAFBNILGL": 410001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 619401
+        "HHGAFBNILGL": 619401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 61,
-    "ImageID": 103,
+    "EventHandbookID": 61,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 103,
+    "Priority": 61,
     "EventTitle": {
       "Hash": 209854585,
       "Hash64": 11526661250376379170
-    },
-    "EventHandbookID": 61,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 2
       },
       {
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 2
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 62,
-    "ImageID": 101,
+    "EventHandbookID": 62,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 62,
     "EventTitle": {
       "Hash": 209854588,
       "Hash64": 9818788868344149161
-    },
-    "EventHandbookID": 62,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 419601
+        "HHGAFBNILGL": 419601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 619601
+        "HHGAFBNILGL": 619601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 63,
-    "ImageID": 109,
+    "EventHandbookID": 63,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 63,
     "EventTitle": {
       "Hash": 209854587,
       "Hash64": 17634598593397952351
-    },
-    "EventHandbookID": 63,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 419601
+        "HHGAFBNILGL": 419601,
+        "ANLHDPFLCBM": 3
       },
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 619601
+        "HHGAFBNILGL": 619601,
+        "ANLHDPFLCBM": 3
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 64,
-    "ImageID": 109,
+    "EventHandbookID": 64,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 64,
     "EventTitle": {
       "Hash": 209854590,
       "Hash64": 6493458482388386707
-    },
-    "EventHandbookID": 64,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 6,
-        "MBNKLBEBOHB": 419601
+        "HHGAFBNILGL": 419601,
+        "ANLHDPFLCBM": 6
       },
       {
-        "NNDEOKKKKPE": 6,
-        "MBNKLBEBOHB": 619601
+        "HHGAFBNILGL": 619601,
+        "ANLHDPFLCBM": 6
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 65,
-    "ImageID": 109,
+    "EventHandbookID": 65,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 65,
     "EventTitle": {
       "Hash": 209854589,
       "Hash64": 11637237279833556858
-    },
-    "EventHandbookID": 65,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 4,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 4
       },
       {
-        "NNDEOKKKKPE": 11,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 11
       },
       {
-        "NNDEOKKKKPE": 4,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 4
       },
       {
-        "NNDEOKKKKPE": 11,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 11
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 77,
-    "ImageID": 101,
+    "EventHandbookID": 77,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 77,
     "EventTitle": {
       "Hash": -1356229350,
       "Hash64": 2251443587615362333
-    },
-    "EventHandbookID": 77,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 3
       },
       {
-        "NNDEOKKKKPE": 12,
-        "MBNKLBEBOHB": 419501
+        "HHGAFBNILGL": 419501,
+        "ANLHDPFLCBM": 12
       },
       {
-        "NNDEOKKKKPE": 3,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 3
       },
       {
-        "NNDEOKKKKPE": 12,
-        "MBNKLBEBOHB": 619501
+        "HHGAFBNILGL": 619501,
+        "ANLHDPFLCBM": 12
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 78,
-    "ImageID": 101,
+    "EventHandbookID": 78,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 78,
     "EventTitle": {
       "Hash": -1356229363,
       "Hash64": 13057583814211509285
-    },
-    "EventHandbookID": 78,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 420601
+        "HHGAFBNILGL": 420601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 620601
+        "HHGAFBNILGL": 620601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 84,
-    "ImageID": 105,
+    "EventHandbookID": 84,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 105,
+    "Priority": 84,
     "EventTitle": {
       "Hash": 1728884364,
       "Hash64": 6518461325436333152
-    },
-    "EventHandbookID": 84,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 420901
+        "HHGAFBNILGL": 420901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 620901
+        "HHGAFBNILGL": 620901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 87,
-    "ImageID": 101,
+    "EventHandbookID": 87,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 87,
     "EventTitle": {
       "Hash": 1728884365,
       "Hash64": 14815788523057962739
-    },
-    "EventHandbookID": 87,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 420901
+        "HHGAFBNILGL": 420901,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 620901
+        "HHGAFBNILGL": 620901,
+        "ANLHDPFLCBM": 1
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 88,
-    "ImageID": 101,
+    "EventHandbookID": 88,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 88,
     "EventTitle": {
       "Hash": 1728884352,
       "Hash64": 16012469266704140292
-    },
-    "EventHandbookID": 88,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421001
+        "HHGAFBNILGL": 421001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621001
+        "HHGAFBNILGL": 621001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 92,
-    "ImageID": 123,
+    "EventHandbookID": 92,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 123,
+    "Priority": 92,
     "EventTitle": {
       "Hash": 162800421,
       "Hash64": 17410230018757268366
-    },
-    "EventHandbookID": 92,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421101
+        "HHGAFBNILGL": 421101,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621101
+        "HHGAFBNILGL": 621101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 93,
-    "ImageID": 124,
+    "EventHandbookID": 93,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 124,
+    "Priority": 93,
     "EventTitle": {
       "Hash": 162800420,
       "Hash64": 18187192197630102486
-    },
-    "EventHandbookID": 93,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421201
+        "HHGAFBNILGL": 421201,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621201
+        "HHGAFBNILGL": 621201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 94,
-    "ImageID": 125,
+    "EventHandbookID": 94,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 125,
+    "Priority": 94,
     "EventTitle": {
       "Hash": 162800423,
       "Hash64": 7533671837922728078
-    },
-    "EventHandbookID": 94,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421301
+        "HHGAFBNILGL": 421301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621301
+        "HHGAFBNILGL": 621301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 95,
-    "ImageID": 126,
+    "EventHandbookID": 95,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 126,
+    "Priority": 95,
     "EventTitle": {
       "Hash": 162800422,
       "Hash64": 6818738222395198974
-    },
-    "EventHandbookID": 95,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421401
+        "HHGAFBNILGL": 421401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621401
+        "HHGAFBNILGL": 621401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 96,
-    "ImageID": 128,
+    "EventHandbookID": 96,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 128,
+    "Priority": 96,
     "EventTitle": {
       "Hash": 162800425,
       "Hash64": 3446033906885970816
-    },
-    "EventHandbookID": 96,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421501
+        "HHGAFBNILGL": 421501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621501
+        "HHGAFBNILGL": 621501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 97,
-    "ImageID": 122,
+    "EventHandbookID": 97,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 122,
+    "Priority": 97,
     "EventTitle": {
       "Hash": 162800424,
       "Hash64": 11283314239738527906
-    },
-    "EventHandbookID": 97,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421601
+        "HHGAFBNILGL": 421601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621601
+        "HHGAFBNILGL": 621601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 98,
-    "ImageID": 121,
+    "EventHandbookID": 98,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 121,
+    "Priority": 98,
     "EventTitle": {
       "Hash": 162800411,
       "Hash64": 10502236415399525405
-    },
-    "EventHandbookID": 98,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421701
+        "HHGAFBNILGL": 421701,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621701
+        "HHGAFBNILGL": 621701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 99,
-    "ImageID": 127,
+    "EventHandbookID": 99,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 127,
+    "Priority": 99,
     "EventTitle": {
       "Hash": 162800410,
       "Hash64": 16962808779773961842
-    },
-    "EventHandbookID": 99,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421801
+        "HHGAFBNILGL": 421801,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621801
+        "HHGAFBNILGL": 621801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 100,
-    "ImageID": 110,
+    "EventHandbookID": 100,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 110,
+    "Priority": 100,
     "EventTitle": {
       "Hash": 766749915,
       "Hash64": 7997360801792231658
-    },
-    "EventHandbookID": 100,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 421901
+        "HHGAFBNILGL": 421901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 621901
+        "HHGAFBNILGL": 621901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 101,
-    "ImageID": 129,
+    "EventHandbookID": 101,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 129,
+    "Priority": 101,
     "EventTitle": {
       "Hash": -1962133440,
       "Hash64": 12029741885080899435
-    },
-    "EventHandbookID": 101,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422001
+        "HHGAFBNILGL": 422001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622001
+        "HHGAFBNILGL": 622001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 102,
-    "ImageID": 131,
+    "EventHandbookID": 102,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 131,
+    "Priority": 102,
     "EventTitle": {
       "Hash": 1929549329,
       "Hash64": 10999780494045313042
-    },
-    "EventHandbookID": 102,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422101
+        "HHGAFBNILGL": 422101,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622101
+        "HHGAFBNILGL": 622101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 103,
-    "ImageID": 130,
+    "EventHandbookID": 103,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 130,
+    "Priority": 103,
     "EventTitle": {
       "Hash": -799334026,
       "Hash64": 11761036387281454866
-    },
-    "EventHandbookID": 103,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422201
+        "HHGAFBNILGL": 422201,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622201
+        "HHGAFBNILGL": 622201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 104,
-    "ImageID": 132,
+    "EventHandbookID": 104,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 132,
+    "Priority": 104,
     "EventTitle": {
       "Hash": -1558848913,
       "Hash64": 1326041050137240538
-    },
-    "EventHandbookID": 104,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422301
+        "HHGAFBNILGL": 422301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622301
+        "HHGAFBNILGL": 622301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 105,
-    "ImageID": 128,
+    "EventHandbookID": 105,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 128,
+    "Priority": 105,
     "EventTitle": {
       "Hash": 7235028,
       "Hash64": 14013839890779882112
-    },
-    "EventHandbookID": 105,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422401
+        "HHGAFBNILGL": 422401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622401
+        "HHGAFBNILGL": 622401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 106,
-    "ImageID": 128,
+    "EventHandbookID": 106,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 128,
+    "Priority": 106,
     "EventTitle": {
       "Hash": -396049499,
       "Hash64": 8392127964174143375
-    },
-    "EventHandbookID": 106,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422501
+        "HHGAFBNILGL": 422501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622501
+        "HHGAFBNILGL": 622501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 107,
-    "ImageID": 101,
+    "EventHandbookID": 107,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 107,
     "EventTitle": {
       "Hash": 1170034442,
       "Hash64": 8770722780823431092
-    },
-    "EventHandbookID": 107,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422601
+        "HHGAFBNILGL": 422601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622601
+        "HHGAFBNILGL": 622601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 108,
-    "ImageID": 108,
+    "EventHandbookID": 108,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 108,
+    "Priority": 108,
     "EventTitle": {
       "Hash": 1122980275,
       "Hash64": 5537332582983415208
-    },
-    "EventHandbookID": 108,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 110,
-    "ImageID": 111,
+    "EventHandbookID": 110,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 111,
+    "Priority": 110,
     "EventTitle": {
       "Hash": 766749914,
       "Hash64": 571213656365896997
-    },
-    "EventHandbookID": 110,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 11,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 11
       },
       {
-        "NNDEOKKKKPE": 12,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 12
       },
       {
-        "NNDEOKKKKPE": 13,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 13
       },
       {
-        "NNDEOKKKKPE": 21,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 21
       },
       {
-        "NNDEOKKKKPE": 22,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 22
       },
       {
-        "NNDEOKKKKPE": 23,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 23
       },
       {
-        "NNDEOKKKKPE": 31,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 31
       },
       {
-        "NNDEOKKKKPE": 32,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 32
       },
       {
-        "NNDEOKKKKPE": 33,
-        "MBNKLBEBOHB": 422801
+        "HHGAFBNILGL": 422801,
+        "ANLHDPFLCBM": 33
       },
       {
-        "NNDEOKKKKPE": 11,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 11
       },
       {
-        "NNDEOKKKKPE": 12,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 12
       },
       {
-        "NNDEOKKKKPE": 13,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 13
       },
       {
-        "NNDEOKKKKPE": 21,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 21
       },
       {
-        "NNDEOKKKKPE": 22,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 22
       },
       {
-        "NNDEOKKKKPE": 23,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 23
       },
       {
-        "NNDEOKKKKPE": 31,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 31
       },
       {
-        "NNDEOKKKKPE": 32,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 32
       },
       {
-        "NNDEOKKKKPE": 33,
-        "MBNKLBEBOHB": 622801
+        "HHGAFBNILGL": 622801,
+        "ANLHDPFLCBM": 33
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 111,
-    "ImageID": 111,
+    "EventHandbookID": 111,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 111,
+    "Priority": 111,
     "EventTitle": {
       "Hash": -1962133441,
       "Hash64": 12527029557656477494
-    },
-    "EventHandbookID": 111,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 423001
+        "HHGAFBNILGL": 423001,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 623001
+        "HHGAFBNILGL": 623001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 112,
-    "ImageID": 128,
+    "EventHandbookID": 112,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 128,
+    "Priority": 112,
     "EventTitle": {
       "Hash": 1929549328,
       "Hash64": 11692392824958376128
-    },
-    "EventHandbookID": 112,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 423101
+        "HHGAFBNILGL": 423101,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 623101
+        "HHGAFBNILGL": 623101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 113,
-    "ImageID": 109,
+    "EventHandbookID": 113,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 113,
     "EventTitle": {
       "Hash": -799334027,
       "Hash64": 4420392610239526179
-    },
-    "EventHandbookID": 113,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 423101
+        "HHGAFBNILGL": 423101,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 623101
+        "HHGAFBNILGL": 623101,
+        "ANLHDPFLCBM": 1
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 114,
-    "ImageID": 109,
+    "EventHandbookID": 114,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 114,
     "EventTitle": {
       "Hash": -1558848914,
       "Hash64": 14885885830872412856
-    },
-    "EventHandbookID": 114,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 423601
+        "HHGAFBNILGL": 423601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 623601
+        "HHGAFBNILGL": 623601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 115,
-    "ImageID": 104,
+    "EventHandbookID": 115,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 104,
+    "Priority": 115,
     "EventTitle": {
       "Hash": 7235027,
       "Hash64": 8126682774147691781
-    },
-    "EventHandbookID": 115,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 423501
+        "HHGAFBNILGL": 423501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 623501
+        "HHGAFBNILGL": 623501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 119,
-    "ImageID": 132,
+    "EventHandbookID": 119,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 132,
+    "Priority": 119,
     "EventTitle": {
       "Hash": -1605903081,
       "Hash64": 10085219592840257293
-    },
-    "EventHandbookID": 119,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424201
+        "HHGAFBNILGL": 424201,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624201
+        "HHGAFBNILGL": 624201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 120,
-    "ImageID": 128,
+    "EventHandbookID": 120,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 128,
+    "Priority": 120,
     "EventTitle": {
       "Hash": 766749917,
       "Hash64": 12849208849168014881
-    },
-    "EventHandbookID": 120,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424301
+        "HHGAFBNILGL": 424301,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624301
+        "HHGAFBNILGL": 624301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 121,
-    "ImageID": 109,
+    "EventHandbookID": 121,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 109,
+    "Priority": 121,
     "EventTitle": {
       "Hash": -1962133438,
       "Hash64": 11027535410554170525
-    },
-    "EventHandbookID": 121,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424401
+        "HHGAFBNILGL": 424401,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624401
+        "HHGAFBNILGL": 624401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 122,
-    "ImageID": 139,
+    "EventHandbookID": 122,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 139,
+    "Priority": 122,
     "EventTitle": {
       "Hash": 1929549331,
       "Hash64": 7966448319373581467
-    },
-    "EventHandbookID": 122,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424501
+        "HHGAFBNILGL": 424501,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624501
+        "HHGAFBNILGL": 624501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 123,
-    "ImageID": 137,
+    "EventHandbookID": 123,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 137,
+    "Priority": 123,
     "EventTitle": {
       "Hash": -799334024,
       "Hash64": 18301633035469211467
-    },
-    "EventHandbookID": 123,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424601
+        "HHGAFBNILGL": 424601,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624601
+        "HHGAFBNILGL": 624601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 124,
-    "ImageID": 121,
+    "EventHandbookID": 124,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 121,
+    "Priority": 124,
     "EventTitle": {
       "Hash": -1558848911,
       "Hash64": 17520613075536656311
-    },
-    "EventHandbookID": 124,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424701
+        "HHGAFBNILGL": 424701,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624701
+        "HHGAFBNILGL": 624701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 125,
-    "ImageID": 138,
+    "EventHandbookID": 125,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 138,
+    "Priority": 125,
     "EventTitle": {
       "Hash": 7235030,
       "Hash64": 15185197729850446931
-    },
-    "EventHandbookID": 125,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424801
+        "HHGAFBNILGL": 424801,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624801
+        "HHGAFBNILGL": 624801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 126,
-    "ImageID": 139,
+    "EventHandbookID": 126,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 139,
+    "Priority": 126,
     "EventTitle": {
       "Hash": -396049497,
       "Hash64": 13576369661730822472
-    },
-    "EventHandbookID": 126,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 424901
+        "HHGAFBNILGL": 424901,
+        "ANLHDPFLCBM": 0
       },
       {
-        "MBNKLBEBOHB": 624901
+        "HHGAFBNILGL": 624901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 127,
-    "ImageID": 140,
+    "EventHandbookID": 127,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 140,
+    "Priority": 127,
     "EventTitle": {
       "Hash": 1170034444,
       "Hash64": 3924206035200949485
-    },
-    "EventHandbookID": 127,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 424901
+        "HHGAFBNILGL": 424901,
+        "ANLHDPFLCBM": 1
       },
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 624901
+        "HHGAFBNILGL": 624901,
+        "ANLHDPFLCBM": 1
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 128,
-    "ImageID": 140,
+    "EventHandbookID": 128,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 140,
+    "Priority": 128,
     "EventTitle": {
       "Hash": 1122980277,
       "Hash64": 13889172317215276225
-    },
-    "EventHandbookID": 128,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 424901
+        "HHGAFBNILGL": 424901,
+        "ANLHDPFLCBM": 2
       },
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 624901
+        "HHGAFBNILGL": 624901,
+        "ANLHDPFLCBM": 2
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 129,
-    "ImageID": 140,
+    "EventHandbookID": 129,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 140,
+    "Priority": 129,
     "EventTitle": {
       "Hash": -1605903078,
       "Hash64": 9357082023277503943
-    },
-    "EventHandbookID": 129,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625001
+        "HHGAFBNILGL": 623801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 133,
-    "ImageID": 142,
+    "EventHandbookID": 130,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 133,
+    "Priority": 130,
+    "EventTitle": {
+      "Hash": 766749916,
+      "Hash64": 3904771421919666804
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 623901,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 131,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 134,
+    "Priority": 131,
+    "EventTitle": {
+      "Hash": -1962133439,
+      "Hash64": 13467028011593504644
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 624101,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 132,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 136,
+    "Priority": 132,
+    "EventTitle": {
+      "Hash": 1929549330,
+      "Hash64": 444877990015023207
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 625001,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 133,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 133,
     "EventTitle": {
       "Hash": -799334025,
       "Hash64": 5144878348397471245
-    },
-    "EventHandbookID": 133,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625101
+        "HHGAFBNILGL": 625101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 134,
-    "ImageID": 144,
+    "EventHandbookID": 134,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 134,
     "EventTitle": {
       "Hash": -1558848912,
       "Hash64": 4631773427920390369
-    },
-    "EventHandbookID": 134,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625201
+        "HHGAFBNILGL": 625201,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 135,
-    "ImageID": 141,
+    "EventHandbookID": 135,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 141,
+    "Priority": 135,
     "EventTitle": {
       "Hash": 7235029,
       "Hash64": 9815037135073250784
-    },
-    "EventHandbookID": 135,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625301
+        "HHGAFBNILGL": 625301,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 136,
-    "ImageID": 144,
+    "EventHandbookID": 136,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 136,
     "EventTitle": {
       "Hash": -396049498,
       "Hash64": 12842648372226024919
-    },
-    "EventHandbookID": 136,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625401
+        "HHGAFBNILGL": 625401,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 137,
-    "ImageID": 142,
+    "EventHandbookID": 137,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 137,
     "EventTitle": {
       "Hash": 1170034443,
       "Hash64": 1482390795078004989
-    },
-    "EventHandbookID": 137,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625501
+        "HHGAFBNILGL": 625501,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 138,
-    "ImageID": 101,
+    "EventHandbookID": 138,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 138,
     "EventTitle": {
       "Hash": 1122980276,
       "Hash64": 3882359424080763836
-    },
-    "EventHandbookID": 138,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625601
+        "HHGAFBNILGL": 625601,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 139,
-    "ImageID": 143,
+    "EventHandbookID": 139,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 143,
+    "Priority": 139,
     "EventTitle": {
       "Hash": -1605903079,
       "Hash64": 4723942760178529262
-    },
-    "EventHandbookID": 139,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625701
+        "HHGAFBNILGL": 625701,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 140,
-    "ImageID": 143,
+    "EventHandbookID": 140,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 143,
+    "Priority": 140,
     "EventTitle": {
       "Hash": 766749919,
       "Hash64": 15256260556408591442
-    },
-    "EventHandbookID": 140,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625801
+        "HHGAFBNILGL": 625801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 141,
-    "ImageID": 141,
+    "EventHandbookID": 141,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 141,
+    "Priority": 141,
     "EventTitle": {
       "Hash": -1962133436,
       "Hash64": 15548112332256986330
-    },
-    "EventHandbookID": 141,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 625901
+        "HHGAFBNILGL": 625901,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 142,
-    "ImageID": 142,
+    "EventHandbookID": 142,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 142,
     "EventTitle": {
       "Hash": 1929549333,
       "Hash64": 4417359821377439935
-    },
-    "EventHandbookID": 142,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 625901
+        "HHGAFBNILGL": 625901,
+        "ANLHDPFLCBM": 1
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 143,
-    "ImageID": 142,
+    "EventHandbookID": 143,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 143,
     "EventTitle": {
       "Hash": -799334022,
       "Hash64": 5514630132032071729
-    },
-    "EventHandbookID": 143,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 2,
-        "MBNKLBEBOHB": 625901
+        "HHGAFBNILGL": 625901,
+        "ANLHDPFLCBM": 2
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 144,
-    "ImageID": 142,
+    "EventHandbookID": 144,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 144,
     "EventTitle": {
       "Hash": -1558848909,
       "Hash64": 17268474501219806802
-    },
-    "EventHandbookID": 144,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 626001
+        "HHGAFBNILGL": 626001,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 145,
-    "ImageID": 144,
+    "EventHandbookID": 145,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 145,
     "EventTitle": {
       "Hash": 7235032,
       "Hash64": 13731894681175008140
-    },
-    "EventHandbookID": 145,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "NNDEOKKKKPE": 1,
-        "MBNKLBEBOHB": 626001
+        "HHGAFBNILGL": 626001,
+        "ANLHDPFLCBM": 1
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 146,
-    "ImageID": 144,
+    "EventHandbookID": 146,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 146,
     "EventTitle": {
       "Hash": -396049495,
       "Hash64": 11070128040838599714
-    },
-    "EventHandbookID": 146,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 626101
+        "HHGAFBNILGL": 626101,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 147,
-    "ImageID": 141,
+    "EventHandbookID": 147,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 141,
+    "Priority": 147,
     "EventTitle": {
       "Hash": 1170034446,
       "Hash64": 16174945641307567184
-    },
-    "EventHandbookID": 147,
-    "TypeDisplayID": 801
+    }
   },
   {
     "UnlockNPCProgressIDList": [
       {
-        "MBNKLBEBOHB": 612801
+        "HHGAFBNILGL": 612801,
+        "ANLHDPFLCBM": 0
       }
     ],
-    "UnlockDisplayID": 804,
-    "Priority": 148,
-    "ImageID": 105,
+    "EventHandbookID": 148,
+    "TypeDisplayID": 801,
     "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 105,
+    "Priority": 148,
     "EventTitle": {
       "Hash": 1122980279,
       "Hash64": 7716636931136935795
-    },
-    "EventHandbookID": 148,
-    "TypeDisplayID": 801
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626201,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 149,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 149,
+    "EventTitle": {
+      "Hash": -1605903076,
+      "Hash64": 16501036411550259341
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626301,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 150,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 145,
+    "Priority": 150,
+    "EventTitle": {
+      "Hash": 766749918,
+      "Hash64": 23968646008971501
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626401,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 151,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 101,
+    "Priority": 151,
+    "EventTitle": {
+      "Hash": -1962133437,
+      "Hash64": 17294570524304876027
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626501,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 152,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 152,
+    "EventTitle": {
+      "Hash": 1929549332,
+      "Hash64": 5449982224760996922
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626601,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 153,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 148,
+    "Priority": 153,
+    "EventTitle": {
+      "Hash": -799334023,
+      "Hash64": 18284350767543538485
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626701,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 154,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 146,
+    "Priority": 154,
+    "EventTitle": {
+      "Hash": -1558848910,
+      "Hash64": 2668456976430422908
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626701,
+        "ANLHDPFLCBM": 1
+      }
+    ],
+    "EventHandbookID": 155,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 146,
+    "Priority": 155,
+    "EventTitle": {
+      "Hash": 7235031,
+      "Hash64": 15508187223066051162
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626701,
+        "ANLHDPFLCBM": 2
+      }
+    ],
+    "EventHandbookID": 156,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 146,
+    "Priority": 156,
+    "EventTitle": {
+      "Hash": -396049496,
+      "Hash64": 4017655857071027912
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626801,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 157,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 157,
+    "EventTitle": {
+      "Hash": 1170034445,
+      "Hash64": 4051623303330917477
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 626901,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 158,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 147,
+    "Priority": 158,
+    "EventTitle": {
+      "Hash": 1122980278,
+      "Hash64": 7113715668040691674
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627001,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 159,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 149,
+    "Priority": 159,
+    "EventTitle": {
+      "Hash": -1605903077,
+      "Hash64": 6598606773546924473
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627101,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 160,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 147,
+    "Priority": 160,
+    "EventTitle": {
+      "Hash": 766749921,
+      "Hash64": 1061501300440454284
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627101,
+        "ANLHDPFLCBM": 1
+      }
+    ],
+    "EventHandbookID": 161,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 147,
+    "Priority": 161,
+    "EventTitle": {
+      "Hash": -1962133434,
+      "Hash64": 2173780316785590527
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627201,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 162,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 146,
+    "Priority": 162,
+    "EventTitle": {
+      "Hash": 1929549335,
+      "Hash64": 4813686609036546699
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627301,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 163,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 151,
+    "Priority": 163,
+    "EventTitle": {
+      "Hash": -799334020,
+      "Hash64": 2186240133225254570
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627401,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 164,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 164,
+    "EventTitle": {
+      "Hash": -1558848907,
+      "Hash64": 4609562146301521549
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627401,
+        "ANLHDPFLCBM": 1
+      }
+    ],
+    "EventHandbookID": 165,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 165,
+    "EventTitle": {
+      "Hash": 7235034,
+      "Hash64": 7059626364239310209
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627401,
+        "ANLHDPFLCBM": 2
+      }
+    ],
+    "EventHandbookID": 166,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 142,
+    "Priority": 166,
+    "EventTitle": {
+      "Hash": -396049493,
+      "Hash64": 13481461050427794272
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627501,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 167,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 150,
+    "Priority": 167,
+    "EventTitle": {
+      "Hash": 1170034448,
+      "Hash64": 7839156243735147134
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627601,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 168,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 144,
+    "Priority": 168,
+    "EventTitle": {
+      "Hash": 1122980281,
+      "Hash64": 13047623427187814348
+    }
+  },
+  {
+    "UnlockNPCProgressIDList": [
+      {
+        "HHGAFBNILGL": 627701,
+        "ANLHDPFLCBM": 0
+      }
+    ],
+    "EventHandbookID": 169,
+    "TypeDisplayID": 801,
+    "IsUsed": true,
+    "UnlockDisplayID": 804,
+    "ImageID": 143,
+    "Priority": 169,
+    "EventTitle": {
+      "Hash": -1605903074,
+      "Hash64": 15533170230548414411
+    }
   }
 ]

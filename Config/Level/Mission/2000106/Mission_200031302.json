@@ -7,8 +7,9 @@
         {
           "$type": "RPG.GameCore.ShowReading",
           "BookID": {
-            "fixedValue": {
-              "RawValue": 816941434404864
+            "FixedValue": {
+              "RawValue": 816941434404864,
+              "Value": 190209.0
             }
           },
           "WaitForExit": true,

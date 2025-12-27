@@ -33,6 +33,7 @@
             "MainMissionID": 8002104,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "isLocal": true,
               "ValidValueParamList": [
                 0,
@@ -112,13 +113,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 562640715776
+                "FixedValue": {
+                  "RawValue": 562640715776,
+                  "Value": 131.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }

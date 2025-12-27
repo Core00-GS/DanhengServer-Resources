@@ -1,102 +1,112 @@
 [
   {
     "RoomID": 21098010,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 11098040,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 11098060,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 11098030,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 11098050,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 301002
+    "ParamGroupID": 301002,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 299901,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 302001
+    "ParamGroupID": 302001,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 299900,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 302002
+    "ParamGroupID": 302002,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 11098010,
-    "AdventureType": "RogueTurntable",
-    "ParamGroupID": 4001
+    "ParamGroupID": 4001,
+    "AdventureType": "RogueTurntable"
   },
   {
     "RoomID": 11098070,
-    "AdventureType": "RogueEscapeLaser",
-    "ParamGroupID": 5001
+    "ParamGroupID": 5001,
+    "AdventureType": "RogueEscapeLaser"
   },
   {
     "RoomID": 11098080,
-    "AdventureType": "RogueWolfGun",
-    "ParamGroupID": 101
+    "ParamGroupID": 101,
+    "AdventureType": "RogueWolfGun"
   },
   {
     "RoomID": 21098080,
-    "AdventureType": "RogueWolfGun",
-    "ParamGroupID": 102
+    "ParamGroupID": 102,
+    "AdventureType": "RogueWolfGun"
   },
   {
     "RoomID": 200102,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 200103,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 200104,
-    "AdventureType": "RogueCaptureMonster",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueCaptureMonster"
   },
   {
     "RoomID": 200105,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 301001
+    "ParamGroupID": 301001,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 200106,
-    "AdventureType": "RogueDestroyProp",
-    "ParamGroupID": 301002
+    "ParamGroupID": 301002,
+    "AdventureType": "RogueDestroyProp"
   },
   {
     "RoomID": 200101,
-    "AdventureType": "RogueTurntable",
-    "ParamGroupID": 4001
+    "ParamGroupID": 4001,
+    "AdventureType": "RogueTurntable"
   },
   {
     "RoomID": 200107,
-    "AdventureType": "RogueEscapeLaser",
-    "ParamGroupID": 5001
+    "ParamGroupID": 5001,
+    "AdventureType": "RogueEscapeLaser"
   },
   {
     "RoomID": 200108,
-    "AdventureType": "RogueWolfGun",
-    "ParamGroupID": 101
+    "ParamGroupID": 101,
+    "AdventureType": "RogueWolfGun"
   },
   {
     "RoomID": 200109,
-    "AdventureType": "RogueWolfGun",
-    "ParamGroupID": 102
+    "ParamGroupID": 102,
+    "AdventureType": "RogueWolfGun"
+  },
+  {
+    "RoomID": 200110,
+    "ParamGroupID": 4001,
+    "AdventureType": "RogueCandyCrash"
+  },
+  {
+    "RoomID": 200111,
+    "ParamGroupID": 4002,
+    "AdventureType": "RogueCandyCrash"
   }
 ]

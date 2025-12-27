@@ -12,8 +12,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item_Special.ModifierMap.ADV_ItemAbility_402029.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,

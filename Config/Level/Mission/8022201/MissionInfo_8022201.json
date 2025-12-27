@@ -44,9 +44,9 @@
       "TakeParamIntList": [
         802220101
       ],
-      "FinishType": "EvolveBuildFinishLevel",
+      "FinishType": "Talk",
       "ParamType": "Equal",
-      "ParamInt1": 414000,
+      "ParamStr1": "Mission_802220102",
       "ParamIntList": [],
       "ParamItemList": [],
       "FinishActionList": [],
@@ -61,7 +61,9 @@
       "GotoParam": [],
       "WayPointFloorID": 10301001,
       "WayPointGroupID": 477,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     }
   ],
   "MissionCustomValueList": [],

@@ -27,8 +27,7 @@
       ],
       "Name": "LocalPlayer_Boothill_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -107,8 +106,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 158913788
+                "FixedValue": {
+                  "RawValue": 158913788,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -199,7 +199,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -232,7 +232,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -267,8 +267,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 386547057
+                "FixedValue": {
+                  "RawValue": 386547057,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -297,8 +298,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 158913788
+                "FixedValue": {
+                  "RawValue": 158913788,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -364,7 +366,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -397,7 +399,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -432,8 +434,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 386547057
+                "FixedValue": {
+                  "RawValue": 386547057,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -465,8 +468,7 @@
       ],
       "Name": "LocalPlayer_Boothill_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -502,8 +504,9 @@
           "$type": "RPG.GameCore.WaitAnimState",
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 42949673
+            "FixedValue": {
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           "TaskEnabled": true,
@@ -517,8 +520,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 536870911
+            "FixedValue": {
+              "RawValue": 536870911,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -581,7 +585,9 @@
               "BaseCycle": 0.1,
               "RangeAttenuation": 0.95,
               "RangeAttenuationDelay": 999.0,
-              "RangeAttenuationDuration": -1.0
+              "RangeAttenuationDuration": -1.0,
+              "IsUsePositionNoise": true,
+              "IsUseRotationNoise": true
             }
           },
           "TaskEnabled": true,
@@ -595,8 +601,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 594938870
+            "FixedValue": {
+              "RawValue": 594938870,
+              "Value": 0.14
             }
           },
           "TaskEnabled": true,
@@ -610,13 +617,15 @@
           },
           "ID": 131501,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "Count": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -639,8 +648,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "TaskEnabled": true,
@@ -651,8 +661,7 @@
     {
       "Name": "LocalPlayer_Boothill_00_Passive",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -663,8 +672,9 @@
           },
           "ModifierName": "ADV_StageAbility_Maze_Boothill_AfterBattle",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -672,5 +682,323 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Boothill": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Boothill_EnhanceStack": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Boothill_00/Eff_Avatar_Boothill_00_Passive_Badge_01.prefab",
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnStack": [
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Boothill_00/Eff_Avatar_Boothill_00_Passive_Badge_01.prefab",
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByCompareDynamicValue",
+            "TargetType": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "DynamicKey": {
+              "Value": "#ADF_1"
+            },
+            "CompareType": "GreaterEqual",
+            "CompareValue": {
+              "FixedValue": {
+                "RawValue": 4294967296,
+                "Value": 1.0
+              }
+            },
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Boothill_00/Eff_Avatar_Boothill_00_Passive_Badge_01.prefab",
+              "AttachPoint": "ButtonR_A",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByCompareDynamicValue",
+            "TargetType": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "DynamicKey": {
+              "Value": "#ADF_1"
+            },
+            "CompareType": "GreaterEqual",
+            "CompareValue": {
+              "FixedValue": {
+                "RawValue": 8589934592,
+                "Value": 2.0
+              }
+            },
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Boothill_00/Eff_Avatar_Boothill_00_Passive_Badge_01.prefab",
+              "AttachPoint": "ButtonR_B",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByCompareDynamicValue",
+            "TargetType": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "DynamicKey": {
+              "Value": "#ADF_1"
+            },
+            "CompareType": "GreaterEqual",
+            "CompareValue": {
+              "FixedValue": {
+                "RawValue": 12884901888,
+                "Value": 3.0
+              }
+            },
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Boothill_00/Eff_Avatar_Boothill_00_Passive_Badge_01.prefab",
+              "AttachPoint": "ButtonR_C",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 2,
+      "Stacking": "Replace",
+      "DynamicValues": {}
+    },
+    "ADV_StageAbility_Maze_Boothill_AfterBattle": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnAfterBattle": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByIsLastBattleWin",
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.SetDynamicValueByStatisticCustomValue",
+              "TaskEnabled": true
+            },
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "Predicate": {
+                "$type": "RPG.GameCore.AdvByCompareDynamicValue",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "Caster"
+                },
+                "DynamicKey": "CurCount",
+                "CompareType": "Greater",
+                "CompareValue": {},
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              "SuccessTaskList": [
+                {
+                  "$type": "RPG.GameCore.RemoveMazeBuff",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "ModifierOwnerEntity"
+                  },
+                  "ID": 131502,
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                },
+                {
+                  "$type": "RPG.GameCore.AddMazeBuff",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "ModifierOwnerEntity"
+                  },
+                  "ID": 131502,
+                  "Count": {
+                    "FixedValue": {
+                      "RawValue": 8589934592,
+                      "Value": 2.0
+                    }
+                  },
+                  "Level": {
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_Boothill_00_Ability.GlobalModifiers.ADV_StageAbility_Maze_Boothill_AfterBattle.OnAfterBattle.0.SuccessTaskList.1.SuccessTaskList.1.Level.FixedValue"
+                    }
+                  },
+                  "DynamicValues": {
+                    "#ADF_1": {
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_Boothill_00_Ability.GlobalModifiers.ADV_StageAbility_Maze_Boothill_AfterBattle.OnAfterBattle.0.SuccessTaskList.1.SuccessTaskList.1.DynamicValues.#ADF_1.FixedValue"
+                      }
+                    }
+                  },
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                }
+              ],
+              "TaskEnabled": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Merge",
+      "DynamicValues": {}
+    }
+  }
 }

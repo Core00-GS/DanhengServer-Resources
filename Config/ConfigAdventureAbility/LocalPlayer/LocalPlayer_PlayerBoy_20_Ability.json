@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_PlayerBoy_20_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 176093659
+                "FixedValue": {
+                  "RawValue": 176093659,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -122,8 +122,9 @@
                 },
                 "CompareType": "LessEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "IgnoreRadius": true,
@@ -195,7 +196,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -246,7 +247,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -340,7 +341,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -390,7 +391,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -425,8 +426,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 300647711
+                    "FixedValue": {
+                      "RawValue": 300647711,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -458,8 +460,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 176093659
+                "FixedValue": {
+                  "RawValue": 176093659,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -539,7 +542,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -589,7 +592,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -631,8 +634,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 171798692
+                "FixedValue": {
+                  "RawValue": 171798692,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -651,14 +655,132 @@
           "FadeDuration": 1.0,
           "TaskEnabled": true,
           "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.AdvPlayerForceUseDefaultOutfit",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectList": [
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            },
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change02.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            }
+          ],
+          "TaskEnabled": true,
+          "IsClientOnly": true
         }
       ],
       "Name": "LocalPlayer_PlayerBoy_20_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
+        {
+          "$type": "RPG.GameCore.AdvPlayerForceUseDefaultOutfit",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "Enable": true,
+          "EffectList": [
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            },
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change02.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            }
+          ],
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
         {
           "$type": "RPG.GameCore.AdventureTriggerAnimStateWithMove",
           "TargetType": {
@@ -680,8 +802,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 214748365
+            "FixedValue": {
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           "TaskEnabled": true,
@@ -702,8 +825,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 519691043
+            "FixedValue": {
+              "RawValue": 519691043,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -769,8 +893,9 @@
           },
           "ID": 800501,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -793,8 +918,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 867583394
+            "FixedValue": {
+              "RawValue": 867583394,
+              "Value": 0.2
             }
           },
           "TaskEnabled": true,
@@ -806,8 +932,95 @@
           "FadeDuration": 1.0,
           "TaskEnabled": true,
           "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.WaitAnimState",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "AnimStateName": "MazeSkill",
+          "NormalizedTimeEnd": {
+            "FixedValue": {
+              "RawValue": 3435973840,
+              "Value": 0.8
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.AdvPlayerForceUseDefaultOutfit",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectList": [
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            },
+            {
+              "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Cham_Common_Change02.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              }
+            }
+          ],
+          "TaskEnabled": true,
+          "IsClientOnly": true
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_PlayerBoy_20": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

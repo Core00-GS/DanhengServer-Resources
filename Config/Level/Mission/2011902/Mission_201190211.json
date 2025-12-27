@@ -11,13 +11,15 @@
             "MultiMonsterID": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 390842023936
+                  "FixedValue": {
+                    "RawValue": 390842023936,
+                    "Value": 91.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 859002049134592
+                  "FixedValue": {
+                    "RawValue": 859002049134592,
+                    "Value": 200002.0
                   }
                 }
               }

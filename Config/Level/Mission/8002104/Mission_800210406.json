@@ -21,6 +21,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 8002104,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "ValidValueParamList": [
                 0,
                 1
@@ -39,6 +40,7 @@
                 "MainMissionID": 8002104,
                 "MissionCustomValue": {
                   "Index": 1,
+                  "Name": "OldValue_1",
                   "ValidValueParamList": [
                     0,
                     1
@@ -116,6 +118,7 @@
                 "MainMissionID": 8002104,
                 "MissionCustomValue": {
                   "Index": 1,
+                  "Name": "OldValue_1",
                   "ValidValueParamList": [
                     0,
                     1

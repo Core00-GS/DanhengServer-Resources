@@ -67,6 +67,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -132,6 +135,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -201,7 +207,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -248,7 +256,9 @@
       "DefaultIdleFreeStyleMotionID": 900090353,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -290,7 +300,9 @@
       "DefaultIdleFreeStyleMotionID": 900090353,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -332,7 +344,9 @@
       "DefaultIdleFreeStyleMotionID": 900090353,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -374,7 +388,9 @@
       "DefaultIdleFreeStyleMotionID": 900090353,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -455,19 +471,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010393,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010393
         },
         {
           "Identity": "Students",
@@ -489,19 +493,7 @@
           },
           "LocalRotationY": 355.024,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020345,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020345
         },
         {
           "Identity": "Students",
@@ -532,19 +524,7 @@
           },
           "LocalRotationY": 257.5706,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040328,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040328
         }
       ],
       "NewMunicipalChatCrowdInfos": [],

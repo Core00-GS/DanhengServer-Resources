@@ -1,10 +1,12 @@
 {
   "GroupName": "NPC",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G257",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Mr_Pop",
         "Operation": "Equal",
         "Value": 1
@@ -23,7 +25,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.NPC",
+      "TagHash": -882113524
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -57,8 +64,12 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -84,6 +95,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

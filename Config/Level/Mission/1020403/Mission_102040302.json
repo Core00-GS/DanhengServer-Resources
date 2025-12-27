@@ -9,13 +9,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "DestroyList": [],

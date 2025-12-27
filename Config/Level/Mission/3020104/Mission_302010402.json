@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 472446402560
+                "FixedValue": {
+                  "RawValue": 472446402560,
+                  "Value": 110.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -52,6 +54,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -68,7 +71,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 963855677,
             "Hash64": 68226958983281718
@@ -90,13 +95,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 472446402560
+                "FixedValue": {
+                  "RawValue": 472446402560,
+                  "Value": 110.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }

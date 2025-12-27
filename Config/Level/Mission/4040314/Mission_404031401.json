@@ -9,13 +9,15 @@
           "Predicate": {
             "$type": "RPG.GameCore.ByCompareQuestProgress",
             "QuestID": {
-              "fixedValue": {
-                "RawValue": 9448996770676736
+              "FixedValue": {
+                "RawValue": 9448996770676736,
+                "Value": 2200016.0
               }
             },
             "Progress": {
-              "fixedValue": {
-                "RawValue": 257698037760
+              "FixedValue": {
+                "RawValue": 257698037760,
+                "Value": 60.0
               }
             },
             "EquationType": "Equal",

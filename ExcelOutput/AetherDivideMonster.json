@@ -4,7 +4,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7002040,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -12,7 +13,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 700203001,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -20,7 +22,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 700203002,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -28,7 +31,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 8002040,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -36,7 +40,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7003020,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -44,7 +49,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 700207001,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -52,45 +58,62 @@
     "MonsterType": "Abnormity",
     "MonsterID": 700207002,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002011.prefab",
     "MonsterType": "Abnormity",
-    "MonsterID": 7002011
+    "MonsterID": 7002011,
+    "SPMax": {
+      "RawValue": 0,
+      "Value": 0.0
+    }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002090.prefab",
+    "MonsterType": "Human",
     "MonsterID": 700209001,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_8002040.prefab",
     "MonsterType": "Abnormity",
-    "MonsterID": 7001013
+    "MonsterID": 7001013,
+    "SPMax": {
+      "RawValue": 0,
+      "Value": 0.0
+    }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002120.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002120,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002130.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002130,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7003050.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7003050,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -98,7 +121,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7003070,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -106,7 +130,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7003080,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -114,28 +139,35 @@
     "MonsterType": "Machine",
     "MonsterID": 7003090,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7003100.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7003100,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002060.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002060,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7003030.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7003030,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -143,7 +175,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7003010,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -151,14 +184,17 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7002070,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002080.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002080,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -166,7 +202,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7002010,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -174,7 +211,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7002050,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -182,7 +220,8 @@
     "MonsterType": "Machine",
     "MonsterID": 700205001,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -190,7 +229,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7001010,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -198,7 +238,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7002030,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -206,7 +247,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7001011,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -214,7 +256,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7001012,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -222,21 +265,26 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7003040,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002020.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002020,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
     "UltraSkillCutInPrefabPath": "UI/Battle/AetherDivide/ADCutin/AetherDivideUltraSkillCutIn_Enemy_7002090.prefab",
+    "MonsterType": "Human",
     "MonsterID": 7002090,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   },
   {
@@ -244,7 +292,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7002100,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -252,7 +301,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7002110,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -260,7 +310,8 @@
     "MonsterType": "Machine",
     "MonsterID": 7003060,
     "SPMax": {
-      "RawValue": 8589934592
+      "RawValue": 8589934592,
+      "Value": 2.0
     }
   },
   {
@@ -268,7 +319,8 @@
     "MonsterType": "Abnormity",
     "MonsterID": 7002140,
     "SPMax": {
-      "RawValue": 12884901888
+      "RawValue": 12884901888,
+      "Value": 3.0
     }
   }
 ]

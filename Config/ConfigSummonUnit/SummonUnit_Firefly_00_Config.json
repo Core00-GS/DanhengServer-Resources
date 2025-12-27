@@ -77,8 +77,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -134,8 +135,9 @@
         "TriggerName": "ShowMonsterTargetTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 42949672960
+          "FixedValue": {
+            "RawValue": 42949672960,
+            "Value": 10.0
           }
         },
         "UseVerticalBound": true,
@@ -220,8 +222,9 @@
         "TriggerName": "ShowPropTargetTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 42949672960
+          "FixedValue": {
+            "RawValue": 42949672960,
+            "Value": 10.0
           }
         },
         "UseVerticalBound": true,

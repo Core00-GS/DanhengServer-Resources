@@ -1,26 +1,26 @@
 [
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1011,
-      1012,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1011,
+      1012,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 1,
@@ -31,27 +31,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1021,
-      1022,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1021,
+      1022,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 2,
@@ -62,24 +62,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1031
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300405
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300305,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300205,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1031
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300305,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300405
     },
     "ChallengeID": 3,
@@ -90,27 +90,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1041,
-      1042,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1041,
+      1042,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 4,
@@ -121,27 +121,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1051,
-      1052,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1051,
+      1052,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 5,
@@ -152,24 +152,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1061
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300306,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300206,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1061
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300306,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 6,
@@ -180,27 +180,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1071,
-      1072,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1071,
+      1072,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 7,
@@ -211,27 +211,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1081,
-      1082,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1081,
+      1082,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 8,
@@ -242,24 +242,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1091
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300405
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300305,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300205,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1091
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300305,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300405
     },
     "ChallengeID": 9,
@@ -270,27 +270,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1101,
-      1102,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1101,
+      1102,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 10,
@@ -301,27 +301,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1111,
-      1112,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1111,
+      1112,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 11,
@@ -332,24 +332,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1121
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1121
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 12,
@@ -360,27 +360,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1131,
-      1132,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300405
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300305,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300205,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1131,
+      1132,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300305,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300405
     },
     "ChallengeID": 13,
@@ -391,27 +391,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1141,
-      1142,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1141,
+      1142,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 14,
@@ -422,24 +422,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1151
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1151
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 15,
@@ -450,27 +450,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1161,
-      1162,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1161,
+      1162,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 16,
@@ -481,27 +481,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1171,
-      1172,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1171,
+      1172,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 17,
@@ -512,24 +512,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1181
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300405
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300305,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300205,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1181
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300305,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300405
     },
     "ChallengeID": 18,
@@ -540,27 +540,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1191,
-      1192,
-      1003
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1191,
+      1192,
+      1003
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 19,
@@ -571,26 +571,26 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1001,
-      1002
-    ],
-    "WeeklyContentList": [
-      1201,
-      1202
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1201,
+      1202
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1001,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 20,
@@ -601,26 +601,26 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1211,
-      1212
-    ],
-    "WeeklyContentList": [
-      1211,
-      1212
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300405
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300305,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300205,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1211,
+      1212
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300305,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1211,
+      1212
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300405
     },
     "ChallengeID": 21,
@@ -631,24 +631,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1221
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1221
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 22,
@@ -659,24 +659,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1231
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1231
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 23,
@@ -687,30 +687,30 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1241,
-      1244,
-      1242,
-      1243
-    ],
+    "DisplayFinalMonsterGroups": {
+      "0": 300404
+    },
+    "DisplayMonsterGroups1": {
+      "0": 300204,
+      "3": 300601
+    },
     "WeeklyContentList": [
       1241,
       1244,
       1242,
       1243
     ],
-    "DisplayMonsterGroups3": {
-      "0": 300404
-    },
     "DisplayMonsterGroups2": {
       "0": 300304,
       "3": 300701
     },
-    "DisplayMonsterGroups1": {
-      "0": 300204,
-      "3": 300601
-    },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentDetailList": [
+      1241,
+      1244,
+      1242,
+      1243
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 24,
@@ -721,24 +721,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1251
-    ],
-    "WeeklyContentList": [
-      1251
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1251
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1251
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 25,
@@ -749,27 +749,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1005,
-      1002
-    ],
-    "WeeklyContentList": [
-      1261,
-      1262,
-      1004
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300408
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300308,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300208,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1261,
+      1262,
+      1004
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300308,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1005,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300408
     },
     "ChallengeID": 26,
@@ -780,24 +780,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1271
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1271
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 27,
@@ -808,24 +808,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1281
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1281
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 28,
@@ -836,27 +836,27 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1005,
-      1002
-    ],
-    "WeeklyContentList": [
-      1291,
-      1292,
-      1004
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1291,
+      1292,
+      1004
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1005,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 29,
@@ -867,26 +867,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1301,
-      1302,
-      1303
-    ],
-    "WeeklyContentList": [
-      1301
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1301
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1301
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 30,
@@ -897,24 +895,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1311
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300408
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300308,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300208,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1311
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300308,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300408
     },
     "ChallengeID": 31,
@@ -925,26 +923,26 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1005,
-      1002
-    ],
-    "WeeklyContentList": [
-      1321,
-      1322
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1321,
+      1322
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1005,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 32,
@@ -955,24 +953,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1331
-    ],
-    "WeeklyContentList": [
-      1331
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300404
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300304,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300204,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1331
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300304,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1331
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300404
     },
     "ChallengeID": 33,
@@ -983,24 +981,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1341
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300402
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300302,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300202,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1341
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300302,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300402
     },
     "ChallengeID": 34,
@@ -1011,26 +1009,26 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1005,
-      1002
-    ],
-    "WeeklyContentList": [
-      1351,
-      1352
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300403
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300303,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300203,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1351,
+      1352
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300303,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1005,
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300403
     },
     "ChallengeID": 35,
@@ -1041,24 +1039,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1361
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300407
-    },
-    "DisplayMonsterGroups2": {
-      "0": 300307,
-      "3": 300701
     },
     "DisplayMonsterGroups1": {
       "0": 300207,
       "3": 300601
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1361
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 300307,
+      "3": 300701
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 36,
@@ -1069,25 +1067,25 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      1002
-    ],
-    "WeeklyContentList": [
-      1371,
-      1372
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300408
-    },
-    "DisplayMonsterGroups2": {
-      "0": 301308,
-      "3": 301401
     },
     "DisplayMonsterGroups1": {
       "0": 301208,
       "3": 301302
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      1371,
+      1372
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      1002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300408
     },
     "ChallengeID": 37,
@@ -1098,28 +1096,28 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2005,
-      2002
-    ],
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
     "WeeklyContentList": [
       2011,
       2012,
       2014,
       2005
     ],
-    "DisplayMonsterGroups3": {
-      "0": 300410
-    },
     "DisplayMonsterGroups2": {
       "0": 301310,
       "3": 301401
     },
-    "DisplayMonsterGroups1": {
-      "0": 301210,
-      "3": 301302
-    },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentDetailList": [
+      2005,
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300410
     },
     "ChallengeID": 38,
@@ -1130,28 +1128,28 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2005,
-      2002
-    ],
+    "DisplayFinalMonsterGroups": {
+      "0": 300407
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301207,
+      "3": 301302
+    },
     "WeeklyContentList": [
       2021,
       2022,
       2024,
       2005
     ],
-    "DisplayMonsterGroups3": {
-      "0": 300407
-    },
     "DisplayMonsterGroups2": {
       "0": 301307,
       "3": 301401
     },
-    "DisplayMonsterGroups1": {
-      "0": 301207,
-      "3": 301302
-    },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentDetailList": [
+      2005,
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 39,
@@ -1162,24 +1160,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2002
-    ],
-    "WeeklyContentList": [
-      2033
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300409
-    },
-    "DisplayMonsterGroups2": {
-      "0": 301309,
-      "3": 301401
     },
     "DisplayMonsterGroups1": {
       "0": 301209,
       "3": 301302
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      2033
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300409
     },
     "ChallengeID": 40,
@@ -1190,28 +1188,28 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2005,
-      2002
-    ],
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
     "WeeklyContentList": [
       2041,
       2042,
       2044,
       2005
     ],
-    "DisplayMonsterGroups3": {
-      "0": 300408
-    },
     "DisplayMonsterGroups2": {
       "0": 301308,
       "3": 301401
     },
-    "DisplayMonsterGroups1": {
-      "0": 301208,
-      "3": 301302
-    },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentDetailList": [
+      2005,
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300408
     },
     "ChallengeID": 41,
@@ -1222,28 +1220,28 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2005,
-      2002
-    ],
+    "DisplayFinalMonsterGroups": {
+      "0": 300407
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301207,
+      "3": 301302
+    },
     "WeeklyContentList": [
       2051,
       2052,
       2054,
       2005
     ],
-    "DisplayMonsterGroups3": {
-      "0": 300407
-    },
     "DisplayMonsterGroups2": {
       "0": 301307,
       "3": 301401
     },
-    "DisplayMonsterGroups1": {
-      "0": 301207,
-      "3": 301302
-    },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentDetailList": [
+      2005,
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300407
     },
     "ChallengeID": 42,
@@ -1254,24 +1252,24 @@
     }
   },
   {
-    "WeeklyContentDetailList": [
-      2002
-    ],
-    "WeeklyContentList": [
-      2063
-    ],
-    "DisplayMonsterGroups3": {
+    "DisplayFinalMonsterGroups": {
       "0": 300409
-    },
-    "DisplayMonsterGroups2": {
-      "0": 301309,
-      "3": 301401
     },
     "DisplayMonsterGroups1": {
       "0": 301209,
       "3": 301302
     },
-    "DisplayFinalMonsterGroups": {
+    "WeeklyContentList": [
+      2063
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2002
+    ],
+    "DisplayMonsterGroups3": {
       "0": 300409
     },
     "ChallengeID": 43,
@@ -1279,6 +1277,1130 @@
     "WeeklyName": {
       "Hash": 76105503,
       "Hash64": 9880183930336453481
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2071,
+      2072,
+      2074,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 44,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105506,
+      "Hash64": 8778714077153994078
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300407
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301207,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2081,
+      2082,
+      2084,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301307,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300407
+    },
+    "ChallengeID": 45,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105505,
+      "Hash64": 268620062124189294
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2093,
+      2095
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 46,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105508,
+      "Hash64": 5288822646329861504
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2101,
+      2102,
+      2104,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 47,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105507,
+      "Hash64": 1099396282192346421
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300407
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301207,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2111,
+      2112,
+      2114,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301307,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300407
+    },
+    "ChallengeID": 48,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105510,
+      "Hash64": 210209499392425186
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2123,
+      2125
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 49,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 76105509,
+      "Hash64": 16972035330741484177
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2131,
+      2132,
+      2134,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 50,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978439,
+      "Hash64": 17749481793506608962
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2141,
+      2142,
+      2144,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 51,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978440,
+      "Hash64": 17471144538054293935
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2151,
+      2153
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 52,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978437,
+      "Hash64": 9543064736722751459
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2161,
+      2162,
+      2164,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 53,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978438,
+      "Hash64": 17852757056912511086
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2171,
+      2172,
+      2174,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 54,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978435,
+      "Hash64": 442022127869162474
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2183
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 55,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978436,
+      "Hash64": 4871438152915958580
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2191,
+      2192,
+      2194,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 56,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978433,
+      "Hash64": 8014072911489130095
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2201,
+      2202,
+      2204,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 57,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978434,
+      "Hash64": 16374067233255983041
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2213,
+      2215
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 58,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978431,
+      "Hash64": 3108025060828765556
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2221,
+      2222,
+      2224,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 59,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1489978432,
+      "Hash64": 10117480416570715574
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2231,
+      2232,
+      2234,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 60,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693912,
+      "Hash64": 6841187668555941810
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2241,
+      2243
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 61,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693913,
+      "Hash64": 3001458753162937298
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2251,
+      2252,
+      2254,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 62,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693910,
+      "Hash64": 2054098243709393337
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2263
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 63,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693911,
+      "Hash64": 2967312245039686557
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2273
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 64,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693908,
+      "Hash64": 2553100230299143626
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2281,
+      2282,
+      2284,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 65,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693909,
+      "Hash64": 12521813367887096219
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2293,
+      2295
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 66,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693906,
+      "Hash64": 12179914953407465426
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2301,
+      2302,
+      2304,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 67,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693907,
+      "Hash64": 16656318450323905541
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2311
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 68,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693904,
+      "Hash64": 15987395552501919624
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2321
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 69,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": -1086693905,
+      "Hash64": 363963448333118223
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2341,
+      2342,
+      2343,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 70,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 1642189443,
+      "Hash64": 13644198160683503844
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2331,
+      2332
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 71,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 1642189442,
+      "Hash64": 15532763698464368794
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2351
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 72,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 1642189445,
+      "Hash64": 2443575901954802376
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300409
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301209,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2361
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301309,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300409
+    },
+    "ChallengeID": 73,
+    "RewardID": 110701,
+    "WeeklyName": {
+      "Hash": 1642189444,
+      "Hash64": 3083431705284353199
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2371,
+      2372,
+      2373,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2008
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 74,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189447,
+      "Hash64": 3506051512962058877
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2381,
+      2382
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2008
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 75,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189446,
+      "Hash64": 10702565986078901259
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2391,
+      2392,
+      2393,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2008
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 76,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189449,
+      "Hash64": 8552523433749903969
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2403
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 77,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189448,
+      "Hash64": 12368023772236002676
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300408
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301208,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2501,
+      2502,
+      2504,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301308,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2008
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300408
+    },
+    "ChallengeID": 78,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189451,
+      "Hash64": 13333494741064374236
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300410
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301210,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2603
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301310,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2007
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300410
+    },
+    "ChallengeID": 79,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": 1642189450,
+      "Hash64": 12485097332961126002
+    }
+  },
+  {
+    "DisplayFinalMonsterGroups": {
+      "0": 300411
+    },
+    "DisplayMonsterGroups1": {
+      "0": 301211,
+      "3": 301302
+    },
+    "WeeklyContentList": [
+      2701,
+      2702,
+      2704,
+      2006
+    ],
+    "DisplayMonsterGroups2": {
+      "0": 301311,
+      "3": 301401
+    },
+    "WeeklyContentDetailList": [
+      2006,
+      2008
+    ],
+    "DisplayMonsterGroups3": {
+      "0": 300411
+    },
+    "ChallengeID": 80,
+    "RewardID": 110702,
+    "WeeklyName": {
+      "Hash": -1893262966,
+      "Hash64": 6994641790016766998
     }
   }
 ]

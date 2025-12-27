@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Pela_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 98784247
+                "FixedValue": {
+                  "RawValue": 98784247,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -143,8 +143,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Pela_00/Eff_Avatar_Pela_00_MazeAttack_Fire.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Pela_00/Eff_Avatar_Pela_00_MazeAttack_Hit.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 429496730
+                  "FixedValue": {
+                    "RawValue": 429496730,
+                    "Value": 0.1
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -162,7 +163,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -195,7 +196,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -245,8 +246,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 98784247
+                "FixedValue": {
+                  "RawValue": 98784247,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -287,8 +289,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Pela_00/Eff_Avatar_Pela_00_MazeAttack_Fire.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Pela_00/Eff_Avatar_Pela_00_MazeAttack_Hit.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": -4294967296
+                  "FixedValue": {
+                    "RawValue": -4294967296,
+                    "Value": -1.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -306,7 +309,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -339,7 +342,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -374,8 +377,7 @@
     {
       "Name": "LocalPlayer_Pela_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -434,8 +436,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 343597384
+                "FixedValue": {
+                  "RawValue": 343597384,
+                  "Value": 0.08
                 }
               },
               "TaskEnabled": true,
@@ -465,8 +468,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 472446403
+                "FixedValue": {
+                  "RawValue": 472446403,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -522,7 +526,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -604,8 +608,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 343597384
+                "FixedValue": {
+                  "RawValue": 343597384,
+                  "Value": 0.08
                 }
               },
               "TaskEnabled": true,
@@ -635,8 +640,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 472446403
+                "FixedValue": {
+                  "RawValue": 472446403,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -714,7 +720,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -762,5 +768,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Pela": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

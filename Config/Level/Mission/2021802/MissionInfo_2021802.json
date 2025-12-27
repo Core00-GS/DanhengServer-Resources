@@ -836,7 +836,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        4
+        "OldValue_4"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -1496,10 +1496,11 @@
       "LevelFloorID": 43304001,
       "AudioEmotionState": "State_Suspense",
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        4,
-        1,
-        202180225
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_4",
+        "1",
+        "202180225"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -1523,10 +1524,11 @@
       "LevelFloorID": 43304001,
       "AudioEmotionState": "State_Suspense",
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        4,
-        2,
-        202180225
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_4",
+        "2",
+        "202180225"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -1814,6 +1816,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "isRange": true,
       "ValidValueParamList": [
         0,
@@ -1822,6 +1826,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1830,6 +1836,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1838,6 +1846,8 @@
     },
     {
       "Index": 3,
+      "Name": "OldValue_3",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1846,6 +1856,8 @@
     },
     {
       "Index": 4,
+      "Name": "OldValue_4",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,
@@ -1854,6 +1866,8 @@
     },
     {
       "Index": 5,
+      "Name": "OldValue_5",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1862,6 +1876,8 @@
     },
     {
       "Index": 6,
+      "Name": "OldValue_6",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1870,6 +1886,8 @@
     },
     {
       "Index": 7,
+      "Name": "OldValue_7",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,

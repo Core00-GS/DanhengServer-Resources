@@ -84,6 +84,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -120,6 +123,7 @@
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_PillarAnimConfig_01.json",
             "ResetPlayerAnchorID": 1,
             "DetectColliderAttachPoint": "DetectColliderAttachPoint",
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},

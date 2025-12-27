@@ -75,15 +75,34 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "DepartureFreeStyleMotionID": 100020221,
+          "DepartureRange": 10.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "DepartureRange": 10.0,
         "DepartureFreeStyleMotionID": 100020221,
+        "DepartureRange": 10.0,
         "Offset": {
           "z": 1.8,
           "normalized": {
@@ -131,7 +150,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

@@ -22,18 +22,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 177042937102729216
+            "FixedValue": {
+              "RawValue": 177042937102729216,
+              "Value": 41221021.01
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 47244640256
+            "FixedValue": {
+              "RawValue": 47244640256,
+              "Value": 11.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

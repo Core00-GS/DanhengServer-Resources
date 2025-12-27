@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Fugue_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 201863461
+                "FixedValue": {
+                  "RawValue": 201863461,
+                  "Value": 0.05
                 }
               },
               "TaskEnabled": true,
@@ -147,8 +147,9 @@
                 },
                 "CompareType": "LessEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "IgnoreRadius": true,
@@ -201,7 +202,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -234,7 +235,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -308,7 +309,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -341,7 +342,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -379,8 +380,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 257698038
+                "FixedValue": {
+                  "RawValue": 257698038,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -411,8 +413,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 858993460
+                "FixedValue": {
+                  "RawValue": 858993460,
+                  "Value": 0.2
                 }
               },
               "TaskEnabled": true,
@@ -441,8 +444,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 201863461
+                "FixedValue": {
+                  "RawValue": 201863461,
+                  "Value": 0.05
                 }
               },
               "TaskEnabled": true,
@@ -493,7 +497,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -526,7 +530,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -561,8 +565,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 257698038
+                "FixedValue": {
+                  "RawValue": 257698038,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -593,8 +598,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 858993460
+                "FixedValue": {
+                  "RawValue": 858993460,
+                  "Value": 0.2
                 }
               },
               "TaskEnabled": true,
@@ -626,8 +632,7 @@
       ],
       "Name": "LocalPlayer_Fugue_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -651,8 +656,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 231928233
+            "FixedValue": {
+              "RawValue": 231928233,
+              "Value": 0.05
             }
           },
           "TaskEnabled": true,
@@ -683,8 +689,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 244813134
+            "FixedValue": {
+              "RawValue": 244813134,
+              "Value": 0.06
             }
           },
           "TaskEnabled": true,
@@ -720,8 +727,10 @@
               },
               "ID": 122501,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Fugue_00_Ability.AbilityList.1.OnStart.4.OnAttack.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -741,8 +750,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 1030792152
+            "FixedValue": {
+              "RawValue": 1030792152,
+              "Value": 0.24
             }
           },
           "TaskEnabled": true,
@@ -753,8 +763,7 @@
     {
       "Name": "LocalPlayer_Fugue_00_BeforeBattleStunListener",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -765,8 +774,9 @@
           },
           "ModifierName": "ADV_StageAbility_Fugue_00_BeforeBattleStunListener",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -802,21 +812,6 @@
           "IsClientOnly": true
         }
       ],
-      "OnDestroy": [
-        {
-          "$type": "RPG.GameCore.RemoveEffect",
-          "TargetType": {
-            "$type": "RPG.GameCore.TargetAlias",
-            "Alias": "ModifierOwnerEntity"
-          },
-          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Argenti_00/Eff_Avatar_Argenti_00_MazeSkill_Icon.prefab",
-          "IsNeedFadeOut": true,
-          "FadeOutRegionStart": -1.0,
-          "FadeOutRegionEnd": -1.0,
-          "TaskEnabled": true,
-          "IsClientOnly": true
-        }
-      ],
       "Count": 1,
       "Stacking": "Replace"
     },
@@ -846,13 +841,16 @@
             "IsClientOnly": true
           },
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Fugue_00_Ability.GlobalModifiers.ADV_StageAbility_Fugue_00_BeforeBattleStunListener.OnBeforeBattle.0.LifeTime.FixedValue"
             }
           },
           "Count": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

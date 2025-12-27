@@ -1,11 +1,13 @@
 {
   "GroupName": "ClockToy",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20311_F20311001_G500",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
-        "SavedValueName": "ClockToyPuzzleBlockState",
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
+        "SavedValueName": "ClockToyMissionChest",
         "Operation": "Equal",
         "Value": 3
       }
@@ -20,7 +22,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Interactable",
+      "TagHash": 597667137
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -53,8 +60,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -71,17 +77,17 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
         "Hash": 278713937,
         "Hash64": 16304550243505668348
       },
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
-      },
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -107,5 +113,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

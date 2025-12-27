@@ -48,8 +48,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -66,13 +67,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 85899345920
+                "FixedValue": {
+                  "RawValue": 85899345920,
+                  "Value": 20.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288520253571072
+                "FixedValue": {
+                  "RawValue": 1288520253571072,
+                  "Value": 300007.0
                 }
               }
             }
@@ -90,13 +93,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 90194313216
+            "FixedValue": {
+              "RawValue": 90194313216,
+              "Value": 21.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288524548538368
+            "FixedValue": {
+              "RawValue": 1288524548538368,
+              "Value": 300008.0
             }
           },
           "CreateList": [],
@@ -106,8 +111,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,

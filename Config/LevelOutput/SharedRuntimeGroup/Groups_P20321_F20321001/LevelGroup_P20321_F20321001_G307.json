@@ -1,10 +1,12 @@
 {
   "GroupName": "NPC",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G307",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Pip_Brid",
         "Operation": "Equal",
         "Value": 2
@@ -20,7 +22,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.NPC",
+      "TagHash": -882113524
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -74,12 +81,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -135,8 +143,12 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "SpawnConfig": {
         "TryCapture": true,
@@ -167,7 +179,6 @@
           "Identity": "Tourist_High",
           "FeatureID": "Tourist_High_RobotMale",
           "UniqueName": "307_1_01",
-          "LookAtTarget": "307_1_04",
           "LookAtAnchor": {
             "AreaName": "LevelArea_P20321_F20321001_G300",
             "AnchorName": "Anchor1"
@@ -193,7 +204,6 @@
           "Identity": "Tourist_High",
           "FeatureID": "Tourist_High_EntertainmentLady",
           "UniqueName": "307_1_02",
-          "LookAtTarget": "307_1_03",
           "LookAtAnchor": {
             "AreaName": "LevelArea_P20321_F20321001_G300",
             "AnchorName": "Anchor1"
@@ -383,6 +393,9 @@
     }
   ],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

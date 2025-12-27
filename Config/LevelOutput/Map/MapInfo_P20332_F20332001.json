@@ -6703,7 +6703,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 1,
@@ -6748,7 +6768,27 @@
       "RegionIDList": [
         2
       ],
-      "MapLayerList": []
+      "MapLayerList": [],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 2,
@@ -9824,7 +9864,27 @@
       "MapLayerList": [
         2,
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 3,
@@ -9883,7 +9943,27 @@
       "RegionIDList": [
         4
       ],
-      "MapLayerList": []
+      "MapLayerList": [],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 4,
@@ -9940,7 +10020,27 @@
       "RegionIDList": [
         5
       ],
-      "MapLayerList": []
+      "MapLayerList": [],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_MAZ_P302_Area00_Background.png",
@@ -9982,5 +10082,25 @@
       "Type": "RotatableRegion",
       "AreaID": 4
     }
-  ]
+  ],
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

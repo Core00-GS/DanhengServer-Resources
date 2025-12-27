@@ -66,5 +66,6 @@
   ],
   "TalkEmotionAssetPath": "Story/TalkEmotion/Avatar/Sparkle_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

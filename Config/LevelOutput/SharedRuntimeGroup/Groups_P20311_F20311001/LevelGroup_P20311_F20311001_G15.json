@@ -20,6 +20,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Destructible",
+      "TagHash": -80793007
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -47,7 +53,6 @@
       },
       "PropID": 103014,
       "LoadOnInitial": true,
-      "InitLevelGraph": "Config/Level/Props/Chap01/InitLevelGraph_Prop_Chap01_Des_HPRevoverBox_01.json",
       "ValueSource": {},
       "EventID": 10002,
       "OverrideHintRange": -1.0,
@@ -59,11 +64,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -104,7 +111,6 @@
       },
       "PropID": 103014,
       "LoadOnInitial": true,
-      "InitLevelGraph": "Config/Level/Props/Chap01/InitLevelGraph_Prop_Chap01_Des_HPRevoverBox_01.json",
       "ValueSource": {},
       "EventID": 10002,
       "OverrideHintRange": -1.0,
@@ -116,11 +122,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -146,5 +154,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

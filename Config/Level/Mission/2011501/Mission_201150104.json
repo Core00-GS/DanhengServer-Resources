@@ -18,13 +18,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 85899345920
+            "FixedValue": {
+              "RawValue": 85899345920,
+              "Value": 20.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "CreateList": [],
@@ -53,7 +55,9 @@
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "DestroyAfterTriggered": true,
           "ButtonIcon": "SpriteOutput/TalkIcon/CheckIcon.png",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -75,13 +79,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 85899345920
+                "FixedValue": {
+                  "RawValue": 85899345920,
+                  "Value": 20.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -105,7 +111,9 @@
           "Predicate": {
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 2011501,
-            "MissionCustomValue": {},
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            },
             "EquationType": "Equal",
             "TaskEnabled": true,
             "IsClientOnly": true
@@ -123,18 +131,21 @@
               "$type": "RPG.GameCore.CalculateMissionCustomValue",
               "TargetSubmissionID": 201150104,
               "TargetMissionCustomValue": {
+                "Name": "OldValue_0",
                 "ValidValueParamList": []
               },
               "ValueA": {
                 "Type": "CustomValue",
                 "MainMissionID": 2011501,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "ValidValueParamList": []
                 }
               },
               "ValueB": {
                 "DirectValue": 1,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "ValidValueParamList": []
                 }
               },
@@ -155,7 +166,9 @@
               "Predicate": {
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 2011501,
-                "MissionCustomValue": {},
+                "MissionCustomValue": {
+                  "Name": "OldValue_0"
+                },
                 "EquationType": "Equal",
                 "TargetValue": 1,
                 "TaskEnabled": true,
@@ -174,6 +187,7 @@
                   "$type": "RPG.GameCore.CalculateMissionCustomValue",
                   "TargetSubmissionID": 201150104,
                   "TargetMissionCustomValue": {
+                    "Name": "OldValue_0",
                     "ValidValueParamList": [
                       1,
                       2,
@@ -184,6 +198,7 @@
                     "Type": "CustomValue",
                     "MainMissionID": 2011501,
                     "MissionCustomValue": {
+                      "Name": "OldValue_0",
                       "ValidValueParamList": [
                         1,
                         2,
@@ -194,6 +209,7 @@
                   "ValueB": {
                     "DirectValue": 1,
                     "MissionCustomValue": {
+                      "Name": "OldValue_0",
                       "ValidValueParamList": []
                     }
                   },
@@ -221,6 +237,7 @@
                   "$type": "RPG.GameCore.CalculateMissionCustomValue",
                   "TargetSubmissionID": 201150104,
                   "TargetMissionCustomValue": {
+                    "Name": "OldValue_0",
                     "ValidValueParamList": [
                       1,
                       2,
@@ -231,6 +248,7 @@
                     "Type": "CustomValue",
                     "MainMissionID": 2011501,
                     "MissionCustomValue": {
+                      "Name": "OldValue_0",
                       "ValidValueParamList": [
                         1,
                         2,
@@ -241,6 +259,7 @@
                   "ValueB": {
                     "DirectValue": 1,
                     "MissionCustomValue": {
+                      "Name": "OldValue_0",
                       "ValidValueParamList": []
                     }
                   },

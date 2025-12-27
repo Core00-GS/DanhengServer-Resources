@@ -99,6 +99,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -213,6 +216,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -226,6 +232,7 @@
             "InitState": "L1_Collapse",
             "AnimStateOverride": [],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRFoundationAnimConfig.json",
+            "EnableLoopRewindSnapRatio": 0.9,
             "BindSpecialControl": "FoundationAndBall",
             "FoundationAndBallBind": {
               "BallInstanceID": 300011,
@@ -325,6 +332,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -338,6 +348,7 @@
             "InitState": "L0_Root",
             "AnimStateOverride": [],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRFoundationAnimConfig.json",
+            "EnableLoopRewindSnapRatio": 0.9,
             "BindSpecialControl": "FoundationAndBall",
             "FoundationAndBallBind": {
               "BallInstanceID": 300010,
@@ -408,6 +419,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -464,6 +478,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -546,6 +563,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -627,6 +647,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -685,6 +708,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -708,6 +734,7 @@
             ],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRBall.json",
             "ResetPlayerAnchorID": 2,
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},
@@ -771,6 +798,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -794,6 +824,7 @@
             ],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRBall.json",
             "ResetPlayerAnchorID": 2,
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},
@@ -857,6 +888,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -884,6 +918,7 @@
             ],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRBall.json",
             "ResetPlayerAnchorID": 2,
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},
@@ -951,6 +986,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -987,6 +1025,7 @@
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_PillarAnimConfig_02.json",
             "ResetPlayerAnchorID": 2,
             "DetectColliderAttachPoint": "DetectColliderAttachPoint",
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},
@@ -1054,6 +1093,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1127,6 +1169,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1140,6 +1185,7 @@
             "InitState": "L1_Collapse",
             "AnimStateOverride": [],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRFoundationAnimConfig.json",
+            "EnableLoopRewindSnapRatio": 0.9,
             "BindSpecialControl": "FoundationAndBall",
             "FoundationAndBallBind": {
               "BallInstanceID": 300001,
@@ -1215,6 +1261,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1271,6 +1320,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1327,6 +1379,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1384,6 +1439,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1411,6 +1469,7 @@
             ],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_TRBall.json",
             "ResetPlayerAnchorID": 2,
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
             "ContainerAndSeedBind": {},
@@ -1473,6 +1532,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1529,6 +1591,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1585,6 +1650,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1641,6 +1709,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1696,6 +1767,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1752,6 +1826,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -1809,6 +1886,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],

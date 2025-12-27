@@ -3,12 +3,13 @@
     "DropList": [
       3200000
     ],
-    "BonusID": 1,
     "DisplayItemID": 2,
+    "BonusID": 1,
     "BonusType": 1
   },
   {
     "DropList": [],
+    "DisplayItemID": 0,
     "BonusID": 2,
     "BonusType": 1
   },
@@ -16,48 +17,48 @@
     "DropList": [
       701024
     ],
-    "BonusID": 3,
     "DisplayItemID": 81023,
+    "BonusID": 3,
     "BonusType": 2
   },
   {
     "DropList": [
       701034
     ],
-    "BonusID": 4,
     "DisplayItemID": 81033,
+    "BonusID": 4,
     "BonusType": 2
   },
   {
     "DropList": [
       701114
     ],
-    "BonusID": 5,
     "DisplayItemID": 81113,
+    "BonusID": 5,
     "BonusType": 2
   },
   {
     "DropList": [
       701023
     ],
-    "BonusID": 6,
     "DisplayItemID": 81022,
+    "BonusID": 6,
     "BonusType": 2
   },
   {
     "DropList": [
       701033
     ],
-    "BonusID": 7,
     "DisplayItemID": 81032,
+    "BonusID": 7,
     "BonusType": 2
   },
   {
     "DropList": [
       701113
     ],
-    "BonusID": 8,
     "DisplayItemID": 81112,
+    "BonusID": 8,
     "BonusType": 2
   }
 ]

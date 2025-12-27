@@ -8,6 +8,12 @@
           "ValueSource": {},
           "PerformanceType": "D",
           "PerformanceID": 103420525,
+          "MaskConfig": {
+            "UseExcelData": true,
+            "StartBlack": "Full",
+            "EndBlack": "Full",
+            "MaskColor": "Black"
+          },
           "TaskEnabled": true,
           "IsClientOnly": true
         },

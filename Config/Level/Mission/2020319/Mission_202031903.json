@@ -10,20 +10,23 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 330712481792
+                "FixedValue": {
+                  "RawValue": 330712481792,
+                  "Value": 77.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
           },
           "InteractID": {
-            "fixedValue": {
-              "RawValue": 4337916968960
+            "FixedValue": {
+              "RawValue": 4337916968960,
+              "Value": 1010.0
             }
           },
           "TaskEnabled": true,

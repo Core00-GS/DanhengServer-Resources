@@ -7,9 +7,10 @@
     "MissionIDList": [
       103010104
     ],
-    "LoadingID": 2,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 2,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -19,9 +20,10 @@
     "MissionIDList": [
       103020111
     ],
-    "LoadingID": 5,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 5,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -31,9 +33,10 @@
     "MissionIDList": [
       103080104
     ],
-    "LoadingID": 6,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 6,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -43,9 +46,10 @@
     "MissionIDList": [
       103080106
     ],
-    "LoadingID": 7,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 7,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -55,9 +59,10 @@
     "MissionIDList": [
       103080107
     ],
-    "LoadingID": 8,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 8,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -67,171 +72,182 @@
     "MissionIDList": [
       103080108
     ],
-    "LoadingID": 9,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 9,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "PamSnore",
     "LoadingID": 10,
-    "StratageType": "PamSnore",
-    "Priority": 1
+    "Priority": 1,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "PamSnore",
     "LoadingID": 11,
-    "StratageType": "PamSnore",
-    "Priority": 1
+    "Priority": 1,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "PenaconyReality",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "PenaconyReality",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "EnterDream",
     "LoadingID": 12,
-    "StratageType": "EnterDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "EnterDream",
     "LoadingID": 13,
-    "StratageType": "EnterDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "PenaconyReality",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "PenaconyReality",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "EnterDream",
     "LoadingID": 14,
-    "StratageType": "EnterDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "ExitDream",
     "LoadingID": 15,
-    "StratageType": "ExitDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "PenaconyReality",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "PenaconyReality",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "ExitDream",
     "LoadingID": 16,
-    "StratageType": "ExitDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "PenaconyReality",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "PenaconyReality",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "ExitDream",
     "LoadingID": 17,
-    "StratageType": "ExitDream",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "Dream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "Dream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
+    "StratageType": "PamSnore",
     "LoadingID": 18,
-    "StratageType": "PamSnore",
-    "Priority": 2
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "ExitFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "ExitFloorTag"
       },
       {
-        "CAOAPDCCPCA": "DeepDream",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "DeepDream",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
-    "LoadingID": 19,
     "StratageType": "PamSnore",
-    "Priority": 2
+    "LoadingID": 19,
+    "Priority": 2,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -241,9 +257,10 @@
     "MissionIDList": [
       202210110
     ],
-    "LoadingID": 20,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 20,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -253,9 +270,10 @@
     "MissionIDList": [
       103600302
     ],
-    "LoadingID": 21,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 21,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -265,9 +283,10 @@
     "MissionIDList": [
       103600411
     ],
-    "LoadingID": 22,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 22,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -277,9 +296,10 @@
     "MissionIDList": [
       103600410
     ],
-    "LoadingID": 23,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 23,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -289,35 +309,38 @@
     "MissionIDList": [
       103600404
     ],
-    "LoadingID": 24,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 24,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "AmphoreusDay",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "AmphoreusDay",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
-    "LoadingID": 25,
     "StratageType": "AmphoreusDay",
-    "Priority": 10
+    "LoadingID": 25,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [],
     "FloorOperation": [
       {
-        "CAOAPDCCPCA": "AmphoreusNight",
-        "PICHIHHCOCB": "EnterFloorTag"
+        "GHFAABDFIIK": "AmphoreusNight",
+        "EJAEDHBFJGI": "EnterFloorTag"
       }
     ],
     "MissionIDList": [],
-    "LoadingID": 26,
     "StratageType": "AmphoreusNight",
-    "Priority": 10
+    "LoadingID": 26,
+    "Priority": 10,
+    "LoadingType": 0
   },
   {
     "AvailableEntranceIDList": [
@@ -327,8 +350,65 @@
     "MissionIDList": [
       103600409
     ],
-    "LoadingID": 27,
     "StratageType": "Plain",
-    "Priority": 10
+    "LoadingID": 27,
+    "Priority": 10,
+    "LoadingType": 0
+  },
+  {
+    "AvailableEntranceIDList": [
+      1040101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      104031606
+    ],
+    "StratageType": "Plain",
+    "LoadingID": 28,
+    "Priority": 10,
+    "LoadingType": 0
+  },
+  {
+    "AvailableEntranceIDList": [
+      1040101
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      104030609
+    ],
+    "StratageType": "Plain",
+    "LoadingID": 29,
+    "Priority": 10,
+    "LoadingType": 0
+  },
+  {
+    "AvailableEntranceIDList": [
+      40473001
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      104370615,
+      104370616,
+      104370618
+    ],
+    "StratageType": "Plain",
+    "LoadingID": 30,
+    "Priority": 10,
+    "LoadingType": 0
+  },
+  {
+    "AvailableEntranceIDList": [
+      40475001
+    ],
+    "FloorOperation": [],
+    "MissionIDList": [
+      104370814,
+      104370815,
+      104370823
+    ],
+    "StratageType": "Plain",
+    "LoadingID": 31,
+    "Priority": 10,
+    "LoadingType": 0
   }
 ]

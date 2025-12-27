@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Jiaoqiu_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 150323854
+                "FixedValue": {
+                  "RawValue": 150323854,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -231,8 +231,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 150323854
+                "FixedValue": {
+                  "RawValue": 150323854,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -368,8 +369,7 @@
     {
       "Name": "LocalPlayer_Jiaoqiu_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -419,8 +419,10 @@
               "OffsetY": {},
               "YawAngle": {},
               "Duration": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Jiaoqiu_00_Ability.AbilityList.1.OnStart.0.SuccessTaskList.2.Duration.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -450,8 +452,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 515396076
+                "FixedValue": {
+                  "RawValue": 515396076,
+                  "Value": 0.12
                 }
               },
               "TaskEnabled": true,
@@ -499,16 +502,19 @@
                 "Alias": "Caster"
               },
               "Distance": {
-                "fixedValue": {
-                  "RawValue": 42949672960
+                "FixedValue": {
+                  "RawValue": 42949672960,
+                  "Value": 10.0
                 }
               },
               "OffsetX": {},
               "OffsetY": {},
               "YawAngle": {},
               "Duration": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Jiaoqiu_00_Ability.AbilityList.1.OnStart.0.FailedTaskList.1.Duration.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -538,8 +544,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 515396076
+                "FixedValue": {
+                  "RawValue": 515396076,
+                  "Value": 0.12
                 }
               },
               "TaskEnabled": true,
@@ -565,5 +572,34 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Jiaoqiu": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Debuff"
+      ],
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Jiaoqiu_00/Eff_Avatar_Jiaoqiu_00_MazeSkill01_Debuff.prefab",
+          "AttachPoint": "SelectRoot",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

@@ -80,7 +80,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -102,10 +102,11 @@
       "LevelPlaneID": 20242,
       "LevelFloorID": 20242001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        802510403
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "802510403"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -135,10 +136,11 @@
       "LevelPlaneID": 20242,
       "LevelFloorID": 20242001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        802510403
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "802510403"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -457,10 +459,11 @@
       "LevelPlaneID": 20242,
       "LevelFloorID": 20242001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        802510403
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "802510403"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -565,6 +568,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,
@@ -573,6 +578,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         1,
@@ -581,6 +588,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -588,7 +597,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    2
+    "OldValue_2"
   ],
   "IsShow": true,
   "IsLegacyAssistWayPoint": true,

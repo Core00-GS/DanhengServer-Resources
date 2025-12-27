@@ -13,8 +13,6 @@
             "Hash64": 4308274065344479580
           },
           "MapIconType": 12,
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }

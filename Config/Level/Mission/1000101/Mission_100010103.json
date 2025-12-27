@@ -9,13 +9,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 223338299392
+            "FixedValue": {
+              "RawValue": 223338299392,
+              "Value": 52.0
             }
           },
           "DestroyList": [],
@@ -53,18 +55,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 85903645182263296
+            "FixedValue": {
+              "RawValue": 85903645182263296,
+              "Value": 20001001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -83,13 +88,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 21474836480
+                "FixedValue": {
+                  "RawValue": 21474836480,
+                  "Value": 5.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288584678080512
+                "FixedValue": {
+                  "RawValue": 1288584678080512,
+                  "Value": 300022.0
                 }
               }
             }

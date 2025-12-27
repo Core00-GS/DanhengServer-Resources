@@ -12,8 +12,9 @@
           "CDDuration": 3.0,
           "ShowBtnFucHint": true,
           "MissionID": {
-            "fixedValue": {
-              "RawValue": 4441460040531968
+            "FixedValue": {
+              "RawValue": 4441460040531968,
+              "Value": 1034108.0
             }
           },
           "TaskEnabled": true,

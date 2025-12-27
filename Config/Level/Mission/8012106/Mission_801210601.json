@@ -9,8 +9,6 @@
           "ID": 400001,
           "GroupID": 118,
           "MapIconType": 123,
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }
@@ -47,8 +45,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2576980380
+            "FixedValue": {
+              "RawValue": 2576980380,
+              "Value": 0.6
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -85,8 +84,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 858993460
+            "FixedValue": {
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -123,8 +123,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": 0.1,

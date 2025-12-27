@@ -67,6 +67,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -123,19 +126,7 @@
           },
           "LocalRotationY": 220.5522,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020210,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020210
         },
         {
           "Identity": "Students",
@@ -162,19 +153,7 @@
           },
           "LocalRotationY": 205.2752,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010000
         },
         {
           "Identity": "Students",
@@ -208,19 +187,7 @@
           },
           "LocalRotationY": 28.41313,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040231,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040231
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10306001/MunicipalChatConfig_F10306001_0173.json",

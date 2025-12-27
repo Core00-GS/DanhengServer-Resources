@@ -31,6 +31,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -69,13 +70,15 @@
             {
               "$type": "RPG.GameCore.CreateNPC",
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 55834574848
+                "FixedValue": {
+                  "RawValue": 55834574848,
+                  "Value": 13.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               },
               "TaskEnabled": true,
@@ -88,13 +91,15 @@
                 "FetchType": "SingleNpcByNpcID",
                 "SingleNpcID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 55834574848
+                    "FixedValue": {
+                      "RawValue": 55834574848,
+                      "Value": 13.0
                     }
                   },
                   "GroupNpcID": {
-                    "fixedValue": {
-                      "RawValue": 1717991213367296
+                    "FixedValue": {
+                      "RawValue": 1717991213367296,
+                      "Value": 400001.0
                     }
                   }
                 }
@@ -110,13 +115,15 @@
                 "FetchType": "SingleNpcByNpcID",
                 "SingleNpcID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 55834574848
+                    "FixedValue": {
+                      "RawValue": 55834574848,
+                      "Value": 13.0
                     }
                   },
                   "GroupNpcID": {
-                    "fixedValue": {
-                      "RawValue": 1717991213367296
+                    "FixedValue": {
+                      "RawValue": 1717991213367296,
+                      "Value": 400001.0
                     }
                   }
                 }

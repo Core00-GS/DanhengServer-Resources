@@ -8,8 +8,9 @@
             "Value": "FCV_Mute_SlotMachine"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

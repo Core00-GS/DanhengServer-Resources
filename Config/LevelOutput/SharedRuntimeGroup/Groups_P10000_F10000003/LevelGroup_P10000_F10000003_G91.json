@@ -55,8 +55,7 @@
         "Radius": 1.0,
         "DimX": 8.0,
         "DimY": 1.0,
-        "DimZ": 10.0,
-        "PointList": []
+        "DimZ": 10.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -84,8 +83,7 @@
         "Radius": 2.7,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "StaticNPC": true,
       "DialogueTriggerAngle": 120,
@@ -120,7 +118,9 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

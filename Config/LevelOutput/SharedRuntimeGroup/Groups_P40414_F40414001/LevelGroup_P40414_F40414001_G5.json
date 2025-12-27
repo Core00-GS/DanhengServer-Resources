@@ -69,19 +69,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -128,19 +116,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -165,20 +141,7 @@
           },
           "LocalRotationY": 156.7278,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -202,20 +165,7 @@
           },
           "LocalRotationY": 156.0538,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -247,20 +197,7 @@
           },
           "LocalRotationY": 159.1659,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "DownPeople",
@@ -284,19 +221,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010296,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010296
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -370,19 +295,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -438,19 +351,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -482,20 +383,7 @@
           },
           "LocalRotationY": 186.1119,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -526,20 +414,7 @@
           },
           "LocalRotationY": 156.0538,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -564,20 +439,7 @@
           },
           "LocalRotationY": 144.6839,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "DownPeople",
@@ -608,19 +470,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020344,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020344
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0009.json",
@@ -708,19 +558,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -744,20 +582,7 @@
           },
           "LocalRotationY": 156.0538,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "DownPeople",
@@ -788,19 +613,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010296,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010296
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0001.json",
@@ -882,19 +695,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -950,19 +751,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "DownPeople",
@@ -993,19 +782,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020344,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020344
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0002.json",
@@ -1064,20 +841,7 @@
           },
           "LocalRotationY": 138.0455,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -1101,20 +865,7 @@
           },
           "LocalRotationY": 156.0538,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -1146,20 +897,7 @@
           },
           "LocalRotationY": 144.2303,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020345,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020345
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0003.json",
@@ -1248,19 +986,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -1309,19 +1035,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -1353,20 +1067,7 @@
           },
           "LocalRotationY": 186.1119,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -1390,20 +1091,7 @@
           },
           "LocalRotationY": 156.0538,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -1428,20 +1116,7 @@
           },
           "LocalRotationY": 144.6839,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020000,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020000
         },
         {
           "Identity": "DownPeople",
@@ -1465,19 +1140,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020344,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020344
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1559,19 +1222,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -1618,19 +1269,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -1659,20 +1298,7 @@
           },
           "LocalRotationY": 121.7719,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -1703,20 +1329,7 @@
           },
           "LocalRotationY": 123.6343,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1791,19 +1404,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -1852,19 +1453,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -1889,20 +1478,7 @@
           },
           "LocalRotationY": 129.1765,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -1926,20 +1502,7 @@
           },
           "LocalRotationY": 113.9356,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020319,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020319
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0004.json",
@@ -2022,19 +1585,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -2083,19 +1634,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -2124,20 +1663,7 @@
           },
           "LocalRotationY": 175.6654,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010296,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010296
         },
         {
           "Identity": "SoldierPeople",
@@ -2161,20 +1687,7 @@
           },
           "LocalRotationY": 162.9003,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -2206,20 +1719,7 @@
           },
           "LocalRotationY": 159.1659,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "DownPeople",
@@ -2250,19 +1750,7 @@
           },
           "LocalRotationY": 145.566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010296,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010296
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0005.json",
@@ -2345,19 +1833,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -2413,19 +1889,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -2457,20 +1921,7 @@
           },
           "LocalRotationY": 186.1119,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -2494,20 +1945,7 @@
           },
           "LocalRotationY": 92.05251,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020210,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020210
         },
         {
           "Identity": "UpPeople",
@@ -2539,20 +1977,7 @@
           },
           "LocalRotationY": 76.11569,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "DownPeople",
@@ -2583,21 +2008,7 @@
           },
           "LocalRotationY": 155.8444,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachRange": 5.0,
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0007.json",
@@ -2687,19 +2098,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -2755,19 +2154,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -2792,20 +2179,7 @@
           },
           "LocalRotationY": 134.262,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -2829,20 +2203,7 @@
           },
           "LocalRotationY": 145.1974,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020231,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020231
         },
         {
           "Identity": "UpPeople",
@@ -2867,20 +2228,7 @@
           },
           "LocalRotationY": 134.4781,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -2904,20 +2252,7 @@
           },
           "LocalRotationY": 133.9685,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030000,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100030465,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100030000
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F40414001/MunicipalChatConfig_F40414001_0008.json",
@@ -3006,19 +2341,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "SoldierPeople",
@@ -3067,19 +2390,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100050000,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100050000
         },
         {
           "Identity": "UpPeople",
@@ -3104,20 +2415,7 @@
           },
           "LocalRotationY": 186.1119,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100010459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100010460
         },
         {
           "Identity": "SoldierPeople",
@@ -3141,20 +2439,7 @@
           },
           "LocalRotationY": 163.0843,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020460,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100020460
         },
         {
           "Identity": "UpPeople",
@@ -3178,20 +2463,7 @@
           },
           "LocalRotationY": 169.3791,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030000,
-          "NearbyAnimConfig": {
-            "ApproachFreeStyleMotionID": 100020459,
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100030000
         },
         {
           "Identity": "UpPeople",
@@ -3216,19 +2488,7 @@
           },
           "LocalRotationY": 152.6191,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040313,
-          "NearbyAnimConfig": {
-            "Offset": {
-              "z": 1.8,
-              "normalized": {
-                "z": 1.0,
-                "magnitude": 1.0,
-                "sqrMagnitude": 1.0
-              },
-              "magnitude": 1.8,
-              "sqrMagnitude": 3.23999977
-            }
-          }
+          "DefaultIdleFreeStyleMotionID": 100040313
         }
       ],
       "NewMunicipalChatCrowdInfos": [],

@@ -16,13 +16,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288524548538368
+            "FixedValue": {
+              "RawValue": 1288524548538368,
+              "Value": 300008.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 47244640256
+            "FixedValue": {
+              "RawValue": 47244640256,
+              "Value": 11.0
             }
           },
           "TaskEnabled": true,
@@ -35,13 +37,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 47244640256
+            "FixedValue": {
+              "RawValue": 47244640256,
+              "Value": 11.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TaskEnabled": true,
@@ -55,8 +59,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -67,7 +72,9 @@
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "DestroyAfterTriggered": true,
           "ButtonIcon": "SpriteOutput/TalkIcon/ChatIcon.png",
-          "IconType": "ChatLoopIcon",
+          "IconType": {
+            "JsonValueStr": "ChatLoopIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -88,13 +95,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 47244640256
+                "FixedValue": {
+                  "RawValue": 47244640256,
+                  "Value": 11.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }

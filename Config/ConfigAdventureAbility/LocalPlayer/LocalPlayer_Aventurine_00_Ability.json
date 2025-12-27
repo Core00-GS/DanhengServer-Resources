@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Aventurine_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 425201760
+                "FixedValue": {
+                  "RawValue": 425201760,
+                  "Value": 0.1
                 }
               },
               "TaskEnabled": true,
@@ -215,8 +215,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 481036337
+                "FixedValue": {
+                  "RawValue": 481036337,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -253,8 +254,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 425201760
+                "FixedValue": {
+                  "RawValue": 425201760,
+                  "Value": 0.1
                 }
               },
               "TaskEnabled": true,
@@ -365,8 +367,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 597000452
+                "FixedValue": {
+                  "RawValue": 597000452,
+                  "Value": 0.14
                 }
               },
               "TaskEnabled": true,
@@ -430,8 +433,7 @@
       ],
       "Name": "LocalPlayer_Aventurine_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnAdd": [
         {
@@ -445,6 +447,7 @@
           "DynamicKey": {
             "Value": "_no_ssr_times"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         }
       ],
@@ -547,8 +550,10 @@
             "ContextScope": "ContextCaster",
             "CompareType": "GreaterEqual",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": -149061134974976
+              "FixedValue": {
+                "RawValue": -149061134974976,
+                "Value": -34706.0,
+                "Path": "LocalPlayer_Aventurine_00_Ability.AbilityList.1.OnStart.7.Predicate.CompareValue.FixedValue"
               }
             },
             "TaskEnabled": true
@@ -562,13 +567,15 @@
               },
               "ContextScope": "ContextAbility",
               "Value": {
-                "fixedValue": {
-                  "RawValue": 429496729600
+                "FixedValue": {
+                  "RawValue": 429496729600,
+                  "Value": 100.0
                 }
               },
               "DynamicKey": {
                 "Value": "_random"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             }
           ],
@@ -580,8 +587,9 @@
               "IsInt": true,
               "Min": {},
               "Max": {
-                "fixedValue": {
-                  "RawValue": 429496729600
+                "FixedValue": {
+                  "RawValue": 429496729600,
+                  "Value": 100.0
                 }
               },
               "TaskEnabled": true
@@ -596,13 +604,16 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Aventurine_00_Ability.AbilityList.1.OnStart.8.Value.FixedValue"
             }
           },
           "DynamicKey": {
             "Value": "_sum_probability"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -619,8 +630,10 @@
             "ContextScope": "ContextAbility",
             "CompareType": "Less",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": -149061134974976
+              "FixedValue": {
+                "RawValue": -149061134974976,
+                "Value": -34706.0,
+                "Path": "LocalPlayer_Aventurine_00_Ability.AbilityList.1.OnStart.9.Predicate.CompareValue.FixedValue"
               }
             },
             "TaskEnabled": true
@@ -636,6 +649,7 @@
               "DynamicKey": {
                 "Value": "_result"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             },
             {
@@ -785,8 +799,10 @@
                 "ContextScope": "ContextAbility",
                 "CompareType": "GreaterEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": -149061134974976
+                  "FixedValue": {
+                    "RawValue": -149061134974976,
+                    "Value": -34706.0,
+                    "Path": "LocalPlayer_Aventurine_00_Ability.AbilityList.1.OnStart.9.FailedTaskList.0.Predicate.CompareValue.FixedValue"
                   }
                 },
                 "TaskEnabled": true
@@ -847,13 +863,15 @@
                     "Alias": "Caster"
                   },
                   "Value": {
-                    "fixedValue": {
-                      "RawValue": 8589934592
+                    "FixedValue": {
+                      "RawValue": 8589934592,
+                      "Value": 2.0
                     }
                   },
                   "DynamicKey": {
                     "Value": "_result"
                   },
+                  "SkipInCharmAction": true,
                   "TaskEnabled": true
                 },
                 {
@@ -996,13 +1014,15 @@
                     "Alias": "Caster"
                   },
                   "Value": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "DynamicKey": {
                     "Value": "_result"
                   },
+                  "SkipInCharmAction": true,
                   "TaskEnabled": true
                 },
                 {
@@ -1012,8 +1032,9 @@
                   "IsInt": true,
                   "Min": {},
                   "Max": {
-                    "fixedValue": {
-                      "RawValue": 12884901888
+                    "FixedValue": {
+                      "RawValue": 12884901888,
+                      "Value": 3.0
                     }
                   },
                   "TaskEnabled": true
@@ -1134,8 +1155,9 @@
                         "ContextScope": "ContextAbility",
                         "CompareType": "Equal",
                         "CompareValue": {
-                          "fixedValue": {
-                            "RawValue": 4294967296
+                          "FixedValue": {
+                            "RawValue": 4294967296,
+                            "Value": 1.0
                           }
                         },
                         "TaskEnabled": true
@@ -1332,8 +1354,9 @@
             "DynamicKey": "_result",
             "CompareType": "Equal",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": 8589934592
+              "FixedValue": {
+                "RawValue": 8589934592,
+                "Value": 2.0
               }
             },
             "TaskEnabled": true,
@@ -1351,6 +1374,7 @@
               "DynamicKey": {
                 "Value": "_no_ssr_times"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             }
           ],
@@ -1363,13 +1387,16 @@
               },
               "ContextScope": "ContextCaster",
               "Value": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Aventurine_00_Ability.AbilityList.1.OnStart.10.FailedTaskList.0.Value.FixedValue"
                 }
               },
               "DynamicKey": {
                 "Value": "_no_ssr_times"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             }
           ],
@@ -1396,8 +1423,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 133143986
+            "FixedValue": {
+              "RawValue": 133143986,
+              "Value": 0.03
             }
           },
           "TaskEnabled": true,
@@ -1414,8 +1442,9 @@
             "DynamicKey": "_result",
             "CompareType": "Equal",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": 8589934592
+              "FixedValue": {
+                "RawValue": 8589934592,
+                "Value": 2.0
               }
             },
             "TaskEnabled": true,
@@ -1449,8 +1478,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 721554504
+            "FixedValue": {
+              "RawValue": 721554504,
+              "Value": 0.17
             }
           },
           "TaskEnabled": true,
@@ -1542,8 +1572,9 @@
                 "TaskEnabled": true
               },
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "TaskEnabled": true,
@@ -1583,8 +1614,9 @@
                 "TaskEnabled": true
               },
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "TaskEnabled": true,
@@ -1620,8 +1652,9 @@
                 "DynamicKey": "_result",
                 "CompareType": "Equal",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 4294967296
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
                   }
                 },
                 "TaskEnabled": true,
@@ -1653,8 +1686,9 @@
                     "TaskEnabled": true
                   },
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": -4294967296
+                    "FixedValue": {
+                      "RawValue": -4294967296,
+                      "Value": -1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -1678,8 +1712,9 @@
                     "IsClientOnly": true
                   },
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": -4294967296
+                    "FixedValue": {
+                      "RawValue": -4294967296,
+                      "Value": -1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -1747,8 +1782,9 @@
                   },
                   "ID": 130403,
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": -4294967296
+                    "FixedValue": {
+                      "RawValue": -4294967296,
+                      "Value": -1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -1837,7 +1873,70 @@
           "TaskEnabled": true,
           "IsClientOnly": true
         }
-      ]
+      ],
+      "DynamicValues": {}
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Aventurine_R": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Aventurine_SR": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Aventurine_SSR": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Aventurine_R_2": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Aventurine_SR_2": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Aventurine_SSR_2": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

@@ -406,8 +406,6 @@
         19
       ],
       "RequiredNPCSeriesIDList": [],
-      "IsShow": true,
-      "WayPointType": "Prop",
       "GotoParam": [],
       "WayPointFloorID": 20412001,
       "WayPointGroupID": 19,
@@ -422,7 +420,7 @@
       "LevelFloorID": 20412001,
       "TakeType": "AnySequence",
       "TakeParamIntList": [
-        104010610
+        104010609
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -856,8 +854,6 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "IsShow": true,
-      "WayPointType": "Prop",
       "GotoParam": [],
       "WayPointFloorID": 20412001,
       "WayPointGroupID": 50,
@@ -1395,7 +1391,7 @@
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
-        104010610
+        104010611
       ],
       "ParamItemList": [],
       "FinishActionList": [],
@@ -1543,7 +1539,7 @@
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
-        104010610
+        104010611
       ],
       "ParamItemList": [],
       "FinishActionList": [],
@@ -1993,9 +1989,10 @@
                   },
                   {
                     "$type": "RPG.GameCore.AssistWayPointPropStateCondition",
+                    "TargetPropState": "Open",
                     "UseLogicProp": true,
-                    "LogicWayPointGroupID": 226,
-                    "LogicWayPointEntityID": 300001,
+                    "LogicWayPointGroupID": 51,
+                    "LogicWayPointEntityID": 300004,
                     "ValidateInBacktrace": true
                   }
                 ]
@@ -2007,7 +2004,6 @@
           "WayPointType": "Anchor",
           "WayPointGroupID": 51,
           "WayPointEntityID": 3,
-          "SubmissionID": 104010648,
           "SkipWhenSubMissionFinish": true,
           "DistanceCondition": {
             "ValidateInBacktrace": true
@@ -2067,7 +2063,6 @@
           "WayPointType": "Anchor",
           "WayPointGroupID": 51,
           "WayPointEntityID": 2,
-          "SubmissionID": 104010648,
           "SkipWhenSubMissionFinish": true,
           "DistanceCondition": {
             "ValidateInBacktrace": true
@@ -2091,6 +2086,7 @@
                     "UseLogicProp": true,
                     "LogicWayPointGroupID": 51,
                     "LogicWayPointEntityID": 300005,
+                    "Operator": "Or",
                     "ValidateInBacktrace": true
                   },
                   {
@@ -2109,7 +2105,7 @@
           "WayPointType": "Anchor",
           "WayPointGroupID": 51,
           "WayPointEntityID": 6,
-          "SubmissionID": 104010610,
+          "SubmissionID": 104010611,
           "UseDistance": true,
           "DistanceCondition": {
             "UseOverrideRangeMin": true,

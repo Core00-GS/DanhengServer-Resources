@@ -439,7 +439,7 @@
       ],
       "Progress": 1,
       "CustomValueList": [
-        2
+        "OldValue_2"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -535,7 +535,7 @@
       ],
       "Progress": 1,
       "CustomValueList": [
-        2
+        "OldValue_2"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -545,6 +545,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -554,6 +556,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -563,6 +567,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,

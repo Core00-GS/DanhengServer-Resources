@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Argenti_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -96,38 +95,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 12884901
+                    "FixedValue": {
+                      "RawValue": 12884901,
+                      "Value": 0.0
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 171798692
+                    "FixedValue": {
+                      "RawValue": 171798692,
+                      "Value": 0.04
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 12884901
+                    "FixedValue": {
+                      "RawValue": 12884901,
+                      "Value": 0.0
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 171798692
+                    "FixedValue": {
+                      "RawValue": 171798692,
+                      "Value": 0.04
                     }
                   }
                 }
@@ -143,8 +149,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 171798692
+                "FixedValue": {
+                  "RawValue": 171798692,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -167,8 +174,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -228,8 +236,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 429496730
+                "FixedValue": {
+                  "RawValue": 429496730,
+                  "Value": 0.1
                 }
               },
               "TaskEnabled": true,
@@ -259,18 +268,21 @@
                   "MovingRangeList": [
                     {
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 12884901
+                        "FixedValue": {
+                          "RawValue": 12884901,
+                          "Value": 0.0
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 171798692
+                        "FixedValue": {
+                          "RawValue": 171798692,
+                          "Value": 0.04
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 8589934592
+                        "FixedValue": {
+                          "RawValue": 8589934592,
+                          "Value": 2.0
                         }
                       }
                     }
@@ -302,18 +314,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 12884901
+                            "FixedValue": {
+                              "RawValue": 12884901,
+                              "Value": 0.0
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 171798692
+                            "FixedValue": {
+                              "RawValue": 171798692,
+                              "Value": 0.04
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 7516192771
+                            "FixedValue": {
+                              "RawValue": 7516192771,
+                              "Value": 1.75
                             }
                           }
                         }
@@ -350,8 +365,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 171798692
+                "FixedValue": {
+                  "RawValue": 171798692,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -365,8 +381,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -457,8 +474,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 429496730
+                "FixedValue": {
+                  "RawValue": 429496730,
+                  "Value": 0.1
                 }
               },
               "TaskEnabled": true,
@@ -481,8 +499,7 @@
       ],
       "Name": "LocalPlayer_Argenti_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -518,8 +535,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 472446403
+            "FixedValue": {
+              "RawValue": 472446403,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -540,8 +558,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 515396076
+            "FixedValue": {
+              "RawValue": 515396076,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -577,8 +596,10 @@
               },
               "ID": 130201,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Argenti_00_Ability.AbilityList.1.OnStart.5.OnAttack.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -597,8 +618,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 665719930
+            "FixedValue": {
+              "RawValue": 665719930,
+              "Value": 0.15
             }
           },
           "TaskEnabled": true,
@@ -616,8 +638,7 @@
     {
       "Name": "LocalPlayer_Argenti_00_BeforeBattleStunListener",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -628,8 +649,9 @@
           },
           "ModifierName": "ADV_StageAbility_Argenti_00_BeforeBattleStunListener",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -639,6 +661,35 @@
     }
   ],
   "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Argenti": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Stun"
+      ],
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Argenti_00/Eff_Avatar_Argenti_00_MazeSkill_Icon.prefab",
+          "AttachPoint": "HeadPoint",
+          "MinMutexTime": -1.0,
+          "MutexType": "Entity",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge"
+    },
     "ADV_StageAbility_Argenti_00_BeforeBattleStunListener": {
       "LifeTime": -1.0,
       "Level": 1,
@@ -665,13 +716,16 @@
             "IsClientOnly": true
           },
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Argenti_00_Ability.GlobalModifiers.ADV_StageAbility_Argenti_00_BeforeBattleStunListener.OnBeforeBattle.0.LifeTime.FixedValue"
             }
           },
           "Count": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

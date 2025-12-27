@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 60129542144
+            "FixedValue": {
+              "RawValue": 60129542144,
+              "Value": 14.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "CharacterUniqueName": {
@@ -24,13 +26,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               }
             }
@@ -41,13 +45,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 60129542144
+            "FixedValue": {
+              "RawValue": 60129542144,
+              "Value": 14.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717995508334592
+            "FixedValue": {
+              "RawValue": 1717995508334592,
+              "Value": 400002.0
             }
           },
           "CharacterUniqueName": {
@@ -59,13 +65,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717995508334592
+                "FixedValue": {
+                  "RawValue": 1717995508334592,
+                  "Value": 400002.0
                 }
               }
             }
@@ -76,13 +84,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 60129542144
+            "FixedValue": {
+              "RawValue": 60129542144,
+              "Value": 14.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717999803301888
+            "FixedValue": {
+              "RawValue": 1717999803301888,
+              "Value": 400003.0
             }
           },
           "CharacterUniqueName": {
@@ -94,13 +104,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717999803301888
+                "FixedValue": {
+                  "RawValue": 1717999803301888,
+                  "Value": 400003.0
                 }
               }
             }
@@ -111,13 +123,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 60129542144
+            "FixedValue": {
+              "RawValue": 60129542144,
+              "Value": 14.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718004098269184
+            "FixedValue": {
+              "RawValue": 1718004098269184,
+              "Value": 400004.0
             }
           },
           "CharacterUniqueName": {
@@ -129,13 +143,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1718004098269184
+                "FixedValue": {
+                  "RawValue": 1718004098269184,
+                  "Value": 400004.0
                 }
               }
             }
@@ -146,13 +162,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 60129542144
+            "FixedValue": {
+              "RawValue": 60129542144,
+              "Value": 14.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718008393236480
+            "FixedValue": {
+              "RawValue": 1718008393236480,
+              "Value": 400005.0
             }
           },
           "CharacterUniqueName": {
@@ -164,13 +182,15 @@
             "FetchType": "SingleNpcByNpcID",
             "SingleNpcID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 60129542144
+                "FixedValue": {
+                  "RawValue": 60129542144,
+                  "Value": 14.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1718004098269184
+                "FixedValue": {
+                  "RawValue": 1718004098269184,
+                  "Value": 400004.0
                 }
               }
             }
@@ -227,6 +247,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -263,8 +284,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -284,8 +306,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -305,8 +328,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 3006477110
+            "FixedValue": {
+              "RawValue": 3006477110,
+              "Value": 0.7
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -326,8 +350,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 3006477110
+            "FixedValue": {
+              "RawValue": 3006477110,
+              "Value": 0.7
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -347,8 +372,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "MaxAdvencePerTick": -1.0,

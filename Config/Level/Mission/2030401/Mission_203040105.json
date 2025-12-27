@@ -12,6 +12,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -40,6 +41,7 @@
         {
           "$type": "RPG.GameCore.WaitTutorial",
           "Event": "ShowUIMainPage",
+          "GoNextImmediately": true,
           "OnSuccessImmediate": [
             {
               "$type": "RPG.GameCore.TriggerCustomString",

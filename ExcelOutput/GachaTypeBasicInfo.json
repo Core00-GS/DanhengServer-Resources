@@ -2,46 +2,72 @@
   {
     "GachaBar": "StandardGachaPage",
     "BuyPos": {
-      "ShopID": 1000,
-      "ShopGoodID": 1000001
+      "ShopGoodID": 1000001,
+      "ShopID": 1000
     },
-    "ItemCosume": 101,
-    "ItemPrice": 160,
     "GachaTypeID": "Normal",
+    "ItemPrice": 160,
+    "ItemCosume": 101,
+    "UpPropability": 0,
     "DiamondID": 1
   },
   {
     "GachaBar": "StandardGachaPage",
     "BuyPos": {
-      "ShopID": 1000,
-      "ShopGoodID": 1000001
+      "ShopGoodID": 1000001,
+      "ShopID": 1000
     },
-    "ItemCosume": 101,
-    "ItemPrice": 160,
     "GachaTypeID": "Newbie",
+    "ItemPrice": 160,
+    "ItemCosume": 101,
+    "UpPropability": 0,
     "DiamondID": 1
   },
   {
     "GachaBar": "CharacterGachaPage",
     "BuyPos": {
-      "ShopID": 1000,
-      "ShopGoodID": 1000002
+      "ShopGoodID": 1000002,
+      "ShopID": 1000
     },
-    "ItemCosume": 102,
-    "ItemPrice": 160,
     "GachaTypeID": "AvatarUp",
+    "ItemPrice": 160,
+    "ItemCosume": 102,
     "UpPropability": 50,
     "DiamondID": 1
   },
   {
     "GachaBar": "LightconeGachaPage",
     "BuyPos": {
-      "ShopID": 1000,
-      "ShopGoodID": 1000002
+      "ShopGoodID": 1000002,
+      "ShopID": 1000
     },
-    "ItemCosume": 102,
-    "ItemPrice": 160,
     "GachaTypeID": "WeaponUp",
+    "ItemPrice": 160,
+    "ItemCosume": 102,
+    "UpPropability": 75,
+    "DiamondID": 1
+  },
+  {
+    "GachaBar": "CharacterGachaPage",
+    "BuyPos": {
+      "ShopGoodID": 1000002,
+      "ShopID": 1000
+    },
+    "GachaTypeID": "CollaborationAvatarUp",
+    "ItemPrice": 160,
+    "ItemCosume": 102,
+    "UpPropability": 50,
+    "DiamondID": 1
+  },
+  {
+    "GachaBar": "LightconeGachaPage",
+    "BuyPos": {
+      "ShopGoodID": 1000002,
+      "ShopID": 1000
+    },
+    "GachaTypeID": "CollaborationWeaponUp",
+    "ItemPrice": 160,
+    "ItemCosume": 102,
     "UpPropability": 75,
     "DiamondID": 1
   }

@@ -4163,29 +4163,43 @@
       ],
       "MapLayerList": [
         1
-      ]
-    },
-    {
-      "ID": 1,
-      "PositionInCanvas": {
-        "x": 0.73141,
-        "y": -0.793201,
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
         "normalized": {
-          "x": 0.6778919,
-          "y": -0.735161543,
+          "x": 0.707106769,
+          "y": 0.707106769,
           "normalized": {
-            "x": 0.67789197,
-            "y": -0.7351616,
+            "x": 0.7071068,
+            "y": 0.7071068,
             "magnitude": 1.0,
             "sqrMagnitude": 1.00000012
           },
           "magnitude": 0.99999994,
           "sqrMagnitude": 0.99999994
         },
-        "magnitude": 1.0789479,
-        "sqrMagnitude": 1.16412854
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
+    },
+    {
+      "ID": 1,
+      "PositionInCanvas": {
+        "x": 0.73141,
+        "y": 0.548549,
+        "normalized": {
+          "x": 0.8000045,
+          "y": 0.599994063,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.9142574,
+        "sqrMagnitude": 0.83586663
       },
-      "ScaleInCanvas": 3.0,
+      "ScaleInCanvas": 1.0,
       "IsHidden": true,
       "MinimapVolume": {
         "Center": {
@@ -4627,7 +4641,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_ADV_P06_Background.png",
@@ -4653,5 +4687,25 @@
       "ID": 103060101,
       "AreaID": 1
     }
-  ]
+  ],
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

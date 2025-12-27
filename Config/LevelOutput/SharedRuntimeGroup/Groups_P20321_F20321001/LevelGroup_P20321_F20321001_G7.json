@@ -15,7 +15,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.AnchorPoint",
+      "TagHash": -1743222658
+    }
+  ],
   "AnchorList": [
     {
       "Name": "Anchor1",
@@ -101,7 +106,6 @@
             "magnitude": 5.83095169,
             "sqrMagnitude": 34.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -114,12 +118,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -187,7 +192,6 @@
             "magnitude": 4.358899,
             "sqrMagnitude": 19.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -200,10 +204,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "ID": 300002,
       "PosX": -99.95269,
@@ -256,7 +266,6 @@
             "magnitude": 5.09901953,
             "sqrMagnitude": 26.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -269,10 +278,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop3",
       "ID": 300003,
       "PosX": -51.46,
@@ -318,7 +333,6 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -331,10 +345,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop4",
       "ID": 300004,
       "PosX": -40.18962,
@@ -349,5 +369,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

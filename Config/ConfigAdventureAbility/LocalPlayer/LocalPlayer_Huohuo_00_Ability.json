@@ -3,8 +3,7 @@
     {
       "Name": "LocalPlayer_Huohuo_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -79,38 +78,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 73014442
+                    "FixedValue": {
+                      "RawValue": 73014442,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 176093659
+                    "FixedValue": {
+                      "RawValue": 176093659,
+                      "Value": 0.04
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 19327352834
+                    "FixedValue": {
+                      "RawValue": 19327352834,
+                      "Value": 4.5
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 73014442
+                    "FixedValue": {
+                      "RawValue": 73014442,
+                      "Value": 0.02
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 176093659
+                    "FixedValue": {
+                      "RawValue": 176093659,
+                      "Value": 0.04
                     }
                   }
                 }
@@ -126,8 +132,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 304942678
+                "FixedValue": {
+                  "RawValue": 304942678,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -185,18 +192,21 @@
                   "MovingRangeList": [
                     {
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 73014442
+                        "FixedValue": {
+                          "RawValue": 73014442,
+                          "Value": 0.02
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 176093659
+                        "FixedValue": {
+                          "RawValue": 176093659,
+                          "Value": 0.04
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 6442450946
+                        "FixedValue": {
+                          "RawValue": 6442450946,
+                          "Value": 1.5
                         }
                       }
                     }
@@ -212,8 +222,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 304942678
+                    "FixedValue": {
+                      "RawValue": 304942678,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -271,18 +282,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 73014442
+                            "FixedValue": {
+                              "RawValue": 73014442,
+                              "Value": 0.02
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 176093659
+                            "FixedValue": {
+                              "RawValue": 176093659,
+                              "Value": 0.04
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 2147483650
+                            "FixedValue": {
+                              "RawValue": 2147483650,
+                              "Value": 0.5
                             }
                           }
                         }
@@ -298,8 +312,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 304942678
+                        "FixedValue": {
+                          "RawValue": 304942678,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -348,13 +363,15 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 73014442
+                            "FixedValue": {
+                              "RawValue": 73014442,
+                              "Value": 0.02
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 176093659
+                            "FixedValue": {
+                              "RawValue": 176093659,
+                              "Value": 0.04
                             }
                           },
                           "DefaultMoveDistance": {}
@@ -371,8 +388,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 304942678
+                        "FixedValue": {
+                          "RawValue": 304942678,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -438,8 +456,7 @@
       ],
       "Name": "LocalPlayer_Huohuo_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -463,8 +480,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 94489280
+            "FixedValue": {
+              "RawValue": 94489280,
+              "Value": 0.02
             }
           },
           "TaskEnabled": true,
@@ -485,8 +503,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 266287972
+            "FixedValue": {
+              "RawValue": 266287972,
+              "Value": 0.06
             }
           },
           "TaskEnabled": true,
@@ -520,8 +539,10 @@
               },
               "ID": 121701,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Huohuo_00_Ability.AbilityList.1.OnStart.4.OnAttack.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -542,8 +563,9 @@
             },
             "CompareType": "GreaterEqual",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": 25769803776
+              "FixedValue": {
+                "RawValue": 25769803776,
+                "Value": 6.0
               }
             },
             "TaskEnabled": true,
@@ -567,8 +589,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "TaskEnabled": true,
@@ -583,5 +606,36 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_Modifier_Maze_Huohuo_Fear": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Fear"
+      ],
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Common/Eff_Buff_Common_Fear.prefab",
+          "AttachPoint": "HeadPoint",
+          "MinMutexTime": -1.0,
+          "MutexType": "Entity",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    }
+  }
 }

@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288554613309440
+                "FixedValue": {
+                  "RawValue": 1288554613309440,
+                  "Value": 300015.0
                 }
               }
             }
@@ -60,18 +62,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 172361362620547072
+            "FixedValue": {
+              "RawValue": 172361362620547072,
+              "Value": 40131007.01
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -95,13 +100,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288563203244032
+                "FixedValue": {
+                  "RawValue": 1288563203244032,
+                  "Value": 300017.0
                 }
               }
             }
@@ -145,13 +152,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288563203244032
+                "FixedValue": {
+                  "RawValue": 1288563203244032,
+                  "Value": 300017.0
                 }
               }
             }
@@ -188,13 +197,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288563203244032
+                "FixedValue": {
+                  "RawValue": 1288563203244032,
+                  "Value": 300017.0
                 }
               }
             }
@@ -211,20 +222,23 @@
                 },
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 25769803776
+                    "FixedValue": {
+                      "RawValue": 25769803776,
+                      "Value": 6.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288563203244032
+                    "FixedValue": {
+                      "RawValue": 1288563203244032,
+                      "Value": 300017.0
                     }
                   }
                 }
               },
               "InteractID": {
-                "fixedValue": {
-                  "RawValue": 4337916968960
+                "FixedValue": {
+                  "RawValue": 4337916968960,
+                  "Value": 1010.0
                 }
               },
               "TaskEnabled": true,

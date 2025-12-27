@@ -3,8 +3,7 @@
     {
       "Name": "LocalPlayer_FuXuan_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -83,8 +82,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -207,8 +207,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -330,8 +331,7 @@
     {
       "Name": "LocalPlayer_FuXuan_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -355,8 +355,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 85899346
+            "FixedValue": {
+              "RawValue": 85899346,
+              "Value": 0.02
             }
           },
           "TaskEnabled": true,
@@ -386,8 +387,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 493921238
+            "FixedValue": {
+              "RawValue": 493921238,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -401,8 +403,10 @@
           },
           "ID": 120801,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_FuXuan_00_Ability.AbilityList.1.OnStart.4.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -416,8 +420,10 @@
           },
           "ID": 120802,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_FuXuan_00_Ability.AbilityList.1.OnStart.5.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -440,8 +446,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 541165878
+            "FixedValue": {
+              "RawValue": 541165878,
+              "Value": 0.13
             }
           },
           "TaskEnabled": true,
@@ -471,8 +478,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 579820584
+            "FixedValue": {
+              "RawValue": 579820584,
+              "Value": 0.13
             }
           },
           "TaskEnabled": true,
@@ -480,5 +488,90 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_FuXuan_HolyShield": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "HolyShield"
+      ],
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierOverrideOnHitEffect",
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_FuXuan_00/Eff_Avatar_FuXuan_00_MazeSkill01_03.prefab",
+          "ModifierOverrideOnHitEffectPriority": "ModifyOthers",
+          "HitEffectStacking": "HighestPriority",
+          "OverrideOffset": true,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.TriggerSound",
+          "SoundName": {
+            "Value": "Ev_sfx_avatar_skill_maze_close_fuxuan"
+          },
+          "EmitterType": "LocalPlayer",
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnStack": [
+        {
+          "$type": "RPG.GameCore.ModifierDetachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AdvLocalPlayer"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_FuXuan_00/Eff_Avatar_FuXuan_00_MazeSkill01_02.prefab",
+          "IsNeedFadeOut": true,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AdvLocalPlayer"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_FuXuan_00/Eff_Avatar_FuXuan_00_MazeSkill01_02.prefab",
+          "ColliderHeightRatio": 0.8,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnTeamLeaderChange": [
+        {
+          "$type": "RPG.GameCore.ModifierReattachEffect",
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_FuXuan_00/Eff_Avatar_FuXuan_00_MazeSkill01_02.prefab",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ParamEntity"
+          },
+          "ColliderHeightRatio": 0.8,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_StageAbility_Maze_FuXuan": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

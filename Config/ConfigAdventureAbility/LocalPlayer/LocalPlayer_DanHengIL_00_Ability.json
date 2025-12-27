@@ -9,8 +9,9 @@
             "Alias": "Caster"
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "AutoMove": true,
@@ -47,8 +48,7 @@
       ],
       "Name": "LocalPlayer_DanHengIL_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -78,8 +78,9 @@
                 "ContextScope": "ContextOwner",
                 "CompareType": "GreaterEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 4294967296
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
                   }
                 },
                 "TaskEnabled": true
@@ -118,6 +119,7 @@
               "DynamicKey": {
                 "Value": "Is_First_Sprint"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             },
             {
@@ -127,13 +129,16 @@
                 "Alias": "Caster"
               },
               "Value": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.2.Value.FixedValue"
                 }
               },
               "DynamicKey": {
                 "Value": "SprintModifiedSteerSpeed"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             },
             {
@@ -143,13 +148,16 @@
                 "Alias": "Caster"
               },
               "Value": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.3.Value.FixedValue"
                 }
               },
               "DynamicKey": {
                 "Value": "SprintModifiedSpeed"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             },
             {
@@ -206,8 +214,9 @@
                             },
                             "CompareType": "Less",
                             "CompareValue": {
-                              "fixedValue": {
-                                "RawValue": 8589934592
+                              "FixedValue": {
+                                "RawValue": 8589934592,
+                                "Value": 2.0
                               }
                             },
                             "IgnoreRadius": true,
@@ -221,8 +230,9 @@
                               "Alias": "AbilityTargetEntity"
                             },
                             "ToleranceAngle": {
-                              "fixedValue": {
-                                "RawValue": 322122547200
+                              "FixedValue": {
+                                "RawValue": 322122547200,
+                                "Value": 75.0
                               }
                             },
                             "TaskEnabled": true,
@@ -246,8 +256,9 @@
                             },
                             "CompareType": "Less",
                             "CompareValue": {
-                              "fixedValue": {
-                                "RawValue": 25769803776
+                              "FixedValue": {
+                                "RawValue": 25769803776,
+                                "Value": 6.0
                               }
                             },
                             "IgnoreRadius": true,
@@ -261,8 +272,9 @@
                               "Alias": "AbilityTargetEntity"
                             },
                             "ToleranceAngle": {
-                              "fixedValue": {
-                                "RawValue": 193273528320
+                              "FixedValue": {
+                                "RawValue": 193273528320,
+                                "Value": 45.0
                               }
                             },
                             "TaskEnabled": true,
@@ -286,8 +298,9 @@
                             },
                             "CompareType": "GreaterEqual",
                             "CompareValue": {
-                              "fixedValue": {
-                                "RawValue": 25769803776
+                              "FixedValue": {
+                                "RawValue": 25769803776,
+                                "Value": 6.0
                               }
                             },
                             "IgnoreRadius": true,
@@ -301,8 +314,9 @@
                               "Alias": "AbilityTargetEntity"
                             },
                             "ToleranceAngle": {
-                              "fixedValue": {
-                                "RawValue": 85899345920
+                              "FixedValue": {
+                                "RawValue": 85899345920,
+                                "Value": 20.0
                               }
                             },
                             "TaskEnabled": true,
@@ -333,13 +347,15 @@
                         "Alias": "Caster"
                       },
                       "Value": {
-                        "fixedValue": {
-                          "RawValue": 4294967296
+                        "FixedValue": {
+                          "RawValue": 4294967296,
+                          "Value": 1.0
                         }
                       },
                       "DynamicKey": {
                         "Value": "SprintModifiedSteerSpeed"
                       },
+                      "SkipInCharmAction": true,
                       "TaskEnabled": true
                     },
                     {
@@ -356,8 +372,9 @@
                         },
                         "CompareType": "Less",
                         "CompareValue": {
-                          "fixedValue": {
-                            "RawValue": 25769803776
+                          "FixedValue": {
+                            "RawValue": 25769803776,
+                            "Value": 6.0
                           }
                         },
                         "IgnoreRadius": true,
@@ -372,13 +389,15 @@
                             "Alias": "Caster"
                           },
                           "Value": {
-                            "fixedValue": {
-                              "RawValue": 60129542144
+                            "FixedValue": {
+                              "RawValue": 60129542144,
+                              "Value": 14.0
                             }
                           },
                           "DynamicKey": {
                             "Value": "SprintModifiedSpeed"
                           },
+                          "SkipInCharmAction": true,
                           "TaskEnabled": true
                         }
                       ],
@@ -390,13 +409,15 @@
                             "Alias": "Caster"
                           },
                           "Value": {
-                            "fixedValue": {
-                              "RawValue": 85899345920
+                            "FixedValue": {
+                              "RawValue": 85899345920,
+                              "Value": 20.0
                             }
                           },
                           "DynamicKey": {
                             "Value": "SprintModifiedSpeed"
                           },
+                          "SkipInCharmAction": true,
                           "TaskEnabled": true
                         }
                       ],
@@ -415,18 +436,21 @@
                         "Alias": "AbilityTargetEntity"
                       },
                       "MaxDuration": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "MaxDistance": {
-                        "fixedValue": {
-                          "RawValue": 429496730
+                        "FixedValue": {
+                          "RawValue": 429496730,
+                          "Value": 0.1
                         }
                       },
                       "MaxSteerSpeed": {
-                        "fixedValue": {
-                          "RawValue": 42949672960000
+                        "FixedValue": {
+                          "RawValue": 42949672960000,
+                          "Value": 10000.0
                         }
                       },
                       "CanPlayerControl": true,
@@ -457,8 +481,9 @@
                   },
                   "ModifierName": "ADV_Modifier_Maze_DanHengIL_HolyShield",
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -472,8 +497,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 77309409
+                    "FixedValue": {
+                      "RawValue": 77309409,
+                      "Value": 0.02
                     }
                   },
                   "TaskEnabled": true,
@@ -486,8 +512,9 @@
                     "Alias": "Caster"
                   },
                   "MaxSteerSpeed": {
-                    "fixedValue": {
-                      "RawValue": -4294967296
+                    "FixedValue": {
+                      "RawValue": -4294967296,
+                      "Value": -1.0
                     }
                   },
                   "AutoMove": true,
@@ -509,8 +536,10 @@
                     "ContextScope": "ContextAbility",
                     "CompareType": "LessEqual",
                     "CompareValue": {
-                      "fixedValue": {
-                        "RawValue": -149061134974976
+                      "FixedValue": {
+                        "RawValue": -149061134974976,
+                        "Value": -34706.0,
+                        "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.Predicate.CompareValue.FixedValue"
                       }
                     },
                     "TaskEnabled": true
@@ -527,24 +556,30 @@
                         "Alias": "AbilityTargetEntity"
                       },
                       "MaxDuration": {
-                        "fixedValue": {
-                          "RawValue": -149061134974976
+                        "FixedValue": {
+                          "RawValue": -149061134974976,
+                          "Value": -34706.0,
+                          "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.SuccessTaskList.0.MaxDuration.FixedValue"
                         }
                       },
                       "MaxSpeed": {
-                        "fixedValue": {
-                          "RawValue": -149061134974976
+                        "FixedValue": {
+                          "RawValue": -149061134974976,
+                          "Value": -34706.0,
+                          "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.SuccessTaskList.0.MaxSpeed.FixedValue"
                         }
                       },
                       "MinSpeed": {
-                        "fixedValue": {
-                          "RawValue": 4294967296
+                        "FixedValue": {
+                          "RawValue": 4294967296,
+                          "Value": 1.0
                         }
                       },
                       "SpeedCurve": "Camera/BlendCurve/BlendCut_DanHengIL_MazeSkillMove.asset",
                       "MaxSteerSpeed": {
-                        "fixedValue": {
-                          "RawValue": 1546188226560
+                        "FixedValue": {
+                          "RawValue": 1546188226560,
+                          "Value": 360.0
                         }
                       },
                       "AutoMove": true,
@@ -564,24 +599,31 @@
                         "Alias": "AbilityTargetEntity"
                       },
                       "MaxDuration": {
-                        "fixedValue": {
-                          "RawValue": -149061134974976
+                        "FixedValue": {
+                          "RawValue": -149061134974976,
+                          "Value": -34706.0,
+                          "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.FailedTaskList.0.MaxDuration.FixedValue"
                         }
                       },
                       "MaxSpeed": {
-                        "fixedValue": {
-                          "RawValue": -149061134974976
+                        "FixedValue": {
+                          "RawValue": -149061134974976,
+                          "Value": -34706.0,
+                          "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.FailedTaskList.0.MaxSpeed.FixedValue"
                         }
                       },
                       "MinSpeed": {
-                        "fixedValue": {
-                          "RawValue": 4294967296
+                        "FixedValue": {
+                          "RawValue": 4294967296,
+                          "Value": 1.0
                         }
                       },
                       "SpeedCurve": "Camera/BlendCurve/BlendCut_DanHengIL_MazeSkillMove.asset",
                       "MaxSteerSpeed": {
-                        "fixedValue": {
-                          "RawValue": -149061134974976
+                        "FixedValue": {
+                          "RawValue": -149061134974976,
+                          "Value": -34706.0,
+                          "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.SuccessTaskList.5.FailedTaskList.0.MaxSteerSpeed.FixedValue"
                         }
                       },
                       "CanPlayerControl": true,
@@ -656,8 +698,9 @@
                   },
                   "IncludeProps": true,
                   "Duration": {
-                    "fixedValue": {
-                      "RawValue": 1417339209
+                    "FixedValue": {
+                      "RawValue": 1417339209,
+                      "Value": 0.33
                     }
                   },
                   "OnHit": [
@@ -722,8 +765,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 343597384
+                    "FixedValue": {
+                      "RawValue": 343597384,
+                      "Value": 0.08
                     }
                   },
                   "TaskEnabled": true,
@@ -753,8 +797,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 450971565
+                    "FixedValue": {
+                      "RawValue": 450971565,
+                      "Value": 0.1
                     }
                   },
                   "TaskEnabled": true,
@@ -778,8 +823,9 @@
                   },
                   "ModifierName": "M_ADV_Maze_DanHengIL_StopSprintFlag",
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -800,8 +846,9 @@
                         "Alias": "Caster"
                       },
                       "MaxSteerSpeed": {
-                        "fixedValue": {
-                          "RawValue": -4294967296
+                        "FixedValue": {
+                          "RawValue": -4294967296,
+                          "Value": -1.0
                         }
                       },
                       "AutoMove": true,
@@ -834,18 +881,21 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "MaxDuration": {
-                    "fixedValue": {
-                      "RawValue": 214748365
+                    "FixedValue": {
+                      "RawValue": 214748365,
+                      "Value": 0.05
                     }
                   },
                   "MaxDistance": {
-                    "fixedValue": {
-                      "RawValue": 429496730
+                    "FixedValue": {
+                      "RawValue": 429496730,
+                      "Value": 0.1
                     }
                   },
                   "MaxSteerSpeed": {
-                    "fixedValue": {
-                      "RawValue": 42949672960000
+                    "FixedValue": {
+                      "RawValue": 42949672960000,
+                      "Value": 10000.0
                     }
                   },
                   "CanPlayerControl": true,
@@ -873,8 +923,9 @@
                   },
                   "ModifierName": "ADV_Modifier_Maze_DanHengIL_HolyShield",
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -888,8 +939,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 77309409
+                    "FixedValue": {
+                      "RawValue": 77309409,
+                      "Value": 0.02
                     }
                   },
                   "TaskEnabled": true,
@@ -902,8 +954,9 @@
                     "Alias": "Caster"
                   },
                   "MaxSteerSpeed": {
-                    "fixedValue": {
-                      "RawValue": -4294967296
+                    "FixedValue": {
+                      "RawValue": -4294967296,
+                      "Value": -1.0
                     }
                   },
                   "AutoMove": true,
@@ -922,24 +975,31 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "MaxDuration": {
-                    "fixedValue": {
-                      "RawValue": -149061134974976
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.FailedTaskList.5.MaxDuration.FixedValue"
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": -149061134974976
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.FailedTaskList.5.MaxSpeed.FixedValue"
                     }
                   },
                   "MinSpeed": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "SpeedCurve": "Camera/BlendCurve/BlendCut_DanHengIL_MazeSkillMove.asset",
                   "MaxSteerSpeed": {
-                    "fixedValue": {
-                      "RawValue": -149061134974976
+                    "FixedValue": {
+                      "RawValue": -149061134974976,
+                      "Value": -34706.0,
+                      "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.0.OnStart.0.SuccessTaskList.5.FailedTaskList.5.MaxSteerSpeed.FixedValue"
                     }
                   },
                   "CanPlayerControl": true,
@@ -1011,8 +1071,9 @@
                   },
                   "IncludeProps": true,
                   "Duration": {
-                    "fixedValue": {
-                      "RawValue": 1417339209
+                    "FixedValue": {
+                      "RawValue": 1417339209,
+                      "Value": 0.33
                     }
                   },
                   "OnHit": [
@@ -1078,8 +1139,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 343597384
+                    "FixedValue": {
+                      "RawValue": 343597384,
+                      "Value": 0.08
                     }
                   },
                   "TaskEnabled": true,
@@ -1109,8 +1171,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 450971565
+                    "FixedValue": {
+                      "RawValue": 450971565,
+                      "Value": 0.1
                     }
                   },
                   "TaskEnabled": true,
@@ -1134,8 +1197,9 @@
                   },
                   "ModifierName": "M_ADV_Maze_DanHengIL_StopSprintFlag",
                   "LifeTime": {
-                    "fixedValue": {
-                      "RawValue": 4294967296
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
                     }
                   },
                   "TaskEnabled": true,
@@ -1156,8 +1220,9 @@
                         "Alias": "Caster"
                       },
                       "MaxSteerSpeed": {
-                        "fixedValue": {
-                          "RawValue": -4294967296
+                        "FixedValue": {
+                          "RawValue": -4294967296,
+                          "Value": -1.0
                         }
                       },
                       "AutoMove": true,
@@ -1256,8 +1321,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "TaskEnabled": true,
@@ -1361,8 +1427,9 @@
                 {
                   "$type": "RPG.GameCore.WaitSecond",
                   "WaitTime": {
-                    "fixedValue": {
-                      "RawValue": 1073741825
+                    "FixedValue": {
+                      "RawValue": 1073741825,
+                      "Value": 0.25
                     }
                   },
                   "MaxAdvencePerTick": -1.0,
@@ -1449,8 +1516,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 42949673
+                        "FixedValue": {
+                          "RawValue": 42949673,
+                          "Value": 0.01
                         }
                       },
                       "TaskEnabled": true,
@@ -1576,13 +1644,13 @@
           ],
           "TaskEnabled": true
         }
-      ]
+      ],
+      "DynamicValues": {}
     },
     {
       "Name": "LocalPlayer_DanHengIL_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -1593,8 +1661,10 @@
           },
           "ID": 121302,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_DanHengIL_00_Ability.AbilityList.1.OnStart.0.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1607,13 +1677,15 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "DynamicKey": {
             "Value": "Is_First_Sprint"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -1653,5 +1725,141 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_DanHengIL": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_Modifier_Maze_DanHengIL": {
+      "LifeTime": 20.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_DanHengIL_00/Eff_Avatar_DanHengIL_00_MazeSkill01_Body_01.prefab",
+          "MinMutexTime": -1.0,
+          "MutexType": "Entity",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_DanHengIL_00/Eff_Avatar_DanHengIL_00_MazeSkill01_Body_02.prefab",
+          "MinMutexTime": -1.0,
+          "MutexType": "Entity",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_DanHengIL_00/Eff_Avatar_DanHengIL_00_MazeSkill01_Body_03.prefab",
+          "MinMutexTime": -1.0,
+          "MutexType": "Entity",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.TriggerEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_DanHengIL_00/Eff_Avatar_DanHengIL_00_MazeSkill01_Body_01_disappear.prefab",
+          "Scale": {
+            "x": -1.0,
+            "y": -1.0,
+            "z": -1.0,
+            "normalized": {
+              "x": -0.577350259,
+              "y": -0.577350259,
+              "z": -0.577350259,
+              "normalized": {
+                "x": -0.5773503,
+                "y": -0.5773503,
+                "z": -0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "IsNeedFadeIn": true,
+          "ParamEntityUsage": "LookAt",
+          "TowardMaxPitchAngle": 90.0,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnUnstage": [
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    },
+    "ADV_Modifier_Maze_DanHengIL_HolyShield": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "HolyShield"
+      ],
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "M_ADV_Maze_DanHengIL_StopSprintFlag": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.DebugLog",
+          "Message": "M_ADV_Maze_DanHengIL_StopSprintFlag",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    }
+  }
 }

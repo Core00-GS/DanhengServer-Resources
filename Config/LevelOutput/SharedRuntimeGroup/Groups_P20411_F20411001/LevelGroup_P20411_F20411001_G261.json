@@ -45,8 +45,7 @@
       "CustomTriggerMap": {},
       "CustomTriggerMapV2": {
         "MissionTrigger": {
-          "Radius": 8.0,
-          "PointList": []
+          "Radius": 8.0
         }
       },
       "StateConfigs": [],
@@ -55,10 +54,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -71,9 +74,9 @@
       },
       "Name": "Prop1",
       "ID": 300001,
-      "PosX": 253.11,
-      "PosY": 44.34064,
-      "PosZ": 2.1
+      "PosX": 272.51,
+      "PosY": 42.07964,
+      "PosZ": 17.05
     }
   ],
   "DistrictList": [],

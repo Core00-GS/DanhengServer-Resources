@@ -22,6 +22,7 @@
             "MainMissionID": 2022002,
             "MissionCustomValue": {
               "Index": 2,
+              "Name": "OldValue_2",
               "ValidValueParamList": [
                 1,
                 2,
@@ -39,6 +40,7 @@
               "$type": "RPG.GameCore.SetMissionCustomValue",
               "SubmissionID": 434012601,
               "MissionCustomValue": {
+                "Name": "OldValue_0",
                 "ValidValueParamList": [
                   1,
                   2,
@@ -65,6 +67,7 @@
                 "MainMissionID": 2022002,
                 "MissionCustomValue": {
                   "Index": 2,
+                  "Name": "OldValue_2",
                   "ValidValueParamList": [
                     1,
                     2,
@@ -82,6 +85,7 @@
                   "$type": "RPG.GameCore.SetMissionCustomValue",
                   "SubmissionID": 434012601,
                   "MissionCustomValue": {
+                    "Name": "OldValue_0",
                     "ValidValueParamList": [
                       1,
                       2,
@@ -108,6 +112,7 @@
                     "MainMissionID": 2022002,
                     "MissionCustomValue": {
                       "Index": 2,
+                      "Name": "OldValue_2",
                       "ValidValueParamList": [
                         1,
                         2,
@@ -125,6 +130,7 @@
                       "$type": "RPG.GameCore.SetMissionCustomValue",
                       "SubmissionID": 434012601,
                       "MissionCustomValue": {
+                        "Name": "OldValue_0",
                         "ValidValueParamList": [
                           1,
                           2,
@@ -151,6 +157,7 @@
                         "MainMissionID": 2022002,
                         "MissionCustomValue": {
                           "Index": 2,
+                          "Name": "OldValue_2",
                           "ValidValueParamList": [
                             1,
                             2,
@@ -168,6 +175,7 @@
                           "$type": "RPG.GameCore.SetMissionCustomValue",
                           "SubmissionID": 434012601,
                           "MissionCustomValue": {
+                            "Name": "OldValue_0",
                             "ValidValueParamList": [
                               1,
                               2,
@@ -191,6 +199,7 @@
                           "$type": "RPG.GameCore.SetMissionCustomValue",
                           "SubmissionID": 434012601,
                           "MissionCustomValue": {
+                            "Name": "OldValue_0",
                             "ValidValueParamList": [
                               1,
                               2,

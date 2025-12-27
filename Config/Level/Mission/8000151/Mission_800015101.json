@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 438086664192
+            "FixedValue": {
+              "RawValue": 438086664192,
+              "Value": 102.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [],
@@ -22,13 +24,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 438086664192
+            "FixedValue": {
+              "RawValue": 438086664192,
+              "Value": 102.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "CreateList": [],
@@ -46,13 +50,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 438086664192
+                  "FixedValue": {
+                    "RawValue": 438086664192,
+                    "Value": 102.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -72,13 +78,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 438086664192
+                  "FixedValue": {
+                    "RawValue": 438086664192,
+                    "Value": 102.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -103,13 +111,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 438086664192
+                  "FixedValue": {
+                    "RawValue": 438086664192,
+                    "Value": 102.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -155,13 +165,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 438086664192
+            "FixedValue": {
+              "RawValue": 438086664192,
+              "Value": 102.0
             }
           },
           "DestroyList": [],
@@ -174,13 +186,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 438086664192
+            "FixedValue": {
+              "RawValue": 438086664192,
+              "Value": 102.0
             }
           },
           "DestroyList": [],
@@ -190,8 +204,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,

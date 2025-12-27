@@ -14,7 +14,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_670700": {
       "LifeTime": -1.0,
@@ -30,7 +31,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_670060": {
       "LifeTime": -1.0,
@@ -276,7 +278,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_633155": {
       "LifeTime": -1.0,
@@ -306,7 +309,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_610124": {
       "LifeTime": -1.0,

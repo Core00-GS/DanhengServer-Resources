@@ -28,13 +28,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 399431958528
+            "FixedValue": {
+              "RawValue": 399431958528,
+              "Value": 93.0
             }
           },
           "TaskEnabled": true,

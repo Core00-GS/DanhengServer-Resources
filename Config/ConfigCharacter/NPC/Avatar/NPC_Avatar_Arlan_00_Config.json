@@ -63,5 +63,6 @@
   "UseDefaultSteerMode": true,
   "TalkEmotionAssetPath": "Story/TalkEmotion/Avatar/Arlan_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Moze_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -110,38 +109,45 @@
                         "Alias": "AbilityTargetEntity"
                       },
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 6442450946
+                        "FixedValue": {
+                          "RawValue": 6442450946,
+                          "Value": 1.5
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 128849019
+                        "FixedValue": {
+                          "RawValue": 128849019,
+                          "Value": 0.03
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 257698038
+                        "FixedValue": {
+                          "RawValue": 257698038,
+                          "Value": 0.06
                         }
                       },
                       "MaxMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 25769803776
+                        "FixedValue": {
+                          "RawValue": 25769803776,
+                          "Value": 6.0
                         }
                       },
                       "MaxSpeed": {
-                        "fixedValue": {
-                          "RawValue": 1288490188800
+                        "FixedValue": {
+                          "RawValue": 1288490188800,
+                          "Value": 300.0
                         }
                       },
                       "SteerNormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 42949673
+                        "FixedValue": {
+                          "RawValue": 42949673,
+                          "Value": 0.01
                         }
                       },
                       "SteerNormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 150323854
+                        "FixedValue": {
+                          "RawValue": 150323854,
+                          "Value": 0.03
                         }
                       }
                     }
@@ -157,8 +163,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   },
                   "TaskEnabled": true,
@@ -182,8 +189,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 236223200
+                    "FixedValue": {
+                      "RawValue": 236223200,
+                      "Value": 0.05
                     }
                   },
                   "TaskEnabled": true,
@@ -213,8 +221,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -311,8 +320,9 @@
                       },
                       "AnimStateName": "MazeSkill",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 292057774
+                        "FixedValue": {
+                          "RawValue": 292057774,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -345,8 +355,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 1288490190
+                    "FixedValue": {
+                      "RawValue": 1288490190,
+                      "Value": 0.3
                     }
                   },
                   "TaskEnabled": true,
@@ -376,8 +387,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   },
                   "TaskEnabled": true,
@@ -401,8 +413,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 236223200
+                    "FixedValue": {
+                      "RawValue": 236223200,
+                      "Value": 0.05
                     }
                   },
                   "TaskEnabled": true,
@@ -432,8 +445,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -530,8 +544,9 @@
                       },
                       "AnimStateName": "MazeSkill",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 292057774
+                        "FixedValue": {
+                          "RawValue": 292057774,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -564,8 +579,9 @@
                   },
                   "AnimStateName": "MazeSkill",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 1288490190
+                    "FixedValue": {
+                      "RawValue": 1288490190,
+                      "Value": 0.3
                     }
                   },
                   "TaskEnabled": true,
@@ -616,8 +632,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 21474835
+                    "FixedValue": {
+                      "RawValue": 21474835,
+                      "Value": 0.0
                     }
                   },
                   "TaskEnabled": true,
@@ -643,8 +660,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 137438953
+                    "FixedValue": {
+                      "RawValue": 137438953,
+                      "Value": 0.03
                     }
                   },
                   "TaskEnabled": true,
@@ -699,8 +717,9 @@
                     "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Moze_00/Eff_Avatar_Moze_00_MazeAttack01_Tailing.prefab",
                     "FlyEffectFadeOut": true,
                     "LinearPitchAngle": {
-                      "fixedValue": {
-                        "RawValue": -429496730
+                      "FixedValue": {
+                        "RawValue": -429496730,
+                        "Value": -0.1
                       }
                     },
                     "BoomerangEccentricity": 1.0,
@@ -718,7 +737,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -726,7 +745,12 @@
                         "$type": "RPG.GameCore.AdventureAttackDetectCircleConfig",
                         "MaxRadius": 1.0,
                         "FanAngle": 360.0,
-                        "Hight": 1.5
+                        "Hight": 2.5,
+                        "Offset": {
+                          "y": -1.0,
+                          "magnitude": 1.0,
+                          "sqrMagnitude": 1.0
+                        }
                       },
                       "HitConfig": {
                         "HitAnimation": "Hit"
@@ -781,7 +805,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -789,7 +813,12 @@
                         "$type": "RPG.GameCore.AdventureAttackDetectCircleConfig",
                         "MaxRadius": 1.0,
                         "FanAngle": 360.0,
-                        "Hight": 1.5
+                        "Hight": 2.5,
+                        "Offset": {
+                          "y": -1.0,
+                          "magnitude": 1.0,
+                          "sqrMagnitude": 1.0
+                        }
                       },
                       "HitConfig": {
                         "HitAnimation": "Hit"
@@ -819,8 +848,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 300647711
+                    "FixedValue": {
+                      "RawValue": 300647711,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -849,8 +879,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 137438953
+                    "FixedValue": {
+                      "RawValue": 137438953,
+                      "Value": 0.03
                     }
                   },
                   "TaskEnabled": true,
@@ -906,8 +937,9 @@
                     "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Moze_00/Eff_Avatar_Moze_00_MazeAttack01_Hit.prefab",
                     "FlyEffectFadeOut": true,
                     "LinearPitchAngle": {
-                      "fixedValue": {
-                        "RawValue": -429496730
+                      "FixedValue": {
+                        "RawValue": -429496730,
+                        "Value": -0.1
                       }
                     },
                     "BoomerangEccentricity": 1.0,
@@ -925,7 +957,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -953,7 +985,7 @@
                       },
                       "AttackRootTargetType": {
                         "$type": "RPG.GameCore.TargetAlias",
-                        "Alias": "ProjectileHitEntity"
+                        "Alias": "ProjectileHitPos"
                       },
                       "TriggerBattle": true,
                       "TriggerBattleDelay": 0.2,
@@ -991,8 +1023,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 300647711
+                    "FixedValue": {
+                      "RawValue": 300647711,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -1009,8 +1042,7 @@
     {
       "Name": "LocalPlayer_Moze_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -1034,8 +1066,10 @@
               },
               "ID": 122302,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Moze_00_Ability.AbilityList.1.OnStart.0.SuccessTaskList.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1049,8 +1083,10 @@
               },
               "ID": 122303,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Moze_00_Ability.AbilityList.1.OnStart.0.SuccessTaskList.1.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1066,8 +1102,10 @@
               },
               "ID": 122302,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Moze_00_Ability.AbilityList.1.OnStart.0.FailedTaskList.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1081,8 +1119,10 @@
               },
               "ID": 122303,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Moze_00_Ability.AbilityList.1.OnStart.0.FailedTaskList.1.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1091,8 +1131,9 @@
             {
               "$type": "RPG.GameCore.WaitSecond",
               "WaitTime": {
-                "fixedValue": {
-                  "RawValue": 429496730
+                "FixedValue": {
+                  "RawValue": 429496730,
+                  "Value": 0.1
                 }
               },
               "MaxAdvencePerTick": -1.0,

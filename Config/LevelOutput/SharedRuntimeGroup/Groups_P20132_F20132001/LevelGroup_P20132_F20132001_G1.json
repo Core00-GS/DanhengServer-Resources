@@ -6,9 +6,16 @@
   "LoadSide": "Server",
   "LoadOnInitial": true,
   "GroupRefreshID": 1,
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Default",
+      "TagHash": 1403890554
+    }
+  ],
   "AnchorList": [
     {
       "Name": "CheckPoint01",
@@ -86,14 +93,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointEnable",
       "OverrideHintRange": -1.0,
@@ -113,7 +120,6 @@
             "magnitude": 4.2426405,
             "sqrMagnitude": 18.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -126,9 +132,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "TriggerCheckPoint01",
       "ID": 300007,
       "PosX": 2.85,
@@ -161,14 +174,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointDisable",
       "OverrideHintRange": -1.0,
@@ -198,7 +211,6 @@
             "magnitude": 3.3761518,
             "sqrMagnitude": 11.3984
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -211,9 +223,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "TriggerCheckPoint02",
       "ID": 300010,
       "PosX": 111.05,
@@ -246,14 +265,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointDisable",
       "OverrideHintRange": -1.0,
@@ -270,7 +289,6 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -283,9 +301,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "TriggerCheckPoint03",
       "ID": 300009,
       "PosX": 34.69,
@@ -318,14 +343,14 @@
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Props/Common/InitLevelGraph_Prop_Common_CheckPoint_ActiveHint.json",
+      "ValueSource": {},
       "Trigger": {
         "Radius": 2.5,
         "Offset": {
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "State": "CheckPointDisable",
       "OverrideHintRange": -1.0,
@@ -343,7 +368,6 @@
             "magnitude": 3.0,
             "sqrMagnitude": 9.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -356,9 +380,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "TriggerCheckPoint04",
       "ID": 300008,
       "PosX": 55.406,
@@ -432,8 +463,7 @@
         "Radius": 1.0,
         "DimX": 13.0,
         "DimY": 8.0,
-        "DimZ": 8.0,
-        "PointList": []
+        "DimZ": 8.0
       },
       "CampID": 4,
       "OverrideSoundRange": -1.0,
@@ -444,9 +474,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop3",
       "RotY": 315.0,
       "ID": 300003,
@@ -479,6 +516,7 @@
       "PropID": 102,
       "LoadOnInitial": true,
       "IsOverrideInitLevelGraph": true,
+      "ValueSource": {},
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -489,9 +527,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop1",
       "RotY": 315.0,
       "ID": 300001,
@@ -524,6 +569,7 @@
       "PropID": 100,
       "IsOverrideInitLevelGraph": true,
       "InitLevelGraph": "Config/Level/Maze/MazeTest/Test_MazeEnvi_AddBuff_20132.json",
+      "ValueSource": {},
       "CampID": 4,
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -534,9 +580,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "EnivBuff",
       "ID": 300006,
       "PosX": -79.43191,
@@ -600,8 +653,7 @@
         "Radius": 1.0,
         "DimX": 3.0,
         "DimY": 4.0,
-        "DimZ": 2.0,
-        "PointList": []
+        "DimZ": 2.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -614,9 +666,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": 99,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Prop2",
       "ID": 300002,
       "PosX": 5.774,
@@ -633,16 +692,23 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
-      "PosX": 297.01,
-      "PosZ": 519.5
+      "PosX": 11.01,
+      "PosY": -2.18,
+      "PosZ": -11.5
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 408021893120
+            "FixedValue": {
+              "RawValue": 408021893120,
+              "Value": 95.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TaskEnabled": true,
@@ -21,13 +23,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 408021893120
+            "FixedValue": {
+              "RawValue": 408021893120,
+              "Value": 95.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "TaskEnabled": true,
@@ -44,13 +48,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 408021893120
+                "FixedValue": {
+                  "RawValue": 408021893120,
+                  "Value": 95.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -110,18 +116,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 86810759455047680
+            "FixedValue": {
+              "RawValue": 86810759455047680,
+              "Value": 20212205.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -138,26 +147,30 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 408021893120
+                  "FixedValue": {
+                    "RawValue": 408021893120,
+                    "Value": 95.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288507368669184
+                  "FixedValue": {
+                    "RawValue": 1288507368669184,
+                    "Value": 300004.0
                   }
                 }
               }
             ]
           },
           "TargetGroupID": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "TargetID": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "TargetTypes": [],
@@ -170,17 +183,20 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 579820584960
+                    "FixedValue": {
+                      "RawValue": 579820584960,
+                      "Value": 135.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288494483767296
+                    "FixedValue": {
+                      "RawValue": 1288494483767296,
+                      "Value": 300001.0
                     }
                   }
                 }
               },
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

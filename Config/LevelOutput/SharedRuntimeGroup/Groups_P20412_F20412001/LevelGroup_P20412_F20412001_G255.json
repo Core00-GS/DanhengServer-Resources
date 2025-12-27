@@ -1,6 +1,7 @@
 {
   "GroupName": "Find",
   "Category": "Atmosphere",
+  "LevelGraph": "Config/Level/GroupGraph/F20412001/Group_F20412001_G255.json",
   "AreaAnchorName": "LevelArea_P20412_F20412001_G255",
   "SaveType": "Reset",
   "AtmosphereCondition": {
@@ -16,7 +17,6 @@
   "ValueSource": {},
   "ConflictIDList": [],
   "IsHoyoGroup": true,
-  "HoYoGroupType": "Container",
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
@@ -52,7 +52,6 @@
         "sqrMagnitude": 3.0
       },
       "PropID": 100,
-      "LoadOnInitial": true,
       "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
@@ -71,8 +70,7 @@
           },
           "magnitude": 3.14331031,
           "sqrMagnitude": 9.8804
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -90,7 +88,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -99,6 +99,7 @@
       },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

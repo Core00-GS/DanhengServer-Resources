@@ -43,6 +43,7 @@
       "TakeParamIntList": [
         412210101
       ],
+      "TakeParamStrList": [],
       "MazePlaneID": 41221,
       "MazeFloorID": 41221002,
       "FinishType": "KillMonsterList",
@@ -55,17 +56,21 @@
       ],
       "ParamItemList": [],
       "FinishActionList": [],
-      "Progress": 1,
+      "Progress": 3,
+      "CustomValueList": [],
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "WayPointType": "Monster",
+      "GotoParam": [],
       "WayPointFloorID": 41221002,
       "WayPointGroupID": 12,
       "WayPointEntityID": 200002,
       "WayPointShowRangeMin": 50,
-      "MapWaypointRange": 15.0
+      "MapWaypointRange": 15.0,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 412210103,

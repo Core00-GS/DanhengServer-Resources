@@ -22,13 +22,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 51539607552
+                "FixedValue": {
+                  "RawValue": 51539607552,
+                  "Value": 12.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -40,6 +42,7 @@
           "OnTriggerEnter": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -113,13 +116,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288601857949696
+            "FixedValue": {
+              "RawValue": 1288601857949696,
+              "Value": 300026.0
             }
           },
           "TaskEnabled": true,
@@ -128,13 +133,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288606152916992
+            "FixedValue": {
+              "RawValue": 1288606152916992,
+              "Value": 300027.0
             }
           },
           "TaskEnabled": true,
@@ -143,13 +150,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288631922720768
+            "FixedValue": {
+              "RawValue": 1288631922720768,
+              "Value": 300033.0
             }
           },
           "TaskEnabled": true,
@@ -158,13 +167,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288674872393728
+            "FixedValue": {
+              "RawValue": 1288674872393728,
+              "Value": 300043.0
             }
           },
           "TaskEnabled": true,
@@ -190,13 +201,15 @@
                 "$type": "RPG.GameCore.TargetFetchAdvPropEx"
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288606152916992
+                "FixedValue": {
+                  "RawValue": 1288606152916992,
+                  "Value": 300027.0
                 }
               },
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 51539607552
+                "FixedValue": {
+                  "RawValue": 51539607552,
+                  "Value": 12.0
                 }
               },
               "TaskEnabled": true,
@@ -208,13 +221,15 @@
                 "$type": "RPG.GameCore.TargetFetchAdvPropEx"
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288631922720768
+                "FixedValue": {
+                  "RawValue": 1288631922720768,
+                  "Value": 300033.0
                 }
               },
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 51539607552
+                "FixedValue": {
+                  "RawValue": 51539607552,
+                  "Value": 12.0
                 }
               },
               "TaskEnabled": true,
@@ -226,13 +241,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 51539607552
+                "FixedValue": {
+                  "RawValue": 51539607552,
+                  "Value": 12.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288601857949696
+                "FixedValue": {
+                  "RawValue": 1288601857949696,
+                  "Value": 300026.0
                 }
               }
             }
@@ -248,13 +265,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288558908276736
+            "FixedValue": {
+              "RawValue": 1288558908276736,
+              "Value": 300016.0
             }
           },
           "TaskEnabled": true,
@@ -263,7 +282,9 @@
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "DisableWhenTriggered": true,
-          "IconType": "Default",
+          "IconType": {
+            "JsonValueStr": "Default"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -284,13 +305,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 51539607552
+                "FixedValue": {
+                  "RawValue": 51539607552,
+                  "Value": 12.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288558908276736
+                "FixedValue": {
+                  "RawValue": 1288558908276736,
+                  "Value": 300016.0
                 }
               }
             }
@@ -324,13 +347,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288558908276736
+            "FixedValue": {
+              "RawValue": 1288558908276736,
+              "Value": 300016.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "TaskEnabled": true,
@@ -342,13 +367,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288674872393728
+            "FixedValue": {
+              "RawValue": 1288674872393728,
+              "Value": 300043.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 51539607552
+            "FixedValue": {
+              "RawValue": 51539607552,
+              "Value": 12.0
             }
           },
           "TaskEnabled": true,

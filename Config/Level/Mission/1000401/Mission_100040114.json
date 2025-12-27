@@ -6,8 +6,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 257698037760
+            "FixedValue": {
+              "RawValue": 257698037760,
+              "Value": 60.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -21,13 +22,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 17179869184
+                "FixedValue": {
+                  "RawValue": 17179869184,
+                  "Value": 4.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288554613309440
+                "FixedValue": {
+                  "RawValue": 1288554613309440,
+                  "Value": 300015.0
                 }
               }
             }
@@ -35,6 +38,7 @@
           "Execute": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -57,13 +61,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288533138472960
+            "FixedValue": {
+              "RawValue": 1288533138472960,
+              "Value": 300010.0
             }
           },
           "TaskEnabled": true,
@@ -76,13 +82,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288520253571072
+            "FixedValue": {
+              "RawValue": 1288520253571072,
+              "Value": 300007.0
             }
           },
           "TaskEnabled": true,

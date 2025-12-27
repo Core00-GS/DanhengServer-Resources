@@ -82,6 +82,7 @@
     "LocalPlayer_Robin_MazeSkill",
     "LocalPlayer_CommonAbility_AttackBreak"
   ],
+  "DynamicValues": {},
   "BeHitRotate": true,
   "EnableFootIK": true,
   "EnableIdleShow": true,
@@ -97,5 +98,6 @@
     "FeatherEffect"
   ],
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

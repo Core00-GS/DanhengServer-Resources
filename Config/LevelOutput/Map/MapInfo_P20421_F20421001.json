@@ -1982,16 +1982,16 @@
             "sqrMagnitude": 59492.3477
           },
           {
-            "x": 166.1667,
-            "y": 250.3333,
+            "x": 180.8333,
+            "y": 253.5,
             "normalized": {
-              "x": 0.55303514,
-              "y": 0.833157957,
+              "x": 0.58073175,
+              "y": 0.814095,
               "magnitude": 1.0,
-              "sqrMagnitude": 1.0
+              "sqrMagnitude": 1.00000012
             },
-            "magnitude": 300.4632,
-            "sqrMagnitude": 90278.13
+            "magnitude": 311.3887,
+            "sqrMagnitude": 96962.93
           },
           {
             "x": 146.1667,
@@ -7734,15 +7734,15 @@
             ],
             "UIPosition": {
               "x": 987.0,
-              "y": 1757.0,
+              "y": 1766.5,
               "normalized": {
-                "x": 0.489766419,
-                "y": 0.8718537,
+                "x": 0.487760454,
+                "y": 0.872977555,
                 "magnitude": 1.0,
                 "sqrMagnitude": 1.0
               },
-              "magnitude": 2015.24634,
-              "sqrMagnitude": 4061218.0
+              "magnitude": 2023.5343,
+              "sqrMagnitude": 4094691.25
             },
             "InitialHidden": true,
             "Triangles": [
@@ -7759,16 +7759,16 @@
                 "sqrMagnitude": 1.58868277
               },
               {
-                "x": 0.948291,
-                "y": 0.87326,
+                "x": 0.98786,
+                "y": 0.877982,
                 "normalized": {
-                  "x": 0.735609233,
-                  "y": 0.677406132,
+                  "x": 0.747452855,
+                  "y": 0.6643149,
                   "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
+                  "sqrMagnitude": 1.00000012
                 },
-                "magnitude": 1.2891233,
-                "sqrMagnitude": 1.66183889
+                "magnitude": 1.32163525,
+                "sqrMagnitude": 1.74671984
               },
               {
                 "x": 0.947842,
@@ -7911,16 +7911,16 @@
                 "sqrMagnitude": 1.54565883
               },
               {
-                "x": 0.948291,
-                "y": 0.87326,
+                "x": 0.98786,
+                "y": 0.877982,
                 "normalized": {
-                  "x": 0.735609233,
-                  "y": 0.677406132,
+                  "x": 0.747452855,
+                  "y": 0.6643149,
                   "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
+                  "sqrMagnitude": 1.00000012
                 },
-                "magnitude": 1.2891233,
-                "sqrMagnitude": 1.66183889
+                "magnitude": 1.32163525,
+                "sqrMagnitude": 1.74671984
               }
             ]
           },
@@ -13772,7 +13772,27 @@
         3,
         4,
         5
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 2,
@@ -14249,7 +14269,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 3,
@@ -14698,7 +14738,27 @@
       ],
       "MapLayerList": [
         4
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap04_MAZ_A201_Background.png",
@@ -14736,5 +14796,25 @@
       "AreaID": 3,
       "DefaultLayer": 4
     }
-  ]
+  ],
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

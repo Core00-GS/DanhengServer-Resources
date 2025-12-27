@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Robin_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -153,7 +153,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -186,7 +186,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -221,8 +221,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 279172873
+                "FixedValue": {
+                  "RawValue": 279172873,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -268,8 +269,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 279172873
+                "FixedValue": {
+                  "RawValue": 279172873,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -337,7 +339,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -370,7 +372,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -405,8 +407,7 @@
     {
       "Name": "LocalPlayer_Robin_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -430,8 +431,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 498216205
+            "FixedValue": {
+              "RawValue": 498216205,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -445,8 +447,10 @@
           },
           "ID": 130902,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Robin_00_Ability.AbilityList.1.OnStart.2.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -463,5 +467,195 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Robin_Self": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.CreateSummonUnit",
+          "Summoner": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "SummonUnitID": 13091,
+          "AttachTarget": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AdvLocalPlayer"
+          },
+          "PosTarget": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "Distance": {},
+          "OffsetX": {},
+          "OffsetY": {},
+          "YawAngle": {},
+          "Duration": {
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.RefreshMazeBuffTime",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AllEnemy"
+          },
+          "ID": 130901,
+          "LifeTime": {
+            "FixedValue": {
+              "RawValue": 6442450946,
+              "Value": 1.5
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.DestroySummonUnit",
+          "SummonUnit": {
+            "$type": "RPG.GameCore.TargetFetchSummonUnit",
+            "Summoner": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "ModifierOwnerEntity"
+            },
+            "SummonUnitID": 13091
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Robin_Enemy_ForShow": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Enchanted"
+      ],
+      "TickInterval": 1.0,
+      "OnCreate": [],
+      "OnDestroy": [],
+      "OnStage": [],
+      "OnUnstage": [],
+      "Count": 1,
+      "Stacking": "Refresh"
+    },
+    "ADV_StageAbility_Maze_Robin_Enemy": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Robin_00/Eff_Avatar_Robin_00_MazeSkill01_Start02.prefab",
+          "AttachPoint": "HeadPoint",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.AddDynamicEntityParam",
+          "DynamicKey": "_Robin_Taunt_Count",
+          "ReadTargetType": {
+            "$type": "RPG.GameCore.TargetFetchSummonUnit",
+            "Summoner": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "SummonUnitID": 13091
+          },
+          "ParamTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TaskEnabled": true
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByCompareTargetCount",
+            "TargetType": {
+              "$type": "RPG.GameCore.TargetSequence",
+              "Sequence": [
+                {
+                  "$type": "RPG.GameCore.TargetFetchSummonUnit",
+                  "Summoner": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "Caster"
+                  },
+                  "SummonUnitID": 13091
+                },
+                {
+                  "$type": "RPG.GameCore.TargetMapDynamicEntityParam",
+                  "DynamicKey": "_Robin_Taunt_Count"
+                }
+              ]
+            },
+            "Number": {
+              "FixedValue": {
+                "RawValue": 25769803776,
+                "Value": 6.0
+              }
+            },
+            "CompareType": "GreaterEqual",
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.SetAdvAchievement",
+              "QuestID": 4073208,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.RemoveDynamicEntityParam",
+          "DynamicKey": "_Robin_Taunt_Count",
+          "ReadTargetType": {
+            "$type": "RPG.GameCore.TargetFetchSummonUnit",
+            "Summoner": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "SummonUnitID": 13091
+          },
+          "ParamTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    }
+  }
 }

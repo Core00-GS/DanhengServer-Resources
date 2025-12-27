@@ -36,16 +36,18 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
     {
       "$type": "RPG.GameCore.WaitSecond",
       "WaitTime": {
-        "fixedValue": {
-          "RawValue": 2430951490
+        "FixedValue": {
+          "RawValue": 2430951490,
+          "Value": 0.57
         }
       },
       "MaxAdvencePerTick": -1.0,
@@ -72,8 +74,9 @@
       {
         "TriggerName": "AddDebuffOnEnemyTrigger",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 25769803776
+          "FixedValue": {
+            "RawValue": 25769803776,
+            "Value": 6.0
           }
         },
         "UseVerticalBound": true,
@@ -113,8 +116,9 @@
       {
         "TriggerName": "HitPropTrigger",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 25769803776
+          "FixedValue": {
+            "RawValue": 25769803776,
+            "Value": 6.0
           }
         },
         "UseVerticalBound": true,

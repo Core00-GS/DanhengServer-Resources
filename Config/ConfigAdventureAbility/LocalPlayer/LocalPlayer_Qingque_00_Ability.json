@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Qingque_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 68719475
+                "FixedValue": {
+                  "RawValue": 68719475,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -177,8 +177,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Qingque_00/Eff_Avatar_Qingque_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 429496730
+                  "FixedValue": {
+                    "RawValue": 429496730,
+                    "Value": 0.1
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -196,7 +197,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -229,7 +230,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -279,8 +280,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 68719475
+                "FixedValue": {
+                  "RawValue": 68719475,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -343,8 +345,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Qingque_00/Eff_Avatar_Qingque_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": -4294967296
+                  "FixedValue": {
+                    "RawValue": -4294967296,
+                    "Value": -1.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -362,7 +365,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -395,7 +398,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -430,8 +433,7 @@
     {
       "Name": "LocalPlayer_Qingque_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -455,8 +457,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 365072219
+            "FixedValue": {
+              "RawValue": 365072219,
+              "Value": 0.08
             }
           },
           "TaskEnabled": true,
@@ -478,8 +481,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "TaskEnabled": true,
@@ -493,8 +497,9 @@
           },
           "ID": 120101,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -511,5 +516,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Qingque": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

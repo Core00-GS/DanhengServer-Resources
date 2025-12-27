@@ -1,5 +1,16 @@
 [
   {
+    "BuffSlotIDList": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "ChapterIDList": [
+      1,
+      2,
+      3
+    ],
     "BattleIDList": [
       1,
       2,
@@ -33,18 +44,7 @@
       23,
       24
     ],
-    "ChapterIDList": [
-      1,
-      2,
-      3
-    ],
-    "BuffSlotIDList": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "ActivityModuleID": 4000208,
-    "FantasticStoryID": 1
+    "FantasticStoryID": 1,
+    "ActivityModuleID": 4000208
   }
 ]

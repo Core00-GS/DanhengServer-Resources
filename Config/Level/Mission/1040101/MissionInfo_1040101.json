@@ -20,10 +20,11 @@
       "LevelFloorID": 10000000,
       "IsCanDelete": true,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        1,
-        1,
-        104010128
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_1",
+        "1",
+        "104010128"
       ],
       "FinishType": "MessageSectionFinish",
       "ParamType": "Equal",
@@ -905,7 +906,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        1
+        "OldValue_1"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -1240,6 +1241,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -1248,6 +1251,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1

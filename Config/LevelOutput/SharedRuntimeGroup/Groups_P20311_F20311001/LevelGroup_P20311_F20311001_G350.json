@@ -14,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Audio.BGM",
+      "TagHash": -136549387
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -171,8 +176,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -209,8 +213,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -247,8 +250,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -285,8 +287,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -323,8 +324,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -361,8 +361,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -794,8 +793,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -943,8 +941,7 @@
         "Radius": 1.0,
         "DimX": 9.6,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -981,8 +978,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1428,8 +1424,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1466,8 +1461,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1504,8 +1498,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1542,8 +1535,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "SoundUsage": "BGMEmotion",
@@ -1583,8 +1575,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1732,8 +1723,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1770,8 +1760,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1816,8 +1805,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1861,8 +1849,7 @@
         "Radius": 1.0,
         "DimX": 46.0,
         "DimY": 24.0,
-        "DimZ": 36.0,
-        "PointList": []
+        "DimZ": 36.0
       },
       "LoadOnInitial": true,
       "SoundUsage": "BGMEmotion",
@@ -2045,8 +2032,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -2083,8 +2069,7 @@
         "Radius": 1.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -2207,5 +2192,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

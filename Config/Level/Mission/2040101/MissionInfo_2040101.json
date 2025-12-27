@@ -120,6 +120,7 @@
       "TakeParamIntList": [
         204010102
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -131,11 +132,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            9,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_9",
+            "1"
+          ]
         }
       ],
       "Progress": 3,
@@ -312,6 +313,7 @@
       "TakeParamIntList": [
         204010109
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -356,10 +358,11 @@
       "LevelPlaneID": 20412,
       "LevelFloorID": 20412001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        2,
-        1,
-        204010110
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_2",
+        "1",
+        "204010110"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -466,10 +469,11 @@
       "LevelPlaneID": 10401,
       "LevelFloorID": 10401001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        3,
-        1,
-        204010113
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_3",
+        "1",
+        "204010113"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -499,10 +503,11 @@
       "LevelPlaneID": 10401,
       "LevelFloorID": 10401001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        3,
-        2,
-        204010113
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_3",
+        "2",
+        "204010113"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -532,13 +537,14 @@
       "LevelPlaneID": 10401,
       "LevelFloorID": 10401001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        4,
-        1,
-        204010114,
-        4,
-        1,
-        204010115
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_4",
+        "1",
+        "204010114",
+        "OldValue_4",
+        "1",
+        "204010115"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -548,11 +554,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            5,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_5",
+            "1"
+          ]
         }
       ],
       "Progress": 1,
@@ -577,13 +583,14 @@
       "LevelPlaneID": 10401,
       "LevelFloorID": 10401001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        4,
-        2,
-        204010114,
-        4,
-        2,
-        204010115
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_4",
+        "2",
+        "204010114",
+        "OldValue_4",
+        "2",
+        "204010115"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -593,11 +600,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            5,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_5",
+            "1"
+          ]
         }
       ],
       "Progress": 1,
@@ -622,16 +629,17 @@
       "LevelPlaneID": 10401,
       "LevelFloorID": 10401001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        5,
-        1,
-        204010113,
-        5,
-        1,
-        204010116,
-        5,
-        1,
-        204010117
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_5",
+        "1",
+        "204010113",
+        "OldValue_5",
+        "1",
+        "204010116",
+        "OldValue_5",
+        "1",
+        "204010117"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -666,6 +674,7 @@
       "TakeParamIntList": [
         204010109
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -776,11 +785,11 @@
         },
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            2,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_2",
+            "1"
+          ]
         },
         {
           "FinishActionType": "addRecoverMissionItem",
@@ -835,11 +844,11 @@
         },
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            2,
-            2
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_2",
+            "2"
+          ]
         },
         {
           "FinishActionType": "addRecoverMissionItem",
@@ -894,11 +903,11 @@
         },
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            2,
-            3
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_2",
+            "3"
+          ]
         },
         {
           "FinishActionType": "addRecoverMissionItem",
@@ -930,10 +939,11 @@
       "LevelPlaneID": 20412,
       "LevelFloorID": 20412001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        2,
-        2,
-        204010110
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_2",
+        "2",
+        "204010110"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -967,10 +977,11 @@
       "LevelPlaneID": 20412,
       "LevelFloorID": 20412001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        2,
-        3,
-        204010110
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_2",
+        "3",
+        "204010110"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -1025,6 +1036,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -1033,6 +1046,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -1041,6 +1056,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -1049,6 +1066,8 @@
     },
     {
       "Index": 3,
+      "Name": "OldValue_3",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -1057,6 +1076,8 @@
     },
     {
       "Index": 4,
+      "Name": "OldValue_4",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -1064,6 +1085,8 @@
     },
     {
       "Index": 5,
+      "Name": "OldValue_5",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1
@@ -1071,21 +1094,29 @@
     },
     {
       "Index": 6,
+      "Name": "OldValue_6",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": []
     },
     {
       "Index": 7,
+      "Name": "OldValue_7",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": []
     },
     {
       "Index": 8,
+      "Name": "OldValue_8",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": []
     },
     {
       "Index": 9,
+      "Name": "OldValue_9",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1
@@ -1093,11 +1124,15 @@
     },
     {
       "Index": 10,
+      "Name": "OldValue_10",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": []
     },
     {
       "Index": 11,
+      "Name": "OldValue_11",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": []
     }

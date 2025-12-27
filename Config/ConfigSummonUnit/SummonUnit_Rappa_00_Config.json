@@ -5,8 +5,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -23,8 +24,9 @@
     {
       "$type": "RPG.GameCore.WaitSecond",
       "WaitTime": {
-        "fixedValue": {
-          "RawValue": 83751862274
+        "FixedValue": {
+          "RawValue": 83751862274,
+          "Value": 19.5
         }
       },
       "MaxAdvencePerTick": -1.0,
@@ -71,8 +73,9 @@
         "TriggerName": "HitNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 9019431322
+          "FixedValue": {
+            "RawValue": 9019431322,
+            "Value": 2.1
           }
         },
         "UseVerticalBound": true,
@@ -105,8 +108,9 @@
         "TriggerName": "HitNPCTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 9019431322
+          "FixedValue": {
+            "RawValue": 9019431322,
+            "Value": 2.1
           }
         },
         "UseVerticalBound": true,
@@ -149,8 +153,9 @@
         "TriggerName": "HitPropTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 9019431322
+          "FixedValue": {
+            "RawValue": 9019431322,
+            "Value": 2.1
           }
         },
         "UseVerticalBound": true,

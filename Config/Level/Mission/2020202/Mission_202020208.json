@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 382252089344
+            "FixedValue": {
+              "RawValue": 382252089344,
+              "Value": 89.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [],
@@ -22,13 +24,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 446676598784
+            "FixedValue": {
+              "RawValue": 446676598784,
+              "Value": 104.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "CreateList": [],
@@ -46,13 +50,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 382252089344
+                "FixedValue": {
+                  "RawValue": 382252089344,
+                  "Value": 89.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -107,20 +113,23 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 446676598784
+                "FixedValue": {
+                  "RawValue": 446676598784,
+                  "Value": 104.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288503073701888
+                "FixedValue": {
+                  "RawValue": 1288503073701888,
+                  "Value": 300003.0
                 }
               }
             }
           },
           "InteractID": {
-            "fixedValue": {
-              "RawValue": 5153960755200
+            "FixedValue": {
+              "RawValue": 5153960755200,
+              "Value": 1200.0
             }
           },
           "TaskEnabled": true,

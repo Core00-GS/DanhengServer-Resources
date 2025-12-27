@@ -9,11 +9,12 @@
       10106
     ],
     "ChoiceIDList": [],
-    "ID": 101,
     "DiaryDescription": {
       "Hash": -1341164617,
       "Hash64": 2014329979317590681
-    }
+    },
+    "RewardID": 0,
+    "ID": 101
   },
   {
     "TextIDList": [
@@ -22,11 +23,12 @@
       10203
     ],
     "ChoiceIDList": [],
-    "ID": 102,
     "DiaryDescription": {
       "Hash": -1341164620,
       "Hash64": 1773919061246500195
-    }
+    },
+    "RewardID": 0,
+    "ID": 102
   },
   {
     "TextIDList": [],
@@ -35,11 +37,12 @@
       101,
       102
     ],
-    "ID": 1,
     "DiaryDescription": {
       "Hash": -279352682,
       "Hash64": 17628033794541961294
-    }
+    },
+    "RewardID": 0,
+    "ID": 1
   },
   {
     "TextIDList": [],
@@ -48,11 +51,12 @@
       201,
       202
     ],
-    "ID": 2,
     "DiaryDescription": {
       "Hash": -279352683,
       "Hash64": 18308113256788528245
-    }
+    },
+    "RewardID": 0,
+    "ID": 2
   },
   {
     "TextIDList": [],
@@ -61,11 +65,12 @@
       301,
       302
     ],
-    "ID": 3,
     "DiaryDescription": {
       "Hash": -279352684,
       "Hash64": 17544443313460508743
-    }
+    },
+    "RewardID": 0,
+    "ID": 3
   },
   {
     "TextIDList": [],
@@ -74,11 +79,12 @@
       401,
       402
     ],
-    "ID": 4,
     "DiaryDescription": {
       "Hash": -279352685,
       "Hash64": 121240301404643965
-    }
+    },
+    "RewardID": 0,
+    "ID": 4
   },
   {
     "TextIDList": [],
@@ -87,11 +93,12 @@
       501,
       502
     ],
-    "ID": 5,
     "DiaryDescription": {
       "Hash": -279352686,
       "Hash64": 17077138364363002995
-    }
+    },
+    "RewardID": 0,
+    "ID": 5
   },
   {
     "TextIDList": [],
@@ -100,11 +107,12 @@
       601,
       602
     ],
-    "ID": 6,
     "DiaryDescription": {
       "Hash": -279352687,
       "Hash64": 12766088783770866681
-    }
+    },
+    "RewardID": 0,
+    "ID": 6
   },
   {
     "TextIDList": [],
@@ -113,11 +121,12 @@
       701,
       702
     ],
-    "ID": 7,
     "DiaryDescription": {
       "Hash": -279352688,
       "Hash64": 5274710423695691064
-    }
+    },
+    "RewardID": 0,
+    "ID": 7
   },
   {
     "TextIDList": [],
@@ -126,11 +135,12 @@
       801,
       802
     ],
-    "ID": 8,
     "DiaryDescription": {
       "Hash": -279352689,
       "Hash64": 2578836472999739685
-    }
+    },
+    "RewardID": 0,
+    "ID": 8
   },
   {
     "TextIDList": [],
@@ -139,11 +149,12 @@
       1001,
       1002
     ],
-    "ID": 10,
     "DiaryDescription": {
       "Hash": -1684850714,
       "Hash64": 15479368083545563755
-    }
+    },
+    "RewardID": 0,
+    "ID": 10
   },
   {
     "TextIDList": [],
@@ -152,11 +163,12 @@
       1101,
       1102
     ],
-    "ID": 11,
     "DiaryDescription": {
       "Hash": -118766773,
       "Hash64": 16497079532960379507
-    }
+    },
+    "RewardID": 0,
+    "ID": 11
   },
   {
     "TextIDList": [],
@@ -165,11 +177,12 @@
       1201,
       1202
     ],
-    "ID": 12,
     "DiaryDescription": {
       "Hash": 1447317168,
       "Hash64": 11580396147738111048
-    }
+    },
+    "RewardID": 0,
+    "ID": 12
   },
   {
     "TextIDList": [],
@@ -178,11 +191,12 @@
       1301,
       1302
     ],
-    "ID": 13,
     "DiaryDescription": {
       "Hash": -1281566187,
       "Hash64": 2940300883141922084
-    }
+    },
+    "RewardID": 0,
+    "ID": 13
   },
   {
     "TextIDList": [],
@@ -191,11 +205,12 @@
       1401,
       1402
     ],
-    "ID": 14,
     "DiaryDescription": {
       "Hash": 284517754,
       "Hash64": 4180949587293831140
-    }
+    },
+    "RewardID": 0,
+    "ID": 14
   },
   {
     "TextIDList": [],
@@ -204,11 +219,12 @@
       1501,
       1502
     ],
-    "ID": 15,
     "DiaryDescription": {
       "Hash": 1850601695,
       "Hash64": 5706123108946464836
-    }
+    },
+    "RewardID": 0,
+    "ID": 15
   },
   {
     "TextIDList": [],
@@ -217,11 +233,12 @@
       1601,
       1602
     ],
-    "ID": 16,
     "DiaryDescription": {
       "Hash": -878281660,
       "Hash64": 11941511961656866306
-    }
+    },
+    "RewardID": 0,
+    "ID": 16
   },
   {
     "TextIDList": [],
@@ -229,10 +246,11 @@
       1700,
       1701
     ],
-    "ID": 17,
     "DiaryDescription": {
       "Hash": 687802281,
       "Hash64": 6332096557900836630
-    }
+    },
+    "RewardID": 0,
+    "ID": 17
   }
 ]

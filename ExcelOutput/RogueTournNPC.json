@@ -388,6 +388,10 @@
     "RogueNPCID": 611301
   },
   {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_310/RogueNPC611401.json",
+    "RogueNPCID": 611401
+  },
+  {
     "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_310/RogueNPC611501.json",
     "RogueNPCID": 611501
   },
@@ -686,5 +690,69 @@
   {
     "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_310/RogueNPC626101.json",
     "RogueNPCID": 626101
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626201.json",
+    "RogueNPCID": 626201
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626301.json",
+    "RogueNPCID": 626301
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626401.json",
+    "RogueNPCID": 626401
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626501.json",
+    "RogueNPCID": 626501
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626601.json",
+    "RogueNPCID": 626601
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626701.json",
+    "RogueNPCID": 626701
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626801.json",
+    "RogueNPCID": 626801
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC626901.json",
+    "RogueNPCID": 626901
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_330/RogueNPC627001.json",
+    "RogueNPCID": 627001
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627101.json",
+    "RogueNPCID": 627101
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627201.json",
+    "RogueNPCID": 627201
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627301.json",
+    "RogueNPCID": 627301
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627401.json",
+    "RogueNPCID": 627401
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627501.json",
+    "RogueNPCID": 627501
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627601.json",
+    "RogueNPCID": 627601
+  },
+  {
+    "NPCJsonPath": "Config/Level/Rogue/RogueNPC/RogueNPC_380/RogueNPC627701.json",
+    "RogueNPCID": 627701
   }
 ]

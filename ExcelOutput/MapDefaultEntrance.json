@@ -184,6 +184,22 @@
     "EntranceID": 1040201
   },
   {
+    "FloorID": 10403001,
+    "EntranceID": 1040301
+  },
+  {
+    "FloorID": 10404001,
+    "EntranceID": 1040401
+  },
+  {
+    "FloorID": 10441001,
+    "EntranceID": 1044101
+  },
+  {
+    "FloorID": 10405001,
+    "EntranceID": 1040501
+  },
+  {
     "FloorID": 20412001,
     "EntranceID": 2041201
   },
@@ -202,6 +218,46 @@
   {
     "FloorID": 20422001,
     "EntranceID": 2042201
+  },
+  {
+    "FloorID": 20423001,
+    "EntranceID": 2042301
+  },
+  {
+    "FloorID": 20431001,
+    "EntranceID": 2043101
+  },
+  {
+    "FloorID": 20432001,
+    "EntranceID": 2043201
+  },
+  {
+    "FloorID": 20433001,
+    "EntranceID": 2043301
+  },
+  {
+    "FloorID": 20451001,
+    "EntranceID": 2045101
+  },
+  {
+    "FloorID": 20461001,
+    "EntranceID": 2046101
+  },
+  {
+    "FloorID": 20462001,
+    "EntranceID": 2046201
+  },
+  {
+    "FloorID": 20481001,
+    "EntranceID": 2048101
+  },
+  {
+    "FloorID": 20482001,
+    "EntranceID": 2048201
+  },
+  {
+    "FloorID": 10307001,
+    "EntranceID": 1030701
   },
   {
     "FloorID": 10101009,
@@ -322,5 +378,17 @@
   {
     "FloorID": 41401018,
     "EntranceID": 41401018
+  },
+  {
+    "FloorID": 20424001,
+    "EntranceID": 2042401
+  },
+  {
+    "FloorID": 10308001,
+    "EntranceID": 1030801
+  },
+  {
+    "FloorID": 20452001,
+    "EntranceID": 2045201
   }
 ]

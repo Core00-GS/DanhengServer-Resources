@@ -7,7 +7,9 @@
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "ColliderRelativePath": "Trigger",
           "ButtonIcon": "SpriteOutput/TalkIcon/ChatIcon.png",
-          "IconType": "ChatLoopIcon",
+          "IconType": {
+            "JsonValueStr": "ChatLoopIcon"
+          },
           "ButtonText": {
             "Hash": -691591338,
             "Hash64": 4901613590055454325
@@ -20,13 +22,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 25769803776
+                    "FixedValue": {
+                      "RawValue": 25769803776,
+                      "Value": 6.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288528843505664
+                    "FixedValue": {
+                      "RawValue": 1288528843505664,
+                      "Value": 300009.0
                     }
                   }
                 }
@@ -40,13 +44,15 @@
                     "FetchType": "SinglePropByPropID",
                     "SinglePropID": {
                       "GroupID": {
-                        "fixedValue": {
-                          "RawValue": 25769803776
+                        "FixedValue": {
+                          "RawValue": 25769803776,
+                          "Value": 6.0
                         }
                       },
                       "ID": {
-                        "fixedValue": {
-                          "RawValue": 1288528843505664
+                        "FixedValue": {
+                          "RawValue": 1288528843505664,
+                          "Value": 300009.0
                         }
                       }
                     }
@@ -74,13 +80,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288528843505664
+                "FixedValue": {
+                  "RawValue": 1288528843505664,
+                  "Value": 300009.0
                 }
               }
             }
@@ -128,13 +136,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288528843505664
+                "FixedValue": {
+                  "RawValue": 1288528843505664,
+                  "Value": 300009.0
                 }
               }
             }
@@ -154,20 +164,23 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 25769803776
+                "FixedValue": {
+                  "RawValue": 25769803776,
+                  "Value": 6.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288528843505664
+                "FixedValue": {
+                  "RawValue": 1288528843505664,
+                  "Value": 300009.0
                 }
               }
             }
           },
           "InteractID": {
-            "fixedValue": {
-              "RawValue": 5153960755200
+            "FixedValue": {
+              "RawValue": 5153960755200,
+              "Value": 1200.0
             }
           },
           "TaskEnabled": true,

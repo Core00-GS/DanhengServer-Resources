@@ -433,8 +433,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "RevivedSPRatio": {},
@@ -460,8 +461,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1717986920
+            "FixedValue": {
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           "ModifyFunction": "Add",
@@ -487,8 +489,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -1315,8 +1318,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -1469,7 +1473,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612021": {
       "LifeTime": -1.0,
@@ -1655,7 +1660,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612051": {
       "LifeTime": -1.0,
@@ -1741,7 +1747,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612121": {
       "LifeTime": -1.0,
@@ -1927,7 +1934,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612151": {
       "LifeTime": -1.0,
@@ -2013,7 +2021,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612221": {
       "LifeTime": -1.0,
@@ -2199,7 +2208,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612251": {
       "LifeTime": -1.0,
@@ -2285,7 +2295,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612321": {
       "LifeTime": -1.0,
@@ -2471,7 +2482,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612351": {
       "LifeTime": -1.0,
@@ -2557,7 +2569,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612421": {
       "LifeTime": -1.0,
@@ -2643,7 +2656,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612521": {
       "LifeTime": -1.0,
@@ -2729,7 +2743,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612621": {
       "LifeTime": -1.0,
@@ -2915,7 +2930,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612651": {
       "LifeTime": -1.0,
@@ -3101,7 +3117,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612451": {
       "LifeTime": -1.0,
@@ -3287,7 +3304,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612551": {
       "LifeTime": -1.0,
@@ -3698,8 +3716,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "SpecifyTargetType": {
@@ -3734,8 +3753,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -3750,8 +3770,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -3784,7 +3805,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_631005": {
       "LifeTime": -1.0,
@@ -3800,7 +3822,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_631006": {
       "LifeTime": -1.0,
@@ -3816,7 +3839,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_631007": {
       "LifeTime": -1.0,
@@ -3849,8 +3873,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -4090,8 +4115,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -4105,8 +4131,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 5153960756
+            "FixedValue": {
+              "RawValue": 5153960756,
+              "Value": 1.2
             }
           },
           "TaskEnabled": true,
@@ -4146,7 +4173,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_631028": {
       "LifeTime": -1.0,
@@ -4202,7 +4230,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650002": {
       "LifeTime": -1.0,
@@ -4212,7 +4241,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650003": {
       "LifeTime": -1.0,
@@ -4222,7 +4252,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650004": {
       "LifeTime": -1.0,
@@ -4232,7 +4263,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650005": {
       "LifeTime": -1.0,
@@ -4242,7 +4274,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650006": {
       "LifeTime": -1.0,
@@ -4252,7 +4285,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650007": {
       "LifeTime": -1.0,
@@ -4262,7 +4296,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650008": {
       "LifeTime": -1.0,
@@ -4272,7 +4307,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650009": {
       "LifeTime": -1.0,
@@ -4282,7 +4318,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_650010": {
       "LifeTime": -1.0,
@@ -4292,7 +4329,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_3991101": {
       "LifeTime": -1.0,
@@ -4310,7 +4348,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_3991111": {
       "LifeTime": -1.0,
@@ -4328,7 +4367,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_3991121": {
       "LifeTime": -1.0,
@@ -4346,7 +4386,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     }
   }
 }

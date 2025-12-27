@@ -27,6 +27,7 @@
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 8002106,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "isLocal": true,
                   "isRange": true,
                   "ValidValueParamList": [
@@ -188,13 +189,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 554050781184
+                    "FixedValue": {
+                      "RawValue": 554050781184,
+                      "Value": 129.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288498778734592
+                    "FixedValue": {
+                      "RawValue": 1288498778734592,
+                      "Value": 300002.0
                     }
                   }
                 }
@@ -204,13 +207,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 554050781184
+                    "FixedValue": {
+                      "RawValue": 554050781184,
+                      "Value": 129.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288511663636480
+                    "FixedValue": {
+                      "RawValue": 1288511663636480,
+                      "Value": 300005.0
                     }
                   }
                 }
@@ -220,13 +225,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 554050781184
+                    "FixedValue": {
+                      "RawValue": 554050781184,
+                      "Value": 129.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288515958603776
+                    "FixedValue": {
+                      "RawValue": 1288515958603776,
+                      "Value": 300006.0
                     }
                   }
                 }
@@ -292,6 +299,7 @@
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 8002106,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "isLocal": true,
                   "isRange": true,
                   "ValidValueParamList": [
@@ -387,6 +395,7 @@
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 8002106,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "isLocal": true,
                   "isRange": true,
                   "ValidValueParamList": [

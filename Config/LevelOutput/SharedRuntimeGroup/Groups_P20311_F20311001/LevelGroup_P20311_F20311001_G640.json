@@ -1,9 +1,9 @@
 {
   "GroupName": "Book",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20311_F20311001_G640",
   "SaveType": "Permanent",
-  "SavedValueCondition": {
-    "Conditions": [],
+  "AtmosphereCondition": {
     "Operation": "And"
   },
   "LoadSide": "Server",
@@ -15,7 +15,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Readable",
+      "TagHash": 906663161
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [
@@ -51,8 +56,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "EventClose",
@@ -66,13 +70,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true,
-        "TargetList": []
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -98,5 +102,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

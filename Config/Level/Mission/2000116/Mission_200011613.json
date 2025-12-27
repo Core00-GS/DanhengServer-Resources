@@ -11,13 +11,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 244813135872
+                "FixedValue": {
+                  "RawValue": 244813135872,
+                  "Value": 57.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288528843505664
+                "FixedValue": {
+                  "RawValue": 1288528843505664,
+                  "Value": 300009.0
                 }
               }
             }
@@ -31,20 +33,23 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 244813135872
+                    "FixedValue": {
+                      "RawValue": 244813135872,
+                      "Value": 57.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288528843505664
+                    "FixedValue": {
+                      "RawValue": 1288528843505664,
+                      "Value": 300009.0
                     }
                   }
                 }
               },
               "InteractID": {
-                "fixedValue": {
-                  "RawValue": 507626479681536
+                "FixedValue": {
+                  "RawValue": 507626479681536,
+                  "Value": 118191.0
                 }
               },
               "TaskEnabled": true,

@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 493921239040
+            "FixedValue": {
+              "RawValue": 493921239040,
+              "Value": 115.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [],
@@ -30,13 +32,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 493921239040
+                  "FixedValue": {
+                    "RawValue": 493921239040,
+                    "Value": 115.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288494483767296
+                  "FixedValue": {
+                    "RawValue": 1288494483767296,
+                    "Value": 300001.0
                   }
                 }
               }
@@ -54,13 +58,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 493921239040
+                  "FixedValue": {
+                    "RawValue": 493921239040,
+                    "Value": 115.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288494483767296
+                  "FixedValue": {
+                    "RawValue": 1288494483767296,
+                    "Value": 300001.0
                   }
                 }
               }
@@ -83,13 +89,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 493921239040
+                      "FixedValue": {
+                        "RawValue": 493921239040,
+                        "Value": 115.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288494483767296
+                      "FixedValue": {
+                        "RawValue": 1288494483767296,
+                        "Value": 300001.0
                       }
                     }
                   }
@@ -122,6 +130,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

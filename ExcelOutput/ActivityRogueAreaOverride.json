@@ -10,7 +10,9 @@
       "7": 400
     },
     "RecommendLevel": 30,
-    "RogueAreaID": 10100
+    "RogueAreaID": 10100,
+    "RecommendSkillTreePoints": 0,
+    "WorldLevel": 0
   },
   {
     "ScoreMap": {
@@ -22,10 +24,10 @@
       "6": 500,
       "7": 800
     },
-    "WorldLevel": 1,
     "RecommendLevel": 40,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 3
+    "RecommendSkillTreePoints": 3,
+    "WorldLevel": 1
   },
   {
     "ScoreMap": {
@@ -37,10 +39,10 @@
       "6": 880,
       "7": 1400
     },
-    "WorldLevel": 2,
     "RecommendLevel": 50,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 7
+    "RecommendSkillTreePoints": 7,
+    "WorldLevel": 2
   },
   {
     "ScoreMap": {
@@ -52,10 +54,10 @@
       "6": 1380,
       "7": 2200
     },
-    "WorldLevel": 3,
     "RecommendLevel": 60,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 21
+    "RecommendSkillTreePoints": 21,
+    "WorldLevel": 3
   },
   {
     "ScoreMap": {
@@ -67,10 +69,10 @@
       "6": 2000,
       "7": 3200
     },
-    "WorldLevel": 4,
     "RecommendLevel": 70,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 24
+    "RecommendSkillTreePoints": 24,
+    "WorldLevel": 4
   },
   {
     "ScoreMap": {
@@ -82,10 +84,10 @@
       "6": 2500,
       "7": 4000
     },
-    "WorldLevel": 5,
     "RecommendLevel": 75,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 31
+    "RecommendSkillTreePoints": 31,
+    "WorldLevel": 5
   },
   {
     "ScoreMap": {
@@ -97,10 +99,10 @@
       "6": 3130,
       "7": 5000
     },
-    "WorldLevel": 6,
     "RecommendLevel": 80,
     "RogueAreaID": 10100,
-    "RecommendSkillTreePoints": 37
+    "RecommendSkillTreePoints": 37,
+    "WorldLevel": 6
   },
   {
     "ScoreMap": {
@@ -113,7 +115,9 @@
       "7": 400
     },
     "RecommendLevel": 30,
-    "RogueAreaID": 10101
+    "RogueAreaID": 10101,
+    "RecommendSkillTreePoints": 0,
+    "WorldLevel": 0
   },
   {
     "ScoreMap": {
@@ -125,10 +129,10 @@
       "6": 500,
       "7": 800
     },
-    "WorldLevel": 1,
     "RecommendLevel": 40,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 3
+    "RecommendSkillTreePoints": 3,
+    "WorldLevel": 1
   },
   {
     "ScoreMap": {
@@ -140,10 +144,10 @@
       "6": 880,
       "7": 1400
     },
-    "WorldLevel": 2,
     "RecommendLevel": 50,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 7
+    "RecommendSkillTreePoints": 7,
+    "WorldLevel": 2
   },
   {
     "ScoreMap": {
@@ -155,10 +159,10 @@
       "6": 1380,
       "7": 2200
     },
-    "WorldLevel": 3,
     "RecommendLevel": 60,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 21
+    "RecommendSkillTreePoints": 21,
+    "WorldLevel": 3
   },
   {
     "ScoreMap": {
@@ -170,10 +174,10 @@
       "6": 2000,
       "7": 3200
     },
-    "WorldLevel": 4,
     "RecommendLevel": 70,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 24
+    "RecommendSkillTreePoints": 24,
+    "WorldLevel": 4
   },
   {
     "ScoreMap": {
@@ -185,10 +189,10 @@
       "6": 2500,
       "7": 4000
     },
-    "WorldLevel": 5,
     "RecommendLevel": 75,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 31
+    "RecommendSkillTreePoints": 31,
+    "WorldLevel": 5
   },
   {
     "ScoreMap": {
@@ -200,10 +204,10 @@
       "6": 3130,
       "7": 5000
     },
-    "WorldLevel": 6,
     "RecommendLevel": 80,
     "RogueAreaID": 10101,
-    "RecommendSkillTreePoints": 37
+    "RecommendSkillTreePoints": 37,
+    "WorldLevel": 6
   },
   {
     "ScoreMap": {
@@ -216,7 +220,9 @@
       "7": 400
     },
     "RecommendLevel": 30,
-    "RogueAreaID": 10102
+    "RogueAreaID": 10102,
+    "RecommendSkillTreePoints": 0,
+    "WorldLevel": 0
   },
   {
     "ScoreMap": {
@@ -228,10 +234,10 @@
       "6": 500,
       "7": 800
     },
-    "WorldLevel": 1,
     "RecommendLevel": 40,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 3
+    "RecommendSkillTreePoints": 3,
+    "WorldLevel": 1
   },
   {
     "ScoreMap": {
@@ -243,10 +249,10 @@
       "6": 880,
       "7": 1400
     },
-    "WorldLevel": 2,
     "RecommendLevel": 50,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 7
+    "RecommendSkillTreePoints": 7,
+    "WorldLevel": 2
   },
   {
     "ScoreMap": {
@@ -258,10 +264,10 @@
       "6": 1380,
       "7": 2200
     },
-    "WorldLevel": 3,
     "RecommendLevel": 60,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 21
+    "RecommendSkillTreePoints": 21,
+    "WorldLevel": 3
   },
   {
     "ScoreMap": {
@@ -273,10 +279,10 @@
       "6": 2000,
       "7": 3200
     },
-    "WorldLevel": 4,
     "RecommendLevel": 70,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 24
+    "RecommendSkillTreePoints": 24,
+    "WorldLevel": 4
   },
   {
     "ScoreMap": {
@@ -288,10 +294,10 @@
       "6": 2500,
       "7": 4000
     },
-    "WorldLevel": 5,
     "RecommendLevel": 75,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 31
+    "RecommendSkillTreePoints": 31,
+    "WorldLevel": 5
   },
   {
     "ScoreMap": {
@@ -303,10 +309,10 @@
       "6": 3130,
       "7": 5000
     },
-    "WorldLevel": 6,
     "RecommendLevel": 80,
     "RogueAreaID": 10102,
-    "RecommendSkillTreePoints": 37
+    "RecommendSkillTreePoints": 37,
+    "WorldLevel": 6
   },
   {
     "ScoreMap": {
@@ -319,7 +325,9 @@
       "7": 400
     },
     "RecommendLevel": 30,
-    "RogueAreaID": 10103
+    "RogueAreaID": 10103,
+    "RecommendSkillTreePoints": 0,
+    "WorldLevel": 0
   },
   {
     "ScoreMap": {
@@ -331,10 +339,10 @@
       "6": 500,
       "7": 800
     },
-    "WorldLevel": 1,
     "RecommendLevel": 40,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 3
+    "RecommendSkillTreePoints": 3,
+    "WorldLevel": 1
   },
   {
     "ScoreMap": {
@@ -346,10 +354,10 @@
       "6": 880,
       "7": 1400
     },
-    "WorldLevel": 2,
     "RecommendLevel": 50,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 7
+    "RecommendSkillTreePoints": 7,
+    "WorldLevel": 2
   },
   {
     "ScoreMap": {
@@ -361,10 +369,10 @@
       "6": 1380,
       "7": 2200
     },
-    "WorldLevel": 3,
     "RecommendLevel": 60,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 21
+    "RecommendSkillTreePoints": 21,
+    "WorldLevel": 3
   },
   {
     "ScoreMap": {
@@ -376,10 +384,10 @@
       "6": 2000,
       "7": 3200
     },
-    "WorldLevel": 4,
     "RecommendLevel": 70,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 24
+    "RecommendSkillTreePoints": 24,
+    "WorldLevel": 4
   },
   {
     "ScoreMap": {
@@ -391,10 +399,10 @@
       "6": 2500,
       "7": 4000
     },
-    "WorldLevel": 5,
     "RecommendLevel": 75,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 31
+    "RecommendSkillTreePoints": 31,
+    "WorldLevel": 5
   },
   {
     "ScoreMap": {
@@ -406,10 +414,10 @@
       "6": 3130,
       "7": 5000
     },
-    "WorldLevel": 6,
     "RecommendLevel": 80,
     "RogueAreaID": 10103,
-    "RecommendSkillTreePoints": 37
+    "RecommendSkillTreePoints": 37,
+    "WorldLevel": 6
   },
   {
     "ScoreMap": {
@@ -422,7 +430,9 @@
       "7": 400
     },
     "RecommendLevel": 30,
-    "RogueAreaID": 10104
+    "RogueAreaID": 10104,
+    "RecommendSkillTreePoints": 0,
+    "WorldLevel": 0
   },
   {
     "ScoreMap": {
@@ -434,10 +444,10 @@
       "6": 500,
       "7": 800
     },
-    "WorldLevel": 1,
     "RecommendLevel": 40,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 3
+    "RecommendSkillTreePoints": 3,
+    "WorldLevel": 1
   },
   {
     "ScoreMap": {
@@ -449,10 +459,10 @@
       "6": 880,
       "7": 1400
     },
-    "WorldLevel": 2,
     "RecommendLevel": 50,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 7
+    "RecommendSkillTreePoints": 7,
+    "WorldLevel": 2
   },
   {
     "ScoreMap": {
@@ -464,10 +474,10 @@
       "6": 1380,
       "7": 2200
     },
-    "WorldLevel": 3,
     "RecommendLevel": 60,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 21
+    "RecommendSkillTreePoints": 21,
+    "WorldLevel": 3
   },
   {
     "ScoreMap": {
@@ -479,10 +489,10 @@
       "6": 2000,
       "7": 3200
     },
-    "WorldLevel": 4,
     "RecommendLevel": 70,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 24
+    "RecommendSkillTreePoints": 24,
+    "WorldLevel": 4
   },
   {
     "ScoreMap": {
@@ -494,10 +504,10 @@
       "6": 2500,
       "7": 4000
     },
-    "WorldLevel": 5,
     "RecommendLevel": 75,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 31
+    "RecommendSkillTreePoints": 31,
+    "WorldLevel": 5
   },
   {
     "ScoreMap": {
@@ -509,9 +519,9 @@
       "6": 3130,
       "7": 5000
     },
-    "WorldLevel": 6,
     "RecommendLevel": 80,
     "RogueAreaID": 10104,
-    "RecommendSkillTreePoints": 37
+    "RecommendSkillTreePoints": 37,
+    "WorldLevel": 6
   }
 ]

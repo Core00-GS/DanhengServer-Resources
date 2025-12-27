@@ -19,6 +19,7 @@
           "$type": "RPG.GameCore.WaitMissionCustomValueChange",
           "MainMissionID": 1034108,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isRange": true,
             "ValidValueParamList": [
               0,
@@ -37,6 +38,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 1034108,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isRange": true,
               "ValidValueParamList": [
                 0,
@@ -74,6 +76,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 1034108,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isRange": true,
               "ValidValueParamList": [
                 0,

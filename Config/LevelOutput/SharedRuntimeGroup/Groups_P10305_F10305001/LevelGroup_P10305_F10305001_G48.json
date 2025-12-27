@@ -13,7 +13,9 @@
   "IsHoyoGroup": true,
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
-  "ConflictWhiteList": [],
+  "ConflictWhiteList": [
+    28
+  ],
   "TagContainer": [
     {
       "Tag": "Group.Atomsphere.NPC",
@@ -83,7 +85,9 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

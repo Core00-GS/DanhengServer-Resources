@@ -7,8 +7,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -28,13 +29,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288584678080512
+            "FixedValue": {
+              "RawValue": 1288584678080512,
+              "Value": 300022.0
             }
           },
           "TaskEnabled": true,
@@ -46,13 +49,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288584678080512
+            "FixedValue": {
+              "RawValue": 1288584678080512,
+              "Value": 300022.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -65,13 +70,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288580383113216
+            "FixedValue": {
+              "RawValue": 1288580383113216,
+              "Value": 300021.0
             }
           },
           "TaskEnabled": true,

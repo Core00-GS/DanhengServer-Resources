@@ -15,6 +15,7 @@
           "TargetSubmissionID": 102150161,
           "TargetMissionCustomValue": {
             "Index": 2,
+            "Name": "OldValue_2",
             "ValidValueParamList": [
               0,
               1
@@ -25,6 +26,7 @@
             "MainMissionID": 1021501,
             "MissionCustomValue": {
               "Index": 2,
+              "Name": "OldValue_2",
               "ValidValueParamList": [
                 0,
                 1

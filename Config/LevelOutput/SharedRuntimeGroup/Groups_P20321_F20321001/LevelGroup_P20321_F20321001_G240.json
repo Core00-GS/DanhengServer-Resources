@@ -1,10 +1,12 @@
 {
   "GroupName": "crowd",
+  "Category": "Atmosphere",
   "AreaAnchorName": "LevelArea_P20321_F20321001_G240",
   "SaveType": "Reset",
-  "SavedValueCondition": {
+  "AtmosphereCondition": {
     "Conditions": [
       {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
         "SavedValueName": "Crowd",
         "Operation": "GreaterEqual"
       }
@@ -13,13 +15,19 @@
   },
   "LoadOnInitial": true,
   "ValueSource": {},
-  "ConflictIDList": [],
+  "ConflictIDList": [
+    240
+  ],
   "IsHoyoGroup": true,
-  "HoYoGroupType": "Container",
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Atomsphere.Crowd",
+      "TagHash": -581694062
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -421,16 +429,16 @@
           "LookAtAnchor": {},
           "LookAtPosition": {},
           "LocalPosition": {
-            "x": 0.440514,
-            "z": -1.507149,
+            "x": 0.440517,
+            "z": -1.507151,
             "normalized": {
-              "x": 0.280545145,
-              "z": -0.9598409,
+              "x": 0.280546546,
+              "z": -0.9598404,
               "magnitude": 1.0,
-              "sqrMagnitude": 1.00000012
+              "sqrMagnitude": 1.0
             },
-            "magnitude": 1.57020712,
-            "sqrMagnitude": 2.46555042
+            "magnitude": 1.57021,
+            "sqrMagnitude": 2.46555948
           },
           "LocalRotationY": 328.6666,
           "DefaultAnimationType": "FreeStyle",
@@ -454,22 +462,16 @@
       ],
       "TriggerRudius": 5.0,
       "CenterPos": {
-        "x": -0.401555,
+        "x": -0.401554,
         "z": -0.96548,
         "normalized": {
-          "x": -0.3840218,
-          "z": -0.923324,
-          "normalized": {
-            "x": -0.384021819,
-            "z": -0.923324049,
-            "magnitude": 1.0,
-            "sqrMagnitude": 1.00000012
-          },
-          "magnitude": 0.99999994,
-          "sqrMagnitude": 0.99999994
+          "x": -0.384021,
+          "z": -0.9233244,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
         },
-        "magnitude": 1.0456568,
-        "sqrMagnitude": 1.09339809
+        "magnitude": 1.04565632,
+        "sqrMagnitude": 1.09339726
       },
       "LoadPriority": "Middle",
       "Name": "Crowd5",
@@ -481,5 +483,9 @@
     }
   ],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

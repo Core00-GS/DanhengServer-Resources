@@ -22,6 +22,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -42,12 +43,16 @@
           "OptionList": [
             {
               "TalkSentenceID": 401120102,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120102"
             },
             {
               "TalkSentenceID": 401120104,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120104"
             }
           ],
@@ -68,6 +73,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -104,6 +110,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -142,7 +149,9 @@
           "OptionList": [
             {
               "TalkSentenceID": 401120106,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120106"
             }
           ],
@@ -163,6 +172,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -183,12 +193,16 @@
           "OptionList": [
             {
               "TalkSentenceID": 401120108,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120108"
             },
             {
               "TalkSentenceID": 401120110,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120110"
             }
           ],
@@ -209,6 +223,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -258,6 +273,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -278,7 +294,9 @@
           "OptionList": [
             {
               "TalkSentenceID": 401120110,
-              "OptionIconType": "ChatIcon",
+              "OptionIconType": {
+                "JsonValueStr": "ChatIcon"
+              },
               "TriggerCustomString": "TalkSentence_401120110"
             }
           ],

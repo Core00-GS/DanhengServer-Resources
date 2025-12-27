@@ -6,6 +6,14 @@
       1113
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic7.png",
+    "TalkEventText3": {
+      "Hash": 836197320,
+      "Hash64": 17885712915137190987
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886621,
       "Hash64": 16939692042680317212
@@ -14,10 +22,6 @@
     "TalkEventText1": {
       "Hash": 1998996734,
       "Hash64": 6997922848393363886
-    },
-    "TalkEventText3": {
-      "Hash": 836197320,
-      "Hash64": 17885712915137190987
     }
   },
   {
@@ -27,6 +31,14 @@
       1123
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic7.png",
+    "TalkEventText3": {
+      "Hash": 836197289,
+      "Hash64": 1548881442273388414
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886652,
       "Hash64": 1370334225449410004
@@ -35,10 +47,6 @@
     "TalkEventText1": {
       "Hash": 1998996703,
       "Hash64": 476537539000190287
-    },
-    "TalkEventText3": {
-      "Hash": 836197289,
-      "Hash64": 1548881442273388414
     }
   },
   {
@@ -48,6 +56,14 @@
       1133
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic7.png",
+    "TalkEventText3": {
+      "Hash": 836197386,
+      "Hash64": 977393000927709230
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886555,
       "Hash64": 1421709274680693914
@@ -56,10 +72,6 @@
     "TalkEventText1": {
       "Hash": 1998996800,
       "Hash64": 10557771656926476692
-    },
-    "TalkEventText3": {
-      "Hash": 836197386,
-      "Hash64": 977393000927709230
     }
   },
   {
@@ -69,6 +81,14 @@
       1143
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic2.png",
+    "TalkEventText3": {
+      "Hash": 836197091,
+      "Hash64": 1290173443946200905
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886850,
       "Hash64": 5805145976298484389
@@ -77,10 +97,6 @@
     "TalkEventText1": {
       "Hash": 1998996505,
       "Hash64": 11975270804544905644
-    },
-    "TalkEventText3": {
-      "Hash": 836197091,
-      "Hash64": 1290173443946200905
     }
   },
   {
@@ -90,6 +106,14 @@
       1153
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic2.png",
+    "TalkEventText3": {
+      "Hash": 836197188,
+      "Hash64": 9683510463016827875
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886753,
       "Hash64": 17031629283593849963
@@ -98,10 +122,6 @@
     "TalkEventText1": {
       "Hash": 1998996602,
       "Hash64": 5878666191196975061
-    },
-    "TalkEventText3": {
-      "Hash": 836197188,
-      "Hash64": 9683510463016827875
     }
   },
   {
@@ -111,6 +131,14 @@
       1163
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic2.png",
+    "TalkEventText3": {
+      "Hash": 836197157,
+      "Hash64": 14479787493940684915
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886784,
       "Hash64": 9073143258043995611
@@ -119,10 +147,6 @@
     "TalkEventText1": {
       "Hash": 1998996571,
       "Hash64": 13894578874083238752
-    },
-    "TalkEventText3": {
-      "Hash": 836197157,
-      "Hash64": 14479787493940684915
     }
   },
   {
@@ -132,6 +156,14 @@
       1173
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic7.png",
+    "TalkEventText3": {
+      "Hash": 836197254,
+      "Hash64": 12437662217782973415
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886687,
       "Hash64": 8782644732656899934
@@ -140,10 +172,6 @@
     "TalkEventText1": {
       "Hash": 1998996668,
       "Hash64": 2711939526987243945
-    },
-    "TalkEventText3": {
-      "Hash": 836197254,
-      "Hash64": 12437662217782973415
     }
   },
   {
@@ -153,6 +181,14 @@
       1183
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic2.png",
+    "TalkEventText3": {
+      "Hash": 836197487,
+      "Hash64": 6414148313257019730
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886454,
       "Hash64": 5502586755588705787
@@ -161,10 +197,6 @@
     "TalkEventText1": {
       "Hash": 1998996901,
       "Hash64": 9366411279400542644
-    },
-    "TalkEventText3": {
-      "Hash": 836197487,
-      "Hash64": 6414148313257019730
     }
   },
   {
@@ -174,6 +206,14 @@
       1193
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 836197584,
+      "Hash64": 15797835851236933021
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -729886357,
       "Hash64": 13783984803478589382
@@ -182,10 +222,6 @@
     "TalkEventText1": {
       "Hash": 1998996998,
       "Hash64": 11386662626656938884
-    },
-    "TalkEventText3": {
-      "Hash": 836197584,
-      "Hash64": 15797835851236933021
     }
   },
   {
@@ -195,6 +231,14 @@
       1203
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240088,
+      "Hash64": 17569522936016230706
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643267,
       "Hash64": 9018726327954154127
@@ -203,10 +247,6 @@
     "TalkEventText1": {
       "Hash": 735440674,
       "Hash64": 10370345805490536119
-    },
-    "TalkEventText3": {
-      "Hash": 1898240088,
-      "Hash64": 17569522936016230706
     }
   },
   {
@@ -216,6 +256,14 @@
       1213
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240185,
+      "Hash64": 17116724615458151340
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643170,
       "Hash64": 14353095181415004154
@@ -224,10 +272,6 @@
     "TalkEventText1": {
       "Hash": 735440771,
       "Hash64": 13200599586250063095
-    },
-    "TalkEventText3": {
-      "Hash": 1898240185,
-      "Hash64": 17116724615458151340
     }
   },
   {
@@ -237,6 +281,14 @@
       1223
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240154,
+      "Hash64": 14757712672111000464
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643201,
       "Hash64": 10848247370110681460
@@ -245,10 +297,6 @@
     "TalkEventText1": {
       "Hash": 735440740,
       "Hash64": 12940323840468872529
-    },
-    "TalkEventText3": {
-      "Hash": 1898240154,
-      "Hash64": 14757712672111000464
     }
   },
   {
@@ -258,6 +306,14 @@
       1233
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240251,
+      "Hash64": 14057042895337582015
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643104,
       "Hash64": 10030035434465965760
@@ -266,10 +322,6 @@
     "TalkEventText1": {
       "Hash": 735440837,
       "Hash64": 9333953138937976489
-    },
-    "TalkEventText3": {
-      "Hash": 1898240251,
-      "Hash64": 14057042895337582015
     }
   },
   {
@@ -279,6 +331,14 @@
       1243
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898239956,
+      "Hash64": 315187469020257736
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643399,
       "Hash64": 4734571788109930558
@@ -287,10 +347,6 @@
     "TalkEventText1": {
       "Hash": 735440542,
       "Hash64": 10929224194955680535
-    },
-    "TalkEventText3": {
-      "Hash": 1898239956,
-      "Hash64": 315187469020257736
     }
   },
   {
@@ -300,6 +356,14 @@
       1253
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240053,
+      "Hash64": 1381851149638131723
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643302,
       "Hash64": 13358216556596510057
@@ -308,10 +372,6 @@
     "TalkEventText1": {
       "Hash": 735440639,
       "Hash64": 13116732535060528822
-    },
-    "TalkEventText3": {
-      "Hash": 1898240053,
-      "Hash64": 1381851149638131723
     }
   },
   {
@@ -321,6 +381,14 @@
       1263
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic5.png",
+    "TalkEventText3": {
+      "Hash": 1898240022,
+      "Hash64": 2273404214819001992
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643333,
       "Hash64": 12254815064655137886
@@ -329,10 +397,6 @@
     "TalkEventText1": {
       "Hash": 735440608,
       "Hash64": 5722104107550587325
-    },
-    "TalkEventText3": {
-      "Hash": 1898240022,
-      "Hash64": 2273404214819001992
     }
   },
   {
@@ -342,6 +406,14 @@
       1273
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": 1898240119,
+      "Hash64": 1392152770899611527
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643236,
       "Hash64": 1627335243992866763
@@ -350,10 +422,6 @@
     "TalkEventText1": {
       "Hash": 735440705,
       "Hash64": 18300400811145206077
-    },
-    "TalkEventText3": {
-      "Hash": 1898240119,
-      "Hash64": 1392152770899611527
     }
   },
   {
@@ -363,6 +431,14 @@
       1283
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": 1898240352,
+      "Hash64": 15673020175616485647
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830643003,
       "Hash64": 16852136566686783727
@@ -371,10 +447,6 @@
     "TalkEventText1": {
       "Hash": 735440938,
       "Hash64": 2529062229190614785
-    },
-    "TalkEventText3": {
-      "Hash": 1898240352,
-      "Hash64": 15673020175616485647
     }
   },
   {
@@ -384,6 +456,14 @@
       1293
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": 1898240449,
+      "Hash64": 1285383688145709215
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -830642906,
       "Hash64": 1554026217863558515
@@ -392,10 +472,6 @@
     "TalkEventText1": {
       "Hash": 735441035,
       "Hash64": 11081662562700443064
-    },
-    "TalkEventText3": {
-      "Hash": 1898240449,
-      "Hash64": 1285383688145709215
     }
   },
   {
@@ -405,6 +481,14 @@
       1303
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": -850846243,
+      "Hash64": 18431125650845774398
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037112,
       "Hash64": 5933397363662125969
@@ -413,10 +497,6 @@
     "TalkEventText1": {
       "Hash": -2013645657,
       "Hash64": 7150845388099902530
-    },
-    "TalkEventText3": {
-      "Hash": -850846243,
-      "Hash64": 18431125650845774398
     }
   },
   {
@@ -426,6 +506,14 @@
       1313
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": -850846146,
+      "Hash64": 14852853524289344887
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037209,
       "Hash64": 16730885203693819619
@@ -434,10 +522,6 @@
     "TalkEventText1": {
       "Hash": -2013645560,
       "Hash64": 1333660171266794639
-    },
-    "TalkEventText3": {
-      "Hash": -850846146,
-      "Hash64": 14852853524289344887
     }
   },
   {
@@ -447,6 +531,14 @@
       1323
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": -850846177,
+      "Hash64": 8808674629105591665
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037178,
       "Hash64": 11413391350756049553
@@ -455,10 +547,6 @@
     "TalkEventText1": {
       "Hash": -2013645591,
       "Hash64": 7132326436582676420
-    },
-    "TalkEventText3": {
-      "Hash": -850846177,
-      "Hash64": 8808674629105591665
     }
   },
   {
@@ -468,6 +556,14 @@
       1333
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": -850846080,
+      "Hash64": 5581983349915506844
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037275,
       "Hash64": 14714417142699746653
@@ -476,10 +572,6 @@
     "TalkEventText1": {
       "Hash": -2013645494,
       "Hash64": 13484788325785779998
-    },
-    "TalkEventText3": {
-      "Hash": -850846080,
-      "Hash64": 5581983349915506844
     }
   },
   {
@@ -489,6 +581,14 @@
       1343
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic6.png",
+    "TalkEventText3": {
+      "Hash": -850846375,
+      "Hash64": 7259963370105397611
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878036980,
       "Hash64": 7811473227298734423
@@ -497,10 +597,6 @@
     "TalkEventText1": {
       "Hash": -2013645789,
       "Hash64": 12076210869827816371
-    },
-    "TalkEventText3": {
-      "Hash": -850846375,
-      "Hash64": 7259963370105397611
     }
   },
   {
@@ -510,6 +606,14 @@
       1353
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -850846278,
+      "Hash64": 15325865181029720930
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037077,
       "Hash64": 9183956347426532424
@@ -518,10 +622,6 @@
     "TalkEventText1": {
       "Hash": -2013645692,
       "Hash64": 9151201818840699259
-    },
-    "TalkEventText3": {
-      "Hash": -850846278,
-      "Hash64": 15325865181029720930
     }
   },
   {
@@ -531,6 +631,14 @@
       1363
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -850846309,
+      "Hash64": 4938585049942989608
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037046,
       "Hash64": 7385586958803575665
@@ -539,10 +647,6 @@
     "TalkEventText1": {
       "Hash": -2013645723,
       "Hash64": 7897014892503730761
-    },
-    "TalkEventText3": {
-      "Hash": -850846309,
-      "Hash64": 4938585049942989608
     }
   },
   {
@@ -552,6 +656,14 @@
       1373
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -850846212,
+      "Hash64": 4436205097405865307
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037143,
       "Hash64": 11554235719964190840
@@ -560,10 +672,6 @@
     "TalkEventText1": {
       "Hash": -2013645626,
       "Hash64": 12820933858724009408
-    },
-    "TalkEventText3": {
-      "Hash": -850846212,
-      "Hash64": 4436205097405865307
     }
   },
   {
@@ -573,6 +681,14 @@
       1383
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -850845979,
+      "Hash64": 15712950482895240958
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037376,
       "Hash64": 3825985694991896201
@@ -581,10 +697,6 @@
     "TalkEventText1": {
       "Hash": -2013645393,
       "Hash64": 4661792632655829677
-    },
-    "TalkEventText3": {
-      "Hash": -850845979,
-      "Hash64": 15712950482895240958
     }
   },
   {
@@ -594,6 +706,14 @@
       1393
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -850845882,
+      "Hash64": 2215831080138933853
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 1878037473,
       "Hash64": 14559204127372645635
@@ -602,10 +722,6 @@
     "TalkEventText1": {
       "Hash": -2013645296,
       "Hash64": 2639660860840232627
-    },
-    "TalkEventText3": {
-      "Hash": -850845882,
-      "Hash64": 2215831080138933853
     }
   },
   {
@@ -615,6 +731,14 @@
       1403
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -1274333746,
+      "Hash64": 11353046775819750273
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750195,
       "Hash64": 8745230379146507610
@@ -623,10 +747,6 @@
     "TalkEventText1": {
       "Hash": -111534332,
       "Hash64": 1113529383464895920
-    },
-    "TalkEventText3": {
-      "Hash": -1274333746,
-      "Hash64": 11353046775819750273
     }
   },
   {
@@ -636,6 +756,14 @@
       1413
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -1274333649,
+      "Hash64": 9732751769246648758
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750292,
       "Hash64": 246639723074689710
@@ -644,10 +772,6 @@
     "TalkEventText1": {
       "Hash": -111534235,
       "Hash64": 18075909789874885628
-    },
-    "TalkEventText3": {
-      "Hash": -1274333649,
-      "Hash64": 9732751769246648758
     }
   },
   {
@@ -657,6 +781,14 @@
       1423
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic4.png",
+    "TalkEventText3": {
+      "Hash": -1274333680,
+      "Hash64": 643546903595770711
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750261,
       "Hash64": 5737917452064147087
@@ -665,10 +797,6 @@
     "TalkEventText1": {
       "Hash": -111534266,
       "Hash64": 13273171871551742341
-    },
-    "TalkEventText3": {
-      "Hash": -1274333680,
-      "Hash64": 643546903595770711
     }
   },
   {
@@ -678,6 +806,14 @@
       1433
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333583,
+      "Hash64": 3153844040897652197
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750358,
       "Hash64": 10619115932035054673
@@ -686,10 +822,6 @@
     "TalkEventText1": {
       "Hash": -111534169,
       "Hash64": 9749406136524057842
-    },
-    "TalkEventText3": {
-      "Hash": -1274333583,
-      "Hash64": 3153844040897652197
     }
   },
   {
@@ -699,6 +831,14 @@
       1443
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333878,
+      "Hash64": 1892523607464734727
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750063,
       "Hash64": 1843034595335681798
@@ -707,10 +847,6 @@
     "TalkEventText1": {
       "Hash": -111534464,
       "Hash64": 9839982087704205980
-    },
-    "TalkEventText3": {
-      "Hash": -1274333878,
-      "Hash64": 1892523607464734727
     }
   },
   {
@@ -720,6 +856,14 @@
       1453
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333781,
+      "Hash64": 14724895443238245090
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750160,
       "Hash64": 5258385018937460780
@@ -728,10 +872,6 @@
     "TalkEventText1": {
       "Hash": -111534367,
       "Hash64": 15852814928684073498
-    },
-    "TalkEventText3": {
-      "Hash": -1274333781,
-      "Hash64": 14724895443238245090
     }
   },
   {
@@ -741,6 +881,14 @@
       1463
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333812,
+      "Hash64": 14412726273400319978
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750129,
       "Hash64": 13438114789195112311
@@ -749,10 +897,6 @@
     "TalkEventText1": {
       "Hash": -111534398,
       "Hash64": 6186771698378679566
-    },
-    "TalkEventText3": {
-      "Hash": -1274333812,
-      "Hash64": 14412726273400319978
     }
   },
   {
@@ -762,6 +906,14 @@
       1473
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333715,
+      "Hash64": 6356332218616512243
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750226,
       "Hash64": 16978853874880188865
@@ -770,10 +922,6 @@
     "TalkEventText1": {
       "Hash": -111534301,
       "Hash64": 9549361704716387814
-    },
-    "TalkEventText3": {
-      "Hash": -1274333715,
-      "Hash64": 6356332218616512243
     }
   },
   {
@@ -783,6 +931,14 @@
       1483
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333482,
+      "Hash64": 12880600562024998852
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750459,
       "Hash64": 17107372644384607127
@@ -791,10 +947,6 @@
     "TalkEventText1": {
       "Hash": -111534068,
       "Hash64": 1123947027362673589
-    },
-    "TalkEventText3": {
-      "Hash": -1274333482,
-      "Hash64": 12880600562024998852
     }
   },
   {
@@ -804,6 +956,14 @@
       1493
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": -1274333385,
+      "Hash64": 5074280590589793609
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": 291750556,
       "Hash64": 8201157973535773048
@@ -812,10 +972,6 @@
     "TalkEventText1": {
       "Hash": -111533971,
       "Hash64": 16388320743679142076
-    },
-    "TalkEventText3": {
-      "Hash": -1274333385,
-      "Hash64": 5074280590589793609
     }
   },
   {
@@ -825,6 +981,14 @@
       1503
     ],
     "EventImage": "SpriteOutput/Quest/SwordTraining/EventImg/SwordTrainingComicEventPic1.png",
+    "TalkEventText3": {
+      "Hash": 271547219,
+      "Hash64": 9019084128849474650
+    },
+    "EventDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TalkEventText2": {
       "Hash": -1294536722,
       "Hash64": 18303146066585037492
@@ -833,10 +997,6 @@
     "TalkEventText1": {
       "Hash": 1434346633,
       "Hash64": 8507257294250507082
-    },
-    "TalkEventText3": {
-      "Hash": 271547219,
-      "Hash64": 9019084128849474650
     }
   }
 ]

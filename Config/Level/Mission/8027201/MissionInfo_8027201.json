@@ -92,10 +92,12 @@
       "CustomValueList": [],
       "CustomValueReward": [
         {
+          "Name": "OldValue_0",
           "Value": 1,
           "RewardID": 2001365
         },
         {
+          "Name": "OldValue_0",
           "Value": 2,
           "RewardID": 2001366
         }
@@ -146,10 +148,11 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        1,
-        1,
-        802720103
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_1",
+        "1",
+        "802720103"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -215,10 +218,11 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        1,
-        2,
-        802720103
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_1",
+        "2",
+        "802720103"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -280,6 +284,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -288,6 +294,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -295,7 +303,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    1
+    "OldValue_1"
   ],
   "IsShow": true,
   "IsLegacyAssistWayPoint": true,

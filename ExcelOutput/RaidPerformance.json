@@ -1,17 +1,26 @@
 [
   {
-    "PerformanceID": 102150109,
     "PerformanceType": "A",
-    "RaidID": 40233001
+    "RaidID": 40233001,
+    "HardLevel": 0,
+    "PerformanceID": 102150109
   },
   {
-    "PerformanceID": 103180103,
     "PerformanceType": "C",
-    "RaidID": 43306001
+    "RaidID": 43306001,
+    "HardLevel": 0,
+    "PerformanceID": 103180103
   },
   {
-    "PerformanceID": 104020103,
     "PerformanceType": "C",
-    "RaidID": 40411
+    "RaidID": 40411,
+    "HardLevel": 0,
+    "PerformanceID": 104020103
+  },
+  {
+    "PerformanceType": "C",
+    "RaidID": 40473,
+    "HardLevel": 0,
+    "PerformanceID": 104370627
   }
 ]

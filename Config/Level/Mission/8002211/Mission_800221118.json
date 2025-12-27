@@ -22,13 +22,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 536870912000
+                "FixedValue": {
+                  "RawValue": 536870912000,
+                  "Value": 125.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -76,6 +78,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 8002211,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isLocal": true,
               "ValidValueParamList": [
                 1

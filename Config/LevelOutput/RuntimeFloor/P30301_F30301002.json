@@ -29,6 +29,7 @@
     {
       "DefaultEnviroProfile": "Stages/Outputs/Chapter01/EnviroProfile/Chap01_CloseView_ADV_Area_M203_01_Night.enviroProfile.asset",
       "CameraType": "Maze",
+      "BattleAreaList": [],
       "IsExclusiveSaveMapSection": true,
       "GroupIndexList": [
         0,
@@ -54,6 +55,7 @@
       "LoadOnInitial": true
     }
   },
+  "ValidSubmapList": [],
   "EnableGroupStreaming": true,
   "EnableGroupSpaceConflict": true,
   "EnableGroupRegionStreaming": true

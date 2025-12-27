@@ -13,12 +13,12 @@
   "GroupStateList": [
     {},
     {
-      "Comment": "\u53d8\u5c0f",
+      "Comment": "变小",
       "SrcState": 1,
       "DstState": 2
     },
     {
-      "Comment": "\u53d8\u5927",
+      "Comment": "变大",
       "SrcState": 2,
       "DstState": 1
     }
@@ -67,7 +67,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -143,6 +145,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -225,6 +230,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -306,6 +314,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -397,6 +408,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -493,6 +507,9 @@
           "State": "Locked"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -590,6 +607,9 @@
           "State": "Locked"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -683,6 +703,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -779,6 +802,9 @@
           "State": "Locked"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -861,6 +887,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -944,6 +973,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -1025,6 +1057,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -1106,6 +1141,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -1187,6 +1225,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,
@@ -1269,6 +1310,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "TriggerValidGuest": {
         "LocalPlayer": true,

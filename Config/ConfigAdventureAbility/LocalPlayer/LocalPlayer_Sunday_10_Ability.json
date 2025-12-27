@@ -3,8 +3,7 @@
     {
       "Name": "LocalPlayer_Sunday_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -83,8 +82,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -206,8 +206,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -328,8 +329,7 @@
     {
       "Name": "LocalPlayer_Sunday_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -353,8 +353,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 472446403
+            "FixedValue": {
+              "RawValue": 472446403,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -403,8 +404,9 @@
           },
           "ID": 131301,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -421,5 +423,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Sunday": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

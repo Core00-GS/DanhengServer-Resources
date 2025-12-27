@@ -14,8 +14,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "MaxAdvencePerTick": -1.0,

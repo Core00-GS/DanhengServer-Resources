@@ -10,13 +10,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 77309411328
+                "FixedValue": {
+                  "RawValue": 77309411328,
+                  "Value": 18.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -56,8 +58,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -88,13 +91,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 77309411328
+                    "FixedValue": {
+                      "RawValue": 77309411328,
+                      "Value": 18.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288494483767296
+                    "FixedValue": {
+                      "RawValue": 1288494483767296,
+                      "Value": 300001.0
                     }
                   }
                 }
@@ -149,13 +154,15 @@
                 "FetchType": "SinglePropByPropID",
                 "SinglePropID": {
                   "GroupID": {
-                    "fixedValue": {
-                      "RawValue": 77309411328
+                    "FixedValue": {
+                      "RawValue": 77309411328,
+                      "Value": 18.0
                     }
                   },
                   "ID": {
-                    "fixedValue": {
-                      "RawValue": 1288494483767296
+                    "FixedValue": {
+                      "RawValue": 1288494483767296,
+                      "Value": 300001.0
                     }
                   }
                 }
@@ -191,7 +198,9 @@
                   "OptionList": [
                     {
                       "TalkSentenceID": 412210405,
-                      "OptionIconType": "ChatContinueIcon",
+                      "OptionIconType": {
+                        "JsonValueStr": "ChatContinueIcon"
+                      },
                       "TriggerCustomString": "TalkSentence_412210405"
                     }
                   ],

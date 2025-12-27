@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 270582939648
+            "FixedValue": {
+              "RawValue": 270582939648,
+              "Value": 63.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288515958603776
+            "FixedValue": {
+              "RawValue": 1288515958603776,
+              "Value": 300006.0
             }
           },
           "CreateList": [],
@@ -36,13 +38,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288515958603776
+            "FixedValue": {
+              "RawValue": 1288515958603776,
+              "Value": 300006.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 270582939648
+            "FixedValue": {
+              "RawValue": 270582939648,
+              "Value": 63.0
             }
           },
           "DestroyList": [],

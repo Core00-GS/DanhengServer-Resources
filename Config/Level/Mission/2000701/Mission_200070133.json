@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 339302416384
+            "FixedValue": {
+              "RawValue": 339302416384,
+              "Value": 79.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288520253571072
+            "FixedValue": {
+              "RawValue": 1288520253571072,
+              "Value": 300007.0
             }
           },
           "TaskEnabled": true,
@@ -21,13 +23,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 339302416384
+            "FixedValue": {
+              "RawValue": 339302416384,
+              "Value": 79.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288563203244032
+            "FixedValue": {
+              "RawValue": 1288563203244032,
+              "Value": 300017.0
             }
           },
           "TaskEnabled": true,

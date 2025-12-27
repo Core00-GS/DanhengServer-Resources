@@ -1104,6 +1104,8 @@
         {
           "MissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
+            "Type": "ClientOnly",
             "isLocal": true,
             "ValidValueParamList": [
               0,
@@ -1118,6 +1120,8 @@
         {
           "MissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
+            "Type": "ClientOnly",
             "isLocal": true,
             "ValidValueParamList": [
               0,
@@ -1448,6 +1452,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "ClientOnly",
       "isLocal": true,
       "isRange": true,
       "ValidValueParamList": [
@@ -1457,6 +1463,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,

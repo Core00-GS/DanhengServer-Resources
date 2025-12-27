@@ -53,5 +53,6 @@
   "UseDefaultSteerMode": true,
   "TalkEmotionAssetPath": "Story/TalkEmotion/Special/Cocolia_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

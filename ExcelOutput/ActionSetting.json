@@ -1,262 +1,260 @@
 [
   {
-    "BlackListKeys": [],
+    "SettableInControlTypes": [],
     "ActionName": "Special_MouseOperating",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 1
+    "BlackListKeys": [],
+    "GroupType": 1,
+    "ShowType": 1
   },
   {
-    "BlackListKeys": [],
+    "SettableInControlTypes": [
+      "Action1",
+      "Action2"
+    ],
     "ActionName": "Menu_Confirm",
-    "SettableInControlTypes": [
-      "Action1",
-      "Action2"
-    ],
-    "ShowType": 2,
-    "GroupType": 1
-  },
-  {
     "BlackListKeys": [],
-    "ActionName": "Menu_Cancel",
+    "GroupType": 1,
+    "ShowType": 2
+  },
+  {
     "SettableInControlTypes": [
       "Action1",
       "Action2"
     ],
-    "ShowType": 2,
-    "GroupType": 1
+    "ActionName": "Menu_Cancel",
+    "BlackListKeys": [],
+    "GroupType": 1,
+    "ShowType": 2
   },
   {
-    "BlackListKeys": [
-      "Escape",
-      "Home",
-      "LeftAlt",
-      "Tab"
-    ],
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Avatar",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Team",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Map",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Bag",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Job",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_TutorialOverView",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Activity",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_BattlePass",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_Gacha",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_HandbookPage",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
-    "ActionName": "Maze_Shop",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
+    "GroupType": 2,
+    "ShowType": 1
   },
   {
+    "SettableInControlTypes": [],
+    "ActionName": "Maze_Shop",
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [
+      "Action1",
+      "Action2",
+      "Action3",
+      "Action4",
+      "RightBumper"
     ],
     "ActionName": "Maze_FastRun",
+    "BlackListKeys": [
+      "Escape",
+      "Home",
+      "LeftAlt",
+      "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
+    "ActionName": "Maze_Walk",
+    "BlackListKeys": [
+      "Escape",
+      "Home",
+      "LeftAlt",
+      "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
+    "ActionName": "Menu_MazeGuideHint",
+    "BlackListKeys": [
+      "Escape",
+      "Home",
+      "LeftAlt",
+      "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
     "SettableInControlTypes": [
       "Action1",
       "Action2",
       "Action3",
       "Action4",
       "RightBumper"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
-    "BlackListKeys": [
-      "Escape",
-      "Home",
-      "LeftAlt",
-      "Tab"
-    ],
-    "ActionName": "Maze_Walk",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
-    "BlackListKeys": [
-      "Escape",
-      "Home",
-      "LeftAlt",
-      "Tab"
-    ],
-    "ActionName": "Menu_MazeGuideHint",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
-    "BlackListKeys": [
-      "Escape",
-      "Home",
-      "LeftAlt",
-      "Tab"
     ],
     "ActionName": "Menu_MazeInteract",
-    "SettableInControlTypes": [
-      "Action1",
-      "Action2",
-      "Action3",
-      "Action4",
-      "RightBumper"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_PhoneMessage",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_TraceMission",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
-    "ActionName": "Menu_Chat",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
+    "GroupType": 2,
+    "ShowType": 1
   },
   {
-    "BlackListKeys": [],
-    "ActionName": "Menu_MazeAttack",
+    "SettableInControlTypes": [],
+    "ActionName": "Menu_Chat",
+    "BlackListKeys": [
+      "Escape",
+      "Home",
+      "LeftAlt",
+      "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
     "SettableInControlTypes": [
       "Action1",
       "Action2",
@@ -264,337 +262,339 @@
       "Action4",
       "RightBumper"
     ],
-    "ShowType": 2,
-    "GroupType": 2
+    "ActionName": "Menu_MazeAttack",
+    "BlackListKeys": [],
+    "GroupType": 2,
+    "ShowType": 2
   },
   {
-    "BlackListKeys": [
-      "Escape",
-      "Home",
-      "LeftAlt",
-      "Tab"
+    "SettableInControlTypes": [
+      "Action1",
+      "Action2",
+      "Action3",
+      "Action4",
+      "RightBumper"
     ],
     "ActionName": "Menu_MazeSkill",
-    "SettableInControlTypes": [
-      "Action1",
-      "Action2",
-      "Action3",
-      "Action4",
-      "RightBumper"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_PuzzleChallenge",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_TinyGameEvent",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_TimeRewindControl",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 2
-  },
-  {
-    "BlackListKeys": [],
-    "ActionName": "Menu_PhoneOrQuitGame",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
+    "ActionName": "Menu_PhoneOrQuitGame",
+    "BlackListKeys": [],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [
+      "DPadUp",
+      "DPadDown",
+      "DPadLeft",
+      "DPadRight"
     ],
     "ActionName": "Menu_SwitchAvatar1",
-    "SettableInControlTypes": [
-      "DPadUp",
-      "DPadDown",
-      "DPadLeft",
-      "DPadRight"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [
+      "DPadUp",
+      "DPadDown",
+      "DPadLeft",
+      "DPadRight"
     ],
     "ActionName": "Menu_SwitchAvatar2",
-    "SettableInControlTypes": [
-      "DPadUp",
-      "DPadDown",
-      "DPadLeft",
-      "DPadRight"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [
+      "DPadUp",
+      "DPadDown",
+      "DPadLeft",
+      "DPadRight"
     ],
     "ActionName": "Menu_SwitchAvatar3",
-    "SettableInControlTypes": [
-      "DPadUp",
-      "DPadDown",
-      "DPadLeft",
-      "DPadRight"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
+    ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [
+      "DPadUp",
+      "DPadDown",
+      "DPadLeft",
+      "DPadRight"
     ],
     "ActionName": "Menu_SwitchAvatar4",
-    "SettableInControlTypes": [
-      "DPadUp",
-      "DPadDown",
-      "DPadLeft",
-      "DPadRight"
-    ],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_MoveUp",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_MoveDown",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_MoveLeft",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Maze_MoveRight",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 2
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 2,
+    "ShowType": 3
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_ReleaseUltra1",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_ReleaseUltra2",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_ReleaseUltra3",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_ReleaseUltra4",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_NormalAttack",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_BPSkill",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_ReleaseColossusSkill",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_BattleAuto",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_BattleFast",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_BattleEnemyDetail",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
-  },
-  {
     "BlackListKeys": [
       "Escape",
       "Home",
       "LeftAlt",
       "Tab"
     ],
+    "GroupType": 3,
+    "ShowType": 1
+  },
+  {
+    "SettableInControlTypes": [],
     "ActionName": "Menu_BattleAvatarDetail",
-    "SettableInControlTypes": [],
-    "ShowType": 1,
-    "GroupType": 3
+    "BlackListKeys": [
+      "Escape",
+      "Home",
+      "LeftAlt",
+      "Tab"
+    ],
+    "GroupType": 3,
+    "ShowType": 1
   },
   {
-    "BlackListKeys": [],
+    "SettableInControlTypes": [],
     "ActionName": "Battle_TriggerUltra",
-    "SettableInControlTypes": [],
-    "ShowType": 2,
-    "GroupType": 3
+    "BlackListKeys": [],
+    "GroupType": 3,
+    "ShowType": 2
   },
   {
-    "BlackListKeys": [],
+    "SettableInControlTypes": [],
     "ActionName": "Menu_UltraSkill",
-    "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 3
+    "BlackListKeys": [],
+    "GroupType": 3,
+    "ShowType": 3
   },
   {
-    "BlackListKeys": [],
-    "ActionName": "Battle_SkillRelease",
     "SettableInControlTypes": [],
-    "ShowType": 3,
-    "GroupType": 3
+    "ActionName": "Battle_SkillRelease",
+    "BlackListKeys": [],
+    "GroupType": 3,
+    "ShowType": 3
   }
 ]

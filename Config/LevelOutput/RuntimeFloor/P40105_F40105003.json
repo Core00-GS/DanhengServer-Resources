@@ -101,6 +101,7 @@
       "LoadOnInitial": true
     }
   },
+  "ValidSubmapList": [],
   "IsRestartLevelGraph": true,
   "EnableGroupStreaming": true,
   "EnableGroupSpaceConflict": true,

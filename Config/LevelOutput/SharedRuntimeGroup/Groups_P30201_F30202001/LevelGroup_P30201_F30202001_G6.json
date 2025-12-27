@@ -45,7 +45,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bbd\u9614\u533a\u57df",
+      "Name": "宽阔区域",
       "RotY": 342.0,
       "ID": 1,
       "PosX": 123.9,
@@ -89,7 +89,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u77ff\u8109\u533a\u57df",
+      "Name": "矿脉区域",
       "ID": 2,
       "PosX": 185.8,
       "PosY": 60.1,
@@ -132,7 +132,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6d1e\u7a74\u533a\u57df",
+      "Name": "洞穴区域",
       "RotY": 60.0,
       "ID": 3,
       "PosX": 153.9,
@@ -176,7 +176,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6d1e\u7a74\u533a\u57df",
+      "Name": "洞穴区域",
       "ID": 4,
       "PosX": 254.8,
       "PosY": 50.3,
@@ -219,7 +219,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bbd\u9614\u533a\u57df",
+      "Name": "宽阔区域",
       "ID": 5,
       "PosX": 246.2,
       "PosY": 50.3,
@@ -262,7 +262,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bbd\u9614\u533a\u57df",
+      "Name": "宽阔区域",
       "ID": 6,
       "PosX": 179.8,
       "PosY": 50.3,

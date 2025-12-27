@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Bailu_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -97,38 +96,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 128849019
+                    "FixedValue": {
+                      "RawValue": 128849019,
+                      "Value": 0.03
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   }
                 }
@@ -144,8 +150,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 403726925
+                "FixedValue": {
+                  "RawValue": 403726925,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -205,8 +212,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 455266532
+                "FixedValue": {
+                  "RawValue": 455266532,
+                  "Value": 0.11
                 }
               },
               "TaskEnabled": true,
@@ -244,8 +252,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 386547057
+                    "FixedValue": {
+                      "RawValue": 386547057,
+                      "Value": 0.09
                     }
                   },
                   "TaskEnabled": true,
@@ -276,8 +285,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 322122546
+                    "FixedValue": {
+                      "RawValue": 322122546,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -329,8 +339,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 455266532
+                    "FixedValue": {
+                      "RawValue": 455266532,
+                      "Value": 0.11
                     }
                   },
                   "TaskEnabled": true,
@@ -368,8 +379,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 279172873
+                        "FixedValue": {
+                          "RawValue": 279172873,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -400,8 +412,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 403726925
+                        "FixedValue": {
+                          "RawValue": 403726925,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -453,8 +466,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 455266532
+                        "FixedValue": {
+                          "RawValue": 455266532,
+                          "Value": 0.11
                         }
                       },
                       "TaskEnabled": true,
@@ -483,8 +497,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 279172873
+                        "FixedValue": {
+                          "RawValue": 279172873,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -515,8 +530,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 403726925
+                        "FixedValue": {
+                          "RawValue": 403726925,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -568,8 +584,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 455266532
+                        "FixedValue": {
+                          "RawValue": 455266532,
+                          "Value": 0.11
                         }
                       },
                       "TaskEnabled": true,
@@ -589,8 +606,7 @@
     {
       "Name": "LocalPlayer_Bailu_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -614,8 +630,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 386547057
+            "FixedValue": {
+              "RawValue": 386547057,
+              "Value": 0.09
             }
           },
           "TaskEnabled": true,
@@ -629,8 +646,9 @@
           },
           "ID": 121101,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -653,8 +671,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 455266532
+            "FixedValue": {
+              "RawValue": 455266532,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -662,5 +681,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Bailu": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

@@ -116,8 +116,9 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -143,8 +144,9 @@
       },
       "ModifierName": "ADV_Maze_Misha_TriggerDisappearEffect",
       "LifeTime": {
-        "fixedValue": {
-          "RawValue": -149061134974976
+        "FixedValue": {
+          "RawValue": -149061134974976,
+          "Value": -34706.0
         }
       },
       "TaskEnabled": true,
@@ -356,8 +358,9 @@
         "TriggerName": "MishaFieldTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 24051816860
+          "FixedValue": {
+            "RawValue": 24051816860,
+            "Value": 5.6
           }
         },
         "CenterOffset": {
@@ -408,8 +411,9 @@
         "TriggerName": "MishaFieldTrigger_Prop",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 24051816860
+          "FixedValue": {
+            "RawValue": 24051816860,
+            "Value": 5.6
           }
         },
         "CenterOffset": {
@@ -437,6 +441,7 @@
               "Alias": "TaskActionTarget"
             },
             "IsSkill": true,
+            "PauseReason": "Task",
             "TaskEnabled": true,
             "IsClientOnly": true
           }
@@ -449,6 +454,7 @@
               "Alias": "TaskActionTarget"
             },
             "IsSkill": true,
+            "PauseReason": "Task",
             "TaskEnabled": true,
             "IsClientOnly": true
           }

@@ -43,8 +43,7 @@
         "Radius": 3.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -62,7 +61,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "SecretMissionIcon",
+      "InteractIconType": {
+        "JsonValueStr": "SecretMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -71,6 +72,7 @@
       },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -82,11 +84,11 @@
         }
       },
       "Name": "Prop1",
-      "RotY": 30.04615,
+      "RotY": 61.75627,
       "ID": 300001,
-      "PosX": -231.34,
-      "PosY": 20.92062,
-      "PosZ": -224.34
+      "PosX": -260.79,
+      "PosY": 15.068,
+      "PosZ": -203.53
     }
   ],
   "DistrictList": [],

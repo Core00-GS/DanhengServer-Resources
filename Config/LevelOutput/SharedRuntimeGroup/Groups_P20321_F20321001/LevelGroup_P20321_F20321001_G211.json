@@ -3,6 +3,7 @@
   "AreaAnchorName": "LevelArea_P20321_F20321001_G211",
   "SaveType": "Reset",
   "SavedValueCondition": {
+    "Conditions": [],
     "Operation": "And"
   },
   "LoadOnInitial": true,
@@ -13,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Audio.Sound",
+      "TagHash": 1757672304
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -45,8 +51,7 @@
         "Radius": 1.0,
         "DimX": 46.0,
         "DimY": 10.0,
-        "DimZ": 46.0,
-        "PointList": []
+        "DimZ": 46.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -89,8 +94,7 @@
         "Radius": 80.0,
         "DimX": 100.0,
         "DimY": 50.0,
-        "DimZ": 150.0,
-        "PointList": []
+        "DimZ": 150.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -137,8 +141,7 @@
         "Radius": 1.0,
         "DimX": 24.7,
         "DimY": 18.9,
-        "DimZ": 47.3,
-        "PointList": []
+        "DimZ": 47.3
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -182,8 +185,7 @@
         "Radius": 1.0,
         "DimX": 24.7,
         "DimY": 18.9,
-        "DimZ": 47.3,
-        "PointList": []
+        "DimZ": 47.3
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -227,8 +229,7 @@
         "Radius": 1.0,
         "DimX": 105.0,
         "DimY": 30.0,
-        "DimZ": 100.0,
-        "PointList": []
+        "DimZ": 100.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -272,8 +273,7 @@
         "Radius": 1.0,
         "DimX": 105.0,
         "DimY": 30.0,
-        "DimZ": 100.0,
-        "PointList": []
+        "DimZ": 100.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -322,8 +322,7 @@
         "Radius": 1.0,
         "DimX": 18.0,
         "DimY": 30.0,
-        "DimZ": 100.0,
-        "PointList": []
+        "DimZ": 100.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1233,8 +1232,7 @@
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 10.0,
-        "DimZ": 10.0,
-        "PointList": []
+        "DimZ": 10.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -1947,5 +1945,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

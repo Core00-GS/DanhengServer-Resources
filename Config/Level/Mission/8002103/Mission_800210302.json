@@ -6,8 +6,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 25769803776
+            "FixedValue": {
+              "RawValue": 25769803776,
+              "Value": 6.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -16,6 +17,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -29,8 +31,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 25769803776
+            "FixedValue": {
+              "RawValue": 25769803776,
+              "Value": 6.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -39,6 +42,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

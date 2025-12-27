@@ -1,6 +1,7 @@
 [
   {
-    "RoomTypeList": []
+    "RoomTypeList": [],
+    "RoomGroupID": 0
   },
   {
     "RoomTypeList": [

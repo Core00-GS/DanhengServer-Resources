@@ -1,71 +1,100 @@
 [
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeFire.png",
+    "BuffType": "FirstAttributeContinue",
     "BuffJoint": true,
     "BuffDisplay": true,
-    "BuffType": "FirstAttributeContinue"
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeIce.png",
+    "BuffType": "SecondAttributeContinue",
     "BuffJoint": true,
     "BuffDisplay": true,
-    "BuffType": "SecondAttributeContinue"
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeImaginary.png",
+    "BuffType": "ThirdAttributeContinue",
     "BuffJoint": true,
     "BuffDisplay": true,
-    "BuffType": "ThirdAttributeContinue"
+    "BuffRelease": false
   },
   {
     "IconPath": "",
-    "BuffType": "FirstAttributeStart"
+    "BuffType": "FirstAttributeStart",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": false
   },
   {
     "IconPath": "",
-    "BuffType": "SecondAttributeStart"
+    "BuffType": "SecondAttributeStart",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": false
   },
   {
     "IconPath": "",
-    "BuffType": "ThirdAttributeStart"
+    "BuffType": "ThirdAttributeStart",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypePhysical.png",
+    "BuffType": "Revive",
+    "BuffJoint": false,
     "BuffDisplay": true,
-    "BuffType": "Revive"
+    "BuffRelease": false
   },
   {
     "IconPath": "",
-    "BuffType": "Bank"
+    "BuffType": "Bank",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": false
   },
   {
     "IconPath": "",
-    "BuffRelease": true,
-    "BuffType": "ReRoll"
+    "BuffType": "ReRoll",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": true
   },
   {
     "IconPath": "",
-    "BuffRelease": true,
-    "BuffType": "DivideEqual"
+    "BuffType": "DivideEqual",
+    "BuffJoint": false,
+    "BuffDisplay": false,
+    "BuffRelease": true
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffType": "FirstAttributeGainRate",
+    "BuffJoint": false,
     "BuffDisplay": true,
-    "BuffType": "FirstAttributeGainRate"
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffType": "SecondAttributeGainRate",
+    "BuffJoint": false,
     "BuffDisplay": true,
-    "BuffType": "SecondAttributeGainRate"
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeWind.png",
+    "BuffType": "ThirdAttributeGainRate",
+    "BuffJoint": false,
     "BuffDisplay": true,
-    "BuffType": "ThirdAttributeGainRate"
+    "BuffRelease": false
   },
   {
     "IconPath": "SpriteOutput/IconDamageType/IconDamageTypeQuestion.png",
+    "BuffType": "CheckPointRelax",
+    "BuffJoint": false,
     "BuffDisplay": true,
-    "BuffType": "CheckPointRelax"
+    "BuffRelease": false
   }
 ]

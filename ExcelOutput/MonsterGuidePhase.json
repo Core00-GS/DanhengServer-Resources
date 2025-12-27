@@ -18,8 +18,8 @@
       "Hash": 567174221,
       "Hash64": 17152208794596079138
     },
-    "PhaseID": 10011,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10011
   },
   {
     "SkillList": [
@@ -39,8 +39,8 @@
       "Hash": -998909720,
       "Hash64": 17352600428542749487
     },
-    "PhaseID": 10012,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10012
   },
   {
     "SkillList": [
@@ -60,8 +60,8 @@
       "Hash": 567174218,
       "Hash64": 8364229852576667624
     },
-    "PhaseID": 10021,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10021
   },
   {
     "SkillList": [
@@ -81,8 +81,8 @@
       "Hash": -998909723,
       "Hash64": 13797339014755154816
     },
-    "PhaseID": 10022,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10022
   },
   {
     "SkillList": [
@@ -103,8 +103,8 @@
       "Hash": 567174219,
       "Hash64": 8214463563881573296
     },
-    "PhaseID": 10031,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10031
   },
   {
     "SkillList": [
@@ -125,8 +125,8 @@
       "Hash": 567174224,
       "Hash64": 10455590786434735822
     },
-    "PhaseID": 10041,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10041
   },
   {
     "SkillList": [
@@ -147,8 +147,8 @@
       "Hash": -998909717,
       "Hash64": 809963971532301865
     },
-    "PhaseID": 10042,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10042
   },
   {
     "SkillList": [
@@ -167,8 +167,8 @@
       "Hash": 567174225,
       "Hash64": 13235060811715229708
     },
-    "PhaseID": 10051,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10051
   },
   {
     "SkillList": [
@@ -187,8 +187,8 @@
       "Hash": -998909716,
       "Hash64": 6495366953603358932
     },
-    "PhaseID": 10052,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10052
   },
   {
     "SkillList": [
@@ -209,8 +209,8 @@
       "Hash": 567174222,
       "Hash64": 3600462055575471554
     },
-    "PhaseID": 10061,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10061
   },
   {
     "SkillList": [
@@ -229,8 +229,8 @@
       "Hash": -998909719,
       "Hash64": 17683137825565232268
     },
-    "PhaseID": 10062,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10062
   },
   {
     "SkillList": [
@@ -251,8 +251,8 @@
       "Hash": 567174223,
       "Hash64": 4029691199050306581
     },
-    "PhaseID": 10071,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10071
   },
   {
     "SkillList": [
@@ -271,8 +271,8 @@
       "Hash": -998909718,
       "Hash64": 9984081504292593674
     },
-    "PhaseID": 10072,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10072
   },
   {
     "SkillList": [
@@ -292,8 +292,8 @@
       "Hash": 567174212,
       "Hash64": 16005905091395360865
     },
-    "PhaseID": 10081,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10081
   },
   {
     "SkillList": [
@@ -313,8 +313,8 @@
       "Hash": 567174213,
       "Hash64": 2681739239385082309
     },
-    "PhaseID": 10091,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10091
   },
   {
     "SkillList": [
@@ -334,7 +334,151 @@
       "Hash": -998909728,
       "Hash64": 16998656340389026524
     },
-    "PhaseID": 10092,
-    "Difficulty": 1
+    "Difficulty": 1,
+    "PhaseID": 10092
+  },
+  {
+    "SkillList": [
+      101011,
+      101012
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": 329784008,
+      "Hash64": 8418997367041645264
+    },
+    "PhaseAnswer": {
+      "Hash": -1818930165,
+      "Hash64": 11605891887406924763
+    },
+    "PhaseDescription": {
+      "Hash": 2113055185,
+      "Hash64": 18174887767862330588
+    },
+    "Difficulty": 1,
+    "PhaseID": 10101
+  },
+  {
+    "SkillList": [
+      101021
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": 329784011,
+      "Hash64": 128926333920261933
+    },
+    "PhaseAnswer": {
+      "Hash": -1818930168,
+      "Hash64": 15463087235230225546
+    },
+    "PhaseDescription": {
+      "Hash": 1709770658,
+      "Hash64": 3560458943846700002
+    },
+    "Difficulty": 1,
+    "PhaseID": 10102
+  },
+  {
+    "SkillList": [
+      101111,
+      101112
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": 1895867949,
+      "Hash64": 5402316294344185877
+    },
+    "PhaseAnswer": {
+      "Hash": -252846224,
+      "Hash64": 6811604376636061175
+    },
+    "PhaseDescription": {
+      "Hash": 2113055186,
+      "Hash64": 3153385086095093897
+    },
+    "Difficulty": 1,
+    "PhaseID": 10111
+  },
+  {
+    "SkillList": [
+      101211,
+      101212
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": -833015406,
+      "Hash64": 14915292679626720428
+    },
+    "PhaseAnswer": {
+      "Hash": 1313237717,
+      "Hash64": 2269184897562236178
+    },
+    "PhaseDescription": {
+      "Hash": 2113055183,
+      "Hash64": 13952367771602998112
+    },
+    "Difficulty": 1,
+    "PhaseID": 10121
+  },
+  {
+    "SkillList": [
+      101221
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": -833015403,
+      "Hash64": 53376491886851136
+    },
+    "PhaseAnswer": {
+      "Hash": 1313237714,
+      "Hash64": 18366988889718819876
+    },
+    "PhaseDescription": {
+      "Hash": 1709770656,
+      "Hash64": 16648531308882946214
+    },
+    "Difficulty": 1,
+    "PhaseID": 10122
+  },
+  {
+    "SkillList": [
+      101311,
+      101312
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": 733068535,
+      "Hash64": 10451500870563420407
+    },
+    "PhaseAnswer": {
+      "Hash": -1415645638,
+      "Hash64": 13661117223460762692
+    },
+    "PhaseDescription": {
+      "Hash": 2113055184,
+      "Hash64": 5899536509101241693
+    },
+    "Difficulty": 1,
+    "PhaseID": 10131
+  },
+  {
+    "SkillList": [
+      101321
+    ],
+    "PhasePic": "",
+    "PhaseName": {
+      "Hash": 733068538,
+      "Hash64": 4759282897862243532
+    },
+    "PhaseAnswer": {
+      "Hash": -1415645641,
+      "Hash64": 13694598122027083537
+    },
+    "PhaseDescription": {
+      "Hash": 1709770657,
+      "Hash64": 12205470844566784484
+    },
+    "Difficulty": 1,
+    "PhaseID": 10132
   }
 ]

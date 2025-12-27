@@ -6,6 +6,7 @@
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
           "ResumeAfterInterrupt": true,
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

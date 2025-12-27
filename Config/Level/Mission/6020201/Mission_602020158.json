@@ -6,8 +6,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -37,13 +38,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 322122547200
+            "FixedValue": {
+              "RawValue": 322122547200,
+              "Value": 75.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718025573105664
+            "FixedValue": {
+              "RawValue": 1718025573105664,
+              "Value": 400009.0
             }
           },
           "CreateList": [],
@@ -53,13 +56,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 322122547200
+            "FixedValue": {
+              "RawValue": 322122547200,
+              "Value": 75.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718029868072960
+            "FixedValue": {
+              "RawValue": 1718029868072960,
+              "Value": 400010.0
             }
           },
           "TaskEnabled": true,
@@ -68,13 +73,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 322122547200
+            "FixedValue": {
+              "RawValue": 322122547200,
+              "Value": 75.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718034163040256
+            "FixedValue": {
+              "RawValue": 1718034163040256,
+              "Value": 400011.0
             }
           },
           "TaskEnabled": true,
@@ -91,13 +98,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 322122547200
+                "FixedValue": {
+                  "RawValue": 322122547200,
+                  "Value": 75.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288558908276736
+                "FixedValue": {
+                  "RawValue": 1288558908276736,
+                  "Value": 300016.0
                 }
               }
             }
@@ -130,13 +139,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 322122547200
+                "FixedValue": {
+                  "RawValue": 322122547200,
+                  "Value": 75.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }

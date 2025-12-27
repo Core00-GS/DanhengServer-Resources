@@ -75,6 +75,7 @@
     "LocalPlayer_RuanMei_MazeSkill",
     "LocalPlayer_CommonAbility_AttackBreak"
   ],
+  "DynamicValues": {},
   "BeHitRotate": true,
   "EnableFootIK": true,
   "FootIKConfig": {
@@ -93,5 +94,6 @@
     "PipaA_JNT"
   ],
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

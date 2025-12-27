@@ -14,6 +14,7 @@
           "$type": "RPG.GameCore.SetMissionCustomValue",
           "SubmissionID": 414010602,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isLocal": true,
             "ValidValueParamList": [
               1,
@@ -29,18 +30,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 86475833610338304
+            "FixedValue": {
+              "RawValue": 86475833610338304,
+              "Value": 20134224.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

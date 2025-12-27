@@ -16,7 +16,7 @@
   "LoadOnInitial": true,
   "GroupStateList": [
     {
-      "Comment": "\u5b8c\u6210\u5f15\u5bfc",
+      "Comment": "完成引导",
       "DstState": 1
     }
   ],
@@ -68,6 +68,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,

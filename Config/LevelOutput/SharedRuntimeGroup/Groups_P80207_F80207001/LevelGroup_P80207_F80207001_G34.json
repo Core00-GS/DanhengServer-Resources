@@ -6,6 +6,7 @@
   "SaveType": "Permanent",
   "LoadSide": "Server",
   "LoadOnInitial": true,
+  "ValueSource": {},
   "ConflictIDList": [],
   "IsHoyoGroup": true,
   "StreamingTemplateType": "Standard",
@@ -23,12 +24,15 @@
       "NPCID": 3013,
       "LevelGraph": "Config/Level/Maze/MazeRogue/Maze_Rogue_NPC_EventPainting.json",
       "LoadOnInitial": true,
+      "ValueSource": {},
+      "StaticNPC": true,
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
       "DefaultLookAtMode": "LookPlayer",
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
+      "AdditiveResidentEffect": [],
       "IsMapContent": true,
       "MiniMapIconType": 55,
       "BornType": "Mission",
@@ -38,8 +42,14 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
+      "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 10.0,
@@ -49,6 +59,11 @@
           "NeedFadeIn": true,
           "NeedFadeOut": true
         }
+      },
+      "ModelPresetConfig": {},
+      "TriggerValidGuest": {
+        "LocalPlayer": true,
+        "Teammember": true
       },
       "Name": "NPC1",
       "RotY": 14.99995,
@@ -60,5 +75,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

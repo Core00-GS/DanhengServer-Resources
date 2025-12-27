@@ -26,7 +26,7 @@
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "AnchorList": [
     {
-      "Name": "\u8c03\u67e5\u70b9\u6307\u5f15",
+      "Name": "调查点指引",
       "ID": 1,
       "PosX": 39.8,
       "PosY": 6.043837,
@@ -78,6 +78,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -128,6 +131,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,

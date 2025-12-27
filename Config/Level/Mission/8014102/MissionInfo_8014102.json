@@ -94,20 +94,26 @@
       "TakeParamIntList": [
         801410202
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
         801410219,
         801410220
       ],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 2,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "IsShowProgress": true,
-      "WayPointFloorID": 43103001
+      "GotoParam": [],
+      "WayPointFloorID": 43103001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 801410205,
@@ -472,21 +478,28 @@
       "TakeParamIntList": [
         801410202
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "FinishType": "AetherDivideCollectSpiritType",
       "ParamType": "NoPara",
       "ParamIntList": [
         801410219,
         801410220
       ],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 3,
       "IsBackTrack": true,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
+      "GotoParam": [],
       "WayPointFloorID": 43103001,
       "WayPointGroupID": 8,
-      "WayPointEntityID": 200001
+      "WayPointEntityID": 200001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 801410220,
@@ -497,21 +510,28 @@
       "TakeParamIntList": [
         801410202
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "FinishType": "AetherDivideCollectSpiritType",
       "ParamType": "NoPara",
       "ParamIntList": [
         801410219,
         801410220
       ],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 4,
       "IsBackTrack": true,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
+      "GotoParam": [],
       "WayPointFloorID": 43103001,
       "WayPointGroupID": 8,
-      "WayPointEntityID": 200006
+      "WayPointEntityID": 200006,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 801410221,

@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 223338299392
+            "FixedValue": {
+              "RawValue": 223338299392,
+              "Value": 52.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288515958603776
+            "FixedValue": {
+              "RawValue": 1288515958603776,
+              "Value": 300006.0
             }
           },
           "CreateList": [],
@@ -22,13 +24,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 223338299392
+            "FixedValue": {
+              "RawValue": 223338299392,
+              "Value": 52.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288524548538368
+            "FixedValue": {
+              "RawValue": 1288524548538368,
+              "Value": 300008.0
             }
           },
           "CreateList": [],
@@ -41,13 +45,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 223338299392
+            "FixedValue": {
+              "RawValue": 223338299392,
+              "Value": 52.0
             }
           },
           "DestroyList": [],
@@ -60,13 +66,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288520253571072
+            "FixedValue": {
+              "RawValue": 1288520253571072,
+              "Value": 300007.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 223338299392
+            "FixedValue": {
+              "RawValue": 223338299392,
+              "Value": 52.0
             }
           },
           "DestroyList": [],

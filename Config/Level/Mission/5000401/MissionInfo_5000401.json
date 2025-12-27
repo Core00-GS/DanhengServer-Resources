@@ -148,7 +148,7 @@
       ],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CheckFloor": true,
       "CustomValueReward": [],
@@ -592,6 +592,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1
@@ -599,6 +601,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -609,6 +613,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -626,6 +632,8 @@
     },
     {
       "Index": 3,
+      "Name": "OldValue_3",
+      "Type": "ClientOnly",
       "isLocal": true,
       "isRange": true,
       "ValidValueParamList": [
@@ -635,6 +643,8 @@
     },
     {
       "Index": 4,
+      "Name": "OldValue_4",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,

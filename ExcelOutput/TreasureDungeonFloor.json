@@ -3,6 +3,9 @@
     "MapID": [
       1001
     ],
+    "DungeonBuffID": [
+      309
+    ],
     "HardLevelList": [
       25,
       35,
@@ -12,13 +15,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      309
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 10,
-    "EliteGroup2": 400
+    "EliteGroup2": 400,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -27,6 +28,9 @@
       1007,
       1008
     ],
+    "DungeonBuffID": [
+      102
+    ],
     "HardLevelList": [
       26,
       36,
@@ -36,14 +40,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      102
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 401,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 401
+    "FloorID": 2,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -52,6 +53,9 @@
       1011,
       1012
     ],
+    "DungeonBuffID": [
+      107
+    ],
     "HardLevelList": [
       26,
       36,
@@ -61,14 +65,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      107
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 3,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -77,6 +78,9 @@
       1015,
       1016
     ],
+    "DungeonBuffID": [
+      104
+    ],
     "HardLevelList": [
       27,
       37,
@@ -86,14 +90,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      104
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 4,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -102,6 +103,9 @@
       1019,
       1020
     ],
+    "DungeonBuffID": [
+      105
+    ],
     "HardLevelList": [
       27,
       37,
@@ -111,14 +115,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      105
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 5,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -127,6 +128,9 @@
       1023,
       1024
     ],
+    "DungeonBuffID": [
+      106
+    ],
     "HardLevelList": [
       28,
       38,
@@ -136,14 +140,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      106
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 6,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -152,6 +153,9 @@
       1027,
       1028
     ],
+    "DungeonBuffID": [
+      107
+    ],
     "HardLevelList": [
       28,
       38,
@@ -161,19 +165,19 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      107
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 7,
+    "DungeonID": 10
   },
   {
     "MapID": [
       1037,
       1038
+    ],
+    "DungeonBuffID": [
+      110
     ],
     "HardLevelList": [
       29,
@@ -184,14 +188,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      110
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 10,
-    "EliteGroup2": 402
+    "FloorID": 8,
+    "DungeonID": 10
   },
   {
     "MapID": [
@@ -200,6 +201,9 @@
       11003,
       11004
     ],
+    "DungeonBuffID": [
+      1101
+    ],
     "HardLevelList": [
       27,
       37,
@@ -209,13 +213,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      1101
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 11
   },
   {
     "MapID": [
@@ -224,6 +226,9 @@
       11007,
       11008
     ],
+    "DungeonBuffID": [
+      1102
+    ],
     "HardLevelList": [
       28,
       38,
@@ -233,13 +238,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      1102
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 2,
+    "DungeonID": 11
   },
   {
     "MapID": [
@@ -248,6 +251,9 @@
       11011,
       11012
     ],
+    "DungeonBuffID": [
+      1103
+    ],
     "HardLevelList": [
       28,
       38,
@@ -257,13 +263,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      1103
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 3,
+    "DungeonID": 11
   },
   {
     "MapID": [
@@ -272,6 +276,9 @@
       11019,
       11020
     ],
+    "DungeonBuffID": [
+      1105
+    ],
     "HardLevelList": [
       29,
       39,
@@ -281,13 +288,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      1105
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 4,
+    "DungeonID": 11
   },
   {
     "MapID": [
@@ -296,6 +301,9 @@
       11027,
       11028
     ],
+    "DungeonBuffID": [
+      1107
+    ],
     "HardLevelList": [
       29,
       39,
@@ -305,18 +313,19 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      1107
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 5,
+    "DungeonID": 11
   },
   {
     "MapID": [
       11037,
       11038
+    ],
+    "DungeonBuffID": [
+      1110
     ],
     "HardLevelList": [
       30,
@@ -327,13 +336,11 @@
       80,
       85
     ],
-    "DungeonBuffID": [
-      1110
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
-    "DungeonID": 11,
-    "EliteGroup2": 413
+    "EliteGroup2": 413,
+    "AddExploreValue": 0,
+    "FloorID": 6,
+    "DungeonID": 11
   },
   {
     "MapID": [
@@ -342,6 +349,9 @@
       2003,
       2004
     ],
+    "DungeonBuffID": [
+      201
+    ],
     "HardLevelList": [
       25,
       35,
@@ -351,13 +361,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      201
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 20,
-    "EliteGroup2": 400
+    "EliteGroup2": 400,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -366,6 +374,9 @@
       2007,
       2008
     ],
+    "DungeonBuffID": [
+      202
+    ],
     "HardLevelList": [
       26,
       36,
@@ -375,14 +386,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      202
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 401,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 401
+    "FloorID": 2,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -391,6 +399,9 @@
       2011,
       2012
     ],
+    "DungeonBuffID": [
+      203
+    ],
     "HardLevelList": [
       26,
       36,
@@ -400,14 +411,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      203
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 3,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -416,6 +424,9 @@
       2015,
       2016
     ],
+    "DungeonBuffID": [
+      204
+    ],
     "HardLevelList": [
       27,
       37,
@@ -425,14 +436,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      204
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 4,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -441,6 +449,9 @@
       2019,
       2020
     ],
+    "DungeonBuffID": [
+      205
+    ],
     "HardLevelList": [
       27,
       37,
@@ -450,14 +461,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      205
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 5,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -466,6 +474,9 @@
       2023,
       2024
     ],
+    "DungeonBuffID": [
+      206
+    ],
     "HardLevelList": [
       28,
       38,
@@ -475,14 +486,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      206
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 6,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -491,6 +499,9 @@
       2027,
       2028
     ],
+    "DungeonBuffID": [
+      207
+    ],
     "HardLevelList": [
       28,
       38,
@@ -500,19 +511,19 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      207
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 7,
+    "DungeonID": 20
   },
   {
     "MapID": [
       2039,
       2040
+    ],
+    "DungeonBuffID": [
+      210
     ],
     "HardLevelList": [
       29,
@@ -523,14 +534,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      210
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 20,
-    "EliteGroup2": 402
+    "FloorID": 8,
+    "DungeonID": 20
   },
   {
     "MapID": [
@@ -539,6 +547,9 @@
       12003,
       12004
     ],
+    "DungeonBuffID": [
+      2101
+    ],
     "HardLevelList": [
       27,
       37,
@@ -548,13 +559,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      2101
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 21
   },
   {
     "MapID": [
@@ -563,6 +572,9 @@
       12011,
       12012
     ],
+    "DungeonBuffID": [
+      2103
+    ],
     "HardLevelList": [
       28,
       38,
@@ -572,13 +584,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      2103
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 2,
+    "DungeonID": 21
   },
   {
     "MapID": [
@@ -587,6 +597,9 @@
       12019,
       12020
     ],
+    "DungeonBuffID": [
+      2105
+    ],
     "HardLevelList": [
       28,
       38,
@@ -596,13 +609,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      2105
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 3,
+    "DungeonID": 21
   },
   {
     "MapID": [
@@ -611,6 +622,9 @@
       12023,
       12024
     ],
+    "DungeonBuffID": [
+      2106
+    ],
     "HardLevelList": [
       29,
       39,
@@ -620,13 +634,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      2106
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 4,
+    "DungeonID": 21
   },
   {
     "MapID": [
@@ -635,6 +647,9 @@
       12031,
       12032
     ],
+    "DungeonBuffID": [
+      2108
+    ],
     "HardLevelList": [
       29,
       39,
@@ -644,18 +659,19 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      2108
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 5,
+    "DungeonID": 21
   },
   {
     "MapID": [
       12039,
       12040
+    ],
+    "DungeonBuffID": [
+      2110
     ],
     "HardLevelList": [
       30,
@@ -666,13 +682,11 @@
       80,
       85
     ],
-    "DungeonBuffID": [
-      2110
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
-    "DungeonID": 21,
-    "EliteGroup2": 413
+    "EliteGroup2": 413,
+    "AddExploreValue": 0,
+    "FloorID": 6,
+    "DungeonID": 21
   },
   {
     "MapID": [
@@ -681,6 +695,9 @@
       3003,
       3004
     ],
+    "DungeonBuffID": [
+      301
+    ],
     "HardLevelList": [
       25,
       35,
@@ -690,13 +707,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      301
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 30,
-    "EliteGroup2": 400
+    "EliteGroup2": 400,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -705,6 +720,9 @@
       3007,
       3008
     ],
+    "DungeonBuffID": [
+      302
+    ],
     "HardLevelList": [
       26,
       36,
@@ -714,14 +732,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      302
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 401,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 401
+    "FloorID": 2,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -730,6 +745,9 @@
       3011,
       3012
     ],
+    "DungeonBuffID": [
+      303
+    ],
     "HardLevelList": [
       26,
       36,
@@ -739,14 +757,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      303
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 3,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -755,6 +770,9 @@
       3015,
       3016
     ],
+    "DungeonBuffID": [
+      304
+    ],
     "HardLevelList": [
       27,
       37,
@@ -764,14 +782,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      304
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 4,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -780,6 +795,9 @@
       3019,
       3020
     ],
+    "DungeonBuffID": [
+      305
+    ],
     "HardLevelList": [
       27,
       37,
@@ -789,14 +807,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      305
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 5,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -805,6 +820,9 @@
       3023,
       3024
     ],
+    "DungeonBuffID": [
+      306
+    ],
     "HardLevelList": [
       28,
       38,
@@ -814,14 +832,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      306
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 6,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -830,6 +845,9 @@
       3027,
       3028
     ],
+    "DungeonBuffID": [
+      107
+    ],
     "HardLevelList": [
       28,
       38,
@@ -839,19 +857,19 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      107
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 7,
+    "DungeonID": 30
   },
   {
     "MapID": [
       3037,
       3038
+    ],
+    "DungeonBuffID": [
+      310
     ],
     "HardLevelList": [
       29,
@@ -862,14 +880,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      310
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 30,
-    "EliteGroup2": 402
+    "FloorID": 8,
+    "DungeonID": 30
   },
   {
     "MapID": [
@@ -878,6 +893,9 @@
       13003,
       13004
     ],
+    "DungeonBuffID": [
+      3101
+    ],
     "HardLevelList": [
       27,
       37,
@@ -887,13 +905,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      3101
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 31
   },
   {
     "MapID": [
@@ -902,6 +918,9 @@
       13011,
       13012
     ],
+    "DungeonBuffID": [
+      3103
+    ],
     "HardLevelList": [
       28,
       38,
@@ -911,13 +930,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      3103
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 2,
+    "DungeonID": 31
   },
   {
     "MapID": [
@@ -926,6 +943,9 @@
       13015,
       13016
     ],
+    "DungeonBuffID": [
+      3104
+    ],
     "HardLevelList": [
       28,
       38,
@@ -935,13 +955,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      3104
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 3,
+    "DungeonID": 31
   },
   {
     "MapID": [
@@ -950,6 +968,9 @@
       13019,
       13020
     ],
+    "DungeonBuffID": [
+      3105
+    ],
     "HardLevelList": [
       29,
       39,
@@ -959,13 +980,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      3105
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 4,
+    "DungeonID": 31
   },
   {
     "MapID": [
@@ -974,6 +993,9 @@
       13027,
       13028
     ],
+    "DungeonBuffID": [
+      3106
+    ],
     "HardLevelList": [
       29,
       39,
@@ -983,18 +1005,19 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      3106
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 5,
+    "DungeonID": 31
   },
   {
     "MapID": [
       13037,
       13038
+    ],
+    "DungeonBuffID": [
+      3110
     ],
     "HardLevelList": [
       30,
@@ -1005,13 +1028,11 @@
       80,
       85
     ],
-    "DungeonBuffID": [
-      3110
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
-    "DungeonID": 31,
-    "EliteGroup2": 415
+    "EliteGroup2": 415,
+    "AddExploreValue": 0,
+    "FloorID": 6,
+    "DungeonID": 31
   },
   {
     "MapID": [
@@ -1020,6 +1041,9 @@
       4003,
       4004
     ],
+    "DungeonBuffID": [
+      401
+    ],
     "HardLevelList": [
       25,
       35,
@@ -1029,13 +1053,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      401
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 40,
-    "EliteGroup2": 400
+    "EliteGroup2": 400,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1044,6 +1066,9 @@
       4007,
       4008
     ],
+    "DungeonBuffID": [
+      402
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1053,14 +1078,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      402
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 401,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 401
+    "FloorID": 2,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1069,6 +1091,9 @@
       4011,
       4012
     ],
+    "DungeonBuffID": [
+      408
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1078,14 +1103,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      408
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 3,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1094,6 +1116,9 @@
       4015,
       4016
     ],
+    "DungeonBuffID": [
+      404
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1103,14 +1128,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      404
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 4,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1119,6 +1141,9 @@
       4019,
       4020
     ],
+    "DungeonBuffID": [
+      403
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1128,14 +1153,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      403
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 5,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1144,6 +1166,9 @@
       4023,
       4024
     ],
+    "DungeonBuffID": [
+      406
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1153,14 +1178,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      406
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 6,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1169,6 +1191,9 @@
       4027,
       4028
     ],
+    "DungeonBuffID": [
+      107
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1178,19 +1203,19 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      107
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 7,
+    "DungeonID": 40
   },
   {
     "MapID": [
       4037,
       4038
+    ],
+    "DungeonBuffID": [
+      410
     ],
     "HardLevelList": [
       29,
@@ -1201,14 +1226,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      410
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 40,
-    "EliteGroup2": 402
+    "FloorID": 8,
+    "DungeonID": 40
   },
   {
     "MapID": [
@@ -1217,6 +1239,9 @@
       14007,
       14008
     ],
+    "DungeonBuffID": [
+      4102
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1226,13 +1251,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      4102
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 41
   },
   {
     "MapID": [
@@ -1241,6 +1264,9 @@
       14011,
       14012
     ],
+    "DungeonBuffID": [
+      4105
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1250,13 +1276,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      4105
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 2,
+    "DungeonID": 41
   },
   {
     "MapID": [
@@ -1265,6 +1289,9 @@
       14015,
       14016
     ],
+    "DungeonBuffID": [
+      4104
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1274,13 +1301,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      4104
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 3,
+    "DungeonID": 41
   },
   {
     "MapID": [
@@ -1289,6 +1314,9 @@
       14019,
       14020
     ],
+    "DungeonBuffID": [
+      4103
+    ],
     "HardLevelList": [
       29,
       39,
@@ -1298,13 +1326,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      4103
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 4,
+    "DungeonID": 41
   },
   {
     "MapID": [
@@ -1313,6 +1339,9 @@
       14027,
       14028
     ],
+    "DungeonBuffID": [
+      4107
+    ],
     "HardLevelList": [
       29,
       39,
@@ -1322,18 +1351,19 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      4107
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 5,
+    "DungeonID": 41
   },
   {
     "MapID": [
       14037,
       14038
+    ],
+    "DungeonBuffID": [
+      4110
     ],
     "HardLevelList": [
       30,
@@ -1344,13 +1374,11 @@
       80,
       85
     ],
-    "DungeonBuffID": [
-      4110
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
-    "DungeonID": 41,
-    "EliteGroup2": 413
+    "EliteGroup2": 413,
+    "AddExploreValue": 0,
+    "FloorID": 6,
+    "DungeonID": 41
   },
   {
     "MapID": [
@@ -1359,6 +1387,9 @@
       5003,
       5004
     ],
+    "DungeonBuffID": [
+      501
+    ],
     "HardLevelList": [
       25,
       35,
@@ -1368,13 +1399,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      501
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 50,
-    "EliteGroup2": 400
+    "EliteGroup2": 400,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1383,6 +1412,9 @@
       5007,
       5008
     ],
+    "DungeonBuffID": [
+      502
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1392,14 +1424,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      502
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 401,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 401
+    "FloorID": 2,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1408,6 +1437,9 @@
       5011,
       5012
     ],
+    "DungeonBuffID": [
+      503
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1417,14 +1449,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      503
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 3,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1433,6 +1462,9 @@
       5015,
       5016
     ],
+    "DungeonBuffID": [
+      504
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1442,14 +1474,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      504
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 4,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1458,6 +1487,9 @@
       5019,
       5020
     ],
+    "DungeonBuffID": [
+      505
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1467,14 +1499,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      505
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 5,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1483,6 +1512,9 @@
       5023,
       5024
     ],
+    "DungeonBuffID": [
+      506
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1492,14 +1524,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      506
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 6,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1508,6 +1537,9 @@
       5027,
       5028
     ],
+    "DungeonBuffID": [
+      509
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1517,19 +1549,19 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      509
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 7,
+    "DungeonID": 50
   },
   {
     "MapID": [
       5037,
       5038
+    ],
+    "DungeonBuffID": [
+      510
     ],
     "HardLevelList": [
       29,
@@ -1540,14 +1572,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      510
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
+    "EliteGroup2": 402,
     "AddExploreValue": 8,
-    "DungeonID": 50,
-    "EliteGroup2": 402
+    "FloorID": 8,
+    "DungeonID": 50
   },
   {
     "MapID": [
@@ -1555,6 +1584,9 @@
       15002,
       15003,
       15004
+    ],
+    "DungeonBuffID": [
+      5101
     ],
     "HardLevelList": [
       25,
@@ -1565,13 +1597,11 @@
       75,
       80
     ],
-    "DungeonBuffID": [
-      5101
-    ],
-    "FloorID": 1,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 1,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1580,6 +1610,9 @@
       15007,
       15008
     ],
+    "DungeonBuffID": [
+      5102
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1589,13 +1622,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      5102
-    ],
-    "FloorID": 2,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 410
+    "EliteGroup2": 410,
+    "AddExploreValue": 0,
+    "FloorID": 2,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1604,6 +1635,9 @@
       15011,
       15012
     ],
+    "DungeonBuffID": [
+      5103
+    ],
     "HardLevelList": [
       26,
       36,
@@ -1613,13 +1647,11 @@
       76,
       81
     ],
-    "DungeonBuffID": [
-      5103
-    ],
-    "FloorID": 3,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 3,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1628,6 +1660,9 @@
       15015,
       15016
     ],
+    "DungeonBuffID": [
+      5104
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1637,13 +1672,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      5104
-    ],
-    "FloorID": 4,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 411
+    "EliteGroup2": 411,
+    "AddExploreValue": 0,
+    "FloorID": 4,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1652,6 +1685,9 @@
       15019,
       15020
     ],
+    "DungeonBuffID": [
+      5105
+    ],
     "HardLevelList": [
       27,
       37,
@@ -1661,13 +1697,11 @@
       77,
       82
     ],
-    "DungeonBuffID": [
-      5105
-    ],
-    "FloorID": 5,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 5,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1676,6 +1710,9 @@
       15023,
       15024
     ],
+    "DungeonBuffID": [
+      5106
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1685,13 +1722,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      5106
-    ],
-    "FloorID": 6,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 412
+    "EliteGroup2": 412,
+    "AddExploreValue": 0,
+    "FloorID": 6,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1700,6 +1735,9 @@
       15027,
       15028
     ],
+    "DungeonBuffID": [
+      5107
+    ],
     "HardLevelList": [
       28,
       38,
@@ -1709,13 +1747,11 @@
       78,
       83
     ],
-    "DungeonBuffID": [
-      5107
-    ],
-    "FloorID": 7,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 413
+    "EliteGroup2": 413,
+    "AddExploreValue": 0,
+    "FloorID": 7,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1724,6 +1760,9 @@
       15031,
       15032
     ],
+    "DungeonBuffID": [
+      4105
+    ],
     "HardLevelList": [
       29,
       39,
@@ -1733,13 +1772,11 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      4105
-    ],
-    "FloorID": 8,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 413
+    "EliteGroup2": 413,
+    "AddExploreValue": 0,
+    "FloorID": 8,
+    "DungeonID": 51
   },
   {
     "MapID": [
@@ -1748,6 +1785,9 @@
       15035,
       15036
     ],
+    "DungeonBuffID": [
+      5109
+    ],
     "HardLevelList": [
       29,
       39,
@@ -1757,18 +1797,19 @@
       79,
       84
     ],
-    "DungeonBuffID": [
-      5109
-    ],
-    "FloorID": 9,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 414
+    "EliteGroup2": 414,
+    "AddExploreValue": 0,
+    "FloorID": 9,
+    "DungeonID": 51
   },
   {
     "MapID": [
       15037,
       15038
+    ],
+    "DungeonBuffID": [
+      5110
     ],
     "HardLevelList": [
       30,
@@ -1779,12 +1820,10 @@
       80,
       85
     ],
-    "DungeonBuffID": [
-      5110
-    ],
-    "FloorID": 10,
     "HardLevelGroupID": 1,
-    "DungeonID": 51,
-    "EliteGroup2": 414
+    "EliteGroup2": 414,
+    "AddExploreValue": 0,
+    "FloorID": 10,
+    "DungeonID": 51
   }
 ]

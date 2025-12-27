@@ -14,18 +14,21 @@
         {
           "$type": "RPG.GameCore.TeleportToRotatableRegion",
           "TargetRegionIndex": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TargetAnchorGroupID": {
-            "fixedValue": {
-              "RawValue": 249108103168
+            "FixedValue": {
+              "RawValue": 249108103168,
+              "Value": 58.0
             }
           },
           "TargetAnchorInstanceID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

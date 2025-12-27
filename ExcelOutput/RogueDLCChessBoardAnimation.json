@@ -1,391 +1,458 @@
 [
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "TriggerAreaShuffle",
-    "AnimationType": "Portal",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Portal"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "RandomReplaceBlock",
-    "AnimationType": "Propagation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Propagation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ReplaceBlock",
-    "AnimationType": "Propagation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Propagation"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "TriggerAreaShuffle",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "RandomReplaceBlock",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReplaceBlock",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ExtraMarkAndRandomSwap",
-    "AnimationType": "Portal",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Portal"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "LockMarkCell",
-    "AnimationType": "TheHunt",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "TheHunt"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SetAroundBlockType",
-    "AnimationType": "Propagation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Propagation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SetBlocktype",
-    "AnimationType": "Propagation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Propagation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ToRandomBlockType",
-    "AnimationType": "Propagation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Propagation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SetSpecialType",
-    "AnimationType": "Abundance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Abundance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "RandomSetSpecialType",
-    "AnimationType": "Abundance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Abundance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "RandomNeighborSpecialType",
-    "AnimationType": "Abundance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Abundance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SetNeighborSpecialType",
-    "AnimationType": "Abundance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Abundance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ReplicateAroundCell",
-    "AnimationType": "Remembrance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Remembrance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ReplicateLastCell",
-    "AnimationType": "Remembrance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Remembrance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ReplicateCellToAround",
-    "AnimationType": "Remembrance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Remembrance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ReplicateAllAroundCell",
-    "AnimationType": "Remembrance",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Remembrance"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectCellToProtect",
-    "AnimationType": "Preservation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Preservation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "ProtectCollaspeCell",
-    "AnimationType": "Preservation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Preservation"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SetCellTypeAndTakeReward",
-    "AnimationType": "DestructionBreak",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "DestructionBreak"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectAndToFightCell",
-    "AnimationType": "DestructionChange",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "DestructionChange"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectMiracleToEmpty",
-    "AnimationType": "Nihility",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Nihility"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectBuffToEmpty",
-    "AnimationType": "Nihility",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Nihility"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "TurnFightCellToEmpty",
-    "AnimationType": "Nihility",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Nihility"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "TurnEventCellToEmpty",
-    "AnimationType": "Nihility",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Nihility"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectCellGetHelp",
-    "AnimationType": "Elation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Elation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectAroundGetHelp",
-    "AnimationType": "Elation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Elation"
   },
   {
+    "RogueSubMode": "ChessRogue",
     "ModifierType": "SelectExceptCellGetHelp",
-    "AnimationType": "Elation",
-    "RogueSubMode": "ChessRogue"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Elation"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetCellTypeAndTakeReward",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionBreak"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SelectCellToEmptyGetBuff",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionBreak"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "TrunAroundToEmptyGetBuff",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionBreak"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetMarkCellTypeTakeReward",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionBreak"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SelectSpecialCellEmptyTriggerBuff",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionBreak"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetCellTypeAndAddActionPoint",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionBreak"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "AddActionPointOnSetCellType",
-    "AnimationType": "EruditionBreak",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionBreak"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetBlocktype",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "TurnRandomCellBlockType",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetBlocktypeWithProbability",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReRandomCellTypeGetMoney",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetBlockTypeToAround",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SwapCellToCurAround",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetBlockTypeBySelectMarkCell",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SwapMarkCellToAroundGetMoney",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionChange"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "GetMoneyOnSelectCellToTargetType",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetRandomCellToTargeType",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ChangeSelectCellType",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "RandomSetSpecialCellBlockType",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetMarkOnSelectThenSwap",
-    "AnimationType": "EruditionChange",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "EruditionChange"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReplicateCurCellToSelectCell",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReplicateSelectCellToAround",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReplicateSelectCellToRandom",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "ReplicateCurCellToRandom",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "RandomSetSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "RandomSetAroundSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetAroundSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "MoveSetCollapseSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "MoveSetAroundSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SetSpecialType",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "RandomGenSpecialTypeOnMoveSpecial",
-    "AnimationType": "Erudition",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": false,
+    "AnimationType": "Erudition"
   },
   {
-    "NeedCheckCoinChange": true,
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SelectCellLoseAroundSpecialAndGetMoney",
-    "AnimationType": "EruditionFadeOut",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "SetMarkType",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogue"
-  },
-  {
-    "ModifierType": "SetMarkToRandomCell",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogue"
-  },
-  {
-    "ModifierType": "TriggerMark",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogue"
-  },
-  {
-    "ModifierType": "SetMarkType",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "SetMarkToRandomCell",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "TriggerMark",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "RandomGenMark",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "RandomSetMarkType",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "RandomSetReplaceMarkType",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "RandomGenMarkWithSpecialType",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "RandomGenMarkOnMoveMark",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "SelectMarkCellToRandomMarkAndTriggerBuff",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
-    "ModifierType": "ReRandomMarkAndGenMark",
-    "AnimationType": "MarkTypeFadeIn",
-    "RogueSubMode": "ChessRogueNous"
-  },
-  {
     "NeedCheckCoinChange": true,
+    "AnimationType": "EruditionFadeOut"
+  },
+  {
+    "RogueSubMode": "ChessRogue",
+    "ModifierType": "SetMarkType",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogue",
+    "ModifierType": "SetMarkToRandomCell",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogue",
+    "ModifierType": "TriggerMark",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "SetMarkType",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "SetMarkToRandomCell",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "TriggerMark",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "RandomGenMark",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "RandomSetMarkType",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "RandomSetReplaceMarkType",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "RandomGenMarkWithSpecialType",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "RandomGenMarkOnMoveMark",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "SelectMarkCellToRandomMarkAndTriggerBuff",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
+    "ModifierType": "ReRandomMarkAndGenMark",
+    "NeedCheckCoinChange": false,
+    "AnimationType": "MarkTypeFadeIn"
+  },
+  {
+    "RogueSubMode": "ChessRogueNous",
     "ModifierType": "SelectCellLoseMarkAndGetMoney",
-    "AnimationType": "MarkTypeFadeOut",
-    "RogueSubMode": "ChessRogueNous"
+    "NeedCheckCoinChange": true,
+    "AnimationType": "MarkTypeFadeOut"
   }
 ]

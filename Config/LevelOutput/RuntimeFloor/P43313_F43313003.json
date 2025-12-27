@@ -241,6 +241,7 @@
       "IsHoyoGroup": true
     }
   },
+  "ValidSubmapList": [],
   "EnableGroupStreaming": true,
   "EnableGroupSpaceConflict": true
 }

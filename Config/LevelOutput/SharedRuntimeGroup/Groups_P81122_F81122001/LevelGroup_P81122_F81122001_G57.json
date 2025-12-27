@@ -61,7 +61,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bbd\u9614\u533a\u57df",
+      "Name": "宽阔区域",
       "ID": 1,
       "PosX": -28.4,
       "PosZ": 49.7
@@ -114,7 +114,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6d1e\u7a74\u533a\u57df",
+      "Name": "洞穴区域",
       "ID": 2,
       "PosX": -84.7,
       "PosY": 3.4,
@@ -172,7 +172,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5bbd\u9614\u533a\u57df",
+      "Name": "宽阔区域",
       "ID": 3,
       "PosX": 14.9,
       "PosY": 0.9,
@@ -267,7 +267,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u7834\u635f\u7535\u89c6",
+      "Name": "破损电视",
       "ID": 4,
       "PosX": -76.31,
       "PosY": 9.11,
@@ -309,7 +309,7 @@
         "TransformList": []
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u8fdc\u5904\u7684\u58f0\u97f301",
+      "Name": "远处的声音01",
       "ID": 5,
       "PosX": -28.4,
       "PosZ": 49.7
@@ -429,7 +429,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u7ba1\u905301",
+      "Name": "管道01",
       "ID": 6,
       "PosX": -28.4,
       "PosZ": 49.7
@@ -470,7 +470,7 @@
         "TransformList": []
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u8fdc\u5904\u7684\u58f0\u97f302",
+      "Name": "远处的声音02",
       "ID": 7,
       "PosX": 14.9,
       "PosY": 0.9,

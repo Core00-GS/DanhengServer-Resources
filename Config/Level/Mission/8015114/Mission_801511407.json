@@ -36,6 +36,7 @@
           "$type": "RPG.GameCore.WaitMissionCustomValueChange",
           "MainMissionID": 8015114,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isLocal": true,
             "ValidValueParamList": [
               1,
@@ -289,6 +290,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 8015114,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isLocal": true,
               "ValidValueParamList": [
                 1,
@@ -622,6 +624,7 @@
           "SubmissionID": 801511407,
           "MissionCustomValue": {
             "Index": 2,
+            "Name": "OldValue_2",
             "isLocal": true,
             "ValidValueParamList": [
               1
@@ -635,6 +638,7 @@
           "$type": "RPG.GameCore.SetMissionCustomValue",
           "SubmissionID": 801511407,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isLocal": true,
             "ValidValueParamList": [
               1,
@@ -650,6 +654,7 @@
           "SubmissionID": 801511407,
           "MissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
             "isLocal": true,
             "ValidValueParamList": [
               0,
@@ -690,6 +695,7 @@
           "$type": "RPG.GameCore.WaitMissionCustomValueChange",
           "MainMissionID": 8015114,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isLocal": true,
             "ValidValueParamList": [
               1,
@@ -898,6 +904,7 @@
             },
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -927,6 +934,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 8015114,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isLocal": true,
               "ValidValueParamList": [
                 1,

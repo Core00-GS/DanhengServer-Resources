@@ -51,8 +51,7 @@
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 20.0,
-        "DimZ": 80.0,
-        "PointList": []
+        "DimZ": 80.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -154,8 +153,7 @@
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 15.0,
-        "DimZ": 80.0,
-        "PointList": []
+        "DimZ": 80.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {

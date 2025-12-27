@@ -11,14 +11,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 644245094400
+            "FixedValue": {
+              "RawValue": 644245094400,
+              "Value": 150.0
             }
           },
           "SpecifyTargetType": {
@@ -49,8 +51,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -76,8 +79,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -102,8 +106,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 214748365
+            "FixedValue": {
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           "SpecifyTargetType": {
@@ -133,8 +138,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -159,14 +165,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1030792152
+            "FixedValue": {
+              "RawValue": 1030792152,
+              "Value": 0.24
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 1288490188800
+            "FixedValue": {
+              "RawValue": 1288490188800,
+              "Value": 300.0
             }
           },
           "SpecifyTargetType": {
@@ -207,8 +215,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -217,13 +226,15 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -644245095
+            "FixedValue": {
+              "RawValue": -644245095,
+              "Value": -0.15
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 4294967
+            "FixedValue": {
+              "RawValue": 4294967,
+              "Value": 0.0
             }
           },
           "ModifyFunction": "Add",
@@ -254,8 +265,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -285,8 +297,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "SpecifyTargetType": {
@@ -350,8 +363,9 @@
           },
           "Property": "AlertDecSpeedRatio",
           "PropertyValue": {
-            "fixedValue": {
-              "RawValue": -3865470570
+            "FixedValue": {
+              "RawValue": -3865470570,
+              "Value": -0.9
             }
           },
           "TaskEnabled": true,
@@ -372,14 +386,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1202590844
+            "FixedValue": {
+              "RawValue": 1202590844,
+              "Value": 0.28
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 1073741824000
+            "FixedValue": {
+              "RawValue": 1073741824000,
+              "Value": 250.0
             }
           },
           "SpecifyTargetType": {
@@ -439,14 +455,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1632087574
+            "FixedValue": {
+              "RawValue": 1632087574,
+              "Value": 0.38
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 1717986918400
+            "FixedValue": {
+              "RawValue": 1717986918400,
+              "Value": 400.0
             }
           },
           "SpecifyTargetType": {
@@ -486,8 +504,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "ModifyFunction": "Add",
@@ -637,13 +656,15 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -4252017627
+            "FixedValue": {
+              "RawValue": -4252017627,
+              "Value": -0.99
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 4294967
+            "FixedValue": {
+              "RawValue": 4294967,
+              "Value": 0.0
             }
           },
           "ModifyFunction": "Add",
@@ -674,8 +695,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "ModifyFunction": "Add",
@@ -765,14 +787,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_402024.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_402024.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -882,13 +908,15 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -644245095
+            "FixedValue": {
+              "RawValue": -644245095,
+              "Value": -0.15
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 4294967
+            "FixedValue": {
+              "RawValue": 4294967,
+              "Value": 0.0
             }
           },
           "ModifyFunction": "Add",
@@ -920,8 +948,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -956,8 +985,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -998,8 +1028,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 858993460
+            "FixedValue": {
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           "ModifyFunction": "Add",
@@ -1030,14 +1061,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 644245094400
+            "FixedValue": {
+              "RawValue": 644245094400,
+              "Value": 150.0
             }
           },
           "SpecifyTargetType": {
@@ -1067,14 +1100,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 644245094400
+            "FixedValue": {
+              "RawValue": 644245094400,
+              "Value": 150.0
             }
           },
           "SpecifyTargetType": {
@@ -1115,8 +1150,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -1142,8 +1178,9 @@
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "SpecifyTargetType": {
@@ -1174,8 +1211,9 @@
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "SpecifyTargetType": {
@@ -1216,8 +1254,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -1253,8 +1292,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "TaskEnabled": true,
@@ -1289,8 +1329,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -1320,8 +1361,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -1351,8 +1393,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "SpecifyTargetType": {
@@ -1412,8 +1455,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408412.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1438,8 +1483,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408413.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -1509,8 +1556,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -1550,8 +1598,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "ModifyFunction": "Add",
@@ -1581,8 +1630,9 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "SpecifyTargetType": {
@@ -1622,8 +1672,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -1649,8 +1700,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -1675,8 +1727,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "ModifyFunction": "Add",
@@ -1716,8 +1769,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408608.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -1748,13 +1803,15 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -644245095
+            "FixedValue": {
+              "RawValue": -644245095,
+              "Value": -0.15
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 4294967
+            "FixedValue": {
+              "RawValue": 4294967,
+              "Value": 0.0
             }
           },
           "ModifyFunction": "Add",
@@ -1798,14 +1855,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 2147483648000
+            "FixedValue": {
+              "RawValue": 2147483648000,
+              "Value": 500.0
             }
           },
           "SpecifyTargetType": {
@@ -1831,19 +1890,22 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -429496730
+            "FixedValue": {
+              "RawValue": -429496730,
+              "Value": -0.1
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 42949673
+            "FixedValue": {
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -2147483648000
+            "FixedValue": {
+              "RawValue": -2147483648000,
+              "Value": -500.0
             }
           },
           "SpecifyTargetType": {
@@ -1893,14 +1955,16 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1546188228
+            "FixedValue": {
+              "RawValue": 1546188228,
+              "Value": 0.36
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 1975684956160
+            "FixedValue": {
+              "RawValue": 1975684956160,
+              "Value": 460.0
             }
           },
           "SpecifyTargetType": {
@@ -1931,8 +1995,9 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "TaskEnabled": true,
@@ -1957,13 +2022,15 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -214748365
+            "FixedValue": {
+              "RawValue": -214748365,
+              "Value": -0.05
             }
           },
           "MinRatio": {
-            "fixedValue": {
-              "RawValue": 4294967
+            "FixedValue": {
+              "RawValue": 4294967,
+              "Value": 0.0
             }
           },
           "ModifyFunction": "Add",
@@ -2004,8 +2071,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401022.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -2065,14 +2134,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401026.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401026.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2142,14 +2215,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_402027.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_402027.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2209,14 +2286,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408208.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408208.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2256,14 +2337,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408416.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408416.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2304,8 +2389,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408418.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -2590,14 +2677,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408423.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408423.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2637,8 +2728,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408425.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -2669,8 +2762,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408426.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -2725,8 +2820,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408629.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -2757,8 +2854,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408630.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -2895,8 +2994,10 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408431.OnCreate.0.RevivedHPRatio.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -2925,8 +3026,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_409006.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -2963,8 +3066,10 @@
             {
               "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
               "AddRatio": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401030.OnCreate.0.SuccessTaskList.0.AddRatio.FixedValue"
                 }
               },
               "ModifyFunction": "Add",
@@ -2981,13 +3086,15 @@
             {
               "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
               "AddRatio": {
-                "fixedValue": {
-                  "RawValue": -4252017627
+                "FixedValue": {
+                  "RawValue": -4252017627,
+                  "Value": -0.99
                 }
               },
               "MinRatio": {
-                "fixedValue": {
-                  "RawValue": 4294967
+                "FixedValue": {
+                  "RawValue": 4294967,
+                  "Value": 0.0
                 }
               },
               "ModifyFunction": "Add",
@@ -3021,14 +3128,18 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408432.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408432.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -3058,8 +3169,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408433.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -3150,8 +3263,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408636.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -3196,8 +3311,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_409007.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -3228,8 +3345,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_409008.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -3269,8 +3388,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_400009.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -3322,8 +3443,10 @@
           "$type": "RPG.GameCore.AdventureModifyMazeMP",
           "ModifyFunction": "Add",
           "ModifyValue": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401033.OnCreate.0.ModifyValue.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -3398,8 +3521,10 @@
         {
           "$type": "RPG.GameCore.AdventureRevivePlayer",
           "RevivedHPRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408439.OnCreate.0.RevivedHPRatio.FixedValue"
             }
           },
           "SpecifyTargetType": {
@@ -3428,8 +3553,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408440.OnCreate.0.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",
@@ -3456,6 +3583,224 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_401034": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_401035": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
+          "AddRatio": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401035.OnCreate.0.AddRatio.FixedValue"
+            }
+          },
+          "ModifyFunction": "Add",
+          "SpecifyTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_401036": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
+          "AddRatio": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401036.OnCreate.0.AddRatio.FixedValue"
+            }
+          },
+          "ModifyFunction": "Add",
+          "ModifyValue": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_401036.OnCreate.0.ModifyValue.FixedValue"
+            }
+          },
+          "SpecifyTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TriggerCommonEffect": true,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_402034": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_403014": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_403015": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_402035": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_408640": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_408641": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_408442": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
+          "AddRatio": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408442.OnCreate.0.AddRatio.FixedValue"
+            }
+          },
+          "ModifyFunction": "Add",
+          "ModifyValue": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408442.OnCreate.0.ModifyValue.FixedValue"
+            }
+          },
+          "SpecifyTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TriggerCommonEffect": true,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Replace"
+    },
+    "ADV_ItemAbility_408441": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
+          "AddRatio": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "AdventureModifier_Item.ModifierMap.ADV_ItemAbility_408441.OnCreate.0.AddRatio.FixedValue"
+            }
+          },
+          "ModifyFunction": "Add",
+          "SpecifyTargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
       "Stacking": "Replace"
     }
   }

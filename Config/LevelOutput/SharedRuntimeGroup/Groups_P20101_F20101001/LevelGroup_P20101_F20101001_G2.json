@@ -65,8 +65,7 @@
         "Radius": 1.0,
         "DimX": 5.0,
         "DimY": 5.0,
-        "DimZ": 25.0,
-        "PointList": []
+        "DimZ": 25.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -78,11 +77,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
-      "TagOverrideComponents": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -130,8 +132,7 @@
         "Radius": 1.0,
         "DimX": 20.0,
         "DimY": 5.0,
-        "DimZ": 25.0,
-        "PointList": []
+        "DimZ": 25.0
       },
       "OverrideHintRange": -1.0,
       "OverrideSoundRange": -1.0,
@@ -143,11 +144,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
-      "TagOverrideComponents": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -175,13 +179,14 @@
         "BattleArea01"
       ],
       "TagContainer": [],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "RotY": 3e-06,
       "ID": 1,
       "PosX": 27.40347,
-      "PosZ": 1077.98
+      "PosZ": 77.98
     }
   ],
   "NPCList": [],

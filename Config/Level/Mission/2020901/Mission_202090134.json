@@ -5,7 +5,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -16,6 +18,7 @@
               "SubmissionID": 202090134,
               "MissionCustomValue": {
                 "Index": 6,
+                "Name": "OldValue_6",
                 "isLocal": true,
                 "ValidValueParamList": [
                   1,
@@ -44,13 +47,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 476741369856
+                "FixedValue": {
+                  "RawValue": 476741369856,
+                  "Value": 111.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -64,7 +69,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -75,6 +82,7 @@
               "SubmissionID": 202090134,
               "MissionCustomValue": {
                 "Index": 6,
+                "Name": "OldValue_6",
                 "isLocal": true,
                 "ValidValueParamList": [
                   1,
@@ -103,13 +111,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 476741369856
+                "FixedValue": {
+                  "RawValue": 476741369856,
+                  "Value": 111.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -123,7 +133,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -134,6 +146,7 @@
               "SubmissionID": 202090134,
               "MissionCustomValue": {
                 "Index": 6,
+                "Name": "OldValue_6",
                 "isLocal": true,
                 "ValidValueParamList": [
                   1,
@@ -162,13 +175,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 476741369856
+                "FixedValue": {
+                  "RawValue": 476741369856,
+                  "Value": 111.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288503073701888
+                "FixedValue": {
+                  "RawValue": 1288503073701888,
+                  "Value": 300003.0
                 }
               }
             }
@@ -182,7 +197,9 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713937,
             "Hash64": 16304550243505668348
@@ -193,6 +210,7 @@
               "SubmissionID": 202090134,
               "MissionCustomValue": {
                 "Index": 6,
+                "Name": "OldValue_6",
                 "isLocal": true,
                 "ValidValueParamList": [
                   1,
@@ -221,13 +239,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 476741369856
+                "FixedValue": {
+                  "RawValue": 476741369856,
+                  "Value": 111.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }

@@ -4,11 +4,20 @@
   "AreaAnchorName": "LevelArea_P10401_F10401001_G350",
   "SaveType": "Reset",
   "AtmosphereCondition": {
+    "Conditions": [
+      {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
+        "SavedValueName": "FSV_3.6ActOpen",
+        "Operation": "Equal"
+      }
+    ],
     "Operation": "And"
   },
   "LoadOnInitial": true,
   "ValueSource": {},
-  "ConflictIDList": [],
+  "ConflictIDList": [
+    350
+  ],
   "IsHoyoGroup": true,
   "HoYoGroupType": "Container",
   "StreamingTemplateType": "Standard",
@@ -56,7 +65,9 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

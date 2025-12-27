@@ -19,6 +19,7 @@
           "$type": "RPG.GameCore.WaitMissionCustomValueChange",
           "MainMissionID": 4140101,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "isLocal": true,
             "ValidValueParamList": [
               1,
@@ -40,6 +41,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 4140101,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "isLocal": true,
               "ValidValueParamList": [
                 1,

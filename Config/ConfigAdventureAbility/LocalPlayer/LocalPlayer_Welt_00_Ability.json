@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Welt_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -194,8 +193,9 @@
             {
               "$type": "RPG.GameCore.WaitSecond",
               "WaitTime": {
-                "fixedValue": {
-                  "RawValue": 1288490190
+                "FixedValue": {
+                  "RawValue": 1288490190,
+                  "Value": 0.3
                 }
               },
               "MaxAdvencePerTick": -1.0,
@@ -360,8 +360,9 @@
             {
               "$type": "RPG.GameCore.WaitSecond",
               "WaitTime": {
-                "fixedValue": {
-                  "RawValue": 1288490190
+                "FixedValue": {
+                  "RawValue": 1288490190,
+                  "Value": 0.3
                 }
               },
               "MaxAdvencePerTick": -1.0,
@@ -401,8 +402,7 @@
     {
       "Name": "LocalPlayer_Welt_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -460,8 +460,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 128849019
+                "FixedValue": {
+                  "RawValue": 128849019,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -498,8 +499,10 @@
               "OffsetY": {},
               "YawAngle": {},
               "Duration": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Welt_00_Ability.AbilityList.1.OnStart.0.SuccessTaskList.5.Duration.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -544,8 +547,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 128849019
+                "FixedValue": {
+                  "RawValue": 128849019,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -578,16 +582,19 @@
                 "Alias": "Caster"
               },
               "Distance": {
-                "fixedValue": {
-                  "RawValue": 42949672960
+                "FixedValue": {
+                  "RawValue": 42949672960,
+                  "Value": 10.0
                 }
               },
               "OffsetX": {},
               "OffsetY": {},
               "YawAngle": {},
               "Duration": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Welt_00_Ability.AbilityList.1.OnStart.0.FailedTaskList.4.Duration.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -598,5 +605,40 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Welt": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Debuff"
+      ],
+      "TickInterval": 1.0,
+      "OnStack": [
+        {
+          "$type": "RPG.GameCore.AdventureStackProperty",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "Property": "MoveSpeedAttenuationRatio",
+          "PropertyValue": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Welt_00_Ability.GlobalModifiers.ADV_StageAbility_Maze_Welt.OnStack.0.PropertyValue.FixedValue"
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge",
+      "DynamicValues": {}
+    }
+  }
 }

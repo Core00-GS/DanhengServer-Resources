@@ -1,258 +1,290 @@
 [
   {
-    "ParamList": [
-      {
-        "RawValue": 8589934592
-      }
-    ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
     "ModifierNameList": [
       "TurnEventMDF_AddDamage"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10001,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 8589934592,
+        "Value": 2.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconMonsterDestruct.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10001
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_HealSP"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10002,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 8589934592
+        "RawValue": 429496729600,
+        "Value": 100.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconMonsterDestruct.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10002
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_DecreaseBP"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10003,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": -2147483650
+        "RawValue": 8589934592,
+        "Value": 2.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffAttackDown.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10003
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_DecreaseAttack"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Debuff",
-    "EventID": 10004,
-    "IncludeMonster": true,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": -2147483650,
+        "Value": -0.5
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffAttackDown.png",
+    "AbilityNameList": [],
+    "IncludeMonster": true,
+    "IncludeAvatar": true,
+    "EventType": "Debuff",
+    "EventID": 10004
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_AddDamage"
     ],
     "SelfModifierNameList": [],
+    "ParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
+    ],
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
     "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10005,
     "IncludeMonster": true,
-    "IncludeAvatar": true
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10005
   },
   {
-    "ParamList": [
-      {}
-    ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
     "ModifierNameList": [
       "TurnEventMDF_NoBPCost"
     ],
     "SelfModifierNameList": [],
+    "ParamList": [
+      {
+        "RawValue": 0,
+        "Value": 0.0
+      }
+    ],
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
     "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
     "EventType": "Buff",
-    "EventID": 10006,
-    "IncludeAvatar": true
+    "EventID": 10006
   },
   {
-    "ParamList": [
-      {}
-    ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1001Passive.png",
     "ModifierNameList": [
       "TurnEventMDF_AttackWithFrozen"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10007,
-    "IncludeMonster": true,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 0,
+        "Value": 0.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1001Passive.png",
+    "AbilityNameList": [],
+    "IncludeMonster": true,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10007
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_purify"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10008,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10008
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_BPAdvance"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10009,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 8589934592
+        "RawValue": 4294967296,
+        "Value": 1.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1109BP.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10009
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_CreatedEvent_DamageUP"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 10010,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 21474836480
+        "RawValue": 8589934592,
+        "Value": 2.0
       }
     ],
     "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 10010
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_CreatedEvent_DamageUP"
     ],
     "SelfModifierNameList": [],
+    "ParamList": [
+      {
+        "RawValue": 21474836480,
+        "Value": 5.0
+      }
+    ],
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
     "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
     "EventType": "Buff",
-    "EventID": 10011,
-    "IncludeAvatar": true
+    "EventID": 10011
   },
   {
-    "ParamList": [
-      {}
-    ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1001Passive.png",
     "ModifierNameList": [
       "TurnEventMDF_AttackWithFrozen"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 20001,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 2147483650
+        "RawValue": 0,
+        "Value": 0.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffHot.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1001Passive.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 20001
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_HealCommon"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 30001,
-    "IncludeMonster": true,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 1288490190
+        "RawValue": 2147483650,
+        "Value": 0.5
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconDotBleed.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconBuffHot.png",
+    "AbilityNameList": [],
+    "IncludeMonster": true,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 30001
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_Corrupt"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Debuff",
-    "EventID": 30002,
-    "IncludeMonster": true,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 1288490190,
+        "Value": 0.3
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1107Ultra.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/IconDotBleed.png",
+    "AbilityNameList": [],
+    "IncludeMonster": true,
+    "IncludeAvatar": true,
+    "EventType": "Debuff",
+    "EventID": 30002
+  },
+  {
     "ModifierNameList": [
       "TurnEventMDF_Dispel"
     ],
     "SelfModifierNameList": [],
-    "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 40001,
-    "IncludeAvatar": true
-  },
-  {
     "ParamList": [
       {
-        "RawValue": 214748364800
+        "RawValue": 4294967296,
+        "Value": 1.0
       }
     ],
-    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1102Passive.png",
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1107Ultra.png",
+    "AbilityNameList": [],
+    "IncludeMonster": false,
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 40001
+  },
+  {
     "ModifierNameList": [
       "VanishTest_Modifier"
     ],
     "SelfModifierNameList": [],
+    "ParamList": [
+      {
+        "RawValue": 214748364800,
+        "Value": 50.0
+      }
+    ],
+    "IconPath": "SpriteOutput/BuffIcon/Inlevel/Avatar/Icon1102Passive.png",
     "AbilityNameList": [],
-    "EventType": "Buff",
-    "EventID": 50001,
     "IncludeMonster": true,
-    "IncludeAvatar": true
+    "IncludeAvatar": true,
+    "EventType": "Buff",
+    "EventID": 50001
   }
 ]

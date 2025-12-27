@@ -22,8 +22,8 @@
   "ConflictWhiteList": [],
   "TagContainer": [
     {
-      "Tag": "Group.Mission.Pam",
-      "TagHash": -2096892441
+      "Tag": "Group.Activity.270Train",
+      "TagHash": -1660285741
     }
   ],
   "AnchorList": [
@@ -85,8 +85,7 @@
           },
           "magnitude": 1.41421354,
           "sqrMagnitude": 2.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -107,7 +106,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "GeneralActivityIcon",
+      "InteractIconType": {
+        "JsonValueStr": "GeneralActivityIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -119,6 +120,7 @@
       ],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

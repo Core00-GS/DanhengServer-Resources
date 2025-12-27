@@ -1,6 +1,12 @@
 [
   {
-    "MarkTypeChessBoardIcon": ""
+    "MarkTypeChessBoardIcon": "",
+    "MarkTypeNameID": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MarkTypeID": 0,
+    "BlockIntroID": 0
   },
   {
     "MarkTypeChessBoardIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff1.png",
@@ -31,7 +37,12 @@
   },
   {
     "MarkTypeChessBoardIcon": "",
-    "MarkTypeID": 4
+    "MarkTypeNameID": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MarkTypeID": 4,
+    "BlockIntroID": 0
   },
   {
     "MarkTypeChessBoardIcon": "SpriteOutput/UI/Rogue/DLC/Dice/Buff/IconRogueDlcChessmanGirdBuff3.png",

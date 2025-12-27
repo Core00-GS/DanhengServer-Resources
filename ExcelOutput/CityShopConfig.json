@@ -1,41 +1,41 @@
 [
   {
     "WorldImgPath": "SpriteOutput/WorldPic/WorldPicMiddle_100.png",
-    "ShopID": 401,
-    "ItemID": 120000,
     "Name": {
       "Hash": 1501348127,
       "Hash64": 17474500167336942627
     },
     "WorldID": 101,
+    "MaxLevel": 10,
+    "ItemID": 120000,
     "RewardListGroupID": 401,
-    "HintOverNum": 50,
-    "MaxLevel": 10
+    "ShopID": 401,
+    "HintOverNum": 50
   },
   {
     "WorldImgPath": "SpriteOutput/WorldPic/WorldPicMiddle_101.png",
-    "ShopID": 402,
-    "ItemID": 120001,
     "Name": {
       "Hash": 1501348130,
       "Hash64": 776247738482551821
     },
     "WorldID": 201,
+    "MaxLevel": 15,
+    "ItemID": 120001,
     "RewardListGroupID": 402,
-    "HintOverNum": 50,
-    "MaxLevel": 15
+    "ShopID": 402,
+    "HintOverNum": 50
   },
   {
     "WorldImgPath": "SpriteOutput/WorldPic/WorldPicMiddle_102.png",
-    "ShopID": 403,
-    "ItemID": 120002,
     "Name": {
       "Hash": 1501348129,
       "Hash64": 2200532291897856284
     },
     "WorldID": 301,
+    "MaxLevel": 20,
+    "ItemID": 120002,
     "RewardListGroupID": 403,
-    "HintOverNum": 50,
-    "MaxLevel": 20
+    "ShopID": 403,
+    "HintOverNum": 50
   }
 ]

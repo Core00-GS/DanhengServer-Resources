@@ -9,13 +9,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 133143986176
+            "FixedValue": {
+              "RawValue": 133143986176,
+              "Value": 31.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [],
@@ -29,13 +31,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 133143986176
+                "FixedValue": {
+                  "RawValue": 133143986176,
+                  "Value": 31.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -86,6 +90,7 @@
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 1021501,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "ValidValueParamList": [
                 0,
                 1,
@@ -104,6 +109,7 @@
                 "$type": "RPG.GameCore.ByCompareMissionCustomValue",
                 "MainMissionID": 1021501,
                 "MissionCustomValue": {
+                  "Name": "OldValue_0",
                   "ValidValueParamList": [
                     0,
                     1,
@@ -119,6 +125,7 @@
               "SuccessTaskList": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -140,6 +147,7 @@
               "FailedTaskList": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -164,6 +172,7 @@
           "FailedTaskList": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -219,18 +228,22 @@
           "$type": "RPG.GameCore.CalculateMissionCustomValue",
           "TargetSubmissionID": 102150104,
           "TargetMissionCustomValue": {
+            "Name": "OldValue_0",
             "ValidValueParamList": []
           },
           "ValueA": {
             "Type": "CustomValue",
             "MainMissionID": 1021501,
             "MissionCustomValue": {
+              "Name": "OldValue_0",
               "ValidValueParamList": []
             }
           },
           "ValueB": {
             "DirectValue": 1,
-            "MissionCustomValue": {}
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            }
           },
           "TaskEnabled": true,
           "IsClientOnly": true

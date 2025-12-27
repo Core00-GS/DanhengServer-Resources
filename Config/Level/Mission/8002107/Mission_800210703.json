@@ -14,8 +14,9 @@
             {
               "$type": "RPG.GameCore.WaitSecond",
               "WaitTime": {
-                "fixedValue": {
-                  "RawValue": 7730941136
+                "FixedValue": {
+                  "RawValue": 7730941136,
+                  "Value": 1.8
                 }
               },
               "MaxAdvencePerTick": -1.0,
@@ -42,6 +43,7 @@
                   "SubmissionID": 800210703,
                   "MissionCustomValue": {
                     "Index": 1,
+                    "Name": "OldValue_1",
                     "ValidValueParamList": [
                       0,
                       1,
@@ -81,6 +83,7 @@
                   "SubmissionID": 800210703,
                   "MissionCustomValue": {
                     "Index": 1,
+                    "Name": "OldValue_1",
                     "ValidValueParamList": [
                       0,
                       1,
@@ -176,6 +179,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

@@ -9,10 +9,6 @@
       {
         "$type": "RPG.GameCore.LevelGroupAtmosphereMainMissionCompleteCondition",
         "MainMissionID": 8014106
-      },
-      {
-        "$type": "RPG.GameCore.LevelGroupAtmosphereMainMissionCompleteCondition",
-        "MainMissionID": 8027119
       }
     ],
     "Operation": "And"
@@ -46,8 +42,7 @@
         "Radius": 1.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
@@ -69,7 +64,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

@@ -4553,6 +4553,151 @@
       "PosX": 109.2341,
       "PosY": 211.2,
       "PosZ": 301.7058
+    },
+    {
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "Trigger": {
+        "Radius": 25.0,
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0
+      },
+      "LoadOnInitial": true,
+      "OnEnterAreaSound": {
+        "PlayEventName": "Ev_sfx_amphoreus_waterfall_middle_201_waterwheel",
+        "StopEventName": "Ev_sfx_amphoreus_waterfall_middle_201_waterwheel_stop",
+        "TransformList": [
+          {
+            "Position": {
+              "x": 31.33,
+              "y": 218.17,
+              "z": 276.664,
+              "normalized": {
+                "x": 0.08857116,
+                "y": 0.616775334,
+                "z": 0.7821402,
+                "normalized": {
+                  "x": 0.08857117,
+                  "y": 0.6167754,
+                  "z": 0.782140255,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.99999994,
+                "sqrMagnitude": 0.99999994
+              },
+              "magnitude": 353.726868,
+              "sqrMagnitude": 125122.688
+            },
+            "Forward": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "Up": {
+              "y": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            }
+          }
+        ]
+      },
+      "NPCCrowdRadius": 25.0,
+      "ValueSource": {},
+      "Name": "District17",
+      "ID": 500017,
+      "PosX": 31.33,
+      "PosY": 218.17,
+      "PosZ": 276.664
+    },
+    {
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "Trigger": {
+        "Radius": 25.0,
+        "DimX": 1.0,
+        "DimY": 1.0,
+        "DimZ": 1.0
+      },
+      "LoadOnInitial": true,
+      "OnEnterAreaSound": {
+        "PlayEventName": "Ev_sfx_amphoreus_waterfall_middle_201_waterwheel",
+        "StopEventName": "Ev_sfx_amphoreus_waterfall_middle_201_waterwheel_stop",
+        "TransformList": [
+          {
+            "Position": {
+              "x": -27.386,
+              "y": 221.1042,
+              "z": 301.338,
+              "normalized": {
+                "x": -0.0730769858,
+                "y": 0.5899959,
+                "z": 0.8040924,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 374.755463,
+              "sqrMagnitude": 140441.656
+            },
+            "Forward": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "Up": {
+              "y": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            }
+          }
+        ]
+      },
+      "NPCCrowdRadius": 25.0,
+      "ValueSource": {},
+      "Name": "District18",
+      "ID": 500018,
+      "PosX": -27.386,
+      "PosY": 221.1042,
+      "PosZ": 301.338
     }
   ],
   "WaypointList": [],

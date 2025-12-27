@@ -61,8 +61,10 @@
   "UseDefaultSteerMode": true,
   "ResidentEffectKey": "Special_SuiyangMiddle_03",
   "BreakRecoverStandByType": "StandBy",
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Special/NPC_Special_SuiyangMiddle_00_ReplaceCharacterMaterial.json",
   "ReplaceMaterialKeyList": [
     "NPC_Special_SuiyangMiddle_00_12"
   ],
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

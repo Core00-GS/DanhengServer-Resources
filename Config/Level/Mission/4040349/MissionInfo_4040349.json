@@ -20,6 +20,7 @@
       "TakeParamIntList": [
         4040349
       ],
+      "TakePriority": 1,
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -46,6 +47,7 @@
       "TakeParamIntList": [
         4040349
       ],
+      "TakePriority": 2,
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -70,6 +72,7 @@
       "TakeParamIntList": [
         4040349
       ],
+      "TakePriority": 3,
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -94,6 +97,7 @@
       "TakeParamIntList": [
         4040349
       ],
+      "TakePriority": 4,
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -118,6 +122,7 @@
       "TakeParamIntList": [
         4040349
       ],
+      "TakePriority": 5,
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [

@@ -6,25 +6,29 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 803158884352
+            "FixedValue": {
+              "RawValue": 803158884352,
+              "Value": 187.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 803158884352
+                "FixedValue": {
+                  "RawValue": 803158884352,
+                  "Value": 187.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -43,13 +47,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 803158884352
+                "FixedValue": {
+                  "RawValue": 803158884352,
+                  "Value": 187.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288520253571072
+                "FixedValue": {
+                  "RawValue": 1288520253571072,
+                  "Value": 300007.0
                 }
               }
             }
@@ -116,18 +122,21 @@
         {
           "$type": "RPG.GameCore.TriggerBattle",
           "EventID": {
-            "fixedValue": {
-              "RawValue": 1309969320247296
+            "FixedValue": {
+              "RawValue": 1309969320247296,
+              "Value": 305001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 103079215104
+            "FixedValue": {
+              "RawValue": 103079215104,
+              "Value": 24.0
             }
           },
           "BattleAreaID": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

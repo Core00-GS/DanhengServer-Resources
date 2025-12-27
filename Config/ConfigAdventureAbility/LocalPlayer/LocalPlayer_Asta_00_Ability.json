@@ -27,8 +27,7 @@
       ],
       "Name": "LocalPlayer_Asta_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -107,8 +106,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 42949673
+                "FixedValue": {
+                  "RawValue": 42949673,
+                  "Value": 0.01
                 }
               },
               "TaskEnabled": true,
@@ -122,8 +122,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 94489280
+                "FixedValue": {
+                  "RawValue": 94489280,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -173,8 +174,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 150323854
+                "FixedValue": {
+                  "RawValue": 150323854,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -243,22 +245,11 @@
                     "$type": "RPG.GameCore.AdventureAttackDetectCircleConfig",
                     "MaxRadius": 2.0,
                     "FanAngle": 360.0,
-                    "Hight": 2.0,
-                    "Offset": {
-                      "y": -1.5,
-                      "normalized": {
-                        "y": -1.0,
-                        "magnitude": 1.0,
-                        "sqrMagnitude": 1.0
-                      },
-                      "magnitude": 1.5,
-                      "sqrMagnitude": 2.25
-                    }
+                    "Hight": 2.0
                   },
                   "HitConfig": {
                     "HitAnimation": "Hit",
-                    "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Asta_00/Eff_Avatar_Asta_00_MazeAttack_Hit.prefab",
-                    "HitEffectHeight": 1.0
+                    "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Asta_00/Eff_Avatar_Asta_00_MazeAttack_Hit.prefab"
                   },
                   "IncludeProps": true,
                   "AttackDetectCollision": true,
@@ -292,8 +283,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 94489280
+                "FixedValue": {
+                  "RawValue": 94489280,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -343,8 +335,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 150323854
+                "FixedValue": {
+                  "RawValue": 150323854,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -364,6 +357,63 @@
               "Iteration": 4,
               "BlurStart": 0.005,
               "BlurFeather": 0.01,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.AdventureLoopAttackDetect",
+              "AttackTargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "AbilityTargetEntity"
+              },
+              "AttackRootTargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "AttackDetectConfig": {
+                "$type": "RPG.GameCore.AdventureAttackDetectBoxConfig",
+                "Size": {
+                  "x": 1.5,
+                  "y": 1.5,
+                  "z": 4.0,
+                  "normalized": {
+                    "x": 0.331294566,
+                    "y": 0.331294566,
+                    "z": 0.8834522,
+                    "normalized": {
+                      "x": 0.3312946,
+                      "y": 0.3312946,
+                      "z": 0.883452237,
+                      "magnitude": 1.0,
+                      "sqrMagnitude": 1.0
+                    },
+                    "magnitude": 0.99999994,
+                    "sqrMagnitude": 0.99999994
+                  },
+                  "magnitude": 4.527693,
+                  "sqrMagnitude": 20.5
+                },
+                "Offset": {
+                  "y": 0.75,
+                  "z": 4.0,
+                  "normalized": {
+                    "y": 0.184288546,
+                    "z": 0.982872248,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 4.069705,
+                  "sqrMagnitude": 16.5625
+                }
+              },
+              "HitConfig": {
+                "HitAnimation": "Hit",
+                "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Asta_00/Eff_Avatar_Asta_00_MazeAttack_Hit.prefab"
+              },
+              "IncludeProps": true,
+              "DelayDirectKill": true,
+              "DelayHitPerform": true,
+              "Duration": {},
               "TaskEnabled": true,
               "IsClientOnly": true
             },
@@ -415,22 +465,19 @@
                     "FanAngle": 360.0,
                     "Hight": 2.0,
                     "Offset": {
-                      "y": -0.5,
                       "z": 10.0,
                       "normalized": {
-                        "y": -0.049937617,
-                        "z": 0.998752356,
+                        "z": 1.0,
                         "magnitude": 1.0,
                         "sqrMagnitude": 1.0
                       },
-                      "magnitude": 10.0124922,
-                      "sqrMagnitude": 100.25
+                      "magnitude": 10.0,
+                      "sqrMagnitude": 100.0
                     }
                   },
                   "HitConfig": {
                     "HitAnimation": "Hit",
-                    "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Asta_00/Eff_Avatar_Asta_00_MazeAttack_Hit.prefab",
-                    "HitEffectHeight": 1.0
+                    "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Asta_00/Eff_Avatar_Asta_00_MazeAttack_Hit.prefab"
                   },
                   "IncludeProps": true,
                   "AttackDetectCollision": true,
@@ -449,8 +496,7 @@
     {
       "Name": "LocalPlayer_Asta_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -509,8 +555,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -576,8 +623,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 292057774
+                "FixedValue": {
+                  "RawValue": 292057774,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -715,8 +763,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -782,8 +831,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 292057774
+                "FixedValue": {
+                  "RawValue": 292057774,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -908,5 +958,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Asta": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

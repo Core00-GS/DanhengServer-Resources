@@ -1,55 +1,107 @@
 [
   {
     "AvatarHeadIcon": "",
-    "ID": 51401
+    "ID": 51401,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51402
+    "ID": 51402,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51403
+    "ID": 51403,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51404
+    "ID": 51404,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51405
+    "ID": 51405,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51406
+    "ID": 51406,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51407
+    "ID": 51407,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51408
+    "ID": 51408,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51409
+    "ID": 51409,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51410
+    "ID": 51410,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51411
+    "ID": 51411,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51412
+    "ID": 51412,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "",
-    "ID": 51413
+    "ID": 51413,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1210.png",
@@ -445,7 +497,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515001
+    "ID": 515001,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -513,7 +569,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515010
+    "ID": 515010,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -597,7 +657,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515201
+    "ID": 515201,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -841,11 +905,19 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515802
+    "ID": 515802,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515803
+    "ID": 515803,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -921,7 +993,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 515910
+    "ID": 515910,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -949,7 +1025,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
-    "ID": 516003
+    "ID": 516003,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
@@ -1477,6 +1557,822 @@
     "TalkDataText": {
       "Hash": -1544604036,
       "Hash64": 8841662103633173829
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575001,
+    "TalkDataText": {
+      "Hash": -979954163,
+      "Hash64": 12594461345564997855
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575002,
+    "TalkDataText": {
+      "Hash": -979954164,
+      "Hash64": 239364953455619288
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575004,
+    "TalkDataText": {
+      "Hash": -979954158,
+      "Hash64": 7856347638858549245
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575005,
+    "TalkDataText": {
+      "Hash": -979954159,
+      "Hash64": 10294579301931561193
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575006,
+    "TalkDataText": {
+      "Hash": -979954160,
+      "Hash64": 17969960829405501039
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575007,
+    "TalkDataText": {
+      "Hash": -979954161,
+      "Hash64": 1513223169303401213
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575008,
+    "TalkDataText": {
+      "Hash": -979954170,
+      "Hash64": 9029091666213316290
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575010,
+    "TalkDataText": {
+      "Hash": 1748929193,
+      "Hash64": 12258934255274582031
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575011,
+    "TalkDataText": {
+      "Hash": 1748929192,
+      "Hash64": 12473049279751364757
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575012,
+    "TalkDataText": {
+      "Hash": 1748929191,
+      "Hash64": 17121471161810147972
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575013,
+    "TalkDataText": {
+      "Hash": 1748929190,
+      "Hash64": 7403691727275358562
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575014,
+    "TalkDataText": {
+      "Hash": 1748929197,
+      "Hash64": 16612915957261617089
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575016,
+    "TalkDataText": {
+      "Hash": 1748929195,
+      "Hash64": 16091687131426405579
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575018,
+    "TalkDataText": {
+      "Hash": 1748929185,
+      "Hash64": 3188732350954936600
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575019,
+    "TalkDataText": {
+      "Hash": 1748929184,
+      "Hash64": 438291957198755640
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575020,
+    "TalkDataText": {
+      "Hash": 182845252,
+      "Hash64": 9352430573581438135
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1002.png",
+    "ID": 575021,
+    "TalkDataText": {
+      "Hash": 182845251,
+      "Hash64": 3309307289075910087
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575022,
+    "TalkDataText": {
+      "Hash": 182845250,
+      "Hash64": 715872254166004850
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575023,
+    "TalkDataText": {
+      "Hash": 182845249,
+      "Hash64": 9227833087904428706
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575025,
+    "TalkDataText": {
+      "Hash": 182845255,
+      "Hash64": 4842904112516704358
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575027,
+    "TalkDataText": {
+      "Hash": 182845253,
+      "Hash64": 13323057284916781223
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575028,
+    "TalkDataText": {
+      "Hash": 182845244,
+      "Hash64": 3825770247339618209
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575029,
+    "TalkDataText": {
+      "Hash": 182845243,
+      "Hash64": 3582900827829571296
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575030,
+    "TalkDataText": {
+      "Hash": -1383238689,
+      "Hash64": 14563145264446759667
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575031,
+    "TalkDataText": {
+      "Hash": -1383238690,
+      "Hash64": 14036725546990365983
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "ID": 575032,
+    "TalkDataText": {
+      "Hash": -1383238691,
+      "Hash64": 18234067198740416066
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575033,
+    "TalkDataText": {
+      "Hash": -1383238692,
+      "Hash64": 10805184379509547655
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575034,
+    "TalkDataText": {
+      "Hash": -1383238685,
+      "Hash64": 17748352615145553992
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575035,
+    "TalkDataText": {
+      "Hash": -1383238686,
+      "Hash64": 15520974362587143821
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575036,
+    "TalkDataText": {
+      "Hash": -1383238687,
+      "Hash64": 13863725822723250072
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575037,
+    "TalkDataText": {
+      "Hash": -1383238688,
+      "Hash64": 18246662517634695141
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575038,
+    "TalkDataText": {
+      "Hash": -1383238697,
+      "Hash64": 1492020863951391762
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575039,
+    "TalkDataText": {
+      "Hash": -1383238698,
+      "Hash64": 4572301900421119449
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575040,
+    "TalkDataText": {
+      "Hash": 1345644666,
+      "Hash64": 3426205747762830859
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575041,
+    "TalkDataText": {
+      "Hash": 1345644665,
+      "Hash64": 9757366882502671459
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575042,
+    "TalkDataText": {
+      "Hash": 1345644664,
+      "Hash64": 8648821606007576274
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575043,
+    "TalkDataText": {
+      "Hash": 1345644663,
+      "Hash64": 2051538717871050288
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575044,
+    "TalkDataText": {
+      "Hash": 1345644670,
+      "Hash64": 2956783483192363747
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575045,
+    "TalkDataText": {
+      "Hash": 1345644669,
+      "Hash64": 10583570664108823710
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575046,
+    "TalkDataText": {
+      "Hash": 1345644668,
+      "Hash64": 14873148306471784804
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575047,
+    "TalkDataText": {
+      "Hash": 1345644667,
+      "Hash64": 6993559444465049898
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575048,
+    "TalkDataText": {
+      "Hash": 1345644658,
+      "Hash64": 1517890871737522065
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575049,
+    "TalkDataText": {
+      "Hash": 1345644657,
+      "Hash64": 16754811210479223614
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575050,
+    "TalkDataText": {
+      "Hash": -220439275,
+      "Hash64": 14716095885837347046
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575051,
+    "TalkDataText": {
+      "Hash": -220439276,
+      "Hash64": 10146359140823374692
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575052,
+    "TalkDataText": {
+      "Hash": -220439277,
+      "Hash64": 16168976995265241099
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575053,
+    "TalkDataText": {
+      "Hash": -220439278,
+      "Hash64": 4710944915512470250
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575054,
+    "TalkDataText": {
+      "Hash": -220439271,
+      "Hash64": 9542835289598848794
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575055,
+    "TalkDataText": {
+      "Hash": -220439272,
+      "Hash64": 13170270953127019108
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575056,
+    "TalkDataText": {
+      "Hash": -220439273,
+      "Hash64": 8578288614216637943
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575057,
+    "TalkDataText": {
+      "Hash": -220439274,
+      "Hash64": 13675564791562967930
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575058,
+    "TalkDataText": {
+      "Hash": -220439283,
+      "Hash64": 3462637027003410254
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575059,
+    "TalkDataText": {
+      "Hash": -220439284,
+      "Hash64": 1901113565435217821
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575060,
+    "TalkDataText": {
+      "Hash": -1786523216,
+      "Hash64": 17443441812550971996
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575061,
+    "TalkDataText": {
+      "Hash": -1786523217,
+      "Hash64": 7729317390805314845
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575062,
+    "TalkDataText": {
+      "Hash": -1786523218,
+      "Hash64": 1126670723394303606
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575063,
+    "TalkDataText": {
+      "Hash": -1786523219,
+      "Hash64": 16470938711497687399
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1003.png",
+    "ID": 575064,
+    "TalkDataText": {
+      "Hash": -1786523212,
+      "Hash64": 4071914656447197081
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1004.png",
+    "ID": 575065,
+    "TalkDataText": {
+      "Hash": -1786523213,
+      "Hash64": 5490861234982685538
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 575066,
+    "TalkDataText": {
+      "Hash": -1786523214,
+      "Hash64": 12953103352689919998
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590100,
+    "TalkDataText": {
+      "Hash": -240648882,
+      "Hash64": 14589746347392071373
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590101,
+    "TalkDataText": {
+      "Hash": -240648881,
+      "Hash64": 1094563821693679183
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590102,
+    "TalkDataText": {
+      "Hash": -240648880,
+      "Hash64": 5280505794380438781
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590103,
+    "TalkDataText": {
+      "Hash": -240648879,
+      "Hash64": 2828592879758490808
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590104,
+    "TalkDataText": {
+      "Hash": -240648886,
+      "Hash64": 15565437382008729284
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590105,
+    "TalkDataText": {
+      "Hash": -240648885,
+      "Hash64": 9757813700918493399
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590106,
+    "TalkDataText": {
+      "Hash": -240648884,
+      "Hash64": 2691913644179249892
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590107,
+    "TalkDataText": {
+      "Hash": -240648883,
+      "Hash64": 5810890860733047099
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590108,
+    "TalkDataText": {
+      "Hash": -240648874,
+      "Hash64": 5354702633991336175
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590109,
+    "TalkDataText": {
+      "Hash": -240648873,
+      "Hash64": 8540674063600264385
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590110,
+    "TalkDataText": {
+      "Hash": 1325435059,
+      "Hash64": 3717832857961326408
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590111,
+    "TalkDataText": {
+      "Hash": 1325435060,
+      "Hash64": 16498620109960886765
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590112,
+    "TalkDataText": {
+      "Hash": 1325435061,
+      "Hash64": 7546050902291296578
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590113,
+    "TalkDataText": {
+      "Hash": 1325435062,
+      "Hash64": 9508651354779900481
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590203,
+    "TalkDataText": {
+      "Hash": -240648722,
+      "Hash64": 5556511734849092972
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590304,
+    "TalkDataText": {
+      "Hash": -240648820,
+      "Hash64": 16141482133345558058
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590303,
+    "TalkDataText": {
+      "Hash": -240648817,
+      "Hash64": 18051723478273734612
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590401,
+    "TalkDataText": {
+      "Hash": -240648918,
+      "Hash64": 6601917443233864587
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590402,
+    "TalkDataText": {
+      "Hash": -240648915,
+      "Hash64": 5453178569523845430
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590403,
+    "TalkDataText": {
+      "Hash": -240648916,
+      "Hash64": 16599841178449818656
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590404,
+    "TalkDataText": {
+      "Hash": -240648913,
+      "Hash64": 5024226362221101715
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590406,
+    "TalkDataText": {
+      "Hash": -240648911,
+      "Hash64": 2824270157542230977
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590502,
+    "TalkDataText": {
+      "Hash": -240649012,
+      "Hash64": 18369195694787606554
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590503,
+    "TalkDataText": {
+      "Hash": -240649011,
+      "Hash64": 2190428850824190113
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590601,
+    "TalkDataText": {
+      "Hash": -240648852,
+      "Hash64": 8335161854545432704
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590602,
+    "TalkDataText": {
+      "Hash": -240648853,
+      "Hash64": 11054189405861475248
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590603,
+    "TalkDataText": {
+      "Hash": -240648854,
+      "Hash64": 720120870368115489
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 590701,
+    "TalkDataText": {
+      "Hash": -240648947,
+      "Hash64": 8541240654728315608
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591301,
+    "TalkDataText": {
+      "Hash": -1544610730,
+      "Hash64": 1190291716580583915
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591302,
+    "TalkDataText": {
+      "Hash": -1544610733,
+      "Hash64": 6043287068365855470
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591303,
+    "TalkDataText": {
+      "Hash": -1544610732,
+      "Hash64": 13904773621994320670
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591400,
+    "TalkDataText": {
+      "Hash": -1544610832,
+      "Hash64": 10035138977204692385
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591401,
+    "TalkDataText": {
+      "Hash": -1544610833,
+      "Hash64": 17646118483171135417
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591402,
+    "TalkDataText": {
+      "Hash": -1544610830,
+      "Hash64": 16154207879881357472
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591601,
+    "TalkDataText": {
+      "Hash": -1544610767,
+      "Hash64": 1957606084492416888
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591602,
+    "TalkDataText": {
+      "Hash": -1544610768,
+      "Hash64": 2506783039737050618
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591701,
+    "TalkDataText": {
+      "Hash": -1544610862,
+      "Hash64": 8745979860610709594
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591702,
+    "TalkDataText": {
+      "Hash": -1544610865,
+      "Hash64": 10196916028849450151
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591703,
+    "TalkDataText": {
+      "Hash": -1544610864,
+      "Hash64": 17925793776501825565
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591704,
+    "TalkDataText": {
+      "Hash": -1544610859,
+      "Hash64": 18214990879209680530
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591705,
+    "TalkDataText": {
+      "Hash": -1544610858,
+      "Hash64": 5844515992086720546
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/PaoPao.png",
+    "ID": 591706,
+    "TalkDataText": {
+      "Hash": -1544610861,
+      "Hash64": 1507695137324876586
     }
   },
   {
@@ -2009,11 +2905,19 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 90265
+    "ID": 90265,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 90266
+    "ID": 90266,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
@@ -2065,7 +2969,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 90276
+    "ID": 90276,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
@@ -3541,79 +4449,155 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983010
+    "ID": 983010,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983011
+    "ID": 983011,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983012
+    "ID": 983012,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983013
+    "ID": 983013,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983014
+    "ID": 983014,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983015
+    "ID": 983015,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983016
+    "ID": 983016,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983017
+    "ID": 983017,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983018
+    "ID": 983018,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983019
+    "ID": 983019,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983020
+    "ID": 983020,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983021
+    "ID": 983021,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983022
+    "ID": 983022,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983023
+    "ID": 983023,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983024
+    "ID": 983024,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983025
+    "ID": 983025,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983026
+    "ID": 983026,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983027
+    "ID": 983027,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
-    "ID": 983028
+    "ID": 983028,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1013.png",
@@ -6256,6 +7240,38 @@
     }
   },
   {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc1.png",
+    "ID": 911601,
+    "TalkDataText": {
+      "Hash": -1478826507,
+      "Hash64": 6363774495475726316
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc1.png",
+    "ID": 911602,
+    "TalkDataText": {
+      "Hash": -1478826508,
+      "Hash64": 17814755019142086475
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 911701,
+    "TalkDataText": {
+      "Hash": -1478826602,
+      "Hash64": 6341772797226670731
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 911702,
+    "TalkDataText": {
+      "Hash": -1478826605,
+      "Hash64": 6572742873716004807
+    }
+  },
+  {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/ClockBoy.png",
     "ID": 520101,
     "TalkDataText": {
@@ -8209,7 +9225,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
-    "ID": 521107
+    "ID": 521107,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
@@ -8301,7 +9321,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
-    "ID": 521204
+    "ID": 521204,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
@@ -8385,7 +9409,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
-    "ID": 521504
+    "ID": 521504,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
@@ -8493,7 +9521,11 @@
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
-    "ID": 522005
+    "ID": 522005,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
@@ -9248,14 +10280,6 @@
     }
   },
   {
-    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
-    "ID": 701601,
-    "TalkDataText": {
-      "Hash": 2023571568,
-      "Hash64": 4729561041166715801
-    }
-  },
-  {
     "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Hyacine.png",
     "ID": 810101,
     "TalkDataText": {
@@ -9725,6 +10749,6110 @@
     "TalkDataText": {
       "Hash": 1392510967,
       "Hash64": 14122129713881970789
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 701601,
+    "TalkDataText": {
+      "Hash": 2023571568,
+      "Hash64": 4729561041166715801
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 600001,
+    "TalkDataText": {
+      "Hash": -159573038,
+      "Hash64": 6921754221591528462
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 600002,
+    "TalkDataText": {
+      "Hash": -159573037,
+      "Hash64": 2983451771205309535
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 600003,
+    "TalkDataText": {
+      "Hash": -159573036,
+      "Hash64": 8945477351277291211
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 600004,
+    "TalkDataText": {
+      "Hash": -159573043,
+      "Hash64": 15930009866272232534
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600005,
+    "TalkDataText": {
+      "Hash": -159573042,
+      "Hash64": 7750743044107017644
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 600101,
+    "TalkDataText": {
+      "Hash": -159573071,
+      "Hash64": 8578838005629453710
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 600102,
+    "TalkDataText": {
+      "Hash": -159573068,
+      "Hash64": 9659019315889910894
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 600103,
+    "TalkDataText": {
+      "Hash": -159573069,
+      "Hash64": 10407569131400991497
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 600104,
+    "TalkDataText": {
+      "Hash": -159573074,
+      "Hash64": 10458817230364093538
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 600105,
+    "TalkDataText": {
+      "Hash": -159573075,
+      "Hash64": 17106758796434085601
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 600106,
+    "TalkDataText": {
+      "Hash": -159573072,
+      "Hash64": 3623711163799829947
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600107,
+    "TalkDataText": {
+      "Hash": -159573073,
+      "Hash64": 15431273747995038890
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600201,
+    "TalkDataText": {
+      "Hash": -159572972,
+      "Hash64": 8188625220852773898
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600202,
+    "TalkDataText": {
+      "Hash": -159572975,
+      "Hash64": 1067611943899032141
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600203,
+    "TalkDataText": {
+      "Hash": -159572974,
+      "Hash64": 3529175475032264107
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600204,
+    "TalkDataText": {
+      "Hash": -159572977,
+      "Hash64": 542843218240718026
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600301,
+    "TalkDataText": {
+      "Hash": -159573005,
+      "Hash64": 2342149897143874768
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600302,
+    "TalkDataText": {
+      "Hash": -159573006,
+      "Hash64": 10520389788235699888
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600401,
+    "TalkDataText": {
+      "Hash": -159573170,
+      "Hash64": 17877480326021601686
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600501,
+    "TalkDataText": {
+      "Hash": -159573203,
+      "Hash64": 18391805954770640700
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600502,
+    "TalkDataText": {
+      "Hash": -159573200,
+      "Hash64": 18175650206505022755
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600503,
+    "TalkDataText": {
+      "Hash": -159573201,
+      "Hash64": 323470341817051100
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600504,
+    "TalkDataText": {
+      "Hash": -159573198,
+      "Hash64": 10668933297283799602
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600505,
+    "TalkDataText": {
+      "Hash": -159573199,
+      "Hash64": 384693612785822397
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600601,
+    "TalkDataText": {
+      "Hash": -159573104,
+      "Hash64": 3565816929715673856
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600602,
+    "TalkDataText": {
+      "Hash": -159573107,
+      "Hash64": 527324833202781307
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600603,
+    "TalkDataText": {
+      "Hash": -159573106,
+      "Hash64": 12672306731467133618
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600701,
+    "TalkDataText": {
+      "Hash": -159573137,
+      "Hash64": 11223808213434201738
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600702,
+    "TalkDataText": {
+      "Hash": -159573138,
+      "Hash64": 2123942878837723166
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600703,
+    "TalkDataText": {
+      "Hash": -159573139,
+      "Hash64": 15381217288811419954
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600704,
+    "TalkDataText": {
+      "Hash": -159573132,
+      "Hash64": 13589773149408363442
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600801,
+    "TalkDataText": {
+      "Hash": -159573302,
+      "Hash64": 16036672758003777365
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600901,
+    "TalkDataText": {
+      "Hash": -159573335,
+      "Hash64": 4488199056873759411
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600902,
+    "TalkDataText": {
+      "Hash": -159573332,
+      "Hash64": 2872740029347694050
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 600903,
+    "TalkDataText": {
+      "Hash": -159573333,
+      "Hash64": 2832321597003840137
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601001,
+    "TalkDataText": {
+      "Hash": -1745859955,
+      "Hash64": 15656022284166482289
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601101,
+    "TalkDataText": {
+      "Hash": -1745859988,
+      "Hash64": 2375396837028878704
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601201,
+    "TalkDataText": {
+      "Hash": -1745859889,
+      "Hash64": 16395897790225242944
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601301,
+    "TalkDataText": {
+      "Hash": -1745859922,
+      "Hash64": 5115345805639728647
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601302,
+    "TalkDataText": {
+      "Hash": -1745859923,
+      "Hash64": 479744899486248082
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601303,
+    "TalkDataText": {
+      "Hash": -1745859924,
+      "Hash64": 10054738998459939512
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601304,
+    "TalkDataText": {
+      "Hash": -1745859925,
+      "Hash64": 16105067870353184051
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601305,
+    "TalkDataText": {
+      "Hash": -1745859926,
+      "Hash64": 444312704558119290
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601306,
+    "TalkDataText": {
+      "Hash": -1745859927,
+      "Hash64": 6595523973016496086
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601307,
+    "TalkDataText": {
+      "Hash": -1745859928,
+      "Hash64": 2809035381195990467
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601401,
+    "TalkDataText": {
+      "Hash": -1745860087,
+      "Hash64": 13464124957462623361
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601501,
+    "TalkDataText": {
+      "Hash": -1745860120,
+      "Hash64": 1356783938813160511
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601601,
+    "TalkDataText": {
+      "Hash": -1745860021,
+      "Hash64": 4850995856146696267
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601701,
+    "TalkDataText": {
+      "Hash": -1745860054,
+      "Hash64": 4198619236346447026
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601801,
+    "TalkDataText": {
+      "Hash": -1745860219,
+      "Hash64": 4030122808796996124
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601901,
+    "TalkDataText": {
+      "Hash": -1745860252,
+      "Hash64": 5027284726747324917
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 601902,
+    "TalkDataText": {
+      "Hash": -1745860249,
+      "Hash64": 14902828572948973262
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602001,
+    "TalkDataText": {
+      "Hash": 122751964,
+      "Hash64": 16676537374401504435
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602002,
+    "TalkDataText": {
+      "Hash": 122751965,
+      "Hash64": 7443258279810993640
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602101,
+    "TalkDataText": {
+      "Hash": 122751931,
+      "Hash64": 11720028210064675118
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602102,
+    "TalkDataText": {
+      "Hash": 122751934,
+      "Hash64": 12910346860977544366
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602201,
+    "TalkDataText": {
+      "Hash": 122752030,
+      "Hash64": 13139380684033651173
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602202,
+    "TalkDataText": {
+      "Hash": 122752027,
+      "Hash64": 18169043202772497952
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602203,
+    "TalkDataText": {
+      "Hash": 122752028,
+      "Hash64": 4306171225624757704
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602301,
+    "TalkDataText": {
+      "Hash": 122751997,
+      "Hash64": 14444413075075121953
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 602302,
+    "TalkDataText": {
+      "Hash": 122751996,
+      "Hash64": 9511779741978396801
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 602401,
+    "TalkDataText": {
+      "Hash": 122751832,
+      "Hash64": 14899272563797190939
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 602402,
+    "TalkDataText": {
+      "Hash": 122751833,
+      "Hash64": 4715198921458873341
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 602403,
+    "TalkDataText": {
+      "Hash": 122751834,
+      "Hash64": 7014370122562190547
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 602404,
+    "TalkDataText": {
+      "Hash": 122751835,
+      "Hash64": 12881054092389287484
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610001,
+    "TalkDataText": {
+      "Hash": -159569839,
+      "Hash64": 2482683328643809373
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610002,
+    "TalkDataText": {
+      "Hash": -159569836,
+      "Hash64": 4665861072930036292
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610003,
+    "TalkDataText": {
+      "Hash": -159569837,
+      "Hash64": 17502673166958491041
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610004,
+    "TalkDataText": {
+      "Hash": -159569842,
+      "Hash64": 12372912041671206026
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610005,
+    "TalkDataText": {
+      "Hash": -159569843,
+      "Hash64": 11420924819043351534
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610006,
+    "TalkDataText": {
+      "Hash": -159569840,
+      "Hash64": 9681804719336702330
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610007,
+    "TalkDataText": {
+      "Hash": -159569841,
+      "Hash64": 6396485695956100098
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610008,
+    "TalkDataText": {
+      "Hash": -159569846,
+      "Hash64": 5846631771404353348
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610009,
+    "TalkDataText": {
+      "Hash": -159569847,
+      "Hash64": 6812358253665919011
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610010,
+    "TalkDataText": {
+      "Hash": -1725653779,
+      "Hash64": 16846640679545494958
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610201,
+    "TalkDataText": {
+      "Hash": -159569773,
+      "Hash64": 8697846720976558213
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610202,
+    "TalkDataText": {
+      "Hash": -159569774,
+      "Hash64": 5320589976285874650
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610203,
+    "TalkDataText": {
+      "Hash": -159569775,
+      "Hash64": 12310501069620393661
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610204,
+    "TalkDataText": {
+      "Hash": -159569776,
+      "Hash64": 1103037531759140776
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610205,
+    "TalkDataText": {
+      "Hash": -159569777,
+      "Hash64": 5078413571356051963
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610206,
+    "TalkDataText": {
+      "Hash": -159569778,
+      "Hash64": 17592497663931988462
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610207,
+    "TalkDataText": {
+      "Hash": -159569779,
+      "Hash64": 1851835335976096673
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610208,
+    "TalkDataText": {
+      "Hash": -159569780,
+      "Hash64": 1460379636172824042
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610301,
+    "TalkDataText": {
+      "Hash": -159569868,
+      "Hash64": 13360978911209328739
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610302,
+    "TalkDataText": {
+      "Hash": -159569871,
+      "Hash64": 2148858955362998493
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 610303,
+    "TalkDataText": {
+      "Hash": -159569870,
+      "Hash64": 724388869391786171
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610304,
+    "TalkDataText": {
+      "Hash": -159569873,
+      "Hash64": 3457306888115493765
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610305,
+    "TalkDataText": {
+      "Hash": -159569872,
+      "Hash64": 3705485475933221566
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 610401,
+    "TalkDataText": {
+      "Hash": -159569971,
+      "Hash64": 996124745903803291
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 610402,
+    "TalkDataText": {
+      "Hash": -159569968,
+      "Hash64": 5296179641154562456
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610403,
+    "TalkDataText": {
+      "Hash": -159569969,
+      "Hash64": 9022740783701401268
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610404,
+    "TalkDataText": {
+      "Hash": -159569966,
+      "Hash64": 15540695735038691495
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610405,
+    "TalkDataText": {
+      "Hash": -159569967,
+      "Hash64": 361372417229200976
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610406,
+    "TalkDataText": {
+      "Hash": -159569964,
+      "Hash64": 16039433146972112858
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610501,
+    "TalkDataText": {
+      "Hash": -159570066,
+      "Hash64": 15621287668097902344
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610502,
+    "TalkDataText": {
+      "Hash": -159570065,
+      "Hash64": 16182788031501583688
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610503,
+    "TalkDataText": {
+      "Hash": -159570064,
+      "Hash64": 11283917434154431911
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610504,
+    "TalkDataText": {
+      "Hash": -159570063,
+      "Hash64": 604242524934886275
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610505,
+    "TalkDataText": {
+      "Hash": -159570062,
+      "Hash64": 12324160611051252481
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610601,
+    "TalkDataText": {
+      "Hash": -159569905,
+      "Hash64": 13819102552961456885
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610602,
+    "TalkDataText": {
+      "Hash": -159569906,
+      "Hash64": 3399204338241091569
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610701,
+    "TalkDataText": {
+      "Hash": -159570000,
+      "Hash64": 5638198945244435674
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610801,
+    "TalkDataText": {
+      "Hash": -159570103,
+      "Hash64": 8073978431783395300
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610802,
+    "TalkDataText": {
+      "Hash": -159570100,
+      "Hash64": 7068680384002765811
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610803,
+    "TalkDataText": {
+      "Hash": -159570101,
+      "Hash64": 17075981040414909215
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610804,
+    "TalkDataText": {
+      "Hash": -159570106,
+      "Hash64": 8056696368605868847
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 610901,
+    "TalkDataText": {
+      "Hash": -159570198,
+      "Hash64": 4143743279441306924
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611001,
+    "TalkDataText": {
+      "Hash": -1745856756,
+      "Hash64": 4043695988482818698
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611002,
+    "TalkDataText": {
+      "Hash": -1745856753,
+      "Hash64": 3324079368251385974
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611003,
+    "TalkDataText": {
+      "Hash": -1745856754,
+      "Hash64": 14704868553686951970
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605001,
+    "TalkDataText": {
+      "Hash": -1181209951,
+      "Hash64": 2683458303903301675
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605002,
+    "TalkDataText": {
+      "Hash": -1181209950,
+      "Hash64": 4463497101017660678
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605003,
+    "TalkDataText": {
+      "Hash": -1181209949,
+      "Hash64": 10351380836693665959
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605101,
+    "TalkDataText": {
+      "Hash": -1181209984,
+      "Hash64": 17082810080207367523
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605102,
+    "TalkDataText": {
+      "Hash": -1181209981,
+      "Hash64": 9612003418813564074
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605201,
+    "TalkDataText": {
+      "Hash": -1181209885,
+      "Hash64": 11908739056252546699
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605301,
+    "TalkDataText": {
+      "Hash": -1181209918,
+      "Hash64": 13728544147337151115
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 605302,
+    "TalkDataText": {
+      "Hash": -1181209919,
+      "Hash64": 4211501390771665815
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 605401,
+    "TalkDataText": {
+      "Hash": -1181210083,
+      "Hash64": 7481910856868572339
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 605402,
+    "TalkDataText": {
+      "Hash": -1181210082,
+      "Hash64": 6282884295338905338
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 605403,
+    "TalkDataText": {
+      "Hash": -1181210081,
+      "Hash64": 2511913356003710996
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 605404,
+    "TalkDataText": {
+      "Hash": -1181210080,
+      "Hash64": 7145118022089044490
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 605405,
+    "TalkDataText": {
+      "Hash": -1181210079,
+      "Hash64": 7350164438218508963
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 605406,
+    "TalkDataText": {
+      "Hash": -1181210078,
+      "Hash64": 12239991527167226938
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 605407,
+    "TalkDataText": {
+      "Hash": -1181210077,
+      "Hash64": 7112182911506601300
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 605501,
+    "TalkDataText": {
+      "Hash": -1181210116,
+      "Hash64": 10145618631290088905
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 605502,
+    "TalkDataText": {
+      "Hash": -1181210113,
+      "Hash64": 13098924345141316338
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 611101,
+    "TalkDataText": {
+      "Hash": -1745856851,
+      "Hash64": 5454958929575038213
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611201,
+    "TalkDataText": {
+      "Hash": -1745856690,
+      "Hash64": 672669533379174564
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611301,
+    "TalkDataText": {
+      "Hash": -1745856785,
+      "Hash64": 2167846457820858739
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611302,
+    "TalkDataText": {
+      "Hash": -1745856788,
+      "Hash64": 6674801960182877995
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611303,
+    "TalkDataText": {
+      "Hash": -1745856787,
+      "Hash64": 2016898244882816561
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611304,
+    "TalkDataText": {
+      "Hash": -1745856790,
+      "Hash64": 10848671612590038712
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611401,
+    "TalkDataText": {
+      "Hash": -1745856888,
+      "Hash64": 17845925635444551369
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611402,
+    "TalkDataText": {
+      "Hash": -1745856885,
+      "Hash64": 9030727874437960358
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611403,
+    "TalkDataText": {
+      "Hash": -1745856886,
+      "Hash64": 9833792485876229044
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611404,
+    "TalkDataText": {
+      "Hash": -1745856883,
+      "Hash64": 12223592891289821554
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611501,
+    "TalkDataText": {
+      "Hash": -1745856983,
+      "Hash64": 12863747127592051234
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611502,
+    "TalkDataText": {
+      "Hash": -1745856982,
+      "Hash64": 16245623517314083164
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611503,
+    "TalkDataText": {
+      "Hash": -1745856981,
+      "Hash64": 61141193313223753
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 611601,
+    "TalkDataText": {
+      "Hash": -1745856822,
+      "Hash64": 6320034875529973531
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611602,
+    "TalkDataText": {
+      "Hash": -1745856823,
+      "Hash64": 10699333004620483006
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611603,
+    "TalkDataText": {
+      "Hash": -1745856824,
+      "Hash64": 7268747364540244819
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611604,
+    "TalkDataText": {
+      "Hash": -1745856817,
+      "Hash64": 12703707351051167590
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611701,
+    "TalkDataText": {
+      "Hash": -1745856917,
+      "Hash64": 12518487070179816807
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 611702,
+    "TalkDataText": {
+      "Hash": -1745856920,
+      "Hash64": 2879034120087338228
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611703,
+    "TalkDataText": {
+      "Hash": -1745856919,
+      "Hash64": 14213544985000291583
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 611704,
+    "TalkDataText": {
+      "Hash": -1745856914,
+      "Hash64": 163547250832266851
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611801,
+    "TalkDataText": {
+      "Hash": -1745857020,
+      "Hash64": 5934579340072457727
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611802,
+    "TalkDataText": {
+      "Hash": -1745857017,
+      "Hash64": 7339708858458172403
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 611803,
+    "TalkDataText": {
+      "Hash": -1745857018,
+      "Hash64": 8947029987054009065
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 611804,
+    "TalkDataText": {
+      "Hash": -1745857023,
+      "Hash64": 16855907953759013455
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 611901,
+    "TalkDataText": {
+      "Hash": -1745857115,
+      "Hash64": 9590903814677513107
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 611902,
+    "TalkDataText": {
+      "Hash": -1745857114,
+      "Hash64": 329551094300340653
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 612001,
+    "TalkDataText": {
+      "Hash": 122755163,
+      "Hash64": 2319882305721127472
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612002,
+    "TalkDataText": {
+      "Hash": 122755166,
+      "Hash64": 10274850103297074004
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612003,
+    "TalkDataText": {
+      "Hash": 122755165,
+      "Hash64": 7302896555057717876
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612101,
+    "TalkDataText": {
+      "Hash": 122755068,
+      "Hash64": 314813839531440302
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612102,
+    "TalkDataText": {
+      "Hash": 122755069,
+      "Hash64": 2010297278269755373
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612103,
+    "TalkDataText": {
+      "Hash": 122755070,
+      "Hash64": 2576823895211268508
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612201,
+    "TalkDataText": {
+      "Hash": 122755229,
+      "Hash64": 17369188001947559402
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 612202,
+    "TalkDataText": {
+      "Hash": 122755228,
+      "Hash64": 17781887352569479301
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 614101,
+    "TalkDataText": {
+      "Hash": 405080070,
+      "Hash64": 1818594539416076194
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 614102,
+    "TalkDataText": {
+      "Hash": 405080071,
+      "Hash64": 13504575812084880332
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612301,
+    "TalkDataText": {
+      "Hash": 122755134,
+      "Hash64": 10381603428495779798
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 612302,
+    "TalkDataText": {
+      "Hash": 122755131,
+      "Hash64": 8706591356274171785
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612303,
+    "TalkDataText": {
+      "Hash": 122755132,
+      "Hash64": 12889922061863383603
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612304,
+    "TalkDataText": {
+      "Hash": 122755129,
+      "Hash64": 6069919319083107732
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 612305,
+    "TalkDataText": {
+      "Hash": 122755130,
+      "Hash64": 9229363405694957120
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612401,
+    "TalkDataText": {
+      "Hash": 122755031,
+      "Hash64": 8805980036996072044
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612402,
+    "TalkDataText": {
+      "Hash": 122755034,
+      "Hash64": 14392175195946608746
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612403,
+    "TalkDataText": {
+      "Hash": 122755033,
+      "Hash64": 12183299148387214054
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 612404,
+    "TalkDataText": {
+      "Hash": 122755036,
+      "Hash64": 11569786882676132439
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 612405,
+    "TalkDataText": {
+      "Hash": 122755035,
+      "Hash64": 6571590779372353361
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 612501,
+    "TalkDataText": {
+      "Hash": 122754936,
+      "Hash64": 646370798910406196
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612502,
+    "TalkDataText": {
+      "Hash": 122754937,
+      "Hash64": 12519164778552422138
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612601,
+    "TalkDataText": {
+      "Hash": 122755097,
+      "Hash64": 7203998237961650040
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612602,
+    "TalkDataText": {
+      "Hash": 122755096,
+      "Hash64": 8492034125899530150
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612701,
+    "TalkDataText": {
+      "Hash": 122755002,
+      "Hash64": 9130349083581501143
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612801,
+    "TalkDataText": {
+      "Hash": 122754899,
+      "Hash64": 5049824261432910837
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612802,
+    "TalkDataText": {
+      "Hash": 122754902,
+      "Hash64": 12954405336411885986
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612803,
+    "TalkDataText": {
+      "Hash": 122754901,
+      "Hash64": 1129885190359351843
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612804,
+    "TalkDataText": {
+      "Hash": 122754896,
+      "Hash64": 11902482048263018286
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 612805,
+    "TalkDataText": {
+      "Hash": 122754895,
+      "Hash64": 7617006058170524992
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 612806,
+    "TalkDataText": {
+      "Hash": 122754898,
+      "Hash64": 12821547375523480672
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 612807,
+    "TalkDataText": {
+      "Hash": 122754897,
+      "Hash64": 6183474634284923392
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 612808,
+    "TalkDataText": {
+      "Hash": 122754908,
+      "Hash64": 9966310011573132703
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 612809,
+    "TalkDataText": {
+      "Hash": 122754907,
+      "Hash64": 1727512288313343381
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 612901,
+    "TalkDataText": {
+      "Hash": 122754804,
+      "Hash64": 13195880023766933891
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 613001,
+    "TalkDataText": {
+      "Hash": -1463531754,
+      "Hash64": 15396059529249818134
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613002,
+    "TalkDataText": {
+      "Hash": -1463531751,
+      "Hash64": 12539975356356638784
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613101,
+    "TalkDataText": {
+      "Hash": -1463531849,
+      "Hash64": 7555374898529664763
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613102,
+    "TalkDataText": {
+      "Hash": -1463531848,
+      "Hash64": 2188018685818349360
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613201,
+    "TalkDataText": {
+      "Hash": -1463531688,
+      "Hash64": 3176885717401764875
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613202,
+    "TalkDataText": {
+      "Hash": -1463531689,
+      "Hash64": 14584733712966935960
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613301,
+    "TalkDataText": {
+      "Hash": -1463531783,
+      "Hash64": 4492650778066590598
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 613302,
+    "TalkDataText": {
+      "Hash": -1463531786,
+      "Hash64": 13301283855547354450
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613401,
+    "TalkDataText": {
+      "Hash": -1463531886,
+      "Hash64": 17143651231900983543
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 613402,
+    "TalkDataText": {
+      "Hash": -1463531883,
+      "Hash64": 4812537811227697476
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613501,
+    "TalkDataText": {
+      "Hash": -1463531981,
+      "Hash64": 10924471806655328881
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 613502,
+    "TalkDataText": {
+      "Hash": -1463531980,
+      "Hash64": 9297762427656119500
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613601,
+    "TalkDataText": {
+      "Hash": -1463531820,
+      "Hash64": 9650906659362013327
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613602,
+    "TalkDataText": {
+      "Hash": -1463531821,
+      "Hash64": 13776874876467179111
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613603,
+    "TalkDataText": {
+      "Hash": -1463531822,
+      "Hash64": 12464442956817468588
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 613604,
+    "TalkDataText": {
+      "Hash": -1463531815,
+      "Hash64": 10745978075739509555
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613605,
+    "TalkDataText": {
+      "Hash": -1463531816,
+      "Hash64": 2349771625156804031
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613606,
+    "TalkDataText": {
+      "Hash": -1463531817,
+      "Hash64": 5621378397988172190
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 613701,
+    "TalkDataText": {
+      "Hash": -1463531915,
+      "Hash64": 2968266870992268626
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 613702,
+    "TalkDataText": {
+      "Hash": -1463531918,
+      "Hash64": 4855289584476181296
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 613703,
+    "TalkDataText": {
+      "Hash": -1463531917,
+      "Hash64": 8902937343351299082
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613704,
+    "TalkDataText": {
+      "Hash": -1463531912,
+      "Hash64": 7098862841334016897
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 613705,
+    "TalkDataText": {
+      "Hash": -1463531911,
+      "Hash64": 1886643807602565687
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613801,
+    "TalkDataText": {
+      "Hash": -1463532018,
+      "Hash64": 5705471257358093983
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 613901,
+    "TalkDataText": {
+      "Hash": -1463532113,
+      "Hash64": 16149541503781883087
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613902,
+    "TalkDataText": {
+      "Hash": -1463532112,
+      "Hash64": 1394566207145649752
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote01.png",
+    "ID": 613903,
+    "TalkDataText": {
+      "Hash": -1463532111,
+      "Hash64": 401194997444863047
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote02.png",
+    "ID": 613904,
+    "TalkDataText": {
+      "Hash": -1463532118,
+      "Hash64": 11821746393137894443
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote03.png",
+    "ID": 613905,
+    "TalkDataText": {
+      "Hash": -1463532117,
+      "Hash64": 5058818775349292726
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/Quest/EvolveBuild/RaccoonIcon/RaccoonEmote04.png",
+    "ID": 613906,
+    "TalkDataText": {
+      "Hash": -1463532116,
+      "Hash64": 17326374087835033951
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Raccoon.png",
+    "ID": 614201,
+    "TalkDataText": {
+      "Hash": 405080231,
+      "Hash64": 13702947947961971483
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150001,
+    "TalkDataText": {
+      "Hash": 960808278,
+      "Hash64": 2643661391572920911
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150002,
+    "TalkDataText": {
+      "Hash": -1768075077,
+      "Hash64": 16267367485837906227
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150003,
+    "TalkDataText": {
+      "Hash": -201991136,
+      "Hash64": 11855080417332746616
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150004,
+    "TalkDataText": {
+      "Hash": 1720323165,
+      "Hash64": 17293252589670759085
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150005,
+    "TalkDataText": {
+      "Hash": -1008560190,
+      "Hash64": 666343627316878227
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1412.png",
+    "ID": 6150006,
+    "TalkDataText": {
+      "Hash": 557523751,
+      "Hash64": 1716499571305201788
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150007,
+    "TalkDataText": {
+      "Hash": 2123607692,
+      "Hash64": 8652349519963492173
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150008,
+    "TalkDataText": {
+      "Hash": -961506023,
+      "Hash64": 10109521496053185353
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150009,
+    "TalkDataText": {
+      "Hash": 604577918,
+      "Hash64": 7057079283069691246
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150010,
+    "TalkDataText": {
+      "Hash": -605275664,
+      "Hash64": 1351349161474667407
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150011,
+    "TalkDataText": {
+      "Hash": 960808277,
+      "Hash64": 14816527611858970859
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150012,
+    "TalkDataText": {
+      "Hash": -1768075078,
+      "Hash64": 7822242674562464624
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150013,
+    "TalkDataText": {
+      "Hash": -201991137,
+      "Hash64": 13662729743457139122
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 6150014,
+    "TalkDataText": {
+      "Hash": 1720323164,
+      "Hash64": 10373728644312014357
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150015,
+    "TalkDataText": {
+      "Hash": -1008560191,
+      "Hash64": 13208050702246791464
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150016,
+    "TalkDataText": {
+      "Hash": 557523750,
+      "Hash64": 10828355061228027562
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150017,
+    "TalkDataText": {
+      "Hash": 2123607691,
+      "Hash64": 12816909039035579390
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 6150018,
+    "TalkDataText": {
+      "Hash": -961506024,
+      "Hash64": 4028981514821667617
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 6150019,
+    "TalkDataText": {
+      "Hash": 604577917,
+      "Hash64": 2769705676327144134
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150020,
+    "TalkDataText": {
+      "Hash": -605275661,
+      "Hash64": 6415822472102937505
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150021,
+    "TalkDataText": {
+      "Hash": 960808280,
+      "Hash64": 932372892508695487
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150022,
+    "TalkDataText": {
+      "Hash": -1768075075,
+      "Hash64": 4791210262114712429
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 6150023,
+    "TalkDataText": {
+      "Hash": -201991134,
+      "Hash64": 13575627468807294761
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150024,
+    "TalkDataText": {
+      "Hash": 1720323167,
+      "Hash64": 11770059333867139550
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150025,
+    "TalkDataText": {
+      "Hash": -1008560188,
+      "Hash64": 2825937512825612858
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150026,
+    "TalkDataText": {
+      "Hash": 557523753,
+      "Hash64": 1393953754403424258
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150027,
+    "TalkDataText": {
+      "Hash": 2123607694,
+      "Hash64": 14305757091126466716
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150028,
+    "TalkDataText": {
+      "Hash": -961506021,
+      "Hash64": 11733753843339215165
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 6150029,
+    "TalkDataText": {
+      "Hash": 604577920,
+      "Hash64": 9392753408745244899
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150030,
+    "TalkDataText": {
+      "Hash": -605275662,
+      "Hash64": 2902921152318796023
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 6150031,
+    "TalkDataText": {
+      "Hash": 960808279,
+      "Hash64": 9809368243040725297
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 6150032,
+    "TalkDataText": {
+      "Hash": -1768075076,
+      "Hash64": 16748834755999709085
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150033,
+    "TalkDataText": {
+      "Hash": -201991135,
+      "Hash64": 10057667509263924835
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150034,
+    "TalkDataText": {
+      "Hash": 1720323166,
+      "Hash64": 16336257355730214573
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150035,
+    "TalkDataText": {
+      "Hash": -1008560189,
+      "Hash64": 16005954540590579859
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150036,
+    "TalkDataText": {
+      "Hash": 557523752,
+      "Hash64": 13538710852589732477
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150037,
+    "TalkDataText": {
+      "Hash": 2123607693,
+      "Hash64": 1875787607684489019
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150038,
+    "TalkDataText": {
+      "Hash": -961506022,
+      "Hash64": 16261359391726229011
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1410.png",
+    "ID": 6150039,
+    "TalkDataText": {
+      "Hash": 604577919,
+      "Hash64": 13507243896708798668
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1410.png",
+    "ID": 6150040,
+    "TalkDataText": {
+      "Hash": -605275667,
+      "Hash64": 14755624640343959964
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 6150041,
+    "TalkDataText": {
+      "Hash": 960808274,
+      "Hash64": 1443361962349930176
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 6150042,
+    "TalkDataText": {
+      "Hash": -1768075081,
+      "Hash64": 12734468921878297033
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150044,
+    "TalkDataText": {
+      "Hash": 1720323161,
+      "Hash64": 10023084567655126603
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150045,
+    "TalkDataText": {
+      "Hash": -1008560194,
+      "Hash64": 8353573985756245922
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 6150046,
+    "TalkDataText": {
+      "Hash": 557523747,
+      "Hash64": 2668369680791080260
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1412.png",
+    "ID": 6150047,
+    "TalkDataText": {
+      "Hash": 2123607688,
+      "Hash64": 13968776692495849063
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1412.png",
+    "ID": 6150048,
+    "TalkDataText": {
+      "Hash": -961506027,
+      "Hash64": 12273879020070323765
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1412.png",
+    "ID": 6150049,
+    "TalkDataText": {
+      "Hash": 604577914,
+      "Hash64": 13105902528782452983
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "ID": 6150050,
+    "TalkDataText": {
+      "Hash": -605275668,
+      "Hash64": 989107670991578391
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 6150051,
+    "TalkDataText": {
+      "Hash": 960808273,
+      "Hash64": 13600946985194236070
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 6150052,
+    "TalkDataText": {
+      "Hash": -1768075082,
+      "Hash64": 15603257920581278313
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160001,
+    "TalkDataText": {
+      "Hash": -636708421,
+      "Hash64": 4597973163843533215
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160002,
+    "TalkDataText": {
+      "Hash": 2092174934,
+      "Hash64": 6334910338776277540
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160003,
+    "TalkDataText": {
+      "Hash": 526090993,
+      "Hash64": 9719248088295189455
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160004,
+    "TalkDataText": {
+      "Hash": -1039992948,
+      "Hash64": 54445232338768214
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160005,
+    "TalkDataText": {
+      "Hash": 1688890407,
+      "Hash64": 13081598207292485284
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160006,
+    "TalkDataText": {
+      "Hash": 122806466,
+      "Hash64": 3614848354420872429
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160007,
+    "TalkDataText": {
+      "Hash": -1443277475,
+      "Hash64": 1137810271460561935
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160008,
+    "TalkDataText": {
+      "Hash": 573145160,
+      "Hash64": 13267307748691400110
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160009,
+    "TalkDataText": {
+      "Hash": -992938781,
+      "Hash64": 580340201245648581
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160010,
+    "TalkDataText": {
+      "Hash": 929375519,
+      "Hash64": 15907396604149892786
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160011,
+    "TalkDataText": {
+      "Hash": -636708422,
+      "Hash64": 15534642244400102110
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160012,
+    "TalkDataText": {
+      "Hash": 2092174933,
+      "Hash64": 13299517736032973541
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160014,
+    "TalkDataText": {
+      "Hash": -1039992949,
+      "Hash64": 3853807258815048895
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160015,
+    "TalkDataText": {
+      "Hash": 1688890406,
+      "Hash64": 12210204986590101106
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160016,
+    "TalkDataText": {
+      "Hash": 122806465,
+      "Hash64": 16439136667292863723
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160017,
+    "TalkDataText": {
+      "Hash": -1443277476,
+      "Hash64": 10746992788656197258
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160018,
+    "TalkDataText": {
+      "Hash": 573145159,
+      "Hash64": 5170339881897311200
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160019,
+    "TalkDataText": {
+      "Hash": -992938782,
+      "Hash64": 14793680420717367319
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160020,
+    "TalkDataText": {
+      "Hash": 929375522,
+      "Hash64": 13759253318978342030
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160022,
+    "TalkDataText": {
+      "Hash": 2092174936,
+      "Hash64": 972768316847282740
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160023,
+    "TalkDataText": {
+      "Hash": 526090995,
+      "Hash64": 15561543742664669336
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160024,
+    "TalkDataText": {
+      "Hash": -1039992946,
+      "Hash64": 9255358201729475245
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160025,
+    "TalkDataText": {
+      "Hash": 1688890409,
+      "Hash64": 10674065696605976575
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160026,
+    "TalkDataText": {
+      "Hash": 122806468,
+      "Hash64": 14989187378003913259
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160027,
+    "TalkDataText": {
+      "Hash": -1443277473,
+      "Hash64": 12440930575684788654
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160028,
+    "TalkDataText": {
+      "Hash": 573145162,
+      "Hash64": 1756066463384858446
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160029,
+    "TalkDataText": {
+      "Hash": -992938779,
+      "Hash64": 13358414729888173627
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160030,
+    "TalkDataText": {
+      "Hash": 929375521,
+      "Hash64": 14545559639670935044
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160031,
+    "TalkDataText": {
+      "Hash": -636708420,
+      "Hash64": 4042242254505950938
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160032,
+    "TalkDataText": {
+      "Hash": 2092174935,
+      "Hash64": 17271528983510818912
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160033,
+    "TalkDataText": {
+      "Hash": 526090994,
+      "Hash64": 4594645834463639510
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160034,
+    "TalkDataText": {
+      "Hash": -1039992947,
+      "Hash64": 11565747017238011924
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160035,
+    "TalkDataText": {
+      "Hash": 1688890408,
+      "Hash64": 13218915814049469558
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160036,
+    "TalkDataText": {
+      "Hash": 122806467,
+      "Hash64": 16043956144328450398
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160037,
+    "TalkDataText": {
+      "Hash": -1443277474,
+      "Hash64": 5895671302378476772
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160038,
+    "TalkDataText": {
+      "Hash": 573145161,
+      "Hash64": 6294952448382367352
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160039,
+    "TalkDataText": {
+      "Hash": -992938780,
+      "Hash64": 8481905667400029108
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160040,
+    "TalkDataText": {
+      "Hash": 929375516,
+      "Hash64": 16361632074605299619
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160041,
+    "TalkDataText": {
+      "Hash": -636708425,
+      "Hash64": 1113997111234929706
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160042,
+    "TalkDataText": {
+      "Hash": 2092174930,
+      "Hash64": 1526674569034252636
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeV2Challenger1.png",
+    "ID": 6160043,
+    "TalkDataText": {
+      "Hash": 526090989,
+      "Hash64": 9265173799181924787
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830101,
+    "TalkDataText": {
+      "Hash": 632998266,
+      "Hash64": 13798934594977203177
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830102,
+    "TalkDataText": {
+      "Hash": 632998263,
+      "Hash64": 4241229773920375709
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830103,
+    "TalkDataText": {
+      "Hash": 632998264,
+      "Hash64": 7185220220058937915
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830201,
+    "TalkDataText": {
+      "Hash": 632998295,
+      "Hash64": 5834137772785476927
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830202,
+    "TalkDataText": {
+      "Hash": 632998298,
+      "Hash64": 5417263830898115403
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830203,
+    "TalkDataText": {
+      "Hash": 632998297,
+      "Hash64": 9107134307406704015
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830301,
+    "TalkDataText": {
+      "Hash": 632998200,
+      "Hash64": 2655722611427723806
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830302,
+    "TalkDataText": {
+      "Hash": 632998201,
+      "Hash64": 17039881669184197740
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830303,
+    "TalkDataText": {
+      "Hash": 632998202,
+      "Hash64": 11940501095865019669
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830401,
+    "TalkDataText": {
+      "Hash": 632998229,
+      "Hash64": 17542592679683524744
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830402,
+    "TalkDataText": {
+      "Hash": 632998228,
+      "Hash64": 1321669744092277536
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830501,
+    "TalkDataText": {
+      "Hash": 632998134,
+      "Hash64": 16780483919456812131
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830502,
+    "TalkDataText": {
+      "Hash": 632998131,
+      "Hash64": 3709163224994545793
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830601,
+    "TalkDataText": {
+      "Hash": 632998163,
+      "Hash64": 735595520083762037
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830602,
+    "TalkDataText": {
+      "Hash": 632998166,
+      "Hash64": 6252425098010198980
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830701,
+    "TalkDataText": {
+      "Hash": 632998068,
+      "Hash64": 3960376912443777207
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830702,
+    "TalkDataText": {
+      "Hash": 632998069,
+      "Hash64": 11185619585137659552
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830801,
+    "TalkDataText": {
+      "Hash": 632998097,
+      "Hash64": 8384689524721756051
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830802,
+    "TalkDataText": {
+      "Hash": 632998096,
+      "Hash64": 2375561271961476587
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830803,
+    "TalkDataText": {
+      "Hash": 632998095,
+      "Hash64": 883724270417854270
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830804,
+    "TalkDataText": {
+      "Hash": 632998094,
+      "Hash64": 11867070386083281281
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830805,
+    "TalkDataText": {
+      "Hash": 632998093,
+      "Hash64": 11174351042098577339
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830901,
+    "TalkDataText": {
+      "Hash": 632998002,
+      "Hash64": 2646856128589291174
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830902,
+    "TalkDataText": {
+      "Hash": 632997999,
+      "Hash64": 16246199687544424630
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 830903,
+    "TalkDataText": {
+      "Hash": 632998000,
+      "Hash64": 8498591223472607150
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 831101,
+    "TalkDataText": {
+      "Hash": -953288651,
+      "Hash64": 9768877666318561342
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 831601,
+    "TalkDataText": {
+      "Hash": -953288754,
+      "Hash64": 4000191898044080053
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 831701,
+    "TalkDataText": {
+      "Hash": -953288849,
+      "Hash64": 5244137273300935883
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 831801,
+    "TalkDataText": {
+      "Hash": -953288820,
+      "Hash64": 6632896403951155032
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832001,
+    "TalkDataText": {
+      "Hash": 350673359,
+      "Hash64": 17988007535854276411
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832101,
+    "TalkDataText": {
+      "Hash": 350673264,
+      "Hash64": 13789188620309229872
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832102,
+    "TalkDataText": {
+      "Hash": 350673261,
+      "Hash64": 8400823337921548608
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832201,
+    "TalkDataText": {
+      "Hash": 350673293,
+      "Hash64": 5199341027330909743
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832202,
+    "TalkDataText": {
+      "Hash": 350673296,
+      "Hash64": 17002888041998477047
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832301,
+    "TalkDataText": {
+      "Hash": 350673198,
+      "Hash64": 11939134232859596380
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832501,
+    "TalkDataText": {
+      "Hash": 350673132,
+      "Hash64": 1636519121294837043
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832502,
+    "TalkDataText": {
+      "Hash": 350673129,
+      "Hash64": 10370509733412405843
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832601,
+    "TalkDataText": {
+      "Hash": 350673161,
+      "Hash64": 997598468323807302
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832602,
+    "TalkDataText": {
+      "Hash": 350673164,
+      "Hash64": 7207242659745791855
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/RogueNpc2.png",
+    "ID": 832701,
+    "TalkDataText": {
+      "Hash": 350673066,
+      "Hash64": 16729906964233992204
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 1044106001,
+    "TalkDataText": {
+      "Hash": -1917538398,
+      "Hash64": 13218352329564808641
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645000,
+    "TalkDataText": {
+      "Hash": -1181214308,
+      "Hash64": 9188557878003938491
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645001,
+    "TalkDataText": {
+      "Hash": -1181214307,
+      "Hash64": 16562340567649368593
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645002,
+    "TalkDataText": {
+      "Hash": -1181214306,
+      "Hash64": 10810320912048451839
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645003,
+    "TalkDataText": {
+      "Hash": -1181214305,
+      "Hash64": 4753209129550059571
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645004,
+    "TalkDataText": {
+      "Hash": -1181214304,
+      "Hash64": 6370054907196770977
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645005,
+    "TalkDataText": {
+      "Hash": -1181214303,
+      "Hash64": 11629335559207415131
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645006,
+    "TalkDataText": {
+      "Hash": -1181214302,
+      "Hash64": 4465449961455872400
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645007,
+    "TalkDataText": {
+      "Hash": -1181214301,
+      "Hash64": 15665665190206077289
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645008,
+    "TalkDataText": {
+      "Hash": -1181214316,
+      "Hash64": 14177239290348515137
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645009,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645011,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645010,
+    "TalkDataText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645012,
+    "TalkDataText": {
+      "Hash": 384869635,
+      "Hash64": 9634215869850037074
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645013,
+    "TalkDataText": {
+      "Hash": 384869636,
+      "Hash64": 104809202012306353
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645014,
+    "TalkDataText": {
+      "Hash": 384869637,
+      "Hash64": 1419484572080473933
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/3112.png",
+    "ID": 645015,
+    "TalkDataText": {
+      "Hash": 384869638,
+      "Hash64": 2084126935984843541
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650001,
+    "TalkDataText": {
+      "Hash": -159574195,
+      "Hash64": 15710770333219183899
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650104,
+    "TalkDataText": {
+      "Hash": -159574287,
+      "Hash64": 14648357531812032622
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650101,
+    "TalkDataText": {
+      "Hash": -159574290,
+      "Hash64": 11747136989951798637
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650102,
+    "TalkDataText": {
+      "Hash": -159574289,
+      "Hash64": 16279057999448568346
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650103,
+    "TalkDataText": {
+      "Hash": -159574288,
+      "Hash64": 12895858633134439396
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650301,
+    "TalkDataText": {
+      "Hash": -159574224,
+      "Hash64": 8001021100864855537
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650302,
+    "TalkDataText": {
+      "Hash": -159574227,
+      "Hash64": 12049439112962569450
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650401,
+    "TalkDataText": {
+      "Hash": -159574063,
+      "Hash64": 810714746738158176
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650601,
+    "TalkDataText": {
+      "Hash": -159573997,
+      "Hash64": 13433982932092240566
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650701,
+    "TalkDataText": {
+      "Hash": -159574092,
+      "Hash64": 8145237807397010924
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650702,
+    "TalkDataText": {
+      "Hash": -159574095,
+      "Hash64": 9143502993725727285
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650801,
+    "TalkDataText": {
+      "Hash": -159574459,
+      "Hash64": 7494539000525543907
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650802,
+    "TalkDataText": {
+      "Hash": -159574456,
+      "Hash64": 9432209384012289540
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650803,
+    "TalkDataText": {
+      "Hash": -159574457,
+      "Hash64": 4045316792779918701
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 650901,
+    "TalkDataText": {
+      "Hash": -159574554,
+      "Hash64": 15139717074468192771
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
+    "ID": 660101,
+    "TalkDataText": {
+      "Hash": -159575249,
+      "Hash64": 7997050156584807296
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
+    "ID": 660102,
+    "TalkDataText": {
+      "Hash": -159575250,
+      "Hash64": 2842005355761043607
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
+    "ID": 660201,
+    "TalkDataText": {
+      "Hash": -159575282,
+      "Hash64": 15930049481505950695
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/MatchThreeTutorial.png",
+    "ID": 660202,
+    "TalkDataText": {
+      "Hash": -159575281,
+      "Hash64": 16525084176873596884
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1415.png",
+    "ID": 2048107001,
+    "TalkDataText": {
+      "Hash": -1442110008,
+      "Hash64": 13983305179465987656
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1415.png",
+    "ID": 2048107002,
+    "TalkDataText": {
+      "Hash": -1442110007,
+      "Hash64": 11082818188068179448
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1415.png",
+    "ID": 2048107003,
+    "TalkDataText": {
+      "Hash": -1442110006,
+      "Hash64": 13858091834325381634
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1408.png",
+    "ID": 2048107004,
+    "TalkDataText": {
+      "Hash": -1442110013,
+      "Hash64": 14369202365727578377
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840001,
+    "TalkDataText": {
+      "Hash": 632988628,
+      "Hash64": 3472342300761756104
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840011,
+    "TalkDataText": {
+      "Hash": -933095313,
+      "Hash64": 14090875617883349666
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840012,
+    "TalkDataText": {
+      "Hash": -933095312,
+      "Hash64": 6448755908545314794
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840002,
+    "TalkDataText": {
+      "Hash": 632988629,
+      "Hash64": 176113380892463309
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840003,
+    "TalkDataText": {
+      "Hash": 632988630,
+      "Hash64": 7089320532616683868
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840004,
+    "TalkDataText": {
+      "Hash": 632988631,
+      "Hash64": 13671905118511427930
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840005,
+    "TalkDataText": {
+      "Hash": 632988632,
+      "Hash64": 2295536478771009928
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840006,
+    "TalkDataText": {
+      "Hash": 632988633,
+      "Hash64": 18126035601287562634
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/Pam.png",
+    "ID": 840007,
+    "TalkDataText": {
+      "Hash": 632988634,
+      "Hash64": 17592170430509381897
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850101,
+    "TalkDataText": {
+      "Hash": 632991732,
+      "Hash64": 15140146119167529931
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850102,
+    "TalkDataText": {
+      "Hash": 632991733,
+      "Hash64": 6153677962003709907
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850103,
+    "TalkDataText": {
+      "Hash": 632991734,
+      "Hash64": 2567564449589578506
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850104,
+    "TalkDataText": {
+      "Hash": 632991735,
+      "Hash64": 12664801129008387627
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850105,
+    "TalkDataText": {
+      "Hash": 632991736,
+      "Hash64": 6360454385603766513
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850106,
+    "TalkDataText": {
+      "Hash": 632991737,
+      "Hash64": 15241857540855982581
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850107,
+    "TalkDataText": {
+      "Hash": 632991738,
+      "Hash64": 11143001861401713628
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850201,
+    "TalkDataText": {
+      "Hash": 632991893,
+      "Hash64": 1307935793653830497
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850202,
+    "TalkDataText": {
+      "Hash": 632991892,
+      "Hash64": 975608957539982786
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850203,
+    "TalkDataText": {
+      "Hash": 632991891,
+      "Hash64": 4861264150193778007
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850204,
+    "TalkDataText": {
+      "Hash": 632991898,
+      "Hash64": 6670593950153642009
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850401,
+    "TalkDataText": {
+      "Hash": 632991959,
+      "Hash64": 5211285226646164673
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850403,
+    "TalkDataText": {
+      "Hash": 632991961,
+      "Hash64": 2339159536513262658
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850404,
+    "TalkDataText": {
+      "Hash": 632991956,
+      "Hash64": 17500191144880350704
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850405,
+    "TalkDataText": {
+      "Hash": 632991955,
+      "Hash64": 6883458305642200565
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850501,
+    "TalkDataText": {
+      "Hash": 632991864,
+      "Hash64": 13901866636073787053
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850502,
+    "TalkDataText": {
+      "Hash": 632991865,
+      "Hash64": 5659644773056714681
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850601,
+    "TalkDataText": {
+      "Hash": 632992025,
+      "Hash64": 7778248341296580227
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850602,
+    "TalkDataText": {
+      "Hash": 632992024,
+      "Hash64": 11747503190558052806
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850603,
+    "TalkDataText": {
+      "Hash": 632992023,
+      "Hash64": 9417949103984000828
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850801,
+    "TalkDataText": {
+      "Hash": 632991563,
+      "Hash64": 16534558876964700697
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850802,
+    "TalkDataText": {
+      "Hash": 632991566,
+      "Hash64": 126856032362324973
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850803,
+    "TalkDataText": {
+      "Hash": 632991565,
+      "Hash64": 17111400243845338119
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850205,
+    "TalkDataText": {
+      "Hash": 632991897,
+      "Hash64": 2327231337059851034
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850206,
+    "TalkDataText": {
+      "Hash": 632991896,
+      "Hash64": 4973281605150561354
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850207,
+    "TalkDataText": {
+      "Hash": 632991895,
+      "Hash64": 8086805829415502602
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850407,
+    "TalkDataText": {
+      "Hash": 632991957,
+      "Hash64": 16692673921198528460
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850408,
+    "TalkDataText": {
+      "Hash": 632991952,
+      "Hash64": 7260407358313987147
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850409,
+    "TalkDataText": {
+      "Hash": 632991951,
+      "Hash64": 3639164756118154018
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850901,
+    "TalkDataText": {
+      "Hash": 632991468,
+      "Hash64": 6096971634823753428
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850902,
+    "TalkDataText": {
+      "Hash": 632991469,
+      "Hash64": 2881052282439387192
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/NPC/CakeTrash.png",
+    "ID": 850903,
+    "TalkDataText": {
+      "Hash": 632991470,
+      "Hash64": 308199668667142830
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860101,
+    "TalkDataText": {
+      "Hash": 632990773,
+      "Hash64": 13608129433474381615
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860102,
+    "TalkDataText": {
+      "Hash": 632990772,
+      "Hash64": 5726927369230052740
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 860103,
+    "TalkDataText": {
+      "Hash": 632990771,
+      "Hash64": 12564243449064991534
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 860104,
+    "TalkDataText": {
+      "Hash": 632990778,
+      "Hash64": 16838987260160252522
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860105,
+    "TalkDataText": {
+      "Hash": 632990777,
+      "Hash64": 18206021997476950532
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860106,
+    "TalkDataText": {
+      "Hash": 632990776,
+      "Hash64": 436563310666107196
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 860107,
+    "TalkDataText": {
+      "Hash": 632990775,
+      "Hash64": 6102560029152371606
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860108,
+    "TalkDataText": {
+      "Hash": 632990766,
+      "Hash64": 14695577846087935435
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860201,
+    "TalkDataText": {
+      "Hash": 632990740,
+      "Hash64": 17332002219567636
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860202,
+    "TalkDataText": {
+      "Hash": 632990741,
+      "Hash64": 367679354591603666
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860203,
+    "TalkDataText": {
+      "Hash": 632990742,
+      "Hash64": 4969820491649349954
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860204,
+    "TalkDataText": {
+      "Hash": 632990743,
+      "Hash64": 12251665650236225694
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 860205,
+    "TalkDataText": {
+      "Hash": 632990744,
+      "Hash64": 7595137281007818214
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 860206,
+    "TalkDataText": {
+      "Hash": 632990745,
+      "Hash64": 13656824123825677077
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860207,
+    "TalkDataText": {
+      "Hash": 632990746,
+      "Hash64": 882687539759673434
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860301,
+    "TalkDataText": {
+      "Hash": 632990707,
+      "Hash64": 10150260409733957143
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860302,
+    "TalkDataText": {
+      "Hash": 632990710,
+      "Hash64": 15519204904335243229
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860303,
+    "TalkDataText": {
+      "Hash": 632990709,
+      "Hash64": 1620424815250953472
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 860901,
+    "TalkDataText": {
+      "Hash": 632990509,
+      "Hash64": 14792117696055668162
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 861101,
+    "TalkDataText": {
+      "Hash": -953296144,
+      "Hash64": 15280051285374739918
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 861102,
+    "TalkDataText": {
+      "Hash": -953296145,
+      "Hash64": 6935655672920800838
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 861201,
+    "TalkDataText": {
+      "Hash": -953296177,
+      "Hash64": 1129535595197063571
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 861202,
+    "TalkDataText": {
+      "Hash": -953296176,
+      "Hash64": 15044299986039760832
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 861301,
+    "TalkDataText": {
+      "Hash": -953296210,
+      "Hash64": 11545589897352052204
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 861302,
+    "TalkDataText": {
+      "Hash": -953296207,
+      "Hash64": 3436952918990003247
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 861401,
+    "TalkDataText": {
+      "Hash": -953295979,
+      "Hash64": 10472233658240347185
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 862101,
+    "TalkDataText": {
+      "Hash": 350665771,
+      "Hash64": 17915472634580500069
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 862102,
+    "TalkDataText": {
+      "Hash": 350665770,
+      "Hash64": 2017272757925695481
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863001,
+    "TalkDataText": {
+      "Hash": -1235621113,
+      "Hash64": 101098957089474744
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863002,
+    "TalkDataText": {
+      "Hash": -1235621116,
+      "Hash64": 16121051413772840945
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863003,
+    "TalkDataText": {
+      "Hash": -1235621115,
+      "Hash64": 15829779825886374200
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863004,
+    "TalkDataText": {
+      "Hash": -1235621110,
+      "Hash64": 2385448722436001115
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863101,
+    "TalkDataText": {
+      "Hash": -1235621146,
+      "Hash64": 10435018595652128147
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863102,
+    "TalkDataText": {
+      "Hash": -1235621147,
+      "Hash64": 17389106445792960883
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863103,
+    "TalkDataText": {
+      "Hash": -1235621148,
+      "Hash64": 7382263465203125303
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863104,
+    "TalkDataText": {
+      "Hash": -1235621141,
+      "Hash64": 13009761976771541072
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863105,
+    "TalkDataText": {
+      "Hash": -1235621142,
+      "Hash64": 535379825283593891
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863106,
+    "TalkDataText": {
+      "Hash": -1235621143,
+      "Hash64": 1636377013485909140
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1410.png",
+    "ID": 863110,
+    "TalkDataText": {
+      "Hash": 330462796,
+      "Hash64": 14435382700742701252
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1410.png",
+    "ID": 863111,
+    "TalkDataText": {
+      "Hash": 330462795,
+      "Hash64": 15408001034162110793
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1410.png",
+    "ID": 863112,
+    "TalkDataText": {
+      "Hash": 330462794,
+      "Hash64": 8400858292482890721
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1414.png",
+    "ID": 863113,
+    "TalkDataText": {
+      "Hash": 330462793,
+      "Hash64": 6155031030319809000
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1414.png",
+    "ID": 863114,
+    "TalkDataText": {
+      "Hash": 330462800,
+      "Hash64": 18440223638153281781
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1414.png",
+    "ID": 863115,
+    "TalkDataText": {
+      "Hash": 330462799,
+      "Hash64": 2069828278836163302
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 863116,
+    "TalkDataText": {
+      "Hash": 330462798,
+      "Hash64": 8713272373445875670
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 863117,
+    "TalkDataText": {
+      "Hash": 330462797,
+      "Hash64": 14702060599386608862
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1406.png",
+    "ID": 863118,
+    "TalkDataText": {
+      "Hash": 330462788,
+      "Hash64": 17335331561169978000
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863201,
+    "TalkDataText": {
+      "Hash": -1235621179,
+      "Hash64": 9916659329527312676
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863202,
+    "TalkDataText": {
+      "Hash": -1235621178,
+      "Hash64": 6907623229510123902
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863203,
+    "TalkDataText": {
+      "Hash": -1235621177,
+      "Hash64": 618876638786900798
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863301,
+    "TalkDataText": {
+      "Hash": -1235621212,
+      "Hash64": 5321918712920111539
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863302,
+    "TalkDataText": {
+      "Hash": -1235621209,
+      "Hash64": 9860594890971315931
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863401,
+    "TalkDataText": {
+      "Hash": -1235620981,
+      "Hash64": 1902360837239821075
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863402,
+    "TalkDataText": {
+      "Hash": -1235620984,
+      "Hash64": 14752444945439024910
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863501,
+    "TalkDataText": {
+      "Hash": -1235621014,
+      "Hash64": 15380757420948349711
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 863601,
+    "TalkDataText": {
+      "Hash": -1235621047,
+      "Hash64": 11375615123056714240
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863701,
+    "TalkDataText": {
+      "Hash": -1235621080,
+      "Hash64": 1304600824205401959
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863702,
+    "TalkDataText": {
+      "Hash": -1235621077,
+      "Hash64": 5308019856239517170
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863703,
+    "TalkDataText": {
+      "Hash": -1235621078,
+      "Hash64": 820442138832592108
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863801,
+    "TalkDataText": {
+      "Hash": -1235621377,
+      "Hash64": 6501688042147918461
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "ID": 863901,
+    "TalkDataText": {
+      "Hash": -1235621410,
+      "Hash64": 5828186181101092851
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 864001,
+    "TalkDataText": {
+      "Hash": 68340802,
+      "Hash64": 4382959721269790588
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 864002,
+    "TalkDataText": {
+      "Hash": 68340799,
+      "Hash64": 1301426018327753351
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1409.png",
+    "ID": 864101,
+    "TalkDataText": {
+      "Hash": 68340769,
+      "Hash64": 10516685934372380373
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000101,
+    "TalkDataText": {
+      "Hash": -332739974,
+      "Hash64": 328268116722388321
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000102,
+    "TalkDataText": {
+      "Hash": -1898823915,
+      "Hash64": 5889909695710417725
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000103,
+    "TalkDataText": {
+      "Hash": 830059440,
+      "Hash64": 1652416848124671740
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000104,
+    "TalkDataText": {
+      "Hash": -736024501,
+      "Hash64": 11924485986164973573
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000105,
+    "TalkDataText": {
+      "Hash": 1992858854,
+      "Hash64": 10691910918389234623
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000106,
+    "TalkDataText": {
+      "Hash": 426774913,
+      "Hash64": 539626070551333455
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000107,
+    "TalkDataText": {
+      "Hash": -1139309028,
+      "Hash64": 7290463487042213184
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000108,
+    "TalkDataText": {
+      "Hash": 877113607,
+      "Hash64": 6386581795051246983
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000109,
+    "TalkDataText": {
+      "Hash": -688970334,
+      "Hash64": 7277116363913526231
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000110,
+    "TalkDataText": {
+      "Hash": 1233343968,
+      "Hash64": 13975404092977797159
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000111,
+    "TalkDataText": {
+      "Hash": -332739973,
+      "Hash64": 16206897573175999398
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000112,
+    "TalkDataText": {
+      "Hash": -1898823914,
+      "Hash64": 2033008033667257089
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000113,
+    "TalkDataText": {
+      "Hash": 830059441,
+      "Hash64": 1935382641907311879
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000114,
+    "TalkDataText": {
+      "Hash": -736024500,
+      "Hash64": 3504261878431585819
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000115,
+    "TalkDataText": {
+      "Hash": 1992858855,
+      "Hash64": 10266684488803701875
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000116,
+    "TalkDataText": {
+      "Hash": 426774914,
+      "Hash64": 18339086149929764541
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000117,
+    "TalkDataText": {
+      "Hash": -1139309027,
+      "Hash64": 3789381632189012583
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000118,
+    "TalkDataText": {
+      "Hash": 877113608,
+      "Hash64": 3903644279195595120
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000119,
+    "TalkDataText": {
+      "Hash": -688970333,
+      "Hash64": 12027942331130758260
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1112.png",
+    "ID": 1000120,
+    "TalkDataText": {
+      "Hash": 1233343969,
+      "Hash64": 3648123870666939261
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/8001.png",
+    "ID": 1000121,
+    "TalkDataText": {
+      "Hash": -332739972,
+      "Hash64": 2721250214549162810
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000122,
+    "TalkDataText": {
+      "Hash": -1898823913,
+      "Hash64": 17689448955683519194
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000123,
+    "TalkDataText": {
+      "Hash": 830059442,
+      "Hash64": 17748061292805665178
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000124,
+    "TalkDataText": {
+      "Hash": -736024499,
+      "Hash64": 17942508585614525108
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000125,
+    "TalkDataText": {
+      "Hash": 1992858856,
+      "Hash64": 9886714223843049392
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000126,
+    "TalkDataText": {
+      "Hash": 426774915,
+      "Hash64": 2540676337377618100
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000127,
+    "TalkDataText": {
+      "Hash": -1139309026,
+      "Hash64": 1505512950779386192
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000128,
+    "TalkDataText": {
+      "Hash": 877113609,
+      "Hash64": 10770482010465796890
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000129,
+    "TalkDataText": {
+      "Hash": -688970332,
+      "Hash64": 8986262150719282345
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000130,
+    "TalkDataText": {
+      "Hash": 1233343970,
+      "Hash64": 8313591741343781500
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000131,
+    "TalkDataText": {
+      "Hash": -332739971,
+      "Hash64": 4847610008157573371
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000132,
+    "TalkDataText": {
+      "Hash": -1898823912,
+      "Hash64": 17010031391752496226
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000133,
+    "TalkDataText": {
+      "Hash": 830059443,
+      "Hash64": 13958383455782603001
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000134,
+    "TalkDataText": {
+      "Hash": -736024498,
+      "Hash64": 104853391226962754
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000135,
+    "TalkDataText": {
+      "Hash": 1992858857,
+      "Hash64": 9657334096944279334
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000136,
+    "TalkDataText": {
+      "Hash": 426774916,
+      "Hash64": 7895590608787274057
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000137,
+    "TalkDataText": {
+      "Hash": -1139309025,
+      "Hash64": 1107410313548336437
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000138,
+    "TalkDataText": {
+      "Hash": 877113610,
+      "Hash64": 15602600347141057039
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000139,
+    "TalkDataText": {
+      "Hash": -688970331,
+      "Hash64": 272004084319501342
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000140,
+    "TalkDataText": {
+      "Hash": 1233343963,
+      "Hash64": 2457222581661369030
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000141,
+    "TalkDataText": {
+      "Hash": -332739978,
+      "Hash64": 2424797478935406488
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000142,
+    "TalkDataText": {
+      "Hash": -1898823919,
+      "Hash64": 17141832152428862541
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000143,
+    "TalkDataText": {
+      "Hash": 830059436,
+      "Hash64": 13165029775145581148
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000144,
+    "TalkDataText": {
+      "Hash": -736024505,
+      "Hash64": 12225270671619457287
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000145,
+    "TalkDataText": {
+      "Hash": 1992858850,
+      "Hash64": 11627486330917192892
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000146,
+    "TalkDataText": {
+      "Hash": 426774909,
+      "Hash64": 15208960736866296200
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000147,
+    "TalkDataText": {
+      "Hash": -1139309032,
+      "Hash64": 13104278761939325858
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000148,
+    "TalkDataText": {
+      "Hash": 877113603,
+      "Hash64": 8594899036524134876
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000149,
+    "TalkDataText": {
+      "Hash": -688970338,
+      "Hash64": 9754558109374213809
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000150,
+    "TalkDataText": {
+      "Hash": 1233343964,
+      "Hash64": 18429509343708512664
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000151,
+    "TalkDataText": {
+      "Hash": -332739977,
+      "Hash64": 15970444917255097075
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000152,
+    "TalkDataText": {
+      "Hash": -1898823918,
+      "Hash64": 17096874336023124647
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000153,
+    "TalkDataText": {
+      "Hash": 830059437,
+      "Hash64": 7649661114483474754
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000154,
+    "TalkDataText": {
+      "Hash": -736024504,
+      "Hash64": 17465068376023955654
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000155,
+    "TalkDataText": {
+      "Hash": 1992858851,
+      "Hash64": 3608248692320397329
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000156,
+    "TalkDataText": {
+      "Hash": 426774910,
+      "Hash64": 7186258645034348630
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000157,
+    "TalkDataText": {
+      "Hash": -1139309031,
+      "Hash64": 7710049359050342228
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000158,
+    "TalkDataText": {
+      "Hash": 877113604,
+      "Hash64": 4757366046893275240
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000159,
+    "TalkDataText": {
+      "Hash": -688970337,
+      "Hash64": 15332829848841356737
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000160,
+    "TalkDataText": {
+      "Hash": 1233343965,
+      "Hash64": 17883136969923162729
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000161,
+    "TalkDataText": {
+      "Hash": -332739976,
+      "Hash64": 17364579039419080814
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000162,
+    "TalkDataText": {
+      "Hash": -1898823917,
+      "Hash64": 8118109591515548629
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000163,
+    "TalkDataText": {
+      "Hash": 830059438,
+      "Hash64": 10131777945103923003
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000164,
+    "TalkDataText": {
+      "Hash": -736024503,
+      "Hash64": 5691475924160321261
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000165,
+    "TalkDataText": {
+      "Hash": 1992858852,
+      "Hash64": 1892789747249846315
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000166,
+    "TalkDataText": {
+      "Hash": 426774911,
+      "Hash64": 15071916652694577998
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000167,
+    "TalkDataText": {
+      "Hash": -1139309030,
+      "Hash64": 9787982027664362532
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000168,
+    "TalkDataText": {
+      "Hash": 877113605,
+      "Hash64": 3156496237001268441
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000169,
+    "TalkDataText": {
+      "Hash": -688970336,
+      "Hash64": 1185046270116121336
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000170,
+    "TalkDataText": {
+      "Hash": 1233343966,
+      "Hash64": 1165616011011186304
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000171,
+    "TalkDataText": {
+      "Hash": -332739975,
+      "Hash64": 10758030145476760518
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000172,
+    "TalkDataText": {
+      "Hash": -1898823916,
+      "Hash64": 6709608048242324930
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000173,
+    "TalkDataText": {
+      "Hash": 830059439,
+      "Hash64": 411131511510197562
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000174,
+    "TalkDataText": {
+      "Hash": -736024502,
+      "Hash64": 7886630331886467294
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000175,
+    "TalkDataText": {
+      "Hash": 1992858853,
+      "Hash64": 8879088012973791563
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000176,
+    "TalkDataText": {
+      "Hash": 426774912,
+      "Hash64": 14112958084918033445
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000177,
+    "TalkDataText": {
+      "Hash": -1139309029,
+      "Hash64": 13057567595711208442
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000178,
+    "TalkDataText": {
+      "Hash": 877113606,
+      "Hash64": 11523069345844716473
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000179,
+    "TalkDataText": {
+      "Hash": -688970335,
+      "Hash64": 11614174689867645675
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000180,
+    "TalkDataText": {
+      "Hash": 1233343959,
+      "Hash64": 10239844693787233618
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000181,
+    "TalkDataText": {
+      "Hash": -332739982,
+      "Hash64": 15957798559409346222
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000182,
+    "TalkDataText": {
+      "Hash": -1898823923,
+      "Hash64": 7129343557543530986
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000183,
+    "TalkDataText": {
+      "Hash": 830059432,
+      "Hash64": 13953077413133184899
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000184,
+    "TalkDataText": {
+      "Hash": -736024509,
+      "Hash64": 3092993748093722553
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000185,
+    "TalkDataText": {
+      "Hash": 1992858846,
+      "Hash64": 16522440294989884938
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000186,
+    "TalkDataText": {
+      "Hash": 426774905,
+      "Hash64": 17369131324000400118
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000187,
+    "TalkDataText": {
+      "Hash": -1139309036,
+      "Hash64": 17035753110861498352
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000188,
+    "TalkDataText": {
+      "Hash": 877113599,
+      "Hash64": 8971647069542543819
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000189,
+    "TalkDataText": {
+      "Hash": -688970342,
+      "Hash64": 2344466256040232326
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000190,
+    "TalkDataText": {
+      "Hash": 1233343960,
+      "Hash64": 11579404824668645218
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000191,
+    "TalkDataText": {
+      "Hash": -332739981,
+      "Hash64": 1514858170007567594
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000192,
+    "TalkDataText": {
+      "Hash": -1898823922,
+      "Hash64": 2239859081173012551
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000193,
+    "TalkDataText": {
+      "Hash": 830059433,
+      "Hash64": 15516702894974521868
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000194,
+    "TalkDataText": {
+      "Hash": -736024508,
+      "Hash64": 18055062365544160617
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000195,
+    "TalkDataText": {
+      "Hash": 1992858847,
+      "Hash64": 1771143533928216212
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000196,
+    "TalkDataText": {
+      "Hash": 426774906,
+      "Hash64": 9000739035795098571
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000197,
+    "TalkDataText": {
+      "Hash": -1139309035,
+      "Hash64": 625101493812483751
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000198,
+    "TalkDataText": {
+      "Hash": 877113600,
+      "Hash64": 462021341147709466
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000199,
+    "TalkDataText": {
+      "Hash": -688970341,
+      "Hash64": 8738116636697834957
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1112.png",
+    "ID": 1000200,
+    "TalkDataText": {
+      "Hash": -635267952,
+      "Hash64": 5356360884480525237
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000201,
+    "TalkDataText": {
+      "Hash": 930815989,
+      "Hash64": 1050496477137253653
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000202,
+    "TalkDataText": {
+      "Hash": -1798067366,
+      "Hash64": 2446922412362850831
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000203,
+    "TalkDataText": {
+      "Hash": -231983425,
+      "Hash64": 10103489830262756721
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000204,
+    "TalkDataText": {
+      "Hash": 1690330876,
+      "Hash64": 14529502592418771790
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000205,
+    "TalkDataText": {
+      "Hash": -1038552479,
+      "Hash64": 6888158884897473381
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000206,
+    "TalkDataText": {
+      "Hash": 527531462,
+      "Hash64": 1585636163690159919
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000207,
+    "TalkDataText": {
+      "Hash": 2093615403,
+      "Hash64": 9644009072761558065
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/8002.png",
+    "ID": 1000208,
+    "TalkDataText": {
+      "Hash": -991498312,
+      "Hash64": 11492671502184633209
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000209,
+    "TalkDataText": {
+      "Hash": 574585629,
+      "Hash64": 3069314089546441801
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000210,
+    "TalkDataText": {
+      "Hash": -635267951,
+      "Hash64": 17523802591489520597
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000301,
+    "TalkDataText": {
+      "Hash": -615064976,
+      "Hash64": 11877484353791246162
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000302,
+    "TalkDataText": {
+      "Hash": -211780449,
+      "Hash64": 8960360992173200849
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000303,
+    "TalkDataText": {
+      "Hash": -1777864390,
+      "Hash64": 5574551316634436489
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000304,
+    "TalkDataText": {
+      "Hash": -1018349503,
+      "Hash64": 3402890972967653416
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000305,
+    "TalkDataText": {
+      "Hash": 1710533852,
+      "Hash64": 16300158581443994204
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000306,
+    "TalkDataText": {
+      "Hash": 2113818379,
+      "Hash64": 11685637980907653389
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000307,
+    "TalkDataText": {
+      "Hash": 547734438,
+      "Hash64": 11904329349261263864
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000308,
+    "TalkDataText": {
+      "Hash": 594788605,
+      "Hash64": 1075972733462304514
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000309,
+    "TalkDataText": {
+      "Hash": -971295336,
+      "Hash64": 11068697273700602676
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000310,
+    "TalkDataText": {
+      "Hash": 951018966,
+      "Hash64": 7109163553882727277
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000311,
+    "TalkDataText": {
+      "Hash": -615064975,
+      "Hash64": 14487851554945428143
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000312,
+    "TalkDataText": {
+      "Hash": -211780448,
+      "Hash64": 16457412139088292611
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000313,
+    "TalkDataText": {
+      "Hash": -1777864389,
+      "Hash64": 18349957988682978876
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000314,
+    "TalkDataText": {
+      "Hash": -1018349502,
+      "Hash64": 7721053864745305533
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000315,
+    "TalkDataText": {
+      "Hash": 1710533853,
+      "Hash64": 8348983348690484815
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000316,
+    "TalkDataText": {
+      "Hash": 2113818380,
+      "Hash64": 5926681201000274691
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000317,
+    "TalkDataText": {
+      "Hash": 547734439,
+      "Hash64": 6922141982685729260
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000318,
+    "TalkDataText": {
+      "Hash": 594788606,
+      "Hash64": 3017085628450049325
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000319,
+    "TalkDataText": {
+      "Hash": -971295335,
+      "Hash64": 5684663528622179571
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000320,
+    "TalkDataText": {
+      "Hash": 951018967,
+      "Hash64": 7305940221198352599
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000321,
+    "TalkDataText": {
+      "Hash": -615064974,
+      "Hash64": 4009592023326640441
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000322,
+    "TalkDataText": {
+      "Hash": -211780447,
+      "Hash64": 13629854529098391883
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000323,
+    "TalkDataText": {
+      "Hash": -1777864388,
+      "Hash64": 6764638578848783036
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000324,
+    "TalkDataText": {
+      "Hash": -1018349501,
+      "Hash64": 11538032685187250672
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000325,
+    "TalkDataText": {
+      "Hash": 1710533854,
+      "Hash64": 13704065051908388339
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000326,
+    "TalkDataText": {
+      "Hash": 2113818381,
+      "Hash64": 15907041806229044964
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000327,
+    "TalkDataText": {
+      "Hash": 547734440,
+      "Hash64": 16524299331324695494
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000328,
+    "TalkDataText": {
+      "Hash": 594788607,
+      "Hash64": 7126536286653893999
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000329,
+    "TalkDataText": {
+      "Hash": -971295334,
+      "Hash64": 12692109900539684032
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000330,
+    "TalkDataText": {
+      "Hash": 951018968,
+      "Hash64": 841489500084729866
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000331,
+    "TalkDataText": {
+      "Hash": -615064973,
+      "Hash64": 2280064426757345051
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000332,
+    "TalkDataText": {
+      "Hash": -211780446,
+      "Hash64": 7210748284845558833
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000333,
+    "TalkDataText": {
+      "Hash": -1777864387,
+      "Hash64": 7117052145389197260
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000334,
+    "TalkDataText": {
+      "Hash": -1018349500,
+      "Hash64": 11721645829354702148
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000335,
+    "TalkDataText": {
+      "Hash": 1710533855,
+      "Hash64": 13369634806619176856
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000336,
+    "TalkDataText": {
+      "Hash": 2113818382,
+      "Hash64": 9732630128839731766
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000337,
+    "TalkDataText": {
+      "Hash": 547734441,
+      "Hash64": 6175391243221614665
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000338,
+    "TalkDataText": {
+      "Hash": 594788608,
+      "Hash64": 6078716286223002352
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000339,
+    "TalkDataText": {
+      "Hash": -971295333,
+      "Hash64": 3597461274412489141
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000340,
+    "TalkDataText": {
+      "Hash": 951018961,
+      "Hash64": 17468185872993611912
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000341,
+    "TalkDataText": {
+      "Hash": -615064980,
+      "Hash64": 3094308713386348220
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000342,
+    "TalkDataText": {
+      "Hash": -211780453,
+      "Hash64": 5868391515267301046
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000343,
+    "TalkDataText": {
+      "Hash": -1777864394,
+      "Hash64": 14018119593790925542
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000344,
+    "TalkDataText": {
+      "Hash": -1018349507,
+      "Hash64": 2496447057663623041
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000345,
+    "TalkDataText": {
+      "Hash": 1710533848,
+      "Hash64": 14047446994041238137
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000346,
+    "TalkDataText": {
+      "Hash": 2113818375,
+      "Hash64": 10104424870641428654
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000347,
+    "TalkDataText": {
+      "Hash": 547734434,
+      "Hash64": 9740452137826684446
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000348,
+    "TalkDataText": {
+      "Hash": 594788601,
+      "Hash64": 5366241517259673596
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000349,
+    "TalkDataText": {
+      "Hash": -971295340,
+      "Hash64": 16184538764630889488
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000350,
+    "TalkDataText": {
+      "Hash": 951018962,
+      "Hash64": 5662796805331163243
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000351,
+    "TalkDataText": {
+      "Hash": -615064979,
+      "Hash64": 17179496166082207814
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000352,
+    "TalkDataText": {
+      "Hash": -211780452,
+      "Hash64": 6414809617668597161
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000353,
+    "TalkDataText": {
+      "Hash": -1777864393,
+      "Hash64": 1660616702233247768
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000354,
+    "TalkDataText": {
+      "Hash": -1018349506,
+      "Hash64": 9154447006576189057
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000355,
+    "TalkDataText": {
+      "Hash": 1710533849,
+      "Hash64": 4583021306125280507
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000356,
+    "TalkDataText": {
+      "Hash": 2113818376,
+      "Hash64": 5076799899452355386
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000357,
+    "TalkDataText": {
+      "Hash": 547734435,
+      "Hash64": 17691595514846285948
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000358,
+    "TalkDataText": {
+      "Hash": 594788602,
+      "Hash64": 7933604695666480633
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000359,
+    "TalkDataText": {
+      "Hash": -971295339,
+      "Hash64": 8101721177410333908
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000360,
+    "TalkDataText": {
+      "Hash": 951018963,
+      "Hash64": 12815493252161377745
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000361,
+    "TalkDataText": {
+      "Hash": -615064978,
+      "Hash64": 16510722914487971558
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000362,
+    "TalkDataText": {
+      "Hash": -211780451,
+      "Hash64": 8345982954785165953
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000363,
+    "TalkDataText": {
+      "Hash": -1777864392,
+      "Hash64": 11488337405900136424
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000364,
+    "TalkDataText": {
+      "Hash": -1018349505,
+      "Hash64": 11251828672787974171
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000365,
+    "TalkDataText": {
+      "Hash": 1710533850,
+      "Hash64": 10535189288822676191
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000366,
+    "TalkDataText": {
+      "Hash": 2113818377,
+      "Hash64": 12232536501860010586
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000367,
+    "TalkDataText": {
+      "Hash": 547734436,
+      "Hash64": 2970396518251966922
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000368,
+    "TalkDataText": {
+      "Hash": 594788603,
+      "Hash64": 9887265300239207033
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000369,
+    "TalkDataText": {
+      "Hash": -971295338,
+      "Hash64": 10198887594133656632
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000370,
+    "TalkDataText": {
+      "Hash": 951018964,
+      "Hash64": 9785024102659079983
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000371,
+    "TalkDataText": {
+      "Hash": -615064977,
+      "Hash64": 5772199439005316927
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000372,
+    "TalkDataText": {
+      "Hash": -211780450,
+      "Hash64": 16824888233527588166
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000373,
+    "TalkDataText": {
+      "Hash": -1777864391,
+      "Hash64": 15576175907240921254
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000374,
+    "TalkDataText": {
+      "Hash": -1018349504,
+      "Hash64": 1468712832865265872
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000375,
+    "TalkDataText": {
+      "Hash": 1710533851,
+      "Hash64": 18024420803591675692
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000376,
+    "TalkDataText": {
+      "Hash": 2113818378,
+      "Hash64": 11350427997053064505
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000377,
+    "TalkDataText": {
+      "Hash": 547734437,
+      "Hash64": 10774278921151411540
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000378,
+    "TalkDataText": {
+      "Hash": 594788604,
+      "Hash64": 7648304852089649354
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000379,
+    "TalkDataText": {
+      "Hash": -971295337,
+      "Hash64": 2816400290426219850
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000380,
+    "TalkDataText": {
+      "Hash": 951018957,
+      "Hash64": 7174399281626482724
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000381,
+    "TalkDataText": {
+      "Hash": -615064984,
+      "Hash64": 4149157366862033452
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000382,
+    "TalkDataText": {
+      "Hash": -211780457,
+      "Hash64": 5512733670706107082
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1401.png",
+    "ID": 1000383,
+    "TalkDataText": {
+      "Hash": -1777864398,
+      "Hash64": 6615545285777724975
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000384,
+    "TalkDataText": {
+      "Hash": -1018349511,
+      "Hash64": 3426269296865858287
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000385,
+    "TalkDataText": {
+      "Hash": 1710533844,
+      "Hash64": 3195913280872177641
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000386,
+    "TalkDataText": {
+      "Hash": 2113818371,
+      "Hash64": 16330503695850212063
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000387,
+    "TalkDataText": {
+      "Hash": 547734430,
+      "Hash64": 6137575674184275518
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000388,
+    "TalkDataText": {
+      "Hash": 594788597,
+      "Hash64": 12436180561226830986
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1401.png",
+    "ID": 1000389,
+    "TalkDataText": {
+      "Hash": -971295344,
+      "Hash64": 17367144697497294024
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000390,
+    "TalkDataText": {
+      "Hash": 951018958,
+      "Hash64": 5598349537987409427
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000391,
+    "TalkDataText": {
+      "Hash": -615064983,
+      "Hash64": 3939639207697616725
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000392,
+    "TalkDataText": {
+      "Hash": -211780456,
+      "Hash64": 6584199382562685164
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000393,
+    "TalkDataText": {
+      "Hash": -1777864397,
+      "Hash64": 7063879282936128028
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000394,
+    "TalkDataText": {
+      "Hash": -1018349510,
+      "Hash64": 12593494969962745148
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000395,
+    "TalkDataText": {
+      "Hash": 1710533845,
+      "Hash64": 813888542744385388
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000396,
+    "TalkDataText": {
+      "Hash": 2113818372,
+      "Hash64": 3344150629393242009
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000397,
+    "TalkDataText": {
+      "Hash": 547734431,
+      "Hash64": 17000447356330194614
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000398,
+    "TalkDataText": {
+      "Hash": 594788598,
+      "Hash64": 16242817875057533519
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000399,
+    "TalkDataText": {
+      "Hash": -971295343,
+      "Hash64": 17599839573963770846
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000435,
+    "TalkDataText": {
+      "Hash": -1677107838,
+      "Hash64": 1575927102311599174
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000436,
+    "TalkDataText": {
+      "Hash": -2080392365,
+      "Hash64": 15363575193755853913
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000437,
+    "TalkDataText": {
+      "Hash": -514308424,
+      "Hash64": 17287530697424352168
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000438,
+    "TalkDataText": {
+      "Hash": -1273823311,
+      "Hash64": 9235432889806060412
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000439,
+    "TalkDataText": {
+      "Hash": 292260630,
+      "Hash64": 6440919727684184027
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000401,
+    "TalkDataText": {
+      "Hash": 648490987,
+      "Hash64": 8357839763307612244
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000402,
+    "TalkDataText": {
+      "Hash": 245206460,
+      "Hash64": 8290447169701427975
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000403,
+    "TalkDataText": {
+      "Hash": 1811290401,
+      "Hash64": 141236164038238330
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000404,
+    "TalkDataText": {
+      "Hash": 1051775514,
+      "Hash64": 16700333028722388419
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000405,
+    "TalkDataText": {
+      "Hash": -1677107841,
+      "Hash64": 9480827104852789058
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000408,
+    "TalkDataText": {
+      "Hash": -1273823314,
+      "Hash64": 10000769411413959579
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000409,
+    "TalkDataText": {
+      "Hash": 292260627,
+      "Hash64": 7813924026656997001
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000415,
+    "TalkDataText": {
+      "Hash": -1677107840,
+      "Hash64": 16547814297911105728
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000420,
+    "TalkDataText": {
+      "Hash": -917592952,
+      "Hash64": 15406293508094043706
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000421,
+    "TalkDataText": {
+      "Hash": 648490989,
+      "Hash64": 8466644376857648113
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000422,
+    "TalkDataText": {
+      "Hash": 245206462,
+      "Hash64": 3393546406289775184
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000423,
+    "TalkDataText": {
+      "Hash": 1811290403,
+      "Hash64": 502315881792060732
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000424,
+    "TalkDataText": {
+      "Hash": 1051775516,
+      "Hash64": 17240740192495845713
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000425,
+    "TalkDataText": {
+      "Hash": -1677107839,
+      "Hash64": 3443309411669350675
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000426,
+    "TalkDataText": {
+      "Hash": -2080392366,
+      "Hash64": 9180482131861787141
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000427,
+    "TalkDataText": {
+      "Hash": -514308425,
+      "Hash64": 18343906475192632271
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000428,
+    "TalkDataText": {
+      "Hash": -1273823312,
+      "Hash64": 2791355923266114679
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000429,
+    "TalkDataText": {
+      "Hash": 292260629,
+      "Hash64": 4543835432014847382
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000430,
+    "TalkDataText": {
+      "Hash": -917592951,
+      "Hash64": 6893809697424903783
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000431,
+    "TalkDataText": {
+      "Hash": 648490990,
+      "Hash64": 2878914403033822781
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000432,
+    "TalkDataText": {
+      "Hash": 245206463,
+      "Hash64": 15365384086561604391
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000433,
+    "TalkDataText": {
+      "Hash": 1811290404,
+      "Hash64": 13668040323642129728
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000434,
+    "TalkDataText": {
+      "Hash": 1051775517,
+      "Hash64": 8138225644164107926
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000450,
+    "TalkDataText": {
+      "Hash": -917592957,
+      "Hash64": 14716400715381165418
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000451,
+    "TalkDataText": {
+      "Hash": 648490984,
+      "Hash64": 2958161360968798967
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000452,
+    "TalkDataText": {
+      "Hash": 245206457,
+      "Hash64": 880813175396216223
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000453,
+    "TalkDataText": {
+      "Hash": 1811290398,
+      "Hash64": 1438293046854811750
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000454,
+    "TalkDataText": {
+      "Hash": 1051775511,
+      "Hash64": 2561853583184701388
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000455,
+    "TalkDataText": {
+      "Hash": -1677107844,
+      "Hash64": 15284260152426552561
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000456,
+    "TalkDataText": {
+      "Hash": -2080392371,
+      "Hash64": 11392777638775153749
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000457,
+    "TalkDataText": {
+      "Hash": -514308430,
+      "Hash64": 2162715169380099661
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000458,
+    "TalkDataText": {
+      "Hash": -1273823317,
+      "Hash64": 10529344276971954224
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000459,
+    "TalkDataText": {
+      "Hash": 292260624,
+      "Hash64": 223784790214417869
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000460,
+    "TalkDataText": {
+      "Hash": -917592956,
+      "Hash64": 13610490101756137213
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000461,
+    "TalkDataText": {
+      "Hash": 648490985,
+      "Hash64": 9819916557412883307
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000462,
+    "TalkDataText": {
+      "Hash": 245206458,
+      "Hash64": 7270715949690474775
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000463,
+    "TalkDataText": {
+      "Hash": 1811290399,
+      "Hash64": 3262933387023762074
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000464,
+    "TalkDataText": {
+      "Hash": 1051775512,
+      "Hash64": 3021259147029540546
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000465,
+    "TalkDataText": {
+      "Hash": -1677107843,
+      "Hash64": 5482485655184752940
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000466,
+    "TalkDataText": {
+      "Hash": -2080392370,
+      "Hash64": 4093931250976708022
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000467,
+    "TalkDataText": {
+      "Hash": -514308429,
+      "Hash64": 14192945123736016646
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000468,
+    "TalkDataText": {
+      "Hash": -1273823316,
+      "Hash64": 7592648714286123418
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000469,
+    "TalkDataText": {
+      "Hash": 292260625,
+      "Hash64": 17032403603453221319
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000470,
+    "TalkDataText": {
+      "Hash": -917592955,
+      "Hash64": 13891271941308984869
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000471,
+    "TalkDataText": {
+      "Hash": 648490986,
+      "Hash64": 1656375416679048156
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000472,
+    "TalkDataText": {
+      "Hash": 245206459,
+      "Hash64": 6731453657383675193
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarRoundIcon/Avatar/1314.png",
+    "ID": 1000473,
+    "TalkDataText": {
+      "Hash": 1811290400,
+      "Hash64": 3920351380426997602
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000474,
+    "TalkDataText": {
+      "Hash": 1051775513,
+      "Hash64": 16450739846669930444
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "ID": 1000475,
+    "TalkDataText": {
+      "Hash": -1677107842,
+      "Hash64": 12333454353059126652
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1321.png",
+    "ID": 408401,
+    "TalkDataText": {
+      "Hash": 1696517312,
+      "Hash64": 5095514723786661157
+    }
+  },
+  {
+    "AvatarHeadIcon": "SpriteOutput/AvatarShopIcon/Avatar/1321.png",
+    "ID": 408402,
+    "TalkDataText": {
+      "Hash": 1696517313,
+      "Hash64": 6571857624714865012
     }
   }
 ]

@@ -8,7 +8,9 @@
   },
   "LoadOnInitial": true,
   "ValueSource": {},
-  "ConflictIDList": [],
+  "ConflictIDList": [
+    104040101
+  ],
   "IsHoyoGroup": true,
   "HoYoGroupType": "Container",
   "StreamingTemplateType": "Standard",
@@ -30,7 +32,7 @@
         "fov": 60.0
       },
       "Name": "Anchor1",
-      "RotY": 3.434258,
+      "RotY": 3.434259,
       "ID": 1,
       "PosX": 1.61,
       "PosY": 1.97,
@@ -76,8 +78,7 @@
         "Radius": 1.0,
         "DimX": 30.0,
         "DimY": 2.0,
-        "DimZ": 6.0,
-        "PointList": []
+        "DimZ": 6.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -94,7 +95,9 @@
         "LevelGraph": "Config/Level/PropDialogue/P10402/F10402001_G49/DialogueMain_F10402001_G49_P300001.json",
         "PackList": []
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -103,6 +106,7 @@
       },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -139,7 +143,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

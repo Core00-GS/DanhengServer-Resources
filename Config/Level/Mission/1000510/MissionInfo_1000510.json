@@ -30,6 +30,7 @@
       "LevelPlaneID": 10001,
       "LevelFloorID": 10001001,
       "TakeType": "Auto",
+      "TakePriority": 2,
       "FinishType": "FinishMission",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -46,6 +47,7 @@
       "LevelPlaneID": 10001,
       "LevelFloorID": 10001001,
       "TakeType": "Auto",
+      "TakePriority": 1,
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [

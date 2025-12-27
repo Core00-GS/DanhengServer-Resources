@@ -8,9 +8,7 @@
           "TargetEntityType": "Prop",
           "ID": 300001,
           "GroupID": 47,
-          "EditHeight": true,
-          "MinHeight": -100.0,
-          "MaxHeight": -100.0,
+          "YOffest": -100.0,
           "TaskEnabled": true,
           "IsClientOnly": true
         }
@@ -46,13 +44,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 146028888064
+            "FixedValue": {
+              "RawValue": 146028888064,
+              "Value": 34.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "CharacterUniqueName": {
@@ -106,8 +106,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1073741825
+            "FixedValue": {
+              "RawValue": 1073741825,
+              "Value": 0.25
             }
           },
           "MaxAdvencePerTick": -1.0,

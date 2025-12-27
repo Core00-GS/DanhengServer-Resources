@@ -8,9 +8,9 @@
     "LoadingFuncTypeParam": [
       100
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 101,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 101
   },
   {
     "LoadingRandomParam": {
@@ -21,9 +21,9 @@
     "LoadingFuncTypeParam": [
       101
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 102,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 102
   },
   {
     "LoadingRandomParam": {
@@ -34,9 +34,9 @@
     "LoadingFuncTypeParam": [
       201
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 103,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 103
   },
   {
     "LoadingRandomParam": {
@@ -47,9 +47,9 @@
     "LoadingFuncTypeParam": [
       301
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 104,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 104
   },
   {
     "LoadingRandomParam": {
@@ -60,9 +60,9 @@
     "LoadingFuncTypeParam": [
       401
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 105,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 105
   },
   {
     "LoadingRandomParam": {
@@ -73,17 +73,17 @@
     "LoadingFuncTypeParam": [
       501
     ],
+    "LoadingFuncType": "WorldTele",
     "RandomNumber": 10,
-    "LoadingFuncID": 106,
-    "LoadingFuncType": "WorldTele"
+    "LoadingFuncID": 106
   },
   {
     "LoadingRandomParam": {
       "StoryLine": 10
     },
     "LoadingFuncTypeParam": [],
+    "LoadingFuncType": "StoryLine",
     "RandomNumber": 1,
-    "LoadingFuncID": 201,
-    "LoadingFuncType": "StoryLine"
+    "LoadingFuncID": 201
   }
 ]

@@ -61,11 +61,15 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
       "SoundProfileOverrideID": 3,
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -81,65 +85,6 @@
       "PosX": 310.553,
       "PosY": 106.5242,
       "PosZ": 182.614
-    },
-    {
-      "Scale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
-        "normalized": {
-          "x": 0.577350259,
-          "y": 0.577350259,
-          "z": 0.577350259,
-          "normalized": {
-            "x": 0.5773503,
-            "y": 0.5773503,
-            "z": 0.5773503,
-            "magnitude": 1.00000012,
-            "sqrMagnitude": 1.00000024
-          },
-          "magnitude": 0.99999994,
-          "sqrMagnitude": 0.99999994
-        },
-        "magnitude": 1.73205078,
-        "sqrMagnitude": 3.0
-      },
-      "PropID": 103121,
-      "LoadOnInitial": true,
-      "IsOverrideInitLevelGraph": true,
-      "InitLevelGraph": "Config/Level/LevelInstanceGraph/F10401001/LG_Prop_F10401001_G470_300002.json",
-      "ValueSource": {},
-      "CampID": 4,
-      "OverrideHintRange": -1.0,
-      "OverrideSoundRange": 40.0,
-      "CustomTriggerMap": {},
-      "CustomTriggerMapV2": {},
-      "StateConfigs": [],
-      "DialogueTriggerAngle": 120,
-      "DialogueGroups": [],
-      "TalkDialogGroupIDList": [],
-      "ServerInteractVerificationIDList": [],
-      "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "CameraCenterEntityList": [],
-      "CameraConfig": {},
-      "SoundProfileOverrideID": 6,
-      "LookAtPlayerTriggerRadius": 2.0,
-      "OverrideLockRaycastOffset": 1.5,
-      "SpawnConfig": {
-        "EntitySpawnConfig": {
-          "NeedBlackIn": true,
-          "BlackInDistance": 25.0,
-          "NeedFadeIn": true,
-          "NeedFadeOut": true
-        }
-      },
-      "Name": "Prop2",
-      "ID": 300002,
-      "PosX": -20.4,
-      "PosY": 3.364749,
-      "PosZ": -251.1
     }
   ],
   "DistrictList": [
@@ -3383,6 +3328,295 @@
       "PosX": -22.23854,
       "PosY": 2.22,
       "PosZ": -276.7541
+    },
+    {
+      "Scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0,
+        "normalized": {
+          "x": 0.577350259,
+          "y": 0.577350259,
+          "z": 0.577350259,
+          "normalized": {
+            "x": 0.5773503,
+            "y": 0.5773503,
+            "z": 0.5773503,
+            "magnitude": 1.00000012,
+            "sqrMagnitude": 1.00000024
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 1.73205078,
+        "sqrMagnitude": 3.0
+      },
+      "Trigger": {
+        "Shape": "Polygon",
+        "Radius": 1.0,
+        "DimX": 1.0,
+        "DimY": 20.0,
+        "DimZ": 1.0,
+        "PointList": [
+          {
+            "x": -1.143535,
+            "y": -19.16288,
+            "normalized": {
+              "x": -0.0595685169,
+              "y": -0.9982242,
+              "normalized": {
+                "x": -0.05956852,
+                "y": -0.998224258,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 19.19697,
+            "sqrMagnitude": 368.523651
+          },
+          {
+            "x": -1.185853,
+            "y": -23.49441,
+            "normalized": {
+              "x": -0.0504096635,
+              "y": -0.9987286,
+              "normalized": {
+                "x": -0.0504096672,
+                "y": -0.998728633,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 23.5243187,
+            "sqrMagnitude": 553.393555
+          },
+          {
+            "x": -26.02995,
+            "y": -24.36735,
+            "normalized": {
+              "x": -0.730037,
+              "y": -0.683407664,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 35.65566,
+            "sqrMagnitude": 1271.32593
+          },
+          {
+            "x": -26.39363,
+            "y": 5.078917,
+            "normalized": {
+              "x": -0.9819842,
+              "y": 0.188962877,
+              "normalized": {
+                "x": -0.981984258,
+                "y": 0.188962892,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 26.8778553,
+            "sqrMagnitude": 722.419067
+          },
+          {
+            "x": -26.01645,
+            "y": 27.56424,
+            "normalized": {
+              "x": -0.686394155,
+              "y": 0.7272296,
+              "normalized": {
+                "x": -0.6863942,
+                "y": 0.727229655,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 0.9999999,
+              "sqrMagnitude": 0.9999998
+            },
+            "magnitude": 37.9030762,
+            "sqrMagnitude": 1436.64307
+          },
+          {
+            "x": 3.003918,
+            "y": 27.50044,
+            "normalized": {
+              "x": 0.108585753,
+              "y": 0.9940871,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 27.6640148,
+            "sqrMagnitude": 765.2977
+          },
+          {
+            "x": 5.349219,
+            "y": 27.13764,
+            "normalized": {
+              "x": 0.193393126,
+              "y": 0.9811214,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 27.6598186,
+            "sqrMagnitude": 765.0656
+          },
+          {
+            "x": 7.290442,
+            "y": 26.66021,
+            "normalized": {
+              "x": 0.2637732,
+              "y": 0.9645847,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 27.6390553,
+            "sqrMagnitude": 763.917358
+          },
+          {
+            "x": 9.755228,
+            "y": 25.81996,
+            "normalized": {
+              "x": 0.353432953,
+              "y": 0.935459852,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 27.6013546,
+            "sqrMagnitude": 761.8348
+          },
+          {
+            "x": 12.73754,
+            "y": 24.38367,
+            "normalized": {
+              "x": 0.4630124,
+              "y": 0.8863518,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 27.510149,
+            "sqrMagnitude": 756.80835
+          },
+          {
+            "x": 16.40672,
+            "y": 21.83751,
+            "normalized": {
+              "x": 0.6006696,
+              "y": 0.7994973,
+              "normalized": {
+                "x": 0.6006697,
+                "y": 0.799497366,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 27.3140488,
+            "sqrMagnitude": 746.057251
+          },
+          {
+            "x": 19.54501,
+            "y": 18.54481,
+            "normalized": {
+              "x": 0.725424647,
+              "y": 0.6883016,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 26.9428539,
+            "sqrMagnitude": 725.917358
+          },
+          {
+            "x": 24.30045,
+            "y": 10.59046,
+            "normalized": {
+              "x": 0.9167242,
+              "y": 0.399520636,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 26.5079174,
+            "sqrMagnitude": 702.6697
+          },
+          {
+            "x": 23.51252,
+            "y": -18.04944,
+            "normalized": {
+              "x": 0.793228745,
+              "y": -0.608923852,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 29.6415386,
+            "sqrMagnitude": 878.62085
+          },
+          {
+            "x": 14.27934,
+            "y": -17.48496,
+            "normalized": {
+              "x": 0.6325334,
+              "y": -0.7745331,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 22.57484,
+            "sqrMagnitude": 509.6234
+          },
+          {
+            "x": 14.58413,
+            "y": -23.50631,
+            "normalized": {
+              "x": 0.5272065,
+              "y": -0.8497373,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 27.6630325,
+            "sqrMagnitude": 765.2434
+          },
+          {
+            "x": 7.018847,
+            "y": -23.50929,
+            "normalized": {
+              "x": 0.2860785,
+              "y": -0.9582062,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 24.5346889,
+            "sqrMagnitude": 601.951
+          },
+          {
+            "x": 7.052405,
+            "y": -19.17363,
+            "normalized": {
+              "x": 0.345206916,
+              "y": -0.93852663,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 20.4295,
+            "sqrMagnitude": 417.3645
+          }
+        ]
+      },
+      "LoadOnInitial": true,
+      "SoundUsage": "BGMEmotion",
+      "CanTriggerByFakeAvatar": true,
+      "BGMEmotion": "State_BGM_D10",
+      "NPCCrowdRadius": 25.0,
+      "ValueSource": {},
+      "Name": "District1",
+      "ID": 500001,
+      "PosX": -21.59,
+      "PosY": 2.34,
+      "PosZ": -251.24
     }
   ],
   "WaypointList": [],

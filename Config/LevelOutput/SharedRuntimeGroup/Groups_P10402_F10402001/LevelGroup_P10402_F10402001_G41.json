@@ -3,7 +3,12 @@
   "AreaAnchorName": "LevelArea_P10402_F10402001_G41",
   "SaveType": "Reset",
   "SavedValueCondition": {
-    "Conditions": [],
+    "Conditions": [
+      {
+        "SavedValueName": "FSV_StageSwitch",
+        "Operation": "Equal"
+      }
+    ],
     "Operation": "And"
   },
   "LoadOnInitial": true,
@@ -51,8 +56,7 @@
         "Radius": 1.0,
         "DimX": 150.0,
         "DimY": 80.0,
-        "DimZ": 250.0,
-        "PointList": []
+        "DimZ": 250.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -455,8 +459,7 @@
         "Radius": 25.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {

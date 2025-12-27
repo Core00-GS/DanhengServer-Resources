@@ -1,12 +1,13 @@
 [
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 1
   },
@@ -14,12 +15,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 2
   },
@@ -27,12 +29,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 3
   },
@@ -40,12 +43,13 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 4
   },
@@ -53,12 +57,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 5
   },
@@ -66,12 +71,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 6
   },
@@ -79,12 +85,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 7
   },
@@ -92,33 +99,35 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106001,
+    "Type": "Tool",
     "MazeBuffID": 3106001,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106901,
+    "Type": "Forge",
     "MazeBuffID": 3106901,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 1
   },
@@ -126,13 +135,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 2
   },
@@ -140,13 +150,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 3
   },
@@ -154,13 +165,14 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 4
   },
@@ -168,13 +180,14 @@
     "SimpIndexList": [
       7
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 5
   },
@@ -182,13 +195,14 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 6
   },
@@ -196,13 +210,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 7
   },
@@ -210,33 +225,35 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106002,
+    "Type": "Tool",
     "MazeBuffID": 3106002,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106902,
+    "Type": "Forge",
     "MazeBuffID": 3106902,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 1
   },
@@ -244,12 +261,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 2
   },
@@ -257,12 +275,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 3
   },
@@ -270,12 +289,13 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 4
   },
@@ -283,12 +303,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 5
   },
@@ -296,12 +317,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 6
   },
@@ -309,12 +331,13 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 7
   },
@@ -322,32 +345,34 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       4,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106003,
+    "Type": "Tool",
     "MazeBuffID": 3106003,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106903,
+    "Type": "Forge",
     "MazeBuffID": 3106903,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 1
   },
@@ -355,12 +380,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 2
   },
@@ -368,12 +394,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 3
   },
@@ -381,12 +408,13 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 4
   },
@@ -394,12 +422,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 5
   },
@@ -407,12 +436,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 6
   },
@@ -420,12 +450,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 7
   },
@@ -433,32 +464,34 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106004,
+    "Type": "Tool",
     "MazeBuffID": 3106004,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106904,
+    "Type": "Forge",
     "MazeBuffID": 3106904,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 1
   },
@@ -467,12 +500,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 2
   },
@@ -481,12 +515,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 3
   },
@@ -495,12 +530,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 4
   },
@@ -509,12 +545,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 5
   },
@@ -523,12 +560,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 6
   },
@@ -537,12 +575,13 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 7
   },
@@ -551,33 +590,35 @@
       2,
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106005,
+    "Type": "Tool",
     "MazeBuffID": 3106005,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106905,
+    "Type": "Forge",
     "MazeBuffID": 3106905,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 1
   },
@@ -585,13 +626,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 2
   },
@@ -600,13 +642,14 @@
       6,
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 3
   },
@@ -614,13 +657,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 4
   },
@@ -629,13 +673,14 @@
       6,
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 5
   },
@@ -643,13 +688,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 6
   },
@@ -658,13 +704,14 @@
       6,
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 7
   },
@@ -672,33 +719,35 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       6,
       4
     ],
-    "DynamicIndexList": [],
     "GearID": 3106006,
+    "Type": "Tool",
     "MazeBuffID": 3106006,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106906,
+    "Type": "Forge",
     "MazeBuffID": 3106906,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 1
   },
@@ -706,12 +755,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 2
   },
@@ -719,12 +769,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 3
   },
@@ -732,12 +783,13 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 4
   },
@@ -745,12 +797,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 5
   },
@@ -758,12 +811,13 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 6
   },
@@ -771,12 +825,13 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 7
   },
@@ -784,33 +839,35 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       5,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106007,
+    "Type": "Tool",
     "MazeBuffID": 3106007,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106907,
+    "Type": "Forge",
     "MazeBuffID": 3106907,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 1
   },
@@ -818,13 +875,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 2
   },
@@ -832,13 +890,14 @@
     "SimpIndexList": [
       6
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 3
   },
@@ -846,13 +905,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 4
   },
@@ -860,13 +920,14 @@
     "SimpIndexList": [
       7
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 5
   },
@@ -874,13 +935,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 6
   },
@@ -888,13 +950,14 @@
     "SimpIndexList": [
       6
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 7
   },
@@ -902,35 +965,37 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       6,
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106008,
+    "Type": "Tool",
     "MazeBuffID": 3106008,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106908,
-    "MazeBuffID": 3106908,
     "Type": "Forge",
+    "MazeBuffID": 3106908,
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 1
   },
@@ -938,14 +1003,15 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 2
   },
@@ -953,14 +1019,15 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 3
   },
@@ -968,14 +1035,15 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 4
   },
@@ -983,14 +1051,15 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 5
   },
@@ -998,14 +1067,15 @@
     "SimpIndexList": [
       7
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 6
   },
@@ -1013,14 +1083,15 @@
     "SimpIndexList": [
       4
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 7
   },
@@ -1028,36 +1099,38 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       7,
       2,
       4,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106009,
+    "Type": "Tool",
     "MazeBuffID": 3106009,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106909,
+    "Type": "Forge",
     "MazeBuffID": 3106909,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 1
   },
@@ -1065,14 +1138,15 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 2
   },
@@ -1080,14 +1154,15 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 3
   },
@@ -1095,14 +1170,15 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 4
   },
@@ -1110,14 +1186,15 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 5
   },
@@ -1125,14 +1202,15 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 6
   },
@@ -1140,14 +1218,15 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 7
   },
@@ -1155,35 +1234,37 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5,
       6
     ],
-    "DynamicIndexList": [],
     "GearID": 3106010,
+    "Type": "Tool",
     "MazeBuffID": 3106010,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106910,
+    "Type": "Forge",
     "MazeBuffID": 3106910,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 1
   },
@@ -1191,13 +1272,14 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 2
   },
@@ -1205,13 +1287,14 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 3
   },
@@ -1219,13 +1302,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 4
   },
@@ -1233,13 +1317,14 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 5
   },
@@ -1247,13 +1332,14 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 6
   },
@@ -1261,13 +1347,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 7
   },
@@ -1275,34 +1362,36 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106011,
+    "Type": "Tool",
     "MazeBuffID": 3106011,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106911,
+    "Type": "Forge",
     "MazeBuffID": 3106911,
-    "Type": "Forge",
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 1
   },
@@ -1310,13 +1399,14 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 2
   },
@@ -1324,13 +1414,14 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 3
   },
@@ -1338,13 +1429,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 4
   },
@@ -1352,13 +1444,14 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 5
   },
@@ -1366,13 +1459,14 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 6
   },
@@ -1380,13 +1474,14 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 7
   },
@@ -1394,36 +1489,38 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [],
     "GearID": 3106012,
+    "Type": "Tool",
     "MazeBuffID": 3106012,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [],
+    "IndexList": [],
     "GearID": 3106912,
-    "MazeBuffID": 3106912,
     "Type": "Forge",
+    "MazeBuffID": 3106912,
     "Level": 1
   },
   {
     "SimpIndexList": [],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 1
   },
@@ -1431,15 +1528,16 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 2
   },
@@ -1447,15 +1545,16 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 3
   },
@@ -1463,15 +1562,16 @@
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 4
   },
@@ -1479,15 +1579,16 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 5
   },
@@ -1495,15 +1596,16 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 6
   },
@@ -1511,15 +1613,16 @@
     "SimpIndexList": [
       5
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 7
   },
@@ -1527,391 +1630,392 @@
     "SimpIndexList": [
       3
     ],
+    "DynamicIndexList": [
+      9
+    ],
     "IndexList": [
       2,
       3,
       5
     ],
-    "DynamicIndexList": [
-      9
-    ],
     "GearID": 3106013,
+    "Type": "Tool",
     "MazeBuffID": 3106013,
     "Level": 8
   },
   {
     "SimpIndexList": [],
-    "IndexList": [],
     "DynamicIndexList": [
       9
     ],
+    "IndexList": [],
     "GearID": 3106913,
-    "MazeBuffID": 3106913,
     "Type": "Forge",
+    "MazeBuffID": 3106913,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106111,
-    "MazeBuffID": 3106111,
     "Type": "Plugin",
+    "MazeBuffID": 3106111,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106111,
-    "MazeBuffID": 3106111,
     "Type": "Plugin",
+    "MazeBuffID": 3106111,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106111,
-    "MazeBuffID": 3106111,
     "Type": "Plugin",
+    "MazeBuffID": 3106111,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106111,
+    "Type": "Plugin",
     "MazeBuffID": 3106111,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106112,
-    "MazeBuffID": 3106112,
     "Type": "Plugin",
+    "MazeBuffID": 3106112,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106112,
-    "MazeBuffID": 3106112,
     "Type": "Plugin",
+    "MazeBuffID": 3106112,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106112,
-    "MazeBuffID": 3106112,
     "Type": "Plugin",
+    "MazeBuffID": 3106112,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106112,
+    "Type": "Plugin",
     "MazeBuffID": 3106112,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106113,
-    "MazeBuffID": 3106113,
     "Type": "Plugin",
+    "MazeBuffID": 3106113,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106113,
-    "MazeBuffID": 3106113,
     "Type": "Plugin",
+    "MazeBuffID": 3106113,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106113,
-    "MazeBuffID": 3106113,
     "Type": "Plugin",
+    "MazeBuffID": 3106113,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106113,
+    "Type": "Plugin",
     "MazeBuffID": 3106113,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106121,
-    "MazeBuffID": 3106121,
     "Type": "Plugin",
+    "MazeBuffID": 3106121,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106121,
-    "MazeBuffID": 3106121,
     "Type": "Plugin",
+    "MazeBuffID": 3106121,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106121,
-    "MazeBuffID": 3106121,
     "Type": "Plugin",
+    "MazeBuffID": 3106121,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106121,
+    "Type": "Plugin",
     "MazeBuffID": 3106121,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106122,
-    "MazeBuffID": 3106122,
     "Type": "Plugin",
+    "MazeBuffID": 3106122,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106122,
-    "MazeBuffID": 3106122,
     "Type": "Plugin",
+    "MazeBuffID": 3106122,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106122,
-    "MazeBuffID": 3106122,
     "Type": "Plugin",
+    "MazeBuffID": 3106122,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106122,
+    "Type": "Plugin",
     "MazeBuffID": 3106122,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106123,
-    "MazeBuffID": 3106123,
     "Type": "Plugin",
+    "MazeBuffID": 3106123,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106123,
-    "MazeBuffID": 3106123,
     "Type": "Plugin",
+    "MazeBuffID": 3106123,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106123,
-    "MazeBuffID": 3106123,
     "Type": "Plugin",
+    "MazeBuffID": 3106123,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106123,
+    "Type": "Plugin",
     "MazeBuffID": 3106123,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106124,
-    "MazeBuffID": 3106124,
     "Type": "Plugin",
+    "MazeBuffID": 3106124,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106124,
-    "MazeBuffID": 3106124,
     "Type": "Plugin",
+    "MazeBuffID": 3106124,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106124,
-    "MazeBuffID": 3106124,
     "Type": "Plugin",
+    "MazeBuffID": 3106124,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106124,
+    "Type": "Plugin",
     "MazeBuffID": 3106124,
-    "Type": "Plugin",
     "Level": 4
   },
   {
@@ -1920,15 +2024,15 @@
       2,
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1,
       2,
       3
     ],
-    "DynamicIndexList": [],
     "GearID": 3106131,
-    "MazeBuffID": 3106131,
     "Type": "Plugin",
+    "MazeBuffID": 3106131,
     "Level": 1
   },
   {
@@ -1937,15 +2041,15 @@
       2,
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1,
       2,
       3
     ],
-    "DynamicIndexList": [],
     "GearID": 3106131,
-    "MazeBuffID": 3106131,
     "Type": "Plugin",
+    "MazeBuffID": 3106131,
     "Level": 2
   },
   {
@@ -1954,15 +2058,15 @@
       2,
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1,
       2,
       3
     ],
-    "DynamicIndexList": [],
     "GearID": 3106131,
-    "MazeBuffID": 3106131,
     "Type": "Plugin",
+    "MazeBuffID": 3106131,
     "Level": 3
   },
   {
@@ -1971,431 +2075,3194 @@
       2,
       3
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1,
       2,
       3
     ],
-    "DynamicIndexList": [],
     "GearID": 3106131,
+    "Type": "Plugin",
     "MazeBuffID": 3106131,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106132,
-    "MazeBuffID": 3106132,
     "Type": "Plugin",
+    "MazeBuffID": 3106132,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106132,
-    "MazeBuffID": 3106132,
     "Type": "Plugin",
+    "MazeBuffID": 3106132,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106132,
-    "MazeBuffID": 3106132,
     "Type": "Plugin",
+    "MazeBuffID": 3106132,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106132,
+    "Type": "Plugin",
     "MazeBuffID": 3106132,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106133,
-    "MazeBuffID": 3106133,
     "Type": "Plugin",
+    "MazeBuffID": 3106133,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106133,
-    "MazeBuffID": 3106133,
     "Type": "Plugin",
+    "MazeBuffID": 3106133,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106133,
-    "MazeBuffID": 3106133,
     "Type": "Plugin",
+    "MazeBuffID": 3106133,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106133,
+    "Type": "Plugin",
     "MazeBuffID": 3106133,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106134,
-    "MazeBuffID": 3106134,
     "Type": "Plugin",
+    "MazeBuffID": 3106134,
     "Level": 1
   },
   {
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106134,
-    "MazeBuffID": 3106134,
     "Type": "Plugin",
+    "MazeBuffID": 3106134,
     "Level": 2
   },
   {
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106134,
-    "MazeBuffID": 3106134,
     "Type": "Plugin",
+    "MazeBuffID": 3106134,
     "Level": 3
   },
   {
     "SimpIndexList": [
       2
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       2
     ],
-    "DynamicIndexList": [],
     "GearID": 3106134,
+    "Type": "Plugin",
     "MazeBuffID": 3106134,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106135,
-    "MazeBuffID": 3106135,
     "Type": "Plugin",
+    "MazeBuffID": 3106135,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106135,
-    "MazeBuffID": 3106135,
     "Type": "Plugin",
+    "MazeBuffID": 3106135,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106135,
-    "MazeBuffID": 3106135,
     "Type": "Plugin",
+    "MazeBuffID": 3106135,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106135,
+    "Type": "Plugin",
     "MazeBuffID": 3106135,
-    "Type": "Plugin",
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106136,
-    "MazeBuffID": 3106136,
     "Type": "Plugin",
+    "MazeBuffID": 3106136,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106136,
-    "MazeBuffID": 3106136,
     "Type": "Plugin",
+    "MazeBuffID": 3106136,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106136,
-    "MazeBuffID": 3106136,
     "Type": "Plugin",
+    "MazeBuffID": 3106136,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106136,
-    "MazeBuffID": 3106136,
     "Type": "Plugin",
+    "MazeBuffID": 3106136,
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106141,
-    "MazeBuffID": 3106141,
     "Type": "Plugin",
+    "MazeBuffID": 3106141,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106141,
-    "MazeBuffID": 3106141,
     "Type": "Plugin",
+    "MazeBuffID": 3106141,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106141,
-    "MazeBuffID": 3106141,
     "Type": "Plugin",
+    "MazeBuffID": 3106141,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106141,
-    "MazeBuffID": 3106141,
     "Type": "Plugin",
+    "MazeBuffID": 3106141,
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106142,
-    "MazeBuffID": 3106142,
     "Type": "Plugin",
+    "MazeBuffID": 3106142,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106142,
-    "MazeBuffID": 3106142,
     "Type": "Plugin",
+    "MazeBuffID": 3106142,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106142,
-    "MazeBuffID": 3106142,
     "Type": "Plugin",
+    "MazeBuffID": 3106142,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106142,
-    "MazeBuffID": 3106142,
     "Type": "Plugin",
+    "MazeBuffID": 3106142,
     "Level": 4
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106143,
-    "MazeBuffID": 3106143,
     "Type": "Plugin",
+    "MazeBuffID": 3106143,
     "Level": 1
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106143,
-    "MazeBuffID": 3106143,
     "Type": "Plugin",
+    "MazeBuffID": 3106143,
     "Level": 2
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106143,
-    "MazeBuffID": 3106143,
     "Type": "Plugin",
+    "MazeBuffID": 3106143,
     "Level": 3
   },
   {
     "SimpIndexList": [
       1
     ],
+    "DynamicIndexList": [],
     "IndexList": [
       1
     ],
-    "DynamicIndexList": [],
     "GearID": 3106143,
-    "MazeBuffID": 3106143,
     "Type": "Plugin",
+    "MazeBuffID": 3106143,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3
+    ],
+    "GearID": 3113001,
+    "Type": "Tool",
+    "MazeBuffID": 3113001,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113901,
+    "Type": "Forge",
+    "MazeBuffID": 3113901,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113002,
+    "Type": "Tool",
+    "MazeBuffID": 3113002,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113902,
+    "Type": "Forge",
+    "MazeBuffID": 3113902,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      6,
+      10
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [
+      4,
+      5,
+      6,
+      3
+    ],
+    "GearID": 3113003,
+    "Type": "Tool",
+    "MazeBuffID": 3113003,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [
+      10
+    ],
+    "IndexList": [],
+    "GearID": 3113903,
+    "Type": "Forge",
+    "MazeBuffID": 3113903,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      7
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      8
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      7
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      8
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      7,
+      3,
+      8
+    ],
+    "GearID": 3113004,
+    "Type": "Tool",
+    "MazeBuffID": 3113004,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113904,
+    "Type": "Forge",
+    "MazeBuffID": 3113904,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      8
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6,
+      8
+    ],
+    "GearID": 3113005,
+    "Type": "Tool",
+    "MazeBuffID": 3113005,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113201,
+    "Type": "DuelForge",
+    "MazeBuffID": 3113201,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      6
+    ],
+    "GearID": 3113006,
+    "Type": "Tool",
+    "MazeBuffID": 3113006,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5,
+      6
+    ],
+    "GearID": 3113007,
+    "Type": "Tool",
+    "MazeBuffID": 3113007,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113907,
+    "Type": "Forge",
+    "MazeBuffID": 3113907,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113008,
+    "Type": "Tool",
+    "MazeBuffID": 3113008,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113908,
+    "Type": "Forge",
+    "MazeBuffID": 3113908,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      5,
+      2
+    ],
+    "GearID": 3113009,
+    "Type": "Tool",
+    "MazeBuffID": 3113009,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113909,
+    "Type": "Forge",
+    "MazeBuffID": 3113909,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      5,
+      3
+    ],
+    "GearID": 3113010,
+    "Type": "Tool",
+    "MazeBuffID": 3113010,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113910,
+    "Type": "Forge",
+    "MazeBuffID": 3113910,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      6
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      6,
+      3
+    ],
+    "GearID": 3113011,
+    "Type": "Tool",
+    "MazeBuffID": 3113011,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113911,
+    "Type": "Forge",
+    "MazeBuffID": 3113911,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      4
+    ],
+    "GearID": 3113012,
+    "Type": "Tool",
+    "MazeBuffID": 3113012,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113912,
+    "Type": "Forge",
+    "MazeBuffID": 3113912,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      3
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      5
+    ],
+    "GearID": 3113013,
+    "Type": "Tool",
+    "MazeBuffID": 3113013,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113913,
+    "Type": "Forge",
+    "MazeBuffID": 3113913,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      4,
+      2
+    ],
+    "GearID": 3113014,
+    "Type": "Tool",
+    "MazeBuffID": 3113014,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "GearID": 3113301,
+    "Type": "UltraForge",
+    "MazeBuffID": 3113301,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      5
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 5
+  },
+  {
+    "SimpIndexList": [
+      7
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 6
+  },
+  {
+    "SimpIndexList": [
+      4
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 7
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      7,
+      2,
+      4,
+      5
+    ],
+    "GearID": 3113015,
+    "Type": "Tool",
+    "MazeBuffID": 3113015,
+    "Level": 8
+  },
+  {
+    "SimpIndexList": [],
+    "DynamicIndexList": [],
+    "IndexList": [],
+    "GearID": 3113915,
+    "Type": "Forge",
+    "MazeBuffID": 3113915,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113101,
+    "Type": "Plugin",
+    "MazeBuffID": 3113101,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113101,
+    "Type": "Plugin",
+    "MazeBuffID": 3113101,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113101,
+    "Type": "Plugin",
+    "MazeBuffID": 3113101,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113101,
+    "Type": "Plugin",
+    "MazeBuffID": 3113101,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113102,
+    "Type": "Plugin",
+    "MazeBuffID": 3113102,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113102,
+    "Type": "Plugin",
+    "MazeBuffID": 3113102,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113102,
+    "Type": "Plugin",
+    "MazeBuffID": 3113102,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113102,
+    "Type": "Plugin",
+    "MazeBuffID": 3113102,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113103,
+    "Type": "Plugin",
+    "MazeBuffID": 3113103,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113103,
+    "Type": "Plugin",
+    "MazeBuffID": 3113103,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113103,
+    "Type": "Plugin",
+    "MazeBuffID": 3113103,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113103,
+    "Type": "Plugin",
+    "MazeBuffID": 3113103,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113104,
+    "Type": "Plugin",
+    "MazeBuffID": 3113104,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113104,
+    "Type": "Plugin",
+    "MazeBuffID": 3113104,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113104,
+    "Type": "Plugin",
+    "MazeBuffID": 3113104,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113104,
+    "Type": "Plugin",
+    "MazeBuffID": 3113104,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113111,
+    "Type": "Plugin",
+    "MazeBuffID": 3113111,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113111,
+    "Type": "Plugin",
+    "MazeBuffID": 3113111,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113111,
+    "Type": "Plugin",
+    "MazeBuffID": 3113111,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113111,
+    "Type": "Plugin",
+    "MazeBuffID": 3113111,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113112,
+    "Type": "Plugin",
+    "MazeBuffID": 3113112,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113112,
+    "Type": "Plugin",
+    "MazeBuffID": 3113112,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113112,
+    "Type": "Plugin",
+    "MazeBuffID": 3113112,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113112,
+    "Type": "Plugin",
+    "MazeBuffID": 3113112,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113113,
+    "Type": "Plugin",
+    "MazeBuffID": 3113113,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113113,
+    "Type": "Plugin",
+    "MazeBuffID": 3113113,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113113,
+    "Type": "Plugin",
+    "MazeBuffID": 3113113,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113113,
+    "Type": "Plugin",
+    "MazeBuffID": 3113113,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113114,
+    "Type": "Plugin",
+    "MazeBuffID": 3113114,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113114,
+    "Type": "Plugin",
+    "MazeBuffID": 3113114,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113114,
+    "Type": "Plugin",
+    "MazeBuffID": 3113114,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113114,
+    "Type": "Plugin",
+    "MazeBuffID": 3113114,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113121,
+    "Type": "Plugin",
+    "MazeBuffID": 3113121,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113121,
+    "Type": "Plugin",
+    "MazeBuffID": 3113121,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113121,
+    "Type": "Plugin",
+    "MazeBuffID": 3113121,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113121,
+    "Type": "Plugin",
+    "MazeBuffID": 3113121,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2
+    ],
+    "GearID": 3113122,
+    "Type": "Plugin",
+    "MazeBuffID": 3113122,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2
+    ],
+    "GearID": 3113122,
+    "Type": "Plugin",
+    "MazeBuffID": 3113122,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2
+    ],
+    "GearID": 3113122,
+    "Type": "Plugin",
+    "MazeBuffID": 3113122,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      2
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      2
+    ],
+    "GearID": 3113122,
+    "Type": "Plugin",
+    "MazeBuffID": 3113122,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113123,
+    "Type": "Plugin",
+    "MazeBuffID": 3113123,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113123,
+    "Type": "Plugin",
+    "MazeBuffID": 3113123,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113123,
+    "Type": "Plugin",
+    "MazeBuffID": 3113123,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113123,
+    "Type": "Plugin",
+    "MazeBuffID": 3113123,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113124,
+    "Type": "Plugin",
+    "MazeBuffID": 3113124,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113124,
+    "Type": "Plugin",
+    "MazeBuffID": 3113124,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113124,
+    "Type": "Plugin",
+    "MazeBuffID": 3113124,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113124,
+    "Type": "Plugin",
+    "MazeBuffID": 3113124,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113131,
+    "Type": "Plugin",
+    "MazeBuffID": 3113131,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113131,
+    "Type": "Plugin",
+    "MazeBuffID": 3113131,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113131,
+    "Type": "Plugin",
+    "MazeBuffID": 3113131,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113131,
+    "Type": "Plugin",
+    "MazeBuffID": 3113131,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113132,
+    "Type": "Plugin",
+    "MazeBuffID": 3113132,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113132,
+    "Type": "Plugin",
+    "MazeBuffID": 3113132,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113132,
+    "Type": "Plugin",
+    "MazeBuffID": 3113132,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113132,
+    "Type": "Plugin",
+    "MazeBuffID": 3113132,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113133,
+    "Type": "Plugin",
+    "MazeBuffID": 3113133,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113133,
+    "Type": "Plugin",
+    "MazeBuffID": 3113133,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113133,
+    "Type": "Plugin",
+    "MazeBuffID": 3113133,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113133,
+    "Type": "Plugin",
+    "MazeBuffID": 3113133,
+    "Level": 4
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113134,
+    "Type": "Plugin",
+    "MazeBuffID": 3113134,
+    "Level": 1
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113134,
+    "Type": "Plugin",
+    "MazeBuffID": 3113134,
+    "Level": 2
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113134,
+    "Type": "Plugin",
+    "MazeBuffID": 3113134,
+    "Level": 3
+  },
+  {
+    "SimpIndexList": [
+      1
+    ],
+    "DynamicIndexList": [],
+    "IndexList": [
+      1
+    ],
+    "GearID": 3113134,
+    "Type": "Plugin",
+    "MazeBuffID": 3113134,
     "Level": 4
   }
 ]

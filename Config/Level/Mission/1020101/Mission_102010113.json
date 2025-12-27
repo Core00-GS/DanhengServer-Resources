@@ -26,13 +26,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 115964116992
+                "FixedValue": {
+                  "RawValue": 115964116992,
+                  "Value": 27.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -58,7 +60,9 @@
         },
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
-          "IconType": "Default",
+          "IconType": {
+            "JsonValueStr": "Default"
+          },
           "ButtonText": {
             "Hash": -1917684284,
             "Hash64": 15752901215616070487
@@ -79,13 +83,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 115964116992
+                "FixedValue": {
+                  "RawValue": 115964116992,
+                  "Value": 27.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -153,13 +159,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 115964116992
+                "FixedValue": {
+                  "RawValue": 115964116992,
+                  "Value": 27.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }

@@ -154,10 +154,12 @@
       "CustomValueList": [],
       "CustomValueReward": [
         {
+          "Name": "OldValue_0",
           "Value": 2,
           "RewardID": 2001461
         },
         {
+          "Name": "OldValue_0",
           "Value": 1,
           "RewardID": 2001462
         }
@@ -246,10 +248,11 @@
       "LevelPlaneID": 10101,
       "LevelFloorID": 10101001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        200120106
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "200120106"
       ],
       "FinishType": "PlayerLevel",
       "ParamType": "NoPara",
@@ -282,10 +285,11 @@
       "LevelPlaneID": 10101,
       "LevelFloorID": 10101001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        200120106
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "200120106"
       ],
       "FinishType": "PlayerLevel",
       "ParamType": "NoPara",
@@ -315,6 +319,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         2,
         1
@@ -322,7 +328,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    0
+    "OldValue_0"
   ],
   "IsShow": true,
   "AssistWayPointPackList": []

@@ -7,15 +7,18 @@
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
           "StartSentenceID": {
-            "fixedValue": {
-              "RawValue": 444162329223888896
+            "FixedValue": {
+              "RawValue": 444162329223888896,
+              "Value": 103414601.02
             }
           },
           "EndSentenceID": {
-            "fixedValue": {
-              "RawValue": 444162333518856192
+            "FixedValue": {
+              "RawValue": 444162333518856192,
+              "Value": 103414602.02
             }
           },
+          "MuteBattleVO": true,
           "SimpleTalkList": [],
           "TaskEnabled": true,
           "IsClientOnly": true

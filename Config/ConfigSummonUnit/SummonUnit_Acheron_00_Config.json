@@ -6,8 +6,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [],
@@ -18,8 +19,9 @@
         "TriggerName": "AcheronNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 85899345920
+          "FixedValue": {
+            "RawValue": 85899345920,
+            "Value": 20.0
           }
         },
         "RayStartOffsetY": 1.0,
@@ -65,8 +67,9 @@
             },
             "ID": 130802,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": 2147483650
+              "FixedValue": {
+                "RawValue": 2147483650,
+                "Value": 0.5
               }
             },
             "TaskEnabled": true,

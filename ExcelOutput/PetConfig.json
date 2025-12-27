@@ -1,7 +1,17 @@
 [
   {
-    "PetID": 1001,
+    "PetItemID": 251001,
     "SummonUnitID": 24001,
-    "PetItemID": 251001
+    "PetID": 1001
+  },
+  {
+    "PetItemID": 251002,
+    "SummonUnitID": 32001,
+    "PetID": 1002
+  },
+  {
+    "PetItemID": 251003,
+    "SummonUnitID": 36001,
+    "PetID": 1003
   }
 ]

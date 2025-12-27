@@ -631,6 +631,7 @@
       "TakeParamIntList": [
         3040020
       ],
+      "TakePriority": 2,
       "FinishType": "FinishFirstTalkPerformance",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -657,6 +658,7 @@
       "TakeParamIntList": [
         3040020
       ],
+      "TakePriority": 1,
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [

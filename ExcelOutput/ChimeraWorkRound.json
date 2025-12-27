@@ -1,45 +1,56 @@
 [
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       1
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       501,
       502,
       503
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
+    "WarningText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RoundID": 1,
-    "DisplayTeamID": 7
+    "DisplayTeamID": 7,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       1,
       5
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       504,
       505,
       506
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379305,
       "Hash64": 8607115804816732582
     },
     "RoundID": 2,
-    "DisplayTeamID": 7
+    "DisplayTeamID": 7,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [
+      106,
+      105,
+      104
+    ],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       2,
       8
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       511,
       512,
@@ -49,25 +60,26 @@
       516,
       517
     ],
-    "NewChimeraList": [
-      106,
-      105,
-      104
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379304,
       "Hash64": 15710264060822165588
     },
     "RoundID": 3,
-    "DisplayTeamID": 7
+    "DisplayTeamID": 7,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [
+      109,
+      108,
+      107
+    ],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       2,
       8
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       521,
       522,
@@ -77,25 +89,22 @@
       526,
       527
     ],
-    "NewChimeraList": [
-      109,
-      108,
-      107
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379304,
       "Hash64": 15710264060822165588
     },
     "RoundID": 4,
-    "DisplayTeamID": 7
+    "DisplayTeamID": 7,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       2,
       8
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       531,
       532,
@@ -105,26 +114,32 @@
       536,
       537
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379304,
       "Hash64": 15710264060822165588
     },
     "RoundID": 5,
-    "DisplayTeamID": 7
+    "DisplayTeamID": 7,
+    "IsSSR": false
   },
   {
-    "OptionList": [
-      3,
-      4,
-      8,
-      10
+    "NewChimeraList": [
+      110,
+      111,
+      112,
+      201
     ],
     "RecommendedArrangementPresets": [
       601,
       602,
       603
+    ],
+    "OptionList": [
+      3,
+      4,
+      8,
+      10
     ],
     "WorkList": [
       541,
@@ -135,31 +150,30 @@
       546,
       547
     ],
-    "NewChimeraList": [
-      110,
-      111,
-      112,
-      201
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "IsSSR": true,
     "RoundID": 6,
-    "DisplayTeamID": 4
+    "DisplayTeamID": 4,
+    "IsSSR": true
   },
   {
-    "OptionList": [
-      3,
-      4,
-      8
+    "NewChimeraList": [
+      113,
+      114,
+      115
     ],
     "RecommendedArrangementPresets": [
       701,
       703,
       702
+    ],
+    "OptionList": [
+      3,
+      4,
+      8
     ],
     "WorkList": [
       551,
@@ -170,29 +184,26 @@
       556,
       557
     ],
-    "NewChimeraList": [
-      113,
-      114,
-      115
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
     "RoundID": 7,
-    "DisplayTeamID": 4
+    "DisplayTeamID": 4,
+    "IsSSR": false
   },
   {
-    "OptionList": [
-      3,
-      4,
-      8
-    ],
+    "NewChimeraList": [],
     "RecommendedArrangementPresets": [
       801,
       802,
       803
+    ],
+    "OptionList": [
+      3,
+      4,
+      8
     ],
     "WorkList": [
       561,
@@ -203,26 +214,32 @@
       566,
       567
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
     "RoundID": 8,
-    "DisplayTeamID": 4
+    "DisplayTeamID": 4,
+    "IsSSR": false
   },
   {
-    "OptionList": [
-      3,
-      6,
-      8,
-      11
+    "NewChimeraList": [
+      117,
+      118,
+      116,
+      202
     ],
     "RecommendedArrangementPresets": [
       901,
       902,
       903
+    ],
+    "OptionList": [
+      3,
+      6,
+      8,
+      11
     ],
     "WorkList": [
       571,
@@ -233,32 +250,31 @@
       576,
       577
     ],
-    "NewChimeraList": [
-      117,
-      118,
-      116,
-      202
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "IsSSR": true,
     "RoundID": 9,
-    "DisplayTeamID": 3
+    "DisplayTeamID": 3,
+    "IsSSR": true
   },
   {
-    "OptionList": [
-      3,
-      6,
-      8,
-      12
+    "NewChimeraList": [
+      119,
+      120,
+      121
     ],
     "RecommendedArrangementPresets": [
       1001,
       1002,
       1003
+    ],
+    "OptionList": [
+      3,
+      6,
+      8,
+      12
     ],
     "WorkList": [
       581,
@@ -269,29 +285,26 @@
       586,
       587
     ],
-    "NewChimeraList": [
-      119,
-      120,
-      121
-    ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
     "RoundID": 10,
-    "DisplayTeamID": 2
+    "DisplayTeamID": 2,
+    "IsSSR": false
   },
   {
-    "OptionList": [
-      3,
-      6,
-      8
-    ],
+    "NewChimeraList": [],
     "RecommendedArrangementPresets": [
       1101,
       1102,
       1103
+    ],
+    "OptionList": [
+      3,
+      6,
+      8
     ],
     "WorkList": [
       591,
@@ -302,20 +315,21 @@
       596,
       597
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
     "RoundID": 11,
-    "DisplayTeamID": 2
+    "DisplayTeamID": 2,
+    "IsSSR": false
   },
   {
-    "OptionList": [
-      3,
-      7,
-      13
+    "NewChimeraList": [
+      122,
+      123,
+      124,
+      203
     ],
     "RecommendedArrangementPresets": [
       1201,
@@ -340,33 +354,33 @@
       1220,
       1221
     ],
+    "OptionList": [
+      3,
+      7,
+      13
+    ],
     "WorkList": [
       601,
       602,
       603
-    ],
-    "NewChimeraList": [
-      122,
-      123,
-      124,
-      203
     ],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "IsSSR": true,
     "RoundID": 12,
-    "DisplayTeamID": 1
+    "DisplayTeamID": 1,
+    "IsSSR": true
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       901,
       902,
@@ -374,21 +388,23 @@
       904,
       905
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 50
+    "RoundID": 50,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       906,
       907,
@@ -396,21 +412,23 @@
       909,
       910
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 51
+    "RoundID": 51,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       911,
       912,
@@ -418,21 +436,23 @@
       914,
       915
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 52
+    "RoundID": 52,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       916,
       917,
@@ -442,21 +462,23 @@
       921,
       922
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 53
+    "RoundID": 53,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       923,
       924,
@@ -464,21 +486,23 @@
       926,
       927
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 54
+    "RoundID": 54,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   },
   {
+    "NewChimeraList": [],
+    "RecommendedArrangementPresets": [],
     "OptionList": [
       3,
       7,
       9
     ],
-    "RecommendedArrangementPresets": [],
     "WorkList": [
       928,
       929,
@@ -486,12 +510,13 @@
       931,
       932
     ],
-    "NewChimeraList": [],
     "ArrangeHintImage": "",
     "WarningText": {
       "Hash": 8379303,
       "Hash64": 11577386884357322498
     },
-    "RoundID": 55
+    "RoundID": 55,
+    "DisplayTeamID": 0,
+    "IsSSR": false
   }
 ]

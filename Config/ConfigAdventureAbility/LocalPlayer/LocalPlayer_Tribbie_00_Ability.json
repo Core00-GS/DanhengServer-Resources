@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Tribbie_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 21474835
+                "FixedValue": {
+                  "RawValue": 21474835,
+                  "Value": 0.0
                 }
               },
               "TaskEnabled": true,
@@ -128,8 +128,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -172,8 +173,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Tribbie_00/Eff_Avatar_Tribbie_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 42949672960
+                  "FixedValue": {
+                    "RawValue": 42949672960,
+                    "Value": 10.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -191,7 +193,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -224,7 +226,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -282,8 +284,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -326,8 +329,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Tribbie_00/Eff_Avatar_Tribbie_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 42949672960
+                  "FixedValue": {
+                    "RawValue": 42949672960,
+                    "Value": 10.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -345,7 +349,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -378,7 +382,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -421,8 +425,7 @@
     {
       "Name": "LocalPlayer_Tribbie_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -446,8 +449,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 128849019
+            "FixedValue": {
+              "RawValue": 128849019,
+              "Value": 0.03
             }
           },
           "TaskEnabled": true,
@@ -477,8 +481,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 274877906
+            "FixedValue": {
+              "RawValue": 274877906,
+              "Value": 0.06
             }
           },
           "TaskEnabled": true,
@@ -508,8 +513,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 472446403
+            "FixedValue": {
+              "RawValue": 472446403,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -523,8 +529,9 @@
           },
           "ID": 140301,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,

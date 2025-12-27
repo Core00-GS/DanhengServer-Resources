@@ -36,8 +36,9 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -83,8 +84,9 @@
         "TriggerName": "AddDebuffOnEnemyTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 23622320130
+          "FixedValue": {
+            "RawValue": 23622320130,
+            "Value": 5.5
           }
         },
         "UseVerticalBound": true,

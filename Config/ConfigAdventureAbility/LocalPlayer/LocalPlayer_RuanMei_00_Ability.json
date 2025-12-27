@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_RuanMei_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -100,8 +99,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 128849019
+                "FixedValue": {
+                  "RawValue": 128849019,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -233,7 +233,9 @@
                   "BaseCycle": 0.05,
                   "RangeAttenuation": 1.0,
                   "RangeAttenuationDelay": 999.0,
-                  "RangeAttenuationDuration": -1.0
+                  "RangeAttenuationDuration": -1.0,
+                  "IsUsePositionNoise": true,
+                  "IsUseRotationNoise": true
                 }
               },
               "TaskEnabled": true,
@@ -279,8 +281,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 128849019
+                "FixedValue": {
+                  "RawValue": 128849019,
+                  "Value": 0.03
                 }
               },
               "TaskEnabled": true,
@@ -438,7 +441,9 @@
                   "BaseCycle": 0.05,
                   "RangeAttenuation": 1.0,
                   "RangeAttenuationDelay": 999.0,
-                  "RangeAttenuationDuration": -1.0
+                  "RangeAttenuationDuration": -1.0,
+                  "IsUsePositionNoise": true,
+                  "IsUseRotationNoise": true
                 }
               },
               "TaskEnabled": true,
@@ -469,8 +474,7 @@
     {
       "Name": "LocalPlayer_RuanMei_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -494,8 +498,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 472446403
+            "FixedValue": {
+              "RawValue": 472446403,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -524,8 +529,9 @@
               },
               "ID": 130302,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "TaskEnabled": true,
@@ -539,8 +545,9 @@
               },
               "ID": 130303,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "TaskEnabled": true,
@@ -557,8 +564,9 @@
           },
           "ID": 130301,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -575,5 +583,63 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_RuanMei": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_RuanMei_RogueIgnoreWeakness": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "EnterBattleAdvantage"
+      ],
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_RuanMei_RogueExtraEffect": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnBeforeBattle": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByCurrentRogueHasBuffComponent",
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.SetDynamicValueByRogueBuffNum",
+              "TaskEnabled": true
+            }
+          ],
+          "FailedTaskList": [
+            {
+              "$type": "RPG.GameCore.SetDynamicValueByCustomName",
+              "TaskEnabled": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge",
+      "DynamicValues": {}
+    }
+  }
 }

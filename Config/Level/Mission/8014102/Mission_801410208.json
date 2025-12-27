@@ -6,25 +6,29 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 55834574848
+            "FixedValue": {
+              "RawValue": 55834574848,
+              "Value": 13.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718021278138368
+            "FixedValue": {
+              "RawValue": 1718021278138368,
+              "Value": 400008.0
             }
           },
           "CreateList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 55834574848
+                "FixedValue": {
+                  "RawValue": 55834574848,
+                  "Value": 13.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1718085702647808
+                "FixedValue": {
+                  "RawValue": 1718085702647808,
+                  "Value": 400023.0
                 }
               }
             }
@@ -39,13 +43,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 55834574848
+            "FixedValue": {
+              "RawValue": 55834574848,
+              "Value": 13.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "CreateList": [],
@@ -59,13 +65,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 55834574848
+                "FixedValue": {
+                  "RawValue": 55834574848,
+                  "Value": 13.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288507368669184
+                "FixedValue": {
+                  "RawValue": 1288507368669184,
+                  "Value": 300004.0
                 }
               }
             }

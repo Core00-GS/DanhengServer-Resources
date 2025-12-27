@@ -5,8 +5,8 @@
       1.25,
       1.0
     ],
-    "SkillID": 100401410,
     "DifficultyGuideID": 10010,
+    "SkillID": 100401410,
     "DifficultyGuideDescription": {
       "Hash": -1317210422,
       "Hash64": 1916644733650887747
@@ -15,6 +15,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10011,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1317210421,
       "Hash64": 3636884468346496515
@@ -23,6 +24,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10012,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1317210420,
       "Hash64": 10970754339589570397
@@ -34,8 +36,8 @@
       1.25,
       1.0
     ],
-    "SkillID": 100401410,
     "DifficultyGuideID": 10020,
+    "SkillID": 100401410,
     "DifficultyGuideDescription": {
       "Hash": 1411672933,
       "Hash64": 14148557219069898599
@@ -44,6 +46,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10021,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": 1411672934,
       "Hash64": 12237416871836059229
@@ -52,6 +55,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10022,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": 1411672935,
       "Hash64": 1881183114627637979
@@ -63,8 +67,8 @@
       1.25,
       1.0
     ],
-    "SkillID": 801501201,
     "DifficultyGuideID": 10030,
+    "SkillID": 801501201,
     "DifficultyGuideDescription": {
       "Hash": -154411008,
       "Hash64": 18290431651321211282
@@ -73,6 +77,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10031,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -154411007,
       "Hash64": 752733456052773105
@@ -81,6 +86,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10032,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -154411006,
       "Hash64": 8871627761447492831
@@ -92,8 +98,8 @@
       1.0,
       1.5
     ],
-    "SkillID": 200401410,
     "DifficultyGuideID": 10040,
+    "SkillID": 200401410,
     "DifficultyGuideDescription": {
       "Hash": -1720494949,
       "Hash64": 8651840169377685144
@@ -102,6 +108,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10041,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1720494948,
       "Hash64": 18247319525345574865
@@ -110,6 +117,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10042,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1720494947,
       "Hash64": 17368990055257733041
@@ -121,8 +129,8 @@
       1.0,
       1.5
     ],
-    "SkillID": 200401410,
     "DifficultyGuideID": 10050,
+    "SkillID": 200401410,
     "DifficultyGuideDescription": {
       "Hash": 1008388406,
       "Hash64": 16787997607618677661
@@ -131,6 +139,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10051,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": 1008388407,
       "Hash64": 10820947677378539580
@@ -139,6 +148,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10052,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": 1008388408,
       "Hash64": 9502186055694738770
@@ -150,8 +160,8 @@
       1.25,
       1.0
     ],
-    "SkillID": 801502218,
     "DifficultyGuideID": 10060,
+    "SkillID": 801502218,
     "DifficultyGuideDescription": {
       "Hash": -557695535,
       "Hash64": 12494335818772824696
@@ -160,6 +170,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10061,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -557695534,
       "Hash64": 5648821596824197341
@@ -168,6 +179,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10062,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -557695533,
       "Hash64": 8331593942555334519
@@ -179,8 +191,8 @@
       1.0,
       1.5
     ],
-    "SkillID": 302501316,
     "DifficultyGuideID": 10070,
+    "SkillID": 302501316,
     "DifficultyGuideDescription": {
       "Hash": -2123779476,
       "Hash64": 1702103723174631620
@@ -189,6 +201,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10071,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -2123779475,
       "Hash64": 2119712281278363323
@@ -197,6 +210,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10072,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -2123779474,
       "Hash64": 4263549058047547241
@@ -208,8 +222,8 @@
       1.0,
       1.5
     ],
-    "SkillID": 300402105,
     "DifficultyGuideID": 10080,
+    "SkillID": 300402105,
     "DifficultyGuideDescription": {
       "Hash": -107356841,
       "Hash64": 15596659788199495746
@@ -218,6 +232,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10081,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -107356840,
       "Hash64": 5901670123558425792
@@ -226,6 +241,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10082,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -107356839,
       "Hash64": 3956388326062715584
@@ -237,8 +253,8 @@
       1.0,
       1.5
     ],
-    "SkillID": 300402105,
     "DifficultyGuideID": 10090,
+    "SkillID": 300402105,
     "DifficultyGuideDescription": {
       "Hash": -1673440782,
       "Hash64": 12313417514746591009
@@ -247,6 +263,7 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10091,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1673440781,
       "Hash64": 1142093302038869470
@@ -255,9 +272,134 @@
   {
     "ParameterList": [],
     "DifficultyGuideID": 10092,
+    "SkillID": 0,
     "DifficultyGuideDescription": {
       "Hash": -1673440780,
       "Hash64": 12256400626537592777
+    }
+  },
+  {
+    "ParameterList": [
+      0.5,
+      1.0,
+      1.5
+    ],
+    "DifficultyGuideID": 10100,
+    "SkillID": 203401410,
+    "DifficultyGuideDescription": {
+      "Hash": 248873488,
+      "Hash64": 7412813386151454165
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10101,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": 248873487,
+      "Hash64": 6470103329345282469
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10102,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": 248873490,
+      "Hash64": 8091541952703077393
+    }
+  },
+  {
+    "ParameterList": [
+      0.5,
+      1.0,
+      1.5
+    ],
+    "DifficultyGuideID": 10110,
+    "SkillID": 403401311,
+    "DifficultyGuideDescription": {
+      "Hash": -1317210453,
+      "Hash64": 14560052999962775266
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10111,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": -1317210454,
+      "Hash64": 1785288407467310774
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10112,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": -1317210451,
+      "Hash64": 2861324688894353282
+    }
+  },
+  {
+    "ParameterList": [
+      0.5,
+      1.0,
+      1.5
+    ],
+    "DifficultyGuideID": 10120,
+    "SkillID": 203501211,
+    "DifficultyGuideDescription": {
+      "Hash": 1411672902,
+      "Hash64": 4063608111291690535
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10121,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": 1411672901,
+      "Hash64": 9514366068824211303
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10122,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": 1411672904,
+      "Hash64": 13585567330645674629
+    }
+  },
+  {
+    "ParameterList": [
+      0.5,
+      1.0,
+      1.5
+    ],
+    "DifficultyGuideID": 10130,
+    "SkillID": 401403609,
+    "DifficultyGuideDescription": {
+      "Hash": -154411039,
+      "Hash64": 5898584831330101688
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10131,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": -154411040,
+      "Hash64": 15894132803842510095
+    }
+  },
+  {
+    "ParameterList": [],
+    "DifficultyGuideID": 10132,
+    "SkillID": 0,
+    "DifficultyGuideDescription": {
+      "Hash": -154411037,
+      "Hash64": 12469246733277145472
     }
   }
 ]

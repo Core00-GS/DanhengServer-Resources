@@ -5,11 +5,21 @@
   "AreaAnchorName": "LevelArea_P10401_F10401001_G176",
   "SaveType": "Permanent",
   "AtmosphereCondition": {
+    "Conditions": [
+      {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
+        "SavedValueName": "FSV_Mission_DisableCavalryBeast",
+        "Operation": "Equal"
+      }
+    ],
     "Operation": "And"
   },
   "LoadSide": "Server",
   "LoadOnInitial": true,
-  "ValueSource": {},
+  "ValueSource": {
+    "Values": [],
+    "SharedValues": []
+  },
   "ConflictIDList": [],
   "IsHoyoGroup": true,
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -60,7 +70,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [
@@ -118,7 +130,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -180,7 +194,9 @@
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

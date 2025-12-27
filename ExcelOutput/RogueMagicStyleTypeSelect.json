@@ -3,6 +3,7 @@
     "IconPath": "SpriteOutput/Rogue/StyleType/IconRogueStyleTypeUltimate.png",
     "DisplayID": 103,
     "EnumType": "Ultimate",
+    "UnlockID": 0,
     "EnumDesc": {
       "Hash": -1531150669,
       "Hash64": 10262849724569676079

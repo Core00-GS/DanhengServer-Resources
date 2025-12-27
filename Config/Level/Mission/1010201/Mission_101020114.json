@@ -34,8 +34,9 @@
             {
               "$type": "RPG.GameCore.EnterMapByCondition",
               "EntranceID": {
-                "fixedValue": {
-                  "RawValue": 4338355055624192
+                "FixedValue": {
+                  "RawValue": 4338355055624192,
+                  "Value": 1010102.0
                 }
               },
               "TaskEnabled": true,

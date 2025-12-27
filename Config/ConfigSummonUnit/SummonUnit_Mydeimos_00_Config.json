@@ -4,8 +4,9 @@
   "TickLodTemplateName": "DefaultStaticEntity",
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "TriggerConfig": {
@@ -13,8 +14,9 @@
       {
         "TriggerName": "GatheringRange",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 42949672960
+          "FixedValue": {
+            "RawValue": 42949672960,
+            "Value": 10.0
           }
         },
         "UseVerticalBound": true,
@@ -46,8 +48,9 @@
       {
         "TriggerName": "HitPropTrigger",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 42949672960
+          "FixedValue": {
+            "RawValue": 42949672960,
+            "Value": 10.0
           }
         },
         "UseVerticalBound": true,

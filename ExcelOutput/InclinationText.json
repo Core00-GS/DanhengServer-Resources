@@ -4,6 +4,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100000417
   },
   {
@@ -11,6 +12,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100000419
   },
   {
@@ -18,6 +20,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100000505
   },
   {
@@ -25,6 +28,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100000508
   },
   {
@@ -32,6 +36,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100000512
   },
   {
@@ -39,6 +44,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001119
   },
   {
@@ -46,6 +52,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201010203
   },
   {
@@ -53,6 +60,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201010223
   },
   {
@@ -61,6 +69,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201010225
   },
   {
@@ -68,6 +77,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010315
   },
   {
@@ -75,6 +85,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010316
   },
   {
@@ -82,6 +93,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010323
   },
   {
@@ -89,6 +101,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010325
   },
   {
@@ -96,6 +109,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010327
   },
   {
@@ -103,6 +117,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010333
   },
   {
@@ -110,6 +125,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010335
   },
   {
@@ -117,6 +133,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011312
   },
   {
@@ -124,6 +141,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010506
   },
   {
@@ -131,6 +149,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010508
   },
   {
@@ -138,6 +157,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010610
   },
   {
@@ -145,6 +165,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010612
   },
   {
@@ -152,6 +173,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010614
   },
   {
@@ -159,6 +181,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011020
   },
   {
@@ -166,6 +189,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011022
   },
   {
@@ -173,6 +197,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011050
   },
   {
@@ -180,6 +205,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010812
   },
   {
@@ -187,6 +213,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010813
   },
   {
@@ -195,6 +222,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101010814
   },
   {
@@ -202,6 +230,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201110103
   },
   {
@@ -209,6 +238,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201110105
   },
   {
@@ -216,6 +246,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201110107
   },
   {
@@ -223,6 +254,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101020202
   },
   {
@@ -230,6 +262,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101020204
   },
   {
@@ -237,6 +270,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023004
   },
   {
@@ -244,6 +278,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021014
   },
   {
@@ -252,6 +287,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021015
   },
   {
@@ -260,6 +296,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021016
   },
   {
@@ -267,6 +304,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023104
   },
   {
@@ -274,6 +312,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023107
   },
   {
@@ -281,6 +320,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023110
   },
   {
@@ -288,6 +328,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021608
   },
   {
@@ -295,6 +336,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021610
   },
   {
@@ -302,6 +344,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101021612
   },
   {
@@ -309,6 +352,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023906
   },
   {
@@ -316,6 +360,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101023807
   },
   {
@@ -323,6 +368,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022021
   },
   {
@@ -330,6 +376,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022023
   },
   {
@@ -337,6 +384,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022030
   },
   {
@@ -344,6 +392,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022032
   },
   {
@@ -351,6 +400,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022034
   },
   {
@@ -359,6 +409,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022312
   },
   {
@@ -366,6 +417,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022313
   },
   {
@@ -373,6 +425,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022315
   },
   {
@@ -380,6 +433,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022415
   },
   {
@@ -387,6 +441,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022417
   },
   {
@@ -394,6 +449,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101022419
   },
   {
@@ -401,6 +457,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024103
   },
   {
@@ -408,6 +465,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024107
   },
   {
@@ -415,6 +473,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024111
   },
   {
@@ -422,6 +481,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024120
   },
   {
@@ -429,6 +489,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024122
   },
   {
@@ -436,6 +497,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024124
   },
   {
@@ -443,6 +505,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024413
   },
   {
@@ -450,6 +513,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024415
   },
   {
@@ -457,6 +521,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024417
   },
   {
@@ -464,6 +529,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024423
   },
   {
@@ -471,6 +537,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024425
   },
   {
@@ -478,6 +545,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024432
   },
   {
@@ -485,6 +553,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024434
   },
   {
@@ -492,6 +561,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024512
   },
   {
@@ -499,6 +569,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024514
   },
   {
@@ -506,6 +577,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101024516
   },
   {
@@ -513,6 +585,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201222002
   },
   {
@@ -520,6 +593,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201222003
   },
   {
@@ -528,6 +602,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201222004
   },
   {
@@ -536,6 +611,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201230302
   },
   {
@@ -543,6 +619,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201230305
   },
   {
@@ -551,6 +628,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201230317
   },
   {
@@ -558,6 +636,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201230320
   },
   {
@@ -565,6 +644,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232324
   },
   {
@@ -572,6 +652,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232326
   },
   {
@@ -579,6 +660,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232328
   },
   {
@@ -586,6 +668,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232743
   },
   {
@@ -593,6 +676,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232744
   },
   {
@@ -600,6 +684,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201232745
   },
   {
@@ -607,6 +692,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233108
   },
   {
@@ -614,6 +700,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233111
   },
   {
@@ -621,6 +708,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233113
   },
   {
@@ -628,6 +716,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233118
   },
   {
@@ -635,6 +724,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233119
   },
   {
@@ -642,6 +732,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201233120
   },
   {
@@ -649,6 +740,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025103
   },
   {
@@ -657,6 +749,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025105
   },
   {
@@ -664,6 +757,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025113
   },
   {
@@ -671,6 +765,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025116
   },
   {
@@ -678,6 +773,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025119
   },
   {
@@ -685,6 +781,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011412
   },
   {
@@ -692,6 +789,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011414
   },
   {
@@ -699,6 +797,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011416
   },
   {
@@ -706,6 +805,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011720
   },
   {
@@ -713,6 +813,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101011723
   },
   {
@@ -720,6 +821,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201310312
   },
   {
@@ -728,6 +830,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201310314
   },
   {
@@ -736,6 +839,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201310316
   },
   {
@@ -743,6 +847,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201310942
   },
   {
@@ -750,6 +855,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311108
   },
   {
@@ -758,6 +864,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311109
   },
   {
@@ -766,6 +873,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311110
   },
   {
@@ -773,6 +881,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311624
   },
   {
@@ -780,6 +889,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311625
   },
   {
@@ -787,6 +897,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311626
   },
   {
@@ -794,6 +905,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311819
   },
   {
@@ -801,6 +913,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311820
   },
   {
@@ -809,6 +922,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311821
   },
   {
@@ -816,6 +930,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311823
   },
   {
@@ -823,6 +938,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201311825
   },
   {
@@ -830,6 +946,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312305
   },
   {
@@ -837,6 +954,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312306
   },
   {
@@ -845,6 +963,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312307
   },
   {
@@ -852,6 +971,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312415
   },
   {
@@ -859,6 +979,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312418
   },
   {
@@ -867,6 +988,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312419
   },
   {
@@ -874,6 +996,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201321007
   },
   {
@@ -881,6 +1004,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201321009
   },
   {
@@ -889,6 +1013,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201321011
   },
   {
@@ -896,6 +1021,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070111
   },
   {
@@ -904,6 +1030,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070113
   },
   {
@@ -911,6 +1038,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070115
   },
   {
@@ -918,6 +1046,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070202
   },
   {
@@ -925,6 +1054,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070213
   },
   {
@@ -932,6 +1062,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070421
   },
   {
@@ -939,6 +1070,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070607
   },
   {
@@ -946,6 +1078,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070610
   },
   {
@@ -953,6 +1086,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070703
   },
   {
@@ -960,6 +1094,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201070704
   },
   {
@@ -967,6 +1102,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201071917
   },
   {
@@ -974,6 +1110,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201071924
   },
   {
@@ -981,6 +1118,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201072209
   },
   {
@@ -988,6 +1126,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201072210
   },
   {
@@ -995,6 +1134,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201072439
   },
   {
@@ -1002,6 +1142,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201072456
   },
   {
@@ -1009,6 +1150,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201072458
   },
   {
@@ -1016,6 +1158,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140106
   },
   {
@@ -1023,6 +1166,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140503
   },
   {
@@ -1030,6 +1174,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140505
   },
   {
@@ -1037,6 +1182,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140507
   },
   {
@@ -1044,6 +1190,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140509
   },
   {
@@ -1051,6 +1198,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140722
   },
   {
@@ -1058,6 +1206,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201140823
   },
   {
@@ -1065,6 +1214,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201141618
   },
   {
@@ -1072,6 +1222,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201141620
   },
   {
@@ -1079,6 +1230,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212125
   },
   {
@@ -1086,6 +1238,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212216
   },
   {
@@ -1093,6 +1246,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212217
   },
   {
@@ -1100,6 +1254,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212321
   },
   {
@@ -1107,6 +1262,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212313
   },
   {
@@ -1114,6 +1270,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212324
   },
   {
@@ -1121,6 +1278,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212317
   },
   {
@@ -1128,6 +1286,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212507
   },
   {
@@ -1135,6 +1294,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201212516
   },
   {
@@ -1142,6 +1302,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201213205
   },
   {
@@ -1149,6 +1310,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201213413
   },
   {
@@ -1156,6 +1318,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201213515
   },
   {
@@ -1163,6 +1326,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201213616
   },
   {
@@ -1170,6 +1334,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214021
   },
   {
@@ -1177,6 +1342,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214022
   },
   {
@@ -1184,6 +1350,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101025928
   },
   {
@@ -1191,6 +1358,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223028
   },
   {
@@ -1198,6 +1366,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223122
   },
   {
@@ -1205,6 +1374,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223124
   },
   {
@@ -1212,6 +1382,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223151
   },
   {
@@ -1219,6 +1390,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223155
   },
   {
@@ -1226,6 +1398,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234504
   },
   {
@@ -1233,6 +1406,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234714
   },
   {
@@ -1240,6 +1414,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234808
   },
   {
@@ -1247,6 +1422,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234820
   },
   {
@@ -1254,6 +1430,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234824
   },
   {
@@ -1261,6 +1438,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234826
   },
   {
@@ -1268,6 +1446,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234830
   },
   {
@@ -1275,6 +1454,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234832
   },
   {
@@ -1282,6 +1462,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201234834
   },
   {
@@ -1289,6 +1470,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201235060
   },
   {
@@ -1296,6 +1478,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201235107
   },
   {
@@ -1303,6 +1486,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201235225
   },
   {
@@ -1310,6 +1494,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214402
   },
   {
@@ -1318,6 +1503,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214404
   },
   {
@@ -1325,6 +1511,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214604
   },
   {
@@ -1332,6 +1519,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214606
   },
   {
@@ -1339,6 +1527,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214727
   },
   {
@@ -1346,6 +1535,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214729
   },
   {
@@ -1353,6 +1543,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312729
   },
   {
@@ -1361,6 +1552,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101013017
   },
   {
@@ -1368,6 +1560,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312810
   },
   {
@@ -1375,6 +1568,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312811
   },
   {
@@ -1382,6 +1576,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312812
   },
   {
@@ -1389,6 +1584,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312929
   },
   {
@@ -1396,6 +1592,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201312931
   },
   {
@@ -1403,6 +1600,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101012639
   },
   {
@@ -1410,6 +1608,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101012640
   },
   {
@@ -1417,6 +1616,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130407
   },
   {
@@ -1424,6 +1624,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130409
   },
   {
@@ -1431,6 +1632,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130427
   },
   {
@@ -1438,6 +1640,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130430
   },
   {
@@ -1445,6 +1648,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130904
   },
   {
@@ -1452,6 +1656,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130906
   },
   {
@@ -1459,6 +1664,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130925
   },
   {
@@ -1466,6 +1672,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201130926
   },
   {
@@ -1473,6 +1680,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026304
   },
   {
@@ -1480,6 +1688,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026307
   },
   {
@@ -1487,6 +1696,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026310
   },
   {
@@ -1494,6 +1704,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026312
   },
   {
@@ -1501,6 +1712,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026503
   },
   {
@@ -1508,6 +1720,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026505
   },
   {
@@ -1515,6 +1728,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026612
   },
   {
@@ -1522,6 +1736,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026613
   },
   {
@@ -1529,6 +1744,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026621
   },
   {
@@ -1536,6 +1752,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026911
   },
   {
@@ -1543,6 +1760,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101026913
   },
   {
@@ -1550,6 +1768,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027218
   },
   {
@@ -1557,6 +1776,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027220
   },
   {
@@ -1565,6 +1785,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027234
   },
   {
@@ -1573,6 +1794,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027236
   },
   {
@@ -1580,6 +1802,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027306
   },
   {
@@ -1587,6 +1810,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027308
   },
   {
@@ -1594,6 +1818,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027317
   },
   {
@@ -1601,6 +1826,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101027319
   },
   {
@@ -1608,6 +1834,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021070
   },
   {
@@ -1615,6 +1842,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021072
   },
   {
@@ -1622,6 +1850,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021074
   },
   {
@@ -1629,6 +1858,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021010
   },
   {
@@ -1636,6 +1866,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021012
   },
   {
@@ -1643,6 +1874,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021014
   },
   {
@@ -1650,6 +1882,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021715
   },
   {
@@ -1657,6 +1890,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021719
   },
   {
@@ -1664,6 +1898,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021730
   },
   {
@@ -1671,6 +1906,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021757
   },
   {
@@ -1678,6 +1914,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021803
   },
   {
@@ -1685,6 +1922,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021805
   },
   {
@@ -1692,6 +1930,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200021918
   },
   {
@@ -1699,6 +1938,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032007
   },
   {
@@ -1706,6 +1946,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032009
   },
   {
@@ -1713,6 +1954,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032531
   },
   {
@@ -1720,6 +1962,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032543
   },
   {
@@ -1727,6 +1970,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032545
   },
   {
@@ -1734,6 +1978,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032547
   },
   {
@@ -1741,6 +1986,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032627
   },
   {
@@ -1748,6 +1994,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032630
   },
   {
@@ -1755,6 +2002,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032634
   },
   {
@@ -1762,6 +2010,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032702
   },
   {
@@ -1769,6 +2018,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032706
   },
   {
@@ -1776,6 +2026,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032710
   },
   {
@@ -1783,6 +2034,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200032730
   },
   {
@@ -1790,6 +2042,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030115
   },
   {
@@ -1797,6 +2050,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030117
   },
   {
@@ -1804,6 +2058,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030121
   },
   {
@@ -1811,6 +2066,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030123
   },
   {
@@ -1819,6 +2075,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030127
   },
   {
@@ -1826,6 +2083,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030129
   },
   {
@@ -1833,6 +2091,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030533
   },
   {
@@ -1841,6 +2100,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030535
   },
   {
@@ -1848,6 +2108,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030704
   },
   {
@@ -1855,6 +2116,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200030904
   },
   {
@@ -1862,6 +2124,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022226
   },
   {
@@ -1869,6 +2132,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022221
   },
   {
@@ -1876,6 +2140,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022289
   },
   {
@@ -1883,6 +2148,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022245
   },
   {
@@ -1890,6 +2156,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022249
   },
   {
@@ -1897,6 +2164,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022304
   },
   {
@@ -1904,6 +2172,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022319
   },
   {
@@ -1911,6 +2180,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022321
   },
   {
@@ -1918,6 +2188,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200013265
   },
   {
@@ -1925,6 +2196,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200013269
   },
   {
@@ -1932,6 +2204,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022705
   },
   {
@@ -1939,6 +2212,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022737
   },
   {
@@ -1946,6 +2220,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200022744
   },
   {
@@ -1953,6 +2228,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200012210
   },
   {
@@ -1960,6 +2236,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200012213
   },
   {
@@ -1967,6 +2244,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200012216
   },
   {
@@ -1974,6 +2252,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200012237
   },
   {
@@ -1981,6 +2260,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200012254
   },
   {
@@ -1988,6 +2268,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024213
   },
   {
@@ -1995,6 +2276,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024313
   },
   {
@@ -2002,6 +2284,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024634
   },
   {
@@ -2009,6 +2292,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024636
   },
   {
@@ -2016,6 +2300,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024808
   },
   {
@@ -2023,6 +2308,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200024980
   },
   {
@@ -2030,6 +2316,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025002
   },
   {
@@ -2037,6 +2324,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025005
   },
   {
@@ -2044,6 +2332,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025008
   },
   {
@@ -2051,6 +2340,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025305
   },
   {
@@ -2058,6 +2348,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025414
   },
   {
@@ -2065,6 +2356,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025416
   },
   {
@@ -2072,6 +2364,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200025419
   },
   {
@@ -2079,6 +2372,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201080503
   },
   {
@@ -2087,6 +2381,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201080513
   },
   {
@@ -2094,6 +2389,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201080905
   },
   {
@@ -2101,6 +2397,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081232
   },
   {
@@ -2108,6 +2405,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081234
   },
   {
@@ -2115,6 +2413,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081320
   },
   {
@@ -2122,6 +2421,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081322
   },
   {
@@ -2129,6 +2429,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081341
   },
   {
@@ -2136,6 +2437,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081344
   },
   {
@@ -2143,6 +2445,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081347
   },
   {
@@ -2150,6 +2453,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081414
   },
   {
@@ -2157,6 +2461,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081416
   },
   {
@@ -2164,6 +2469,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081418
   },
   {
@@ -2171,6 +2477,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081425
   },
   {
@@ -2178,6 +2485,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081426
   },
   {
@@ -2185,6 +2493,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201081427
   },
   {
@@ -2192,6 +2501,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014003
   },
   {
@@ -2199,6 +2509,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014009
   },
   {
@@ -2206,6 +2517,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014011
   },
   {
@@ -2213,6 +2525,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014013
   },
   {
@@ -2220,6 +2533,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014104
   },
   {
@@ -2227,6 +2541,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014107
   },
   {
@@ -2234,6 +2549,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014136
   },
   {
@@ -2241,6 +2557,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014138
   },
   {
@@ -2248,6 +2565,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014140
   },
   {
@@ -2255,6 +2573,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014151
   },
   {
@@ -2262,6 +2581,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014155
   },
   {
@@ -2269,6 +2589,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014158
   },
   {
@@ -2276,6 +2597,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014161
   },
   {
@@ -2283,6 +2605,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014165
   },
   {
@@ -2290,6 +2613,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014337
   },
   {
@@ -2297,6 +2621,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200014343
   },
   {
@@ -2304,6 +2629,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001702
   },
   {
@@ -2311,6 +2637,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001704
   },
   {
@@ -2318,6 +2645,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001710
   },
   {
@@ -2325,6 +2653,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001712
   },
   {
@@ -2332,6 +2661,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100001714
   },
   {
@@ -2339,6 +2669,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002967
   },
   {
@@ -2346,6 +2677,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002118
   },
   {
@@ -2353,6 +2685,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002119
   },
   {
@@ -2360,6 +2693,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002120
   },
   {
@@ -2367,6 +2701,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002202
   },
   {
@@ -2374,6 +2709,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002211
   },
   {
@@ -2381,6 +2717,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002221
   },
   {
@@ -2388,6 +2725,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002204
   },
   {
@@ -2395,6 +2733,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002206
   },
   {
@@ -2402,6 +2741,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002208
   },
   {
@@ -2409,6 +2749,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002213
   },
   {
@@ -2416,6 +2757,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002216
   },
   {
@@ -2423,6 +2765,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002219
   },
   {
@@ -2430,6 +2773,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002457
   },
   {
@@ -2437,6 +2781,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002508
   },
   {
@@ -2444,6 +2789,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002510
   },
   {
@@ -2451,6 +2797,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002512
   },
   {
@@ -2458,6 +2805,7 @@
       1002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002628
   },
   {
@@ -2465,6 +2813,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002630
   },
   {
@@ -2472,6 +2821,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002803
   },
   {
@@ -2479,6 +2829,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002805
   },
   {
@@ -2486,6 +2837,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100002807
   },
   {
@@ -2493,6 +2845,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202110608
   },
   {
@@ -2500,6 +2853,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202110614
   },
   {
@@ -2507,6 +2861,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202111410
   },
   {
@@ -2514,6 +2869,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010221
   },
   {
@@ -2521,6 +2877,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010224
   },
   {
@@ -2528,6 +2885,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010227
   },
   {
@@ -2535,6 +2893,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202110203
   },
   {
@@ -2542,6 +2901,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010319
   },
   {
@@ -2549,6 +2909,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010334
   },
   {
@@ -2556,6 +2917,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010403
   },
   {
@@ -2563,6 +2925,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010411
   },
   {
@@ -2570,6 +2933,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010417
   },
   {
@@ -2577,6 +2941,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102010611
   },
   {
@@ -2584,6 +2949,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102011114
   },
   {
@@ -2591,6 +2957,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102011121
   },
   {
@@ -2598,6 +2965,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102011133
   },
   {
@@ -2605,6 +2973,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102050203
   },
   {
@@ -2612,6 +2981,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060108
   },
   {
@@ -2619,6 +2989,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060111
   },
   {
@@ -2627,6 +2998,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060903
   },
   {
@@ -2634,6 +3006,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060904
   },
   {
@@ -2641,6 +3014,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060905
   },
   {
@@ -2648,6 +3022,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060912
   },
   {
@@ -2655,6 +3030,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060913
   },
   {
@@ -2662,6 +3038,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102060914
   },
   {
@@ -2669,6 +3046,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102061117
   },
   {
@@ -2676,6 +3054,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020120
   },
   {
@@ -2683,6 +3062,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020122
   },
   {
@@ -2690,6 +3070,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020203
   },
   {
@@ -2697,6 +3078,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020205
   },
   {
@@ -2704,6 +3086,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020211
   },
   {
@@ -2711,6 +3094,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102020213
   },
   {
@@ -2718,6 +3102,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212105
   },
   {
@@ -2725,6 +3110,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212107
   },
   {
@@ -2732,6 +3118,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212109
   },
   {
@@ -2739,6 +3126,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212125
   },
   {
@@ -2746,6 +3134,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212130
   },
   {
@@ -2753,6 +3142,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212131
   },
   {
@@ -2760,6 +3150,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212132
   },
   {
@@ -2767,6 +3158,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220127
   },
   {
@@ -2774,6 +3166,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220128
   },
   {
@@ -2781,6 +3174,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220129
   },
   {
@@ -2788,6 +3182,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220403
   },
   {
@@ -2795,6 +3190,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220527
   },
   {
@@ -2802,6 +3198,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220529
   },
   {
@@ -2809,6 +3206,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220543
   },
   {
@@ -2816,6 +3214,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202220549
   },
   {
@@ -2823,6 +3222,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202223309
   },
   {
@@ -2830,6 +3230,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202223311
   },
   {
@@ -2837,6 +3238,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070406
   },
   {
@@ -2844,6 +3246,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070407
   },
   {
@@ -2851,6 +3254,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070504
   },
   {
@@ -2858,6 +3262,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070506
   },
   {
@@ -2865,6 +3270,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070517
   },
   {
@@ -2872,6 +3278,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070519
   },
   {
@@ -2879,6 +3286,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070604
   },
   {
@@ -2886,6 +3294,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070606
   },
   {
@@ -2893,6 +3302,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070616
   },
   {
@@ -2900,6 +3310,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070622
   },
   {
@@ -2907,6 +3318,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070624
   },
   {
@@ -2914,6 +3326,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070626
   },
   {
@@ -2921,6 +3334,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202071510
   },
   {
@@ -2928,6 +3342,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202071522
   },
   {
@@ -2935,6 +3350,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050112
   },
   {
@@ -2942,6 +3358,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050115
   },
   {
@@ -2949,6 +3366,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050117
   },
   {
@@ -2957,6 +3375,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050120
   },
   {
@@ -2964,6 +3383,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050128
   },
   {
@@ -2971,6 +3391,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050131
   },
   {
@@ -2978,6 +3399,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050133
   },
   {
@@ -2986,6 +3408,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050136
   },
   {
@@ -2993,6 +3416,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050144
   },
   {
@@ -3001,6 +3425,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050148
   },
   {
@@ -3008,6 +3433,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050203
   },
   {
@@ -3015,6 +3441,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050205
   },
   {
@@ -3022,6 +3449,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411050207
   },
   {
@@ -3029,6 +3457,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411510249
   },
   {
@@ -3036,6 +3465,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411060108
   },
   {
@@ -3043,6 +3473,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411060111
   },
   {
@@ -3050,6 +3481,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411060114
   },
   {
@@ -3057,6 +3489,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411060134
   },
   {
@@ -3065,6 +3498,7 @@
       1003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411140138
   },
   {
@@ -3072,6 +3506,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411140140
   },
   {
@@ -3079,6 +3514,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411080142
   },
   {
@@ -3086,6 +3522,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411080143
   },
   {
@@ -3093,6 +3530,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411020406
   },
   {
@@ -3100,6 +3538,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411020408
   },
   {
@@ -3107,6 +3546,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411020411
   },
   {
@@ -3114,6 +3554,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411021018
   },
   {
@@ -3121,6 +3562,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204010208
   },
   {
@@ -3128,6 +3570,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204010210
   },
   {
@@ -3135,6 +3578,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204010213
   },
   {
@@ -3142,6 +3586,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236215
   },
   {
@@ -3149,6 +3594,7 @@
       1001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214989
   },
   {
@@ -3156,6 +3602,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236762
   },
   {
@@ -3163,6 +3610,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501024136
   },
   {
@@ -3170,6 +3618,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501026904
   },
   {
@@ -3177,6 +3626,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 701060165
   },
   {
@@ -3184,6 +3634,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501028304
   },
   {
@@ -3191,6 +3642,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202130608
   },
   {
@@ -3198,6 +3650,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070404
   },
   {
@@ -3205,6 +3658,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202070516
   },
   {
@@ -3212,6 +3666,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501023631
   },
   {
@@ -3219,6 +3674,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102120214
   },
   {
@@ -3226,6 +3682,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102120216
   },
   {
@@ -3233,6 +3690,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102120218
   },
   {
@@ -3240,6 +3698,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100020242
   },
   {
@@ -3247,6 +3706,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100020334
   },
   {
@@ -3254,6 +3714,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100020331
   },
   {
@@ -3261,6 +3722,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100020342
   },
   {
@@ -3268,6 +3730,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100020344
   },
   {
@@ -3275,6 +3738,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021013
   },
   {
@@ -3282,6 +3746,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021010
   },
   {
@@ -3289,6 +3754,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021210
   },
   {
@@ -3296,6 +3762,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021305
   },
   {
@@ -3303,6 +3770,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021303
   },
   {
@@ -3310,6 +3778,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021315
   },
   {
@@ -3317,6 +3786,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021311
   },
   {
@@ -3324,6 +3794,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100021313
   },
   {
@@ -3331,6 +3802,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040117
   },
   {
@@ -3338,6 +3810,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040115
   },
   {
@@ -3345,6 +3818,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040504
   },
   {
@@ -3352,6 +3826,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040515
   },
   {
@@ -3359,6 +3834,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040506
   },
   {
@@ -3366,6 +3842,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040517
   },
   {
@@ -3373,6 +3850,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100040254
   },
   {
@@ -3380,6 +3858,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100050305
   },
   {
@@ -3387,6 +3866,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100050315
   },
   {
@@ -3394,6 +3874,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100050312
   },
   {
@@ -3401,6 +3882,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100050317
   },
   {
@@ -3408,6 +3890,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 100050613
   },
   {
@@ -3415,6 +3898,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202212124
   },
   {
@@ -3422,6 +3906,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102121278
   },
   {
@@ -3429,6 +3914,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102121275
   },
   {
@@ -3436,6 +3922,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 102121272
   },
   {
@@ -3443,6 +3930,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201080125
   },
   {
@@ -3450,6 +3938,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020112
   },
   {
@@ -3457,6 +3946,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020111
   },
   {
@@ -3464,6 +3954,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020118
   },
   {
@@ -3471,6 +3962,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020234
   },
   {
@@ -3478,6 +3970,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020268
   },
   {
@@ -3485,6 +3978,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020348
   },
   {
@@ -3492,6 +3986,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200020903
   },
   {
@@ -3499,6 +3994,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031313
   },
   {
@@ -3506,6 +4002,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031329
   },
   {
@@ -3513,6 +4010,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031407
   },
   {
@@ -3520,6 +4018,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031418
   },
   {
@@ -3527,6 +4026,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031433
   },
   {
@@ -3534,6 +4034,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031421
   },
   {
@@ -3541,6 +4042,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031436
   },
   {
@@ -3548,6 +4050,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031506
   },
   {
@@ -3555,6 +4058,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031535
   },
   {
@@ -3562,6 +4066,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031545
   },
   {
@@ -3569,6 +4074,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031516
   },
   {
@@ -3576,6 +4082,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031612
   },
   {
@@ -3583,6 +4090,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031613
   },
   {
@@ -3590,6 +4098,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031885
   },
   {
@@ -3597,6 +4106,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031881
   },
   {
@@ -3604,6 +4114,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200031883
   },
   {
@@ -3611,6 +4122,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404000103
   },
   {
@@ -3618,6 +4130,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404000221
   },
   {
@@ -3625,6 +4138,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404001005
   },
   {
@@ -3632,6 +4146,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404001402
   },
   {
@@ -3639,6 +4154,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404001805
   },
   {
@@ -3646,6 +4162,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404001848
   },
   {
@@ -3653,6 +4170,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404001703
   },
   {
@@ -3660,6 +4178,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500002338
   },
   {
@@ -3667,6 +4186,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500011006
   },
   {
@@ -3674,6 +4194,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500010409
   },
   {
@@ -3681,6 +4202,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500010510
   },
   {
@@ -3688,6 +4210,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500011106
   },
   {
@@ -3695,6 +4218,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 500011113
   },
   {
@@ -3702,6 +4226,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236114
   },
   {
@@ -3709,6 +4234,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236112
   },
   {
@@ -3716,6 +4242,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236109
   },
   {
@@ -3723,6 +4250,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236167
   },
   {
@@ -3730,6 +4258,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236161
   },
   {
@@ -3737,6 +4266,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236164
   },
   {
@@ -3744,6 +4274,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236183
   },
   {
@@ -3751,6 +4282,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236179
   },
   {
@@ -3758,6 +4290,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236181
   },
   {
@@ -3765,6 +4298,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236202
   },
   {
@@ -3772,6 +4306,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236250
   },
   {
@@ -3779,6 +4314,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236254
   },
   {
@@ -3786,6 +4322,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236257
   },
   {
@@ -3793,6 +4330,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236412
   },
   {
@@ -3800,6 +4338,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236465
   },
   {
@@ -3807,6 +4346,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236469
   },
   {
@@ -3814,6 +4354,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236467
   },
   {
@@ -3821,6 +4362,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236514
   },
   {
@@ -3828,6 +4370,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236516
   },
   {
@@ -3835,6 +4378,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236481
   },
   {
@@ -3842,6 +4386,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223674
   },
   {
@@ -3849,6 +4394,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223677
   },
   {
@@ -3856,6 +4402,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201223680
   },
   {
@@ -3863,6 +4410,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236631
   },
   {
@@ -3870,6 +4418,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236635
   },
   {
@@ -3877,6 +4426,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236677
   },
   {
@@ -3884,6 +4434,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201236681
   },
   {
@@ -3891,6 +4442,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101028134
   },
   {
@@ -3898,6 +4450,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101028156
   },
   {
@@ -3905,6 +4458,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101028177
   },
   {
@@ -3912,6 +4466,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101028173
   },
   {
@@ -3919,6 +4474,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 101028175
   },
   {
@@ -3926,6 +4482,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201214999
   },
   {
@@ -3933,6 +4490,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215000
   },
   {
@@ -3940,6 +4498,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215004
   },
   {
@@ -3947,6 +4506,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215005
   },
   {
@@ -3954,6 +4514,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215053
   },
   {
@@ -3961,6 +4522,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215050
   },
   {
@@ -3968,6 +4530,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 201215056
   },
   {
@@ -3975,6 +4538,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 701060127
   },
   {
@@ -3982,6 +4546,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411510216
   },
   {
@@ -3989,6 +4554,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411510227
   },
   {
@@ -3996,6 +4562,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 411510238
   },
   {
@@ -4003,6 +4570,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404011736
   },
   {
@@ -4010,6 +4578,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501026902
   },
   {
@@ -4017,6 +4586,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501028302
   },
   {
@@ -4024,6 +4594,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501029012
   },
   {
@@ -4031,6 +4602,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501028214
   },
   {
@@ -4038,6 +4610,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501028954
   },
   {
@@ -4045,6 +4618,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 501028804
   },
   {
@@ -4052,6 +4626,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202130318
   },
   {
@@ -4059,6 +4634,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204020215
   },
   {
@@ -4066,6 +4642,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204020604
   },
   {
@@ -4073,6 +4650,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204020611
   },
   {
@@ -4080,6 +4658,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204020613
   },
   {
@@ -4087,6 +4666,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204020619
   },
   {
@@ -4094,6 +4674,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030274
   },
   {
@@ -4101,6 +4682,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030266
   },
   {
@@ -4108,6 +4690,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030265
   },
   {
@@ -4115,6 +4698,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030719
   },
   {
@@ -4122,6 +4706,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030725
   },
   {
@@ -4129,6 +4714,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 204030722
   },
   {
@@ -4136,6 +4722,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202030213
   },
   {
@@ -4143,6 +4730,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202030302
   },
   {
@@ -4150,6 +4738,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032402
   },
   {
@@ -4157,6 +4746,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032405
   },
   {
@@ -4164,6 +4754,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202033706
   },
   {
@@ -4171,6 +4762,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202031323
   },
   {
@@ -4178,6 +4770,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202031327
   },
   {
@@ -4185,6 +4778,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032304
   },
   {
@@ -4192,6 +4786,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032719
   },
   {
@@ -4199,6 +4794,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032934
   },
   {
@@ -4206,6 +4802,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032940
   },
   {
@@ -4213,6 +4810,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202032941
   },
   {
@@ -4220,6 +4818,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202033106
   },
   {
@@ -4227,6 +4826,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202033104
   },
   {
@@ -4234,6 +4834,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202034704
   },
   {
@@ -4241,6 +4842,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202034814
   },
   {
@@ -4248,6 +4850,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202034811
   },
   {
@@ -4255,6 +4858,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202010304
   },
   {
@@ -4262,6 +4866,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202010402
   },
   {
@@ -4269,6 +4874,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202010504
   },
   {
@@ -4276,6 +4882,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202010503
   },
   {
@@ -4283,6 +4890,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202011328
   },
   {
@@ -4290,6 +4898,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202011326
   },
   {
@@ -4297,6 +4906,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202011341
   },
   {
@@ -4304,6 +4914,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202011339
   },
   {
@@ -4311,6 +4922,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012011
   },
   {
@@ -4318,6 +4930,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012206
   },
   {
@@ -4325,6 +4938,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012203
   },
   {
@@ -4332,6 +4946,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012215
   },
   {
@@ -4339,6 +4954,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012212
   },
   {
@@ -4346,6 +4962,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012511
   },
   {
@@ -4353,6 +4970,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012516
   },
   {
@@ -4360,6 +4978,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 202012518
   },
   {
@@ -4367,6 +4986,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020205
   },
   {
@@ -4374,6 +4994,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020217
   },
   {
@@ -4381,6 +5002,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020223
   },
   {
@@ -4388,6 +5010,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020226
   },
   {
@@ -4395,6 +5018,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020230
   },
   {
@@ -4402,6 +5026,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020321
   },
   {
@@ -4409,6 +5034,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020340
   },
   {
@@ -4416,6 +5042,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020372
   },
   {
@@ -4423,6 +5050,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020370
   },
   {
@@ -4430,6 +5058,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020461
   },
   {
@@ -4437,6 +5066,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020551
   },
   {
@@ -4444,6 +5074,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020548
   },
   {
@@ -4451,6 +5082,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020554
   },
   {
@@ -4458,6 +5090,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020566
   },
   {
@@ -4465,6 +5098,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020562
   },
   {
@@ -4472,6 +5106,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020563
   },
   {
@@ -4479,6 +5114,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020576
   },
   {
@@ -4486,6 +5122,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020573
   },
   {
@@ -4493,6 +5130,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020570
   },
   {
@@ -4500,6 +5138,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020743
   },
   {
@@ -4507,6 +5146,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020812
   },
   {
@@ -4514,6 +5154,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020814
   },
   {
@@ -4521,6 +5162,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404020822
   },
   {
@@ -4528,6 +5170,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404121509
   },
   {
@@ -4535,6 +5178,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404121512
   },
   {
@@ -4542,6 +5186,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404121567
   },
   {
@@ -4549,6 +5194,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 404121569
   },
   {
@@ -4556,6 +5202,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 412230109
   },
   {
@@ -4563,6 +5210,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 412230111
   },
   {
@@ -4570,6 +5218,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502107003
   },
   {
@@ -4577,6 +5226,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502106010
   },
   {
@@ -4584,6 +5234,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502105017
   },
   {
@@ -4591,6 +5242,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502105020
   },
   {
@@ -4598,6 +5250,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502101021
   },
   {
@@ -4605,6 +5258,7 @@
       4006
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502112003
   },
   {
@@ -4612,6 +5266,7 @@
       4005
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502112011
   },
   {
@@ -4619,6 +5274,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502114004
   },
   {
@@ -4626,6 +5282,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502116011
   },
   {
@@ -4633,6 +5290,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502116009
   },
   {
@@ -4640,6 +5298,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502118003
   },
   {
@@ -4647,6 +5306,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502119007
   },
   {
@@ -4654,6 +5314,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502119023
   },
   {
@@ -4661,6 +5322,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502119025
   },
   {
@@ -4668,6 +5330,7 @@
       4002
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502122014
   },
   {
@@ -4675,6 +5338,7 @@
       4004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502122020
   },
   {
@@ -4682,6 +5346,7 @@
       4003
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502121010
   },
   {
@@ -4689,6 +5354,7 @@
       4007
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502121007
   },
   {
@@ -4696,6 +5362,7 @@
       4001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 502121004
   },
   {
@@ -4703,6 +5370,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200071610
   },
   {
@@ -4710,6 +5378,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 200071102
   },
   {
@@ -4717,6 +5386,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 814100820
   },
   {
@@ -4724,6 +5394,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 814101005
   },
   {
@@ -4731,6 +5402,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 814104604
   },
   {
@@ -4738,6 +5410,7 @@
       3001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 814106723
   },
   {
@@ -4745,6 +5418,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 503056043
   },
   {
@@ -4752,6 +5426,7 @@
       2001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 503059094
   },
   {
@@ -4759,6 +5434,7 @@
       1004
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 503078003
   },
   {
@@ -4766,6 +5442,7 @@
       5001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 802514754
   },
   {
@@ -4773,6 +5450,7 @@
       5001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 802515604
   },
   {
@@ -4780,6 +5458,7 @@
       5001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 802515904
   },
   {
@@ -4787,6 +5466,7 @@
       5001
     ],
     "InclinationAddValueList": [],
+    "InclinationType": 0,
     "TalkSentenceID": 802516204
   },
   {
@@ -4796,6 +5476,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044123
   },
   {
@@ -4805,6 +5486,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044125
   },
   {
@@ -4814,6 +5496,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044127
   },
   {
@@ -4823,6 +5506,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044184
   },
   {
@@ -4832,6 +5516,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044174
   },
   {
@@ -4841,6 +5526,7 @@
     "InclinationAddValueList": [
       9
     ],
+    "InclinationType": 0,
     "TalkSentenceID": 434044132
   }
 ]

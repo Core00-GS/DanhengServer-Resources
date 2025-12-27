@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 670014898176
+            "FixedValue": {
+              "RawValue": 670014898176,
+              "Value": 156.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TaskEnabled": true,
@@ -25,13 +27,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 670014898176
+            "FixedValue": {
+              "RawValue": 670014898176,
+              "Value": 156.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1717991213367296
+            "FixedValue": {
+              "RawValue": 1717991213367296,
+              "Value": 400001.0
             }
           },
           "CreateList": [],
@@ -61,13 +65,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 670014898176
+                      "FixedValue": {
+                        "RawValue": 670014898176,
+                        "Value": 156.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288494483767296
+                      "FixedValue": {
+                        "RawValue": 1288494483767296,
+                        "Value": 300001.0
                       }
                     }
                   }
@@ -99,13 +105,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 670014898176
+                      "FixedValue": {
+                        "RawValue": 670014898176,
+                        "Value": 156.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288494483767296
+                      "FixedValue": {
+                        "RawValue": 1288494483767296,
+                        "Value": 300001.0
                       }
                     }
                   }
@@ -143,13 +151,15 @@
                     "MultiGroupFetch": [
                       {
                         "GroupID": {
-                          "fixedValue": {
-                            "RawValue": 670014898176
+                          "FixedValue": {
+                            "RawValue": 670014898176,
+                            "Value": 156.0
                           }
                         },
                         "ID": {
-                          "fixedValue": {
-                            "RawValue": 1288494483767296
+                          "FixedValue": {
+                            "RawValue": 1288494483767296,
+                            "Value": 300001.0
                           }
                         }
                       }

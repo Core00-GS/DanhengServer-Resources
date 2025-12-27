@@ -63,5 +63,17 @@
   "UseDefaultSteerMode": true,
   "TalkEmotionAssetPath": "Story/TalkEmotion/Avatar/Anaxa_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Avatar/NPC_Avatar_Anaxa_00_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryCrystal_Anaxa_00",
+        "StoryCrystalWithoutEffect_Anaxa_00",
+        "StoryChrysosFury_Anaxa_00",
+        "StoryNanookCyborgIllusion_Anaxa_00"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

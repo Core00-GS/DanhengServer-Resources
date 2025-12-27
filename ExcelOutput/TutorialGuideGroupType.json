@@ -4,7 +4,8 @@
     "MessageTitle": {
       "Hash": 1802860531,
       "Hash64": 15165646382604923628
-    }
+    },
+    "TutorialType": 0
   },
   {
     "MessageIconPath": "SpriteOutput/GuideIcon/IconGuideTypeBattle.png",
@@ -37,5 +38,13 @@
       "Hash64": 5101812426110592777
     },
     "TutorialType": 4
+  },
+  {
+    "MessageIconPath": "SpriteOutput/TabIcon/Activity/GridFightIcon.png",
+    "MessageTitle": {
+      "Hash": 1802860526,
+      "Hash64": 12829064764116663450
+    },
+    "TutorialType": 5
   }
 ]

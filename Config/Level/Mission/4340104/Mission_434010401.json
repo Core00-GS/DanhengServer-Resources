@@ -30,13 +30,15 @@
               "FetchType": "SinglePropByPropID",
               "SinglePropID": {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 1683627180032
+                  "FixedValue": {
+                    "RawValue": 1683627180032,
+                    "Value": 392.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288494483767296
+                  "FixedValue": {
+                    "RawValue": 1288494483767296,
+                    "Value": 300001.0
                   }
                 }
               }

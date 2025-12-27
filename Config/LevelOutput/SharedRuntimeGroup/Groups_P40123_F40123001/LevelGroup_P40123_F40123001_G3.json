@@ -3,6 +3,7 @@
   "AreaAnchorName": "LevelArea_P40123_F40123001_G3",
   "SaveType": "Reset",
   "LoadOnInitial": true,
+  "ValueSource": {},
   "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -37,8 +38,7 @@
         "Radius": 1.0,
         "DimX": 200.0,
         "DimY": 100.0,
-        "DimZ": 200.0,
-        "PointList": []
+        "DimZ": 200.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -96,8 +96,7 @@
         "Radius": 30.0,
         "DimX": 50.0,
         "DimY": 10.0,
-        "DimZ": 50.0,
-        "PointList": []
+        "DimZ": 50.0
       },
       "LoadOnInitial": true,
       "OnEnterRTPC": [
@@ -166,7 +165,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u80fd\u6e90\u5c4b",
+      "Name": "能源屋",
       "ID": 2,
       "PosX": 46.7,
       "PosY": 26.57,
@@ -198,8 +197,7 @@
         "Radius": 20.0,
         "DimX": 20.0,
         "DimY": 10.0,
-        "DimZ": 20.0,
-        "PointList": []
+        "DimZ": 20.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -334,8 +332,7 @@
         "Radius": 30.0,
         "DimX": 80.0,
         "DimY": 10.0,
-        "DimZ": 60.0,
-        "PointList": []
+        "DimZ": 60.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -429,8 +426,7 @@
         "Radius": 20.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "OnEnterAreaSound": {
@@ -504,5 +500,10 @@
   "BattleAreaList": [],
   "NPCList": [],
   "CrowdList": [],
-  "PedestrianList": []
+  "PedestrianList": [],
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

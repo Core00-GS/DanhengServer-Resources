@@ -1,6 +1,6 @@
 {
   "FloorID": 20321001,
-  "StartGroupIndex": 11,
+  "StartGroupIndex": 14,
   "StartAnchorID": 1,
   "StageData": "Stages/Outputs/Chapter03/Stages/Chap03_MAZ_P201_StageData/Chap03_MAZ_P201_StageData.stage",
   "CameraType": "Maze",
@@ -68,6 +68,21 @@
       "ID": 18
     },
     {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G18_D1001.json",
+      "Name": "Door",
+      "ID": 18
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G18_D1002.json",
+      "Name": "Door",
+      "ID": 18
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G18_D1003.json",
+      "Name": "Door",
+      "ID": 18
+    },
+    {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G53.json",
       "Name": "Garden",
       "ID": 53
@@ -90,6 +105,21 @@
     },
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G7.json",
+      "Name": "Teleport",
+      "ID": 7
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G7_D1001.json",
+      "Name": "Teleport",
+      "ID": 7
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G7_D1002.json",
+      "Name": "Teleport",
+      "ID": 7
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G7_D1003.json",
       "Name": "Teleport",
       "ID": 7
     },
@@ -460,7 +490,7 @@
     },
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G135.json",
-      "Name": "OrigamiBird_Normal",
+      "Name": "Tpl_OrigamiBird_Normal",
       "ID": 135
     },
     {
@@ -1018,7 +1048,7 @@
     },
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G242.json",
-      "Name": "shelter group",
+      "Name": "Tpl_shelter group",
       "ID": 242
     },
     {
@@ -1392,6 +1422,56 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G343.json",
       "Name": "MainMission8023103_01",
       "ID": 343
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G348.json",
+      "Name": "MainMission1040551_01",
+      "ID": 348
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G349.json",
+      "Name": "MainMission1040551_02",
+      "ID": 349
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G350.json",
+      "Name": "MainMission1040551_03",
+      "ID": 350
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G351.json",
+      "Name": "MainMission1040551_04",
+      "ID": 351
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G352.json",
+      "Name": "MainMission1040551_05",
+      "ID": 352
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G353.json",
+      "Name": "MainMission1040551_06",
+      "ID": 353
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G358.json",
+      "Name": "MainMission8036200_1",
+      "ID": 358
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G359.json",
+      "Name": "MainMission8036200_2",
+      "ID": 359
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G360.json",
+      "Name": "MainMission8036201_1",
+      "ID": 360
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20321_F20321001/LevelGroup_P20321_F20321001_G361.json",
+      "Name": "Book",
+      "ID": 361
     }
   ],
   "DimensionList": [
@@ -1719,17 +1799,11 @@
         4,
         5,
         6,
-        7,
-        8,
-        9,
         10,
         11,
         12,
         13,
         14,
-        15,
-        16,
-        17,
         18,
         19,
         20,
@@ -1750,13 +1824,13 @@
         35,
         36,
         37,
-        51,
-        76,
-        77,
-        78,
-        79,
-        80,
-        81,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        57,
         82,
         83,
         84,
@@ -1794,22 +1868,22 @@
         116,
         117,
         118,
+        119,
         120,
         121,
-        125,
+        122,
+        123,
+        124,
         126,
         127,
-        128,
         131,
         132,
         133,
         134,
+        137,
         138,
         139,
         140,
-        141,
-        142,
-        143,
         144,
         145,
         146,
@@ -1864,12 +1938,12 @@
         195,
         196,
         197,
+        198,
         199,
         200,
         201,
         202,
         203,
-        204,
         205,
         206,
         207,
@@ -1880,30 +1954,30 @@
         212,
         213,
         214,
+        215,
+        216,
+        217,
         218,
         219,
         220,
         224,
         225,
         226,
-        227,
-        228,
-        229,
         230,
+        231,
+        232,
         233,
         234,
         235,
         236,
-        237,
+        239,
         240,
         241,
         242,
-        244,
-        245,
+        243,
         246,
         247,
         248,
-        249,
         250,
         251,
         252,
@@ -1922,10 +1996,26 @@
         265,
         266,
         267,
-        268
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284
       ],
       "ExclusiveSavedGroupIDList": [],
-      "StartGroupIndex": 11,
+      "StartGroupIndex": 14,
       "StartAnchorID": 1
     },
     {
@@ -2244,6 +2334,7 @@
           "MaxValue": 3
         }
       ],
+      "TagContainer": [],
       "GroupIndexList": [
         0,
         1,
@@ -2252,16 +2343,10 @@
         4,
         5,
         6,
-        7,
-        8,
         10,
         11,
-        12,
         13,
         14,
-        15,
-        16,
-        17,
         18,
         19,
         20,
@@ -2272,17 +2357,17 @@
         25,
         26,
         27,
+        28,
+        29,
         30,
         31,
         32,
         33,
-        34,
+        36,
+        37,
         38,
         39,
         40,
-        41,
-        42,
-        43,
         44,
         45,
         46,
@@ -2290,12 +2375,12 @@
         48,
         49,
         50,
+        51,
         52,
         53,
         54,
         55,
         56,
-        57,
         58,
         59,
         60,
@@ -2337,29 +2422,29 @@
         96,
         97,
         98,
+        99,
+        100,
         101,
         102,
-        105,
-        106,
+        103,
+        104,
         107,
-        109,
-        110,
+        108,
         111,
         112,
         113,
-        114,
         115,
         116,
         117,
         118,
         119,
+        120,
         121,
+        122,
+        123,
+        124,
         125,
-        126,
         127,
-        128,
-        129,
-        130,
         131,
         132,
         133,
@@ -2373,26 +2458,27 @@
         141,
         142,
         143,
-        154,
-        155,
-        178,
-        185,
-        186,
-        187,
-        188,
-        189,
-        190,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        160,
+        161,
         191,
+        192,
         193,
         194,
+        195,
+        196,
         197,
-        198,
         199,
         200,
-        207,
-        208,
-        210,
-        211,
+        203,
+        204,
+        205,
+        206,
         213,
         214,
         215,
@@ -2400,12 +2486,12 @@
         217,
         218,
         219,
+        220,
         221,
         222,
         223,
         224,
         225,
-        226,
         227,
         228,
         229,
@@ -2415,35 +2501,960 @@
         233,
         234,
         235,
-        236,
         237,
         238,
         239,
         240,
         241,
+        242,
         243,
-        252,
-        253,
-        254,
-        255,
-        256,
-        257,
-        258,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
         259,
         260,
         261,
+        262,
+        263,
         264,
         265,
-        266,
-        267
+        273,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
       ],
       "ExclusiveSavedGroupIDList": [
+        2,
+        3,
+        4,
+        5,
+        18,
         7,
-        21,
         270,
         271
       ],
-      "StartGroupIndex": 11,
+      "StartGroupIndex": 14,
+      "StartAnchorID": 1
+    },
+    {
+      "ID": 1002,
+      "Category": "ActivityEarlyAccess",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_MAZ_P201_Night_01.enviroProfile.asset",
+      "BattleAreaList": [],
+      "ConstValues": [
+        {
+          "$type": "RPG.GameCore.FloorTargetAgentConfig",
+          "AgentType": "Prop",
+          "GroupID": 42,
+          "InstanceID": 300018,
+          "ID": 1,
+          "Name": "BasementEntrance"
+        },
+        {
+          "$type": "RPG.GameCore.FloorTargetAgentConfig",
+          "AgentType": "Prop",
+          "GroupID": 42,
+          "InstanceID": 300019,
+          "ID": 2,
+          "Name": "BasementExit"
+        }
+      ],
+      "SavedValues": [
+        {
+          "ID": 1,
+          "Name": "SceneStateByMainMission",
+          "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 10
+        },
+        {
+          "ID": 4,
+          "Name": "GardenState",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 5,
+          "Name": "ScreenState",
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "MaxValue": 4
+        },
+        {
+          "ID": 7,
+          "Name": "CurtainState",
+          "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 8,
+          "Name": "Crowd",
+          "DefaultValue": 2,
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "MaxValue": 8
+        },
+        {
+          "ID": 9,
+          "Name": "GameOpen",
+          "DefaultValue": 2,
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 10,
+          "Name": "Game1Finish",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 11,
+          "Name": "ActivityNpcOpen",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 12,
+          "Name": "Wolf_01_Has_Exploded",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 13,
+          "Name": "Jigsaw_GardenChanged",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 3
+        },
+        {
+          "ID": 14,
+          "Name": "Mr_Pop",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 15,
+          "Name": "Bro_Hanu",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 16,
+          "Name": "Boss_Stone",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 17,
+          "Name": "Pip_Brid",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 18,
+          "Name": "Pa_Wood",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 19,
+          "Name": "Knight_Hamster",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 21,
+          "Name": "Activity_Raid1",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 22,
+          "Name": "Activity_Raid2",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 23,
+          "Name": "Activity_Raid3",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 24,
+          "Name": "Activity_Raid3_End",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 26,
+          "Name": "SoundThunder",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 27,
+          "Name": "ActivityMapinfoOpen",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 28,
+          "Name": "Jigsaw_Fly",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 30,
+          "Name": "FSV_Post01",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 31,
+          "Name": "FSV_Post02",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 32,
+          "Name": "FSV_Post03",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 33,
+          "Name": "FSV_Post04",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 34,
+          "Name": "FSV_Post05",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 35,
+          "Name": "FSV_Post06",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 36,
+          "Name": "Activity230FinishBird",
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "MaxValue": 3
+        }
+      ],
+      "SavedValueConfigDict": {
+        "SceneStateByMainMission": {
+          "IsExclusiveSaved": true
+        },
+        "GardenState": {
+          "IsExclusiveSaved": true
+        },
+        "ScreenState": {
+          "IsExclusiveSaved": true
+        },
+        "CurtainState": {
+          "IsExclusiveSaved": true
+        },
+        "Crowd": {
+          "IsExclusiveSaved": true
+        },
+        "GameOpen": {
+          "IsExclusiveSaved": true
+        }
+      },
+      "TagContainer": [
+        {
+          "Tag": "Group.TrailblazeContinuance.340Liandong",
+          "TagHash": 196841387
+        }
+      ],
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": true,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        8,
+        10,
+        11,
+        12,
+        13,
+        16,
+        20,
+        21,
+        28,
+        29,
+        30,
+        82,
+        83,
+        107,
+        108,
+        111,
+        112,
+        113,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        127,
+        138,
+        139,
+        140,
+        144,
+        145,
+        146,
+        160,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        203,
+        205,
+        206,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        224,
+        225,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        239,
+        240,
+        242,
+        243,
+        246,
+        247,
+        248,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        273,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "ExclusiveSavedGroupIDList": [
+        2,
+        3,
+        4,
+        5,
+        18,
+        7
+      ],
+      "StartGroupIndex": 16,
+      "StartAnchorID": 1
+    },
+    {
+      "ID": 1003,
+      "Category": "ActivityEarlyAccess",
+      "DefaultEnviroProfile": "Stages/Outputs/Chapter03/EnviroProfile/Chap03_CloseView_MAZ_P201_Night_01.enviroProfile.asset",
+      "BattleAreaList": [],
+      "ConstValues": [
+        {
+          "$type": "RPG.GameCore.FloorTargetAgentConfig",
+          "AgentType": "Prop",
+          "GroupID": 42,
+          "InstanceID": 300018,
+          "ID": 1,
+          "Name": "BasementEntrance"
+        },
+        {
+          "$type": "RPG.GameCore.FloorTargetAgentConfig",
+          "AgentType": "Prop",
+          "GroupID": 42,
+          "InstanceID": 300019,
+          "ID": 2,
+          "Name": "BasementExit"
+        }
+      ],
+      "SavedValues": [
+        {
+          "ID": 1,
+          "Name": "SceneStateByMainMission",
+          "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 10
+        },
+        {
+          "ID": 4,
+          "Name": "GardenState",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 5,
+          "Name": "ScreenState",
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3,
+            4
+          ],
+          "MaxValue": 4
+        },
+        {
+          "ID": 7,
+          "Name": "CurtainState",
+          "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 8,
+          "Name": "Crowd",
+          "DefaultValue": 2,
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "MaxValue": 8
+        },
+        {
+          "ID": 9,
+          "Name": "GameOpen",
+          "DefaultValue": 2,
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 10,
+          "Name": "Game1Finish",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 11,
+          "Name": "ActivityNpcOpen",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 12,
+          "Name": "Wolf_01_Has_Exploded",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 13,
+          "Name": "Jigsaw_GardenChanged",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 3
+        },
+        {
+          "ID": 14,
+          "Name": "Mr_Pop",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 15,
+          "Name": "Bro_Hanu",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 16,
+          "Name": "Boss_Stone",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 17,
+          "Name": "Pip_Brid",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 18,
+          "Name": "Pa_Wood",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 19,
+          "Name": "Knight_Hamster",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 21,
+          "Name": "Activity_Raid1",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 22,
+          "Name": "Activity_Raid2",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 23,
+          "Name": "Activity_Raid3",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 24,
+          "Name": "Activity_Raid3_End",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 26,
+          "Name": "SoundThunder",
+          "AllowedValues": [
+            0,
+            1,
+            2
+          ],
+          "MaxValue": 2
+        },
+        {
+          "ID": 27,
+          "Name": "ActivityMapinfoOpen",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 28,
+          "Name": "Jigsaw_Fly",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 30,
+          "Name": "FSV_Post01",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 31,
+          "Name": "FSV_Post02",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 32,
+          "Name": "FSV_Post03",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 33,
+          "Name": "FSV_Post04",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 34,
+          "Name": "FSV_Post05",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 35,
+          "Name": "FSV_Post06",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 36,
+          "Name": "Activity230FinishBird",
+          "AllowedValues": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "MaxValue": 3
+        }
+      ],
+      "SavedValueConfigDict": {
+        "SceneStateByMainMission": {
+          "IsExclusiveSaved": true
+        },
+        "GardenState": {
+          "IsExclusiveSaved": true
+        },
+        "ScreenState": {
+          "IsExclusiveSaved": true
+        },
+        "CurtainState": {
+          "IsExclusiveSaved": true
+        },
+        "Crowd": {
+          "IsExclusiveSaved": true
+        },
+        "GameOpen": {
+          "IsExclusiveSaved": true
+        }
+      },
+      "TagContainer": [
+        {
+          "Tag": "Group.Activity.360Battle",
+          "TagHash": 1641901185
+        }
+      ],
+      "IsExclusiveSaveMapSection": true,
+      "UnlockAllMapSectionOnInitial": true,
+      "GroupIndexList": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        9,
+        10,
+        11,
+        12,
+        13,
+        17,
+        20,
+        21,
+        28,
+        29,
+        30,
+        82,
+        83,
+        107,
+        108,
+        111,
+        112,
+        113,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        127,
+        138,
+        139,
+        140,
+        144,
+        145,
+        146,
+        160,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        203,
+        205,
+        206,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        224,
+        225,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        239,
+        240,
+        242,
+        243,
+        246,
+        247,
+        248,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        273,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "ExclusiveSavedGroupIDList": [
+        2,
+        3,
+        4,
+        5,
+        18,
+        7
+      ],
+      "StartGroupIndex": 17,
       "StartAnchorID": 1
     }
   ],
@@ -2501,6 +3512,7 @@
       "LoadOnInitial": true
     },
     "41": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3007,11 +4019,13 @@
       "IsHoyoGroup": true
     },
     "151": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "162": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3027,17 +4041,20 @@
       "IsHoyoGroup": true
     },
     "154": {
+      "Category": "Atmosphere",
       "SaveType": "Permanent",
       "IsHoyoGroup": true,
       "LoadSide": "Server",
       "LoadOnInitial": true
     },
     "155": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "156": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3048,21 +4065,25 @@
       "IsHoyoGroup": true
     },
     "158": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "159": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "160": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "161": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3222,6 +4243,7 @@
       "GroupRefreshID": 1001
     },
     "194": {
+      "Category": "Atmosphere",
       "SaveType": "Permanent",
       "IsHoyoGroup": true,
       "LoadSide": "Server",
@@ -3415,6 +4437,7 @@
       "IsHoyoGroup": true
     },
     "226": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3450,51 +4473,61 @@
       "IsHoyoGroup": true
     },
     "233": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "234": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "235": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "236": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "237": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "238": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "239": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "240": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "241": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "242": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3525,6 +4558,7 @@
       "LoadOnInitial": true
     },
     "253": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3545,6 +4579,7 @@
       "IsHoyoGroup": true
     },
     "265": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3560,41 +4595,49 @@
       "IsHoyoGroup": true
     },
     "257": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "259": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "260": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "261": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "262": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "263": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "268": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "269": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3630,6 +4673,7 @@
       "LoadOnInitial": true
     },
     "276": {
+      "Category": "Atmosphere",
       "SaveType": "Permanent",
       "IsHoyoGroup": true,
       "LoadSide": "Server",
@@ -3651,31 +4695,37 @@
       "IsHoyoGroup": true
     },
     "283": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "284": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "285": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "286": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "287": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "288": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3698,11 +4748,13 @@
       "IsHoyoGroup": true
     },
     "300": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "301": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3720,6 +4772,7 @@
       "LoadOnInitial": true
     },
     "304": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3735,16 +4788,19 @@
       "IsHoyoGroup": true
     },
     "307": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "308": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "309": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3795,26 +4851,31 @@
       "IsHoyoGroup": true
     },
     "326": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "327": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "328": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "329": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
     },
     "330": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3872,6 +4933,7 @@
       "LoadOnInitial": true
     },
     "342": {
+      "Category": "Atmosphere",
       "SaveType": "Reset",
       "IsHoyoGroup": true,
       "LoadOnInitial": true
@@ -3880,8 +4942,61 @@
       "Category": "Mission",
       "SaveType": "Reset",
       "IsHoyoGroup": true
+    },
+    "348": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "349": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "350": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "351": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "352": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "353": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "358": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "359": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "360": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "361": {
+      "Category": "Atmosphere",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
     }
   },
+  "ValidSubmapList": [],
   "EnableGroupStreaming": true,
   "EnableGroupSpaceConflict": true
 }

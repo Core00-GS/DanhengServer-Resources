@@ -11,28 +11,28 @@
   "LoadOnInitial": true,
   "GroupStateList": [
     {
-      "Comment": "\u5f85\u4f7f\u7528\u5230\u5df2\u4f7f\u7528",
+      "Comment": "待使用到已使用",
       "DstState": 1
     },
     {
-      "Comment": "\u5df2\u4f7f\u7528\u5230\u5f85\u4f7f\u7528",
+      "Comment": "已使用到待使用",
       "SrcState": 1
     },
     {
-      "Comment": "\u5f85\u4f7f\u7528\u5230\u9501",
+      "Comment": "待使用到锁",
       "DstState": 2
     },
     {
-      "Comment": "\u9501\u5230\u5f85\u4f7f\u7528",
+      "Comment": "锁到待使用",
       "SrcState": 2
     },
     {
-      "Comment": "\u5df2\u4f7f\u7528\u5230\u9501",
+      "Comment": "已使用到锁",
       "SrcState": 1,
       "DstState": 2
     },
     {
-      "Comment": "\u9501\u5230\u5df2\u4f7f\u7528",
+      "Comment": "锁到已使用",
       "SrcState": 2,
       "DstState": 1
     }
@@ -150,6 +150,9 @@
         "UseOverridePos": true
       },
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -214,6 +217,9 @@
         "UseOverridePos": true
       },
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -278,6 +284,9 @@
         "UseOverridePos": true
       },
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -333,6 +342,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -397,6 +409,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -459,6 +474,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],

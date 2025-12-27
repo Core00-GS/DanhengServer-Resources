@@ -1,8 +1,5 @@
 [
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       102
     ],
@@ -10,27 +7,33 @@
     "ParamList": [
       200.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714091,
       "Hash64": 6823582124702493409
     },
-    "MazeBuffID": 3112001,
+    "SkillRank": 1,
+    "SkillTypeID": 1,
+    "SkillID": 101,
     "SkillPower": 2,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112001,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 101,
     "SkillName": {
       "Hash": 872904880,
       "Hash64": 11873996174668511132
-    },
-    "Condition": 101,
-    "SkillID": 101,
-    "SkillTypeID": 1,
-    "Rare": 1,
-    "SkillRank": 1
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       103
     ],
@@ -39,27 +42,33 @@
       0.1,
       99.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714094,
       "Hash64": 7782256191940601718
     },
-    "MazeBuffID": 3112003,
+    "SkillRank": 2,
+    "SkillTypeID": 1,
+    "SkillID": 102,
     "SkillPower": 5,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112003,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 102,
     "SkillName": {
       "Hash": -1855978475,
       "Hash64": 10942063985269629528
-    },
-    "Condition": 102,
-    "SkillID": 102,
-    "SkillTypeID": 1,
-    "Rare": 2,
-    "SkillRank": 2
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       104
     ],
@@ -67,27 +76,33 @@
     "ParamList": [
       2.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714093,
       "Hash64": 18306393863093955878
     },
-    "MazeBuffID": 3112002,
+    "SkillRank": 3,
+    "SkillTypeID": 1,
+    "SkillID": 103,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112002,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 103,
     "SkillName": {
       "Hash": -289894534,
       "Hash64": 10333193961371712566
-    },
-    "Condition": 103,
-    "SkillID": 103,
-    "SkillTypeID": 1,
-    "Rare": 1,
-    "SkillRank": 3
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       105
     ],
@@ -95,27 +110,33 @@
     "ParamList": [
       0.3
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714088,
       "Hash64": 3245451680976764285
     },
-    "MazeBuffID": 3112004,
+    "SkillRank": 5,
+    "SkillTypeID": 1,
+    "SkillID": 104,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112004,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 104,
     "SkillName": {
       "Hash": 1276189407,
       "Hash64": 8060748780136624727
-    },
-    "Condition": 104,
-    "SkillID": 104,
-    "SkillTypeID": 1,
-    "Rare": 1,
-    "SkillRank": 5
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       106
     ],
@@ -124,79 +145,97 @@
       100.0,
       3.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714087,
       "Hash64": 11016278594906262141
     },
-    "MazeBuffID": 3112005,
+    "SkillRank": 7,
+    "SkillTypeID": 1,
+    "SkillID": 105,
     "SkillPower": 10,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112005,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 105,
     "SkillName": {
       "Hash": -1452693948,
       "Hash64": 11115103334967379207
-    },
-    "Condition": 105,
-    "SkillID": 105,
-    "SkillTypeID": 1,
-    "Rare": 2,
-    "SkillRank": 7
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       107
     ],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_102.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714090,
       "Hash64": 8519129175534083082
     },
-    "MazeBuffID": 3112006,
+    "SkillRank": 10,
+    "SkillTypeID": 1,
+    "SkillID": 106,
     "SkillPower": 7,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112006,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 106,
     "SkillName": {
       "Hash": 113389993,
       "Hash64": 12215065733344307419
-    },
-    "Condition": 106,
-    "SkillID": 106,
-    "SkillTypeID": 1,
-    "Rare": 1,
-    "SkillRank": 10
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       501
     ],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_103.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714089,
       "Hash64": 3233815160139649164
     },
-    "MazeBuffID": 3112007,
+    "SkillRank": 13,
+    "SkillTypeID": 1,
+    "SkillID": 107,
     "SkillPower": 20,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112007,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 107,
     "SkillName": {
       "Hash": 1679473934,
       "Hash64": 10902017955508198149
-    },
-    "Condition": 107,
-    "SkillID": 107,
-    "SkillTypeID": 1,
-    "Rare": 2,
-    "SkillRank": 13
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       202
     ],
@@ -204,27 +243,33 @@
     "ParamList": [
       100.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714190,
       "Hash64": 18010585695043010018
     },
-    "MazeBuffID": 3112101,
+    "SkillRank": 1,
+    "SkillTypeID": 3,
+    "SkillID": 201,
     "SkillPower": 2,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112101,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 201,
     "SkillName": {
       "Hash": -390651083,
       "Hash64": 4965062631954775217
-    },
-    "Condition": 201,
-    "SkillID": 201,
-    "SkillTypeID": 3,
-    "Rare": 1,
-    "SkillRank": 1
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       203
     ],
@@ -233,27 +278,33 @@
       5.0,
       15.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714187,
       "Hash64": 162020035915651233
     },
-    "MazeBuffID": 3112103,
+    "SkillRank": 2,
+    "SkillTypeID": 3,
+    "SkillID": 202,
     "SkillPower": 5,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112103,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 202,
     "SkillName": {
       "Hash": -1956735024,
       "Hash64": 5842206698821412593
-    },
-    "Condition": 202,
-    "SkillID": 202,
-    "SkillTypeID": 3,
-    "Rare": 2,
-    "SkillRank": 2
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       204
     ],
@@ -261,27 +312,33 @@
     "ParamList": [
       0.5
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714188,
       "Hash64": 1119651063790214178
     },
-    "MazeBuffID": 3112102,
+    "SkillRank": 3,
+    "SkillTypeID": 3,
+    "SkillID": 203,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112102,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 203,
     "SkillName": {
       "Hash": 772148331,
       "Hash64": 3128292109559661300
-    },
-    "Condition": 203,
-    "SkillID": 203,
-    "SkillTypeID": 3,
-    "Rare": 1,
-    "SkillRank": 3
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       205
     ],
@@ -289,27 +346,33 @@
     "ParamList": [
       0.5
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714185,
       "Hash64": 6735376234010305096
     },
-    "MazeBuffID": 3112104,
+    "SkillRank": 5,
+    "SkillTypeID": 3,
+    "SkillID": 204,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112104,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 204,
     "SkillName": {
       "Hash": -1150165970,
       "Hash64": 85486733191279816
-    },
-    "Condition": 204,
-    "SkillID": 204,
-    "SkillTypeID": 3,
-    "Rare": 1,
-    "SkillRank": 5
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       206
     ],
@@ -319,27 +382,33 @@
       50.0,
       8.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714186,
       "Hash64": 16117693335795387879
     },
-    "MazeBuffID": 3112105,
+    "SkillRank": 7,
+    "SkillTypeID": 3,
+    "SkillID": 205,
     "SkillPower": 10,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112105,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 205,
     "SkillName": {
       "Hash": 1578717385,
       "Hash64": 1483639492520026017
-    },
-    "Condition": 205,
-    "SkillID": 205,
-    "SkillTypeID": 3,
-    "Rare": 2,
-    "SkillRank": 7
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       207
     ],
@@ -347,27 +416,33 @@
     "ParamList": [
       8.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714183,
       "Hash64": 5506940920277487318
     },
-    "MazeBuffID": 3112106,
+    "SkillRank": 10,
+    "SkillTypeID": 3,
+    "SkillID": 206,
     "SkillPower": 7,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112106,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 206,
     "SkillName": {
       "Hash": 12633444,
       "Hash64": 6617506794893676846
-    },
-    "Condition": 206,
-    "SkillID": 206,
-    "SkillTypeID": 3,
-    "Rare": 1,
-    "SkillRank": 10
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       502
     ],
@@ -375,27 +450,33 @@
     "ParamList": [
       0.4
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714184,
       "Hash64": 11038272321400401176
     },
-    "MazeBuffID": 3112107,
+    "SkillRank": 13,
+    "SkillTypeID": 3,
+    "SkillID": 207,
     "SkillPower": 20,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112107,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 207,
     "SkillName": {
       "Hash": -1553450497,
       "Hash64": 13942903857790609094
-    },
-    "Condition": 207,
-    "SkillID": 207,
-    "SkillTypeID": 3,
-    "Rare": 2,
-    "SkillRank": 13
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       302
     ],
@@ -403,27 +484,33 @@
     "ParamList": [
       100.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714157,
       "Hash64": 10221999156822453578
     },
-    "MazeBuffID": 3112201,
+    "SkillRank": 1,
+    "SkillTypeID": 2,
+    "SkillID": 301,
     "SkillPower": 2,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112201,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 301,
     "SkillName": {
       "Hash": 1155229882,
       "Hash64": 4471179291327808395
-    },
-    "Condition": 301,
-    "SkillID": 301,
-    "SkillTypeID": 2,
-    "Rare": 1,
-    "SkillRank": 1
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       303
     ],
@@ -432,27 +519,33 @@
       1.0,
       50.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714156,
       "Hash64": 8667183848408058773
     },
-    "MazeBuffID": 3112203,
+    "SkillRank": 2,
+    "SkillTypeID": 2,
+    "SkillID": 302,
     "SkillPower": 5,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112203,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 302,
     "SkillName": {
       "Hash": 751945355,
       "Hash64": 10732860145719805808
-    },
-    "Condition": 302,
-    "SkillID": 302,
-    "SkillTypeID": 2,
-    "Rare": 2,
-    "SkillRank": 2
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       304
     ],
@@ -461,27 +554,33 @@
       0.1,
       1.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714155,
       "Hash64": 15784683067644773716
     },
-    "MazeBuffID": 3112202,
+    "SkillRank": 3,
+    "SkillTypeID": 2,
+    "SkillID": 303,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112202,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 303,
     "SkillName": {
       "Hash": -1976938000,
       "Hash64": 2933680310085209994
-    },
-    "Condition": 303,
-    "SkillID": 303,
-    "SkillTypeID": 2,
-    "Rare": 1,
-    "SkillRank": 3
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       305
     ],
@@ -490,27 +589,33 @@
       1.0,
       0.5
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714154,
       "Hash64": 12539743872108092379
     },
-    "MazeBuffID": 3112204,
+    "SkillRank": 5,
+    "SkillTypeID": 2,
+    "SkillID": 304,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112204,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 304,
     "SkillName": {
       "Hash": 1558514409,
       "Hash64": 2956783694965195678
-    },
-    "Condition": 304,
-    "SkillID": 304,
-    "SkillTypeID": 2,
-    "Rare": 1,
-    "SkillRank": 5
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       306
     ],
@@ -518,27 +623,33 @@
     "ParamList": [
       10.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714153,
       "Hash64": 1190783827873256307
     },
-    "MazeBuffID": 3112205,
+    "SkillRank": 7,
+    "SkillTypeID": 2,
+    "SkillID": 305,
     "SkillPower": 10,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112205,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 305,
     "SkillName": {
       "Hash": -1170368946,
       "Hash64": 12660333933835587995
-    },
-    "Condition": 305,
-    "SkillID": 305,
-    "SkillTypeID": 2,
-    "Rare": 2,
-    "SkillRank": 7
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       307
     ],
@@ -546,27 +657,33 @@
     "ParamList": [
       5.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714152,
       "Hash64": 14488363180582117634
     },
-    "MazeBuffID": 3112206,
+    "SkillRank": 10,
+    "SkillTypeID": 2,
+    "SkillID": 306,
     "SkillPower": 7,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112206,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 306,
     "SkillName": {
       "Hash": -1573653473,
       "Hash64": 3124250072097873372
-    },
-    "Condition": 306,
-    "SkillID": 306,
-    "SkillTypeID": 2,
-    "Rare": 1,
-    "SkillRank": 10
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       501
     ],
@@ -575,27 +692,33 @@
       0.5,
       0.5
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914714151,
       "Hash64": 4419473188494933943
     },
-    "MazeBuffID": 3112207,
+    "SkillRank": 13,
+    "SkillTypeID": 2,
+    "SkillID": 307,
     "SkillPower": 20,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112207,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 307,
     "SkillName": {
       "Hash": -7569532,
       "Hash64": 11544708222704817350
-    },
-    "Condition": 307,
-    "SkillID": 307,
-    "SkillTypeID": 2,
-    "Rare": 2,
-    "SkillRank": 13
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       402
     ],
@@ -603,27 +726,33 @@
     "ParamList": [
       100.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713992,
       "Hash64": 119683033788108935
     },
-    "MazeBuffID": 3112301,
+    "SkillRank": 1,
+    "SkillTypeID": 4,
+    "SkillID": 401,
     "SkillPower": 2,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112301,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 401,
     "SkillName": {
       "Hash": -108326081,
       "Hash64": 16240290320348728668
-    },
-    "Condition": 401,
-    "SkillID": 401,
-    "SkillTypeID": 4,
-    "Rare": 1,
-    "SkillRank": 1
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       403
     ],
@@ -631,27 +760,33 @@
     "ParamList": [
       10.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713993,
       "Hash64": 4233654704652861543
     },
-    "MazeBuffID": 3112303,
+    "SkillRank": 2,
+    "SkillTypeID": 4,
+    "SkillID": 402,
     "SkillPower": 5,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112303,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 402,
     "SkillName": {
       "Hash": 294958446,
       "Hash64": 1549438295749451108
-    },
-    "Condition": 402,
-    "SkillID": 402,
-    "SkillTypeID": 4,
-    "Rare": 2,
-    "SkillRank": 2
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       404
     ],
@@ -659,27 +794,33 @@
     "ParamList": [
       4.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713994,
       "Hash64": 6987402720026323759
     },
-    "MazeBuffID": 3112302,
+    "SkillRank": 3,
+    "SkillTypeID": 4,
+    "SkillID": 403,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112302,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 403,
     "SkillName": {
       "Hash": -1271125495,
       "Hash64": 10885591785245983696
-    },
-    "Condition": 403,
-    "SkillID": 403,
-    "SkillTypeID": 4,
-    "Rare": 1,
-    "SkillRank": 3
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       405
     ],
@@ -687,27 +828,33 @@
     "ParamList": [
       0.3
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713995,
       "Hash64": 15709396468510753286
     },
-    "MazeBuffID": 3112304,
+    "SkillRank": 5,
+    "SkillTypeID": 4,
+    "SkillID": 404,
     "SkillPower": 3,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112304,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 404,
     "SkillName": {
       "Hash": -511610608,
       "Hash64": 9539156943242619792
-    },
-    "Condition": 404,
-    "SkillID": 404,
-    "SkillTypeID": 4,
-    "Rare": 1,
-    "SkillRank": 5
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       406
     ],
@@ -718,121 +865,154 @@
       10.0,
       1.0
     ],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713996,
       "Hash64": 4275387614359583987
     },
-    "MazeBuffID": 3112305,
+    "SkillRank": 7,
+    "SkillTypeID": 4,
+    "SkillID": 405,
     "SkillPower": 10,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112305,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 405,
     "SkillName": {
       "Hash": -2077694549,
       "Hash64": 1067814320169998814
-    },
-    "Condition": 405,
-    "SkillID": 405,
-    "SkillTypeID": 4,
-    "Rare": 2,
-    "SkillRank": 7
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       407
     ],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_402.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713997,
       "Hash64": 4879338794332845810
     },
-    "MazeBuffID": 3112306,
+    "SkillRank": 10,
+    "SkillTypeID": 4,
+    "SkillID": 406,
     "SkillPower": 7,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112306,
+    "SkillStatusLevel": 0,
+    "Rare": 1,
+    "Condition": 406,
     "SkillName": {
       "Hash": -1674410022,
       "Hash64": 4481201019465381152
-    },
-    "Condition": 406,
-    "SkillID": 406,
-    "SkillTypeID": 4,
-    "Rare": 1,
-    "SkillRank": 10
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [
       502
     ],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_403.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713998,
       "Hash64": 14927495349675859064
     },
-    "MazeBuffID": 3112307,
+    "SkillRank": 13,
+    "SkillTypeID": 4,
+    "SkillID": 407,
     "SkillPower": 20,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112307,
+    "SkillStatusLevel": 0,
+    "Rare": 2,
+    "Condition": 407,
     "SkillName": {
       "Hash": 1054473333,
       "Hash64": 9343221051817079203
-    },
-    "Condition": 407,
-    "SkillID": 407,
-    "SkillTypeID": 4,
-    "Rare": 2,
-    "SkillRank": 13
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_502.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713959,
       "Hash64": 17250270117464511446
     },
-    "MazeBuffID": 3112401,
+    "SkillRank": 16,
+    "SkillTypeID": 2,
+    "SkillID": 501,
     "SkillPower": 50,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112401,
+    "SkillStatusLevel": 0,
+    "Rare": 3,
+    "Condition": 501,
     "SkillName": {
       "Hash": 1437554884,
       "Hash64": 1876997438094005996
-    },
-    "Condition": 501,
-    "SkillID": 501,
-    "SkillTypeID": 2,
-    "Rare": 3,
-    "SkillRank": 16
+    }
   },
   {
-    "Cost": {
-      "ItemID": 281023
-    },
     "NextSkillIDList": [],
     "SkillIcon": "SpriteOutput/Quest/SwordTraining/SkillIcon/SwordTrainSkillIcon_501.png",
     "ParamList": [],
+    "Cost": {
+      "ItemID": 281023,
+      "ItemNum": 0
+    },
     "AvatarStatusAddList": [],
     "SkillTag": {
       "Hash": 914713962,
       "Hash64": 16663834651095627969
     },
-    "MazeBuffID": 3112402,
+    "SkillRank": 16,
+    "SkillTypeID": 3,
+    "SkillID": 502,
     "SkillPower": 50,
+    "SkillDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MazeBuffID": 3112402,
+    "SkillStatusLevel": 0,
+    "Rare": 3,
+    "Condition": 502,
     "SkillName": {
       "Hash": -1291328471,
       "Hash64": 5257464583230574111
-    },
-    "Condition": 502,
-    "SkillID": 502,
-    "SkillTypeID": 3,
-    "Rare": 3,
-    "SkillRank": 16
+    }
   }
 ]

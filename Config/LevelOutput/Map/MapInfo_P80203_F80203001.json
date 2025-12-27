@@ -4823,7 +4823,27 @@
       "RegionIDList": [],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap01_MAZ_M201_BackGround.png",
@@ -4843,5 +4863,25 @@
   "CompleteScale": 3.0,
   "MapLayerList": [
     1
-  ]
+  ],
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

@@ -39,6 +39,7 @@
               "SubmissionID": 802212517,
               "MissionCustomValue": {
                 "Index": 5,
+                "Name": "OldValue_5",
                 "ValidValueParamList": [
                   0,
                   1,
@@ -63,6 +64,7 @@
               "SubmissionID": 802212517,
               "MissionCustomValue": {
                 "Index": 5,
+                "Name": "OldValue_5",
                 "ValidValueParamList": [
                   0,
                   1,

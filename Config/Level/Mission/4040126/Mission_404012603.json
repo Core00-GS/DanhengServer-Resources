@@ -51,13 +51,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 150323855360
+                      "FixedValue": {
+                        "RawValue": 150323855360,
+                        "Value": 35.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288494483767296
+                      "FixedValue": {
+                        "RawValue": 1288494483767296,
+                        "Value": 300001.0
                       }
                     }
                   }
@@ -80,13 +82,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 150323855360
+                      "FixedValue": {
+                        "RawValue": 150323855360,
+                        "Value": 35.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288494483767296
+                      "FixedValue": {
+                        "RawValue": 1288494483767296,
+                        "Value": 300001.0
                       }
                     }
                   }
@@ -106,13 +110,15 @@
                     "MultiGroupFetch": [
                       {
                         "GroupID": {
-                          "fixedValue": {
-                            "RawValue": 150323855360
+                          "FixedValue": {
+                            "RawValue": 150323855360,
+                            "Value": 35.0
                           }
                         },
                         "ID": {
-                          "fixedValue": {
-                            "RawValue": 1288494483767296
+                          "FixedValue": {
+                            "RawValue": 1288494483767296,
+                            "Value": 300001.0
                           }
                         }
                       }
@@ -150,13 +156,15 @@
                     "MultiGroupFetch": [
                       {
                         "GroupID": {
-                          "fixedValue": {
-                            "RawValue": 150323855360
+                          "FixedValue": {
+                            "RawValue": 150323855360,
+                            "Value": 35.0
                           }
                         },
                         "ID": {
-                          "fixedValue": {
-                            "RawValue": 1288494483767296
+                          "FixedValue": {
+                            "RawValue": 1288494483767296,
+                            "Value": 300001.0
                           }
                         }
                       }

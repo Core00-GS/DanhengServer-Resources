@@ -93,5 +93,6 @@
   "Tag": [
     "Trotter"
   ],
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

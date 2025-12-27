@@ -50,8 +50,7 @@
           "Radius": 4.0,
           "DimX": 20.0,
           "DimY": 1.0,
-          "DimZ": 25.0,
-          "PointList": []
+          "DimZ": 25.0
         }
       },
       "StateConfigs": [],
@@ -63,10 +62,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 15,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -104,7 +107,9 @@
       "DefaultIdleFreeStyleMotionID": 313040000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -146,7 +151,9 @@
       "DefaultIdleFreeStyleMotionID": 200150000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -188,7 +195,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -204,6 +213,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true
@@ -226,10 +236,15 @@
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
+      "DefaultIdleFreeStyleMotionID": 200800000,
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
-      "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InitialHiddenNodeList": [
+        "NPC_Monster_W4_FireProwler_00/Weapon_02"
+      ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -245,6 +260,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true

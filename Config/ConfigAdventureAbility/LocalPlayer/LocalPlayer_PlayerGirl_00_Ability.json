@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_PlayerGirl_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -61,38 +60,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 236223200
+                    "FixedValue": {
+                      "RawValue": 236223200,
+                      "Value": 0.05
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 17179869184
+                    "FixedValue": {
+                      "RawValue": 17179869184,
+                      "Value": 4.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 42949673
+                    "FixedValue": {
+                      "RawValue": 42949673,
+                      "Value": 0.01
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 343597384
+                    "FixedValue": {
+                      "RawValue": 343597384,
+                      "Value": 0.08
                     }
                   }
                 }
@@ -108,8 +114,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 214748365
+                "FixedValue": {
+                  "RawValue": 214748365,
+                  "Value": 0.05
                 }
               },
               "TaskEnabled": true,
@@ -140,8 +147,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 253403068
+                "FixedValue": {
+                  "RawValue": 253403068,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -210,23 +218,27 @@
                   "MovingRangeList": [
                     {
                       "OffsetTargetDistance": {
-                        "fixedValue": {
-                          "RawValue": 5153960756
+                        "FixedValue": {
+                          "RawValue": 5153960756,
+                          "Value": 1.2
                         }
                       },
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 42949673
+                        "FixedValue": {
+                          "RawValue": 42949673,
+                          "Value": 0.01
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 343597384
+                        "FixedValue": {
+                          "RawValue": 343597384,
+                          "Value": 0.08
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 10737418242
+                        "FixedValue": {
+                          "RawValue": 10737418242,
+                          "Value": 2.5
                         }
                       }
                     }
@@ -242,8 +254,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 214748365
+                    "FixedValue": {
+                      "RawValue": 214748365,
+                      "Value": 0.05
                     }
                   },
                   "TaskEnabled": true,
@@ -329,23 +342,27 @@
                       "MovingRangeList": [
                         {
                           "OffsetTargetDistance": {
-                            "fixedValue": {
-                              "RawValue": 5153960756
+                            "FixedValue": {
+                              "RawValue": 5153960756,
+                              "Value": 1.2
                             }
                           },
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 42949673
+                            "FixedValue": {
+                              "RawValue": 42949673,
+                              "Value": 0.01
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 343597384
+                            "FixedValue": {
+                              "RawValue": 343597384,
+                              "Value": 0.08
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 8589934592
+                            "FixedValue": {
+                              "RawValue": 8589934592,
+                              "Value": 2.0
                             }
                           }
                         }
@@ -361,8 +378,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -447,8 +465,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -524,8 +543,7 @@
     {
       "Name": "LocalPlayer_PlayerGirl_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -565,8 +583,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 523986010
+            "FixedValue": {
+              "RawValue": 523986010,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -596,8 +615,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 644245095
+            "FixedValue": {
+              "RawValue": 644245095,
+              "Value": 0.15
             }
           },
           "TaskEnabled": true,
@@ -606,8 +626,10 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_PlayerGirl_00_Ability.AbilityList.1.OnStart.5.AddRatio.FixedValue"
             }
           },
           "ModifyFunction": "Add",

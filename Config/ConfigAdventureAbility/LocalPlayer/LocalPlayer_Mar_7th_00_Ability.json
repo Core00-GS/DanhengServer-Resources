@@ -27,8 +27,7 @@
       ],
       "Name": "LocalPlayer_Mar_7th_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -107,8 +106,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -161,8 +161,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Mar_7th_00/Eff_Avatar_Mar_7th_00_MazeAttack_Trail01.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Mar_7th_00/Eff_Avatar_Mar_7th_00_Skill01_Hit01.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 429496730
+                  "FixedValue": {
+                    "RawValue": 429496730,
+                    "Value": 0.1
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -180,7 +181,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -214,7 +215,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -265,8 +266,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -307,8 +309,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Mar_7th_00/Eff_Avatar_Mar_7th_00_MazeAttack_Trail01.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Mar_7th_00/Eff_Avatar_Mar_7th_00_Skill01_Hit01.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": -4294967296
+                  "FixedValue": {
+                    "RawValue": -4294967296,
+                    "Value": -1.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -326,7 +329,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -360,7 +363,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -396,8 +399,7 @@
     {
       "Name": "LocalPlayer_Mar_7th_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -456,8 +458,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 335007447
+                "FixedValue": {
+                  "RawValue": 335007447,
+                  "Value": 0.08
                 }
               },
               "TaskEnabled": true,
@@ -487,8 +490,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 515396076
+                "FixedValue": {
+                  "RawValue": 515396076,
+                  "Value": 0.12
                 }
               },
               "TaskEnabled": true,
@@ -544,7 +548,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -626,8 +630,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 335007447
+                "FixedValue": {
+                  "RawValue": 335007447,
+                  "Value": 0.08
                 }
               },
               "TaskEnabled": true,
@@ -657,8 +662,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 515396076
+                "FixedValue": {
+                  "RawValue": 515396076,
+                  "Value": 0.12
                 }
               },
               "TaskEnabled": true,
@@ -736,7 +742,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.2,
@@ -776,5 +782,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Mar_7th": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

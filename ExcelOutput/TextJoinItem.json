@@ -532,6 +532,10 @@
     "TextJoinItemID": 459
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 460
   },
   {
@@ -556,9 +560,17 @@
     "TextJoinItemID": 463
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 470
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 480
   },
   {
@@ -583,9 +595,17 @@
     "TextJoinItemID": 483
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 490
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 500
   },
   {
@@ -610,9 +630,17 @@
     "TextJoinItemID": 503
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 510
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 520
   },
   {
@@ -637,6 +665,10 @@
     "TextJoinItemID": 523
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 530
   },
   {
@@ -1018,6 +1050,10 @@
     "TextJoinItemID": 702
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 710
   },
   {
@@ -1042,6 +1078,10 @@
     "TextJoinItemID": 713
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 740
   },
   {
@@ -1066,6 +1106,10 @@
     "TextJoinItemID": 743
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 750
   },
   {
@@ -1076,6 +1120,10 @@
     "TextJoinItemID": 751
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 760
   },
   {
@@ -1100,6 +1148,10 @@
     "TextJoinItemID": 763
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 770
   },
   {
@@ -1110,6 +1162,10 @@
     "TextJoinItemID": 771
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 780
   },
   {
@@ -1141,6 +1197,10 @@
     "TextJoinItemID": 784
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 790
   },
   {
@@ -1165,6 +1225,10 @@
     "TextJoinItemID": 793
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 800
   },
   {
@@ -1665,93 +1729,213 @@
     "TextJoinItemID": 1063
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1071
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1072
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1073
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1081
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1082
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1083
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1101
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1102
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1103
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1111
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1112
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1113
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1121
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1122
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1123
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1124
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1131
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1132
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1133
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1134
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1141
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1142
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1143
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1151
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1152
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1153
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1161
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1171
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1181
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1191
   },
   {
@@ -1951,6 +2135,10 @@
     "TextJoinItemID": 1912
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1913
   },
   {
@@ -2143,12 +2331,24 @@
     "TextJoinItemID": 1993
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1994
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1995
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 1996
   },
   {
@@ -2222,9 +2422,17 @@
     "TextJoinItemID": 2031
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 2032
   },
   {
+    "TextJoinText": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "TextJoinItemID": 2033
   },
   {
@@ -2436,5 +2644,621 @@
       "Hash64": 15646902153159356873
     },
     "TextJoinItemID": 2155
+  },
+  {
+    "TextJoinText": {
+      "Hash": -965514068,
+      "Hash64": 15488597346408359338
+    },
+    "TextJoinItemID": 2161
+  },
+  {
+    "TextJoinText": {
+      "Hash": -562229541,
+      "Hash64": 12872725280442582547
+    },
+    "TextJoinItemID": 2162
+  },
+  {
+    "TextJoinText": {
+      "Hash": -965514067,
+      "Hash64": 17614470038949145028
+    },
+    "TextJoinItemID": 2171
+  },
+  {
+    "TextJoinText": {
+      "Hash": -562229540,
+      "Hash64": 7653679769205644616
+    },
+    "TextJoinItemID": 2172
+  },
+  {
+    "TextJoinText": {
+      "Hash": -965514078,
+      "Hash64": 17747827625800464842
+    },
+    "TextJoinItemID": 2181
+  },
+  {
+    "TextJoinText": {
+      "Hash": -562229551,
+      "Hash64": 2374779567044834911
+    },
+    "TextJoinItemID": 2182
+  },
+  {
+    "TextJoinText": {
+      "Hash": -965514077,
+      "Hash64": 3669015702665377013
+    },
+    "TextJoinItemID": 2191
+  },
+  {
+    "TextJoinText": {
+      "Hash": -562229550,
+      "Hash64": 12710088069592481674
+    },
+    "TextJoinItemID": 2192
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691897,
+      "Hash64": 8525085572047723140
+    },
+    "TextJoinItemID": 2201
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407370,
+      "Hash64": 11461480132453509654
+    },
+    "TextJoinItemID": 2202
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691898,
+      "Hash64": 3195776396171150987
+    },
+    "TextJoinItemID": 2211
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407371,
+      "Hash64": 6375734029144654397
+    },
+    "TextJoinItemID": 2212
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691895,
+      "Hash64": 7316099010026629951
+    },
+    "TextJoinItemID": 2221
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407368,
+      "Hash64": 15913213678664503998
+    },
+    "TextJoinItemID": 2222
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691896,
+      "Hash64": 3621872534119091116
+    },
+    "TextJoinItemID": 2231
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407369,
+      "Hash64": 10774977887356841268
+    },
+    "TextJoinItemID": 2232
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691901,
+      "Hash64": 9052017488635745926
+    },
+    "TextJoinItemID": 2241
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407374,
+      "Hash64": 610458477169068425
+    },
+    "TextJoinItemID": 2242
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691902,
+      "Hash64": 16721229710115587215
+    },
+    "TextJoinItemID": 2251
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407375,
+      "Hash64": 12433281445454504589
+    },
+    "TextJoinItemID": 2252
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2025491316,
+      "Hash64": 1781483567330948558
+    },
+    "TextJoinItemID": 2253
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1265976429,
+      "Hash64": 17821639415626317645
+    },
+    "TextJoinItemID": 2254
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1462906926,
+      "Hash64": 12214827099987199658
+    },
+    "TextJoinItemID": 2255
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691899,
+      "Hash64": 13052962590383972060
+    },
+    "TextJoinItemID": 2261
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407372,
+      "Hash64": 15350073002783911466
+    },
+    "TextJoinItemID": 2262
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691900,
+      "Hash64": 12446807159773420509
+    },
+    "TextJoinItemID": 2271
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407373,
+      "Hash64": 896495499319321948
+    },
+    "TextJoinItemID": 2272
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691889,
+      "Hash64": 12309940844701799613
+    },
+    "TextJoinItemID": 2281
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407362,
+      "Hash64": 13318205298324832858
+    },
+    "TextJoinItemID": 2282
+  },
+  {
+    "TextJoinText": {
+      "Hash": 862691890,
+      "Hash64": 6817681121997291654
+    },
+    "TextJoinItemID": 2291
+  },
+  {
+    "TextJoinText": {
+      "Hash": 459407363,
+      "Hash64": 15596059678453534575
+    },
+    "TextJoinItemID": 2292
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189068,
+      "Hash64": 18023410575970417615
+    },
+    "TextJoinItemID": 2301
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694287,
+      "Hash64": 4387177912388100146
+    },
+    "TextJoinItemID": 2302
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189067,
+      "Hash64": 936288286251243341
+    },
+    "TextJoinItemID": 2311
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694288,
+      "Hash64": 2442348482984658378
+    },
+    "TextJoinItemID": 2312
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189070,
+      "Hash64": 6683469976324397478
+    },
+    "TextJoinItemID": 2321
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694285,
+      "Hash64": 7134235841257064196
+    },
+    "TextJoinItemID": 2322
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189069,
+      "Hash64": 3375453015503729153
+    },
+    "TextJoinItemID": 2331
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694286,
+      "Hash64": 18126045701689103872
+    },
+    "TextJoinItemID": 2332
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189064,
+      "Hash64": 3765197845826109471
+    },
+    "TextJoinItemID": 2341
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694291,
+      "Hash64": 6177732119918682005
+    },
+    "TextJoinItemID": 2342
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189063,
+      "Hash64": 14715370563907684012
+    },
+    "TextJoinItemID": 2351
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694292,
+      "Hash64": 18256688824933055153
+    },
+    "TextJoinItemID": 2352
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189066,
+      "Hash64": 7074402391347752716
+    },
+    "TextJoinItemID": 2361
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694289,
+      "Hash64": 10350111480774850396
+    },
+    "TextJoinItemID": 2362
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189065,
+      "Hash64": 13476932043246891089
+    },
+    "TextJoinItemID": 2371
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694290,
+      "Hash64": 1282498632172141949
+    },
+    "TextJoinItemID": 2372
+  },
+  {
+    "TextJoinText": {
+      "Hash": 479610349,
+      "Hash64": 14063881422063752906
+    },
+    "TextJoinItemID": 2373
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1442703952,
+      "Hash64": 18131025552916192200
+    },
+    "TextJoinItemID": 2374
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1286179403,
+      "Hash64": 945533807468333427
+    },
+    "TextJoinItemID": 2375
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189076,
+      "Hash64": 16819954970428546277
+    },
+    "TextJoinItemID": 2381
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694279,
+      "Hash64": 11192524614901109304
+    },
+    "TextJoinItemID": 2382
+  },
+  {
+    "TextJoinText": {
+      "Hash": 479610338,
+      "Hash64": 4542780669573753276
+    },
+    "TextJoinItemID": 2383
+  },
+  {
+    "TextJoinText": {
+      "Hash": -683189075,
+      "Hash64": 10147328526609409080
+    },
+    "TextJoinItemID": 2391
+  },
+  {
+    "TextJoinText": {
+      "Hash": 2045694280,
+      "Hash64": 10522912539654476512
+    },
+    "TextJoinItemID": 2392
+  },
+  {
+    "TextJoinText": {
+      "Hash": 479610339,
+      "Hash64": 4855424343486095904
+    },
+    "TextJoinItemID": 2393
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016899,
+      "Hash64": 2717551480855312507
+    },
+    "TextJoinItemID": 2401
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866456,
+      "Hash64": 11983137816223491145
+    },
+    "TextJoinItemID": 2402
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782515,
+      "Hash64": 10841049093697339410
+    },
+    "TextJoinItemID": 2403
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016900,
+      "Hash64": 6370673883284433006
+    },
+    "TextJoinItemID": 2411
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866455,
+      "Hash64": 18207502126247396864
+    },
+    "TextJoinItemID": 2412
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782514,
+      "Hash64": 3374028272830041714
+    },
+    "TextJoinItemID": 2413
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016897,
+      "Hash64": 11075128826130927133
+    },
+    "TextJoinItemID": 2421
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866458,
+      "Hash64": 5769429750274662697
+    },
+    "TextJoinItemID": 2422
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782517,
+      "Hash64": 13502958053240745677
+    },
+    "TextJoinItemID": 2423
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016898,
+      "Hash64": 6017844666596276590
+    },
+    "TextJoinItemID": 2431
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866457,
+      "Hash64": 2123485730478218916
+    },
+    "TextJoinItemID": 2432
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782516,
+      "Hash64": 14728270846983260689
+    },
+    "TextJoinItemID": 2433
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016903,
+      "Hash64": 8196720049744824908
+    },
+    "TextJoinItemID": 2441
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866452,
+      "Hash64": 13740228051941333110
+    },
+    "TextJoinItemID": 2442
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782511,
+      "Hash64": 7891487335911084777
+    },
+    "TextJoinItemID": 2443
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016904,
+      "Hash64": 12721783482260542451
+    },
+    "TextJoinItemID": 2451
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866451,
+      "Hash64": 2716785526743260274
+    },
+    "TextJoinItemID": 2452
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782510,
+      "Hash64": 16551151915324525200
+    },
+    "TextJoinItemID": 2453
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016901,
+      "Hash64": 16418910351968920498
+    },
+    "TextJoinItemID": 2461
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866454,
+      "Hash64": 9147047165992130287
+    },
+    "TextJoinItemID": 2462
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782513,
+      "Hash64": 18290688597249788118
+    },
+    "TextJoinItemID": 2463
+  },
+  {
+    "TextJoinText": {
+      "Hash": -421067039,
+      "Hash64": 17313417339468390717
+    },
+    "TextJoinItemID": 2470
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016902,
+      "Hash64": 118818587392076863
+    },
+    "TextJoinItemID": 2471
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866453,
+      "Hash64": 6082037421783803715
+    },
+    "TextJoinItemID": 2472
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782512,
+      "Hash64": 2022022584018536299
+    },
+    "TextJoinItemID": 2473
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1904531789,
+      "Hash64": 3884901332036473814
+    },
+    "TextJoinItemID": 2474
+  },
+  {
+    "TextJoinText": {
+      "Hash": -824351566,
+      "Hash64": 3988332440747995405
+    },
+    "TextJoinItemID": 2475
+  },
+  {
+    "TextJoinText": {
+      "Hash": 741732375,
+      "Hash64": 16245670516861017942
+    },
+    "TextJoinItemID": 2476
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1987150980,
+      "Hash64": 17486918061270735257
+    },
+    "TextJoinItemID": 2477
+  },
+  {
+    "TextJoinText": {
+      "Hash": 1145016891,
+      "Hash64": 5953329859139319317
+    },
+    "TextJoinItemID": 2481
+  },
+  {
+    "TextJoinText": {
+      "Hash": -1583866464,
+      "Hash64": 5004542687555851155
+    },
+    "TextJoinItemID": 2482
+  },
+  {
+    "TextJoinText": {
+      "Hash": -17782523,
+      "Hash64": 9422130348013012361
+    },
+    "TextJoinItemID": 2483
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "GroupName": "StartAnchor",
+  "GroupName": "DefaultData",
   "ConfigPrefabPath": "Level/Maze/Chapter01/Chap01_MAZ_M302_LevelArea.prefab",
   "AreaAnchorName": "LevelArea_P40101_F40101003_G12",
   "SaveType": "Permanent",
@@ -74,7 +74,6 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -87,11 +86,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -148,7 +149,6 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -161,11 +161,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -222,7 +224,6 @@
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -235,11 +236,13 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "DialogueTriggerSkipFakeAvatar": true,
-      "TriggerValidGuest": {
-        "LocalPlayer": true,
-        "Teammember": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
+      "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -267,16 +270,24 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "PropsGroupID": 3,
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
-      "PosX": 297.01,
-      "PosZ": 519.5
+      "PosX": 11.01,
+      "PosY": -2.18,
+      "PosZ": -11.5
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

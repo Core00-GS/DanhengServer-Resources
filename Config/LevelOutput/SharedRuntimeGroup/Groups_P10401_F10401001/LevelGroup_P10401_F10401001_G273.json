@@ -62,6 +62,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -102,7 +105,9 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -143,17 +148,38 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 100050353,
+          "DepartureFreeStyleMotionID": 100050000,
+          "ApproachRange": 9.0,
+          "DepartureRange": 9.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 9.0,
         "ApproachFreeStyleMotionID": 100050353,
-        "DepartureRange": 9.0,
         "DepartureFreeStyleMotionID": 100050000,
+        "ApproachRange": 9.0,
+        "DepartureRange": 9.0,
         "Offset": {
           "z": 1.8,
           "normalized": {
@@ -200,17 +226,38 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 100050353,
+          "DepartureFreeStyleMotionID": 100050000,
+          "ApproachRange": 9.0,
+          "DepartureRange": 9.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 9.0,
         "ApproachFreeStyleMotionID": 100050353,
-        "DepartureRange": 9.0,
         "DepartureFreeStyleMotionID": 100050000,
+        "ApproachRange": 9.0,
+        "DepartureRange": 9.0,
         "Offset": {
           "z": 1.8,
           "normalized": {
@@ -257,17 +304,38 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 100050353,
+          "DepartureFreeStyleMotionID": 100050000,
+          "ApproachRange": 9.0,
+          "DepartureRange": 9.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 9.0,
         "ApproachFreeStyleMotionID": 100050353,
-        "DepartureRange": 9.0,
         "DepartureFreeStyleMotionID": 100050000,
+        "ApproachRange": 9.0,
+        "DepartureRange": 9.0,
         "Offset": {
           "z": 1.8,
           "normalized": {
@@ -314,17 +382,38 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 100050353,
+          "DepartureFreeStyleMotionID": 100050000,
+          "ApproachRange": 9.0,
+          "DepartureRange": 9.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 9.0,
         "ApproachFreeStyleMotionID": 100050353,
-        "DepartureRange": 9.0,
         "DepartureFreeStyleMotionID": 100050000,
+        "ApproachRange": 9.0,
+        "DepartureRange": 9.0,
         "Offset": {
           "z": 1.8,
           "normalized": {
@@ -371,17 +460,38 @@
       "DefaultIdleFreeStyleMotionID": 100050000,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 100050353,
+          "DepartureFreeStyleMotionID": 100050000,
+          "ApproachRange": 9.0,
+          "DepartureRange": 9.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 9.0,
         "ApproachFreeStyleMotionID": 100050353,
-        "DepartureRange": 9.0,
         "DepartureFreeStyleMotionID": 100050000,
+        "ApproachRange": 9.0,
+        "DepartureRange": 9.0,
         "Offset": {
           "z": 1.8,
           "normalized": {

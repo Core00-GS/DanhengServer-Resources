@@ -18,13 +18,15 @@
           "CreateNpcList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 322122547200
+                "FixedValue": {
+                  "RawValue": 322122547200,
+                  "Value": 75.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1718025573105664
+                "FixedValue": {
+                  "RawValue": 1718025573105664,
+                  "Value": 400009.0
                 }
               },
               "CreateList": [],
@@ -33,13 +35,15 @@
             },
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 322122547200
+                "FixedValue": {
+                  "RawValue": 322122547200,
+                  "Value": 75.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1718029868072960
+                "FixedValue": {
+                  "RawValue": 1718029868072960,
+                  "Value": 400010.0
                 }
               },
               "CreateList": [],
@@ -48,13 +52,15 @@
             },
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 322122547200
+                "FixedValue": {
+                  "RawValue": 322122547200,
+                  "Value": 75.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1718034163040256
+                "FixedValue": {
+                  "RawValue": 1718034163040256,
+                  "Value": 400011.0
                 }
               },
               "CreateList": [],
@@ -144,6 +150,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

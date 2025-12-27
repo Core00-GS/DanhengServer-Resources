@@ -66,8 +66,7 @@
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "State": "CheckPointDisable",
@@ -76,7 +75,6 @@
       "CustomTriggerMap": {
         "CustomTrigger_Spring": {
           "Radius": 7.0,
-          "PointList": [],
           "Server": true
         }
       },
@@ -89,9 +87,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Savepoint1",
       "RotY": 269.7236,
       "ID": 300002,
@@ -131,8 +136,7 @@
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "State": "CheckPointDisable",
@@ -153,7 +157,6 @@
             "magnitude": 2.298195,
             "sqrMagnitude": 5.2817
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -166,9 +169,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Savepoint1",
       "RotY": 269.7236,
       "ID": 300001,
@@ -208,8 +218,7 @@
           "y": 1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "State": "CheckPointDisable",
@@ -230,7 +239,6 @@
             "magnitude": 2.67540669,
             "sqrMagnitude": 7.15780067
           },
-          "PointList": [],
           "Server": true
         }
       },
@@ -243,9 +251,16 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "CameraCenterEntityList": [],
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
+      "SpawnConfig": {},
       "Name": "Savepoint1",
       "RotY": 269.7236,
       "ID": 300003,
@@ -263,16 +278,23 @@
       "Tags": [
         "BattleArea01"
       ],
+      "TagContainer": [],
+      "AudienceGroupIDList": [],
       "PrefetchMainMissionList": [],
       "PrefetchSubMissionList": [],
       "Name": "BattleArea1",
       "ID": 1,
-      "PosX": 297.01,
-      "PosZ": 519.5
+      "PosX": 11.01,
+      "PosY": -2.18,
+      "PosZ": -11.5
     }
   ],
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

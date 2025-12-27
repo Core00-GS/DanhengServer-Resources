@@ -109,6 +109,11 @@
       "BreakDamageAddedRatioBase",
       "SPRatioBase"
     ],
-    "BaseTypeIconPath": "SpriteOutput/TabIcon/Common/AllIcon.png"
+    "BaseTypeIconPath": "SpriteOutput/TabIcon/Common/AllIcon.png",
+    "Type": "Unknow",
+    "BaseTypeText": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

@@ -551,11 +551,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "AddCustomValue",
-          "FinishActionPara": [
-            0,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_0",
+            "1"
+          ]
         }
       ],
       "Progress": 1,
@@ -583,11 +583,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "AddCustomValue",
-          "FinishActionPara": [
-            0,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_0",
+            "1"
+          ]
         }
       ],
       "Progress": 1,
@@ -615,11 +615,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "AddCustomValue",
-          "FinishActionPara": [
-            0,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_0",
+            "1"
+          ]
         }
       ],
       "Progress": 1,
@@ -908,6 +908,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,
@@ -917,6 +919,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": []
     }
   ],

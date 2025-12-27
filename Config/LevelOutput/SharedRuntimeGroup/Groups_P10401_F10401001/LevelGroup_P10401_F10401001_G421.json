@@ -5,10 +5,20 @@
   "AreaAnchorName": "LevelArea_P10401_F10401001_G421",
   "SaveType": "Reset",
   "AtmosphereCondition": {
+    "Conditions": [
+      {
+        "$type": "RPG.GameCore.LevelGroupAtmosphereSavedValueCondition",
+        "SavedValueName": "FSV_Mission_DisableCavalryBeast",
+        "Operation": "Equal"
+      }
+    ],
     "Operation": "And"
   },
   "LoadOnInitial": true,
-  "ValueSource": {},
+  "ValueSource": {
+    "Values": [],
+    "SharedValues": []
+  },
   "ConflictIDList": [],
   "IsHoyoGroup": true,
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
@@ -42,7 +52,9 @@
       "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [
@@ -137,7 +149,9 @@
           }
         ]
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],
@@ -169,7 +183,7 @@
         "Teammember": true
       },
       "SoundProfileOverrideID": 6,
-      "Name": "NPC2",
+      "Name": "NPC2 音乐配置",
       "ID": 400002,
       "PosX": 80.74,
       "PosY": -16.54,

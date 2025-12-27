@@ -10,13 +10,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 257698037760
+                  "FixedValue": {
+                    "RawValue": 257698037760,
+                    "Value": 60.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288503073701888
+                  "FixedValue": {
+                    "RawValue": 1288503073701888,
+                    "Value": 300003.0
                   }
                 }
               }

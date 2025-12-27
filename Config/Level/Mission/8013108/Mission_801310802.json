@@ -27,8 +27,9 @@
             {
               "$type": "RPG.GameCore.WaitSecond",
               "WaitTime": {
-                "fixedValue": {
-                  "RawValue": 6442450946
+                "FixedValue": {
+                  "RawValue": 6442450946,
+                  "Value": 1.5
                 }
               },
               "MaxAdvencePerTick": -1.0,
@@ -37,6 +38,7 @@
             },
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,

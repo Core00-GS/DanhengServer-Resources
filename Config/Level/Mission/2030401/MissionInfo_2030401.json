@@ -318,11 +318,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            0,
-            1
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_0",
+            "1"
+          ]
         },
         {
           "FinishActionType": "delMission",
@@ -358,11 +358,11 @@
       "FinishActionList": [
         {
           "FinishActionType": "SetCustomValue",
-          "FinishActionPara": [
-            0,
-            2
-          ],
-          "FinishActionParaString": []
+          "FinishActionPara": [],
+          "FinishActionParaString": [
+            "OldValue_0",
+            "2"
+          ]
         },
         {
           "FinishActionType": "delMission",
@@ -536,6 +536,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -543,7 +545,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    0
+    "OldValue_0"
   ],
   "IsShow": true,
   "AssistWayPointPackList": []

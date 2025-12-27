@@ -12,94 +12,94 @@
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300049",
-        "Key": "\u5b9d\u7bb11"
+        "Key": "宝箱1"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300050",
-        "Key": "\u5b9d\u7bb12"
+        "Key": "宝箱2"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300051",
-        "Key": "\u5b9d\u7bb13"
+        "Key": "宝箱3"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300052",
-        "Key": "\u5b9d\u7bb14"
+        "Key": "宝箱4"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300053",
-        "Key": "\u5b9d\u7bb15"
+        "Key": "宝箱5"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300054",
-        "Key": "\u5b9d\u7bb16"
+        "Key": "宝箱6"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300055",
-        "Key": "\u5b9d\u7bb17"
+        "Key": "宝箱7"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300056",
-        "Key": "\u5b9d\u7bb18"
+        "Key": "宝箱8"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300057",
-        "Key": "\u5b9d\u7bb19"
+        "Key": "宝箱9"
       }
     ],
     "SharedValues": [
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300049",
-        "Key": "\u5b9d\u7bb11"
+        "Key": "宝箱1"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300050",
-        "Key": "\u5b9d\u7bb12"
+        "Key": "宝箱2"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300051",
-        "Key": "\u5b9d\u7bb13"
+        "Key": "宝箱3"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300052",
-        "Key": "\u5b9d\u7bb14"
+        "Key": "宝箱4"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300053",
-        "Key": "\u5b9d\u7bb15"
+        "Key": "宝箱5"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300054",
-        "Key": "\u5b9d\u7bb16"
+        "Key": "宝箱6"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300055",
-        "Key": "\u5b9d\u7bb17"
+        "Key": "宝箱7"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300056",
-        "Key": "\u5b9d\u7bb18"
+        "Key": "宝箱8"
       },
       {
         "$type": "RPG.GameCore.SharedString",
         "Value": "209,300057",
-        "Key": "\u5b9d\u7bb19"
+        "Key": "宝箱9"
       }
     ]
   },
@@ -269,6 +269,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -337,6 +340,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -468,6 +474,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -524,6 +533,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -596,6 +608,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -677,6 +692,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "LookAtPlayerTriggerRadius": 2.0,
@@ -713,7 +731,9 @@
       "OverrideSeriesID": 2,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "CameraCenterEntityList": [],
       "SpawnConfig": {

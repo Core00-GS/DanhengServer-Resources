@@ -13,8 +13,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 6442450946
+            "FixedValue": {
+              "RawValue": 6442450946,
+              "Value": 1.5
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -37,13 +38,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 171798691840
+                "FixedValue": {
+                  "RawValue": 171798691840,
+                  "Value": 40.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288503073701888
+                "FixedValue": {
+                  "RawValue": 1288503073701888,
+                  "Value": 300003.0
                 }
               }
             }
@@ -53,6 +56,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

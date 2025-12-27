@@ -100,7 +100,9 @@
       ],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [
@@ -109,9 +111,26 @@
       "CameraCenterEntityList": [],
       "CameraConfig": {},
       "SFXOnLoad": "Ev_sfx_npc_common_StoryCrystal_loop",
+      "NearByConfigs": [
+        {
+          "$type": "RPG.GameCore.LevelNPCNearbyAnimConfig",
+          "ApproachFreeStyleMotionID": 314030953,
+          "ApproachRange": 5.0,
+          "Offset": {
+            "z": 1.8,
+            "normalized": {
+              "z": 1.0,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.8,
+            "sqrMagnitude": 3.23999977
+          }
+        }
+      ],
       "NearbyAnimConfig": {
-        "ApproachRange": 5.0,
         "ApproachFreeStyleMotionID": 314030953,
+        "ApproachRange": 5.0,
         "Offset": {
           "z": 1.8,
           "normalized": {

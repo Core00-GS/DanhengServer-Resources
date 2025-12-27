@@ -6,6 +6,13 @@
     1
   ],
   "NavmapConfigPath": "Config/LevelOutput/Map/MapInfo_P10201_F10201001.json",
+  "CustomValues": [
+    {
+      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+      "ID": 10001,
+      "Name": "FCV_MissionCrowdLoop"
+    }
+  ],
   "GroupInstanceList": [
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10201_F10201001/LevelGroup_P10201_F10201001_G1.json",
@@ -1528,6 +1535,16 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10201_F10201001/LevelGroup_P10201_F10201001_G309.json",
       "Name": "MainMission2020202_01",
       "ID": 309
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10201_F10201001/LevelGroup_P10201_F10201001_G330.json",
+      "Name": "Crowd",
+      "ID": 330
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P10201_F10201001/LevelGroup_P10201_F10201001_G331.json",
+      "Name": "Crowd",
+      "ID": 331
     }
   ],
   "DimensionList": [
@@ -1562,6 +1579,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -1807,7 +1833,9 @@
         300,
         301,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -1845,6 +1873,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -2021,7 +2058,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -2063,6 +2102,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -2254,7 +2302,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -2306,6 +2356,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -2472,7 +2531,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -2514,6 +2575,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -2718,7 +2788,9 @@
         300,
         301,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -2770,6 +2842,15 @@
         {
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -2969,7 +3050,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -3022,6 +3105,15 @@
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
           "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -3204,7 +3296,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -3257,6 +3351,15 @@
           "ID": 8,
           "Name": "FSV_250FinishMainMission",
           "DefaultValue": 1,
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 9,
+          "Name": "FSV_MissionCrowdLoad",
           "AllowedValues": [
             0,
             1
@@ -3445,7 +3548,9 @@
         294,
         295,
         302,
-        303
+        303,
+        304,
+        305
       ],
       "ExclusiveSavedGroupIDList": [
         111,
@@ -5523,6 +5628,19 @@
       "Category": "Mission",
       "SaveType": "Reset",
       "IsHoyoGroup": true
+    },
+    "330": {
+      "Category": "Atmosphere",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadOnInitial": true
+    },
+    "331": {
+      "Category": "Atmosphere",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadOnInitial": true
     }
-  }
+  },
+  "ValidSubmapList": []
 }

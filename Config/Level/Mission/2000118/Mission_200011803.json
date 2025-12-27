@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 171798691840
+            "FixedValue": {
+              "RawValue": 171798691840,
+              "Value": 40.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "TaskEnabled": true,
@@ -35,13 +37,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 171798691840
+            "FixedValue": {
+              "RawValue": 171798691840,
+              "Value": 40.0
             }
           },
           "TaskEnabled": true,

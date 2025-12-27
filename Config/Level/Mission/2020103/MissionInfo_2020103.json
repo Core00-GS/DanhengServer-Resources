@@ -281,6 +281,7 @@
       "TakeParamIntList": [
         202010360
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_202010310",
@@ -296,11 +297,18 @@
         }
       ],
       "Progress": 1,
+      "CustomValueList": [],
+      "CustomValueReward": [],
+      "GroupIDList": [],
+      "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "WayPointType": "NPC",
+      "GotoParam": [],
       "WayPointFloorID": 10202001,
       "WayPointGroupID": 50,
-      "WayPointEntityID": 400005
+      "WayPointEntityID": 400005,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010311,
@@ -490,6 +498,7 @@
       "TakeParamIntList": [
         202010390
       ],
+      "TakeParamStrList": [],
       "FinishType": "MessagePerformSectionFinish",
       "ParamType": "Equal",
       "ParamInt1": 1212701,
@@ -499,8 +508,13 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "WayPointFloorID": 10202001
+      "IsShow": true,
+      "GotoParam": [],
+      "WayPointFloorID": 10202001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010320,
@@ -512,6 +526,7 @@
       "TakeParamIntList": [
         202010319
       ],
+      "TakeParamStrList": [],
       "FinishType": "StageWin",
       "ParamType": "Equal",
       "ParamInt1": 20221202,
@@ -522,12 +537,16 @@
       "CustomValueList": [],
       "SubRewardID": 2000597,
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
       "WayPointType": "Prop",
+      "GotoParam": [],
       "WayPointFloorID": 10202001,
       "WayPointGroupID": 53,
-      "WayPointEntityID": 300001
+      "WayPointEntityID": 300001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010321,
@@ -731,6 +750,7 @@
       "TakeParamIntList": [
         202010320
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_202010352",
@@ -740,8 +760,13 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "WayPointFloorID": 10202001
+      "IsShow": true,
+      "GotoParam": [],
+      "WayPointFloorID": 10202001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010360,
@@ -754,9 +779,11 @@
         202010309,
         202010304
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_202010360",
+      "ParamIntList": [],
       "ParamItemList": [],
       "FinishActionList": [
         {
@@ -768,7 +795,15 @@
         }
       ],
       "Progress": 1,
-      "WayPointFloorID": 10202001
+      "CustomValueList": [],
+      "CustomValueReward": [],
+      "GroupIDList": [],
+      "RequiredNPCSeriesIDList": [],
+      "IsShow": true,
+      "GotoParam": [],
+      "WayPointFloorID": 10202001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010373,
@@ -807,6 +842,7 @@
       "TakeParamIntList": [
         202010315
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -818,9 +854,13 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
-      "WayPointFloorID": 10202001
+      "GotoParam": [],
+      "WayPointFloorID": 10202001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 202010391,

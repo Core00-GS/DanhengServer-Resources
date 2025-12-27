@@ -41,6 +41,7 @@
               "SubmissionID": 802240227,
               "MissionCustomValue": {
                 "Index": 2,
+                "Name": "OldValue_2",
                 "ValidValueParamList": [
                   0,
                   1,
@@ -71,6 +72,7 @@
                 "MainMissionID": 8022401,
                 "MissionCustomValue": {
                   "Index": 1,
+                  "Name": "OldValue_1",
                   "ValidValueParamList": [
                     3,
                     4
@@ -87,6 +89,7 @@
                   "SubmissionID": 802240227,
                   "MissionCustomValue": {
                     "Index": 2,
+                    "Name": "OldValue_2",
                     "ValidValueParamList": [
                       0,
                       1,
@@ -109,6 +112,7 @@
                   "SubmissionID": 802240227,
                   "MissionCustomValue": {
                     "Index": 2,
+                    "Name": "OldValue_2",
                     "ValidValueParamList": [
                       0,
                       1,
@@ -178,6 +182,7 @@
                   "SubmissionID": 802240227,
                   "MissionCustomValue": {
                     "Index": 2,
+                    "Name": "OldValue_2",
                     "ValidValueParamList": [
                       0,
                       1,
@@ -208,6 +213,7 @@
                     "MainMissionID": 8022401,
                     "MissionCustomValue": {
                       "Index": 1,
+                      "Name": "OldValue_1",
                       "ValidValueParamList": [
                         3,
                         4
@@ -224,6 +230,7 @@
                       "SubmissionID": 802240227,
                       "MissionCustomValue": {
                         "Index": 2,
+                        "Name": "OldValue_2",
                         "ValidValueParamList": [
                           0,
                           1,
@@ -246,6 +253,7 @@
                       "SubmissionID": 802240227,
                       "MissionCustomValue": {
                         "Index": 2,
+                        "Name": "OldValue_2",
                         "ValidValueParamList": [
                           0,
                           1,

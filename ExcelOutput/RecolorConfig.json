@@ -115,6 +115,31 @@
     "ID": 5005
   },
   {
+    "WhiteBGColor": "#b4b4b4",
+    "DefaultColor": "#b4b4b4",
+    "ID": 5101
+  },
+  {
+    "WhiteBGColor": "#6cce9f",
+    "DefaultColor": "#6cce9f",
+    "ID": 5102
+  },
+  {
+    "WhiteBGColor": "#7196ff",
+    "DefaultColor": "#7196ff",
+    "ID": 5103
+  },
+  {
+    "WhiteBGColor": "#c197ffff",
+    "DefaultColor": "#927fe7",
+    "ID": 5104
+  },
+  {
+    "WhiteBGColor": "#ffd471",
+    "DefaultColor": "#ffd471",
+    "ID": 5105
+  },
+  {
     "WhiteBGColor": "#8790abff",
     "DefaultColor": "#8790abff",
     "ID": 6001
@@ -133,5 +158,40 @@
     "WhiteBGColor": "#3AA988",
     "DefaultColor": "#4EF4C3",
     "ID": 8002
+  },
+  {
+    "WhiteBGColor": "#dd7a00",
+    "DefaultColor": "#f29e38ff",
+    "ID": 3003
+  },
+  {
+    "WhiteBGColor": "#ff8f94",
+    "DefaultColor": "#ff8f94",
+    "ID": 8003
+  },
+  {
+    "WhiteBGColor": "#a5be00",
+    "DefaultColor": "#a5be00",
+    "ID": 8004
+  },
+  {
+    "WhiteBGColor": "#76b2a7",
+    "DefaultColor": "#76b2a7",
+    "ID": 8005
+  },
+  {
+    "WhiteBGColor": "#ff8331",
+    "DefaultColor": "#ff8331",
+    "ID": 8006
+  },
+  {
+    "WhiteBGColor": "#f9b0f0",
+    "DefaultColor": "#f9b0f0",
+    "ID": 9001
+  },
+  {
+    "WhiteBGColor": "#D57DEF",
+    "DefaultColor": "#D57DEF",
+    "ID": 10001
   }
 ]

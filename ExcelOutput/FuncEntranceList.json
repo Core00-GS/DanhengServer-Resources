@@ -1,33 +1,5 @@
 [
   {
-    "FuncEntranceIDList": [
-      6,
-      8,
-      31,
-      30,
-      41,
-      28,
-      29,
-      33,
-      23,
-      4,
-      15,
-      43,
-      14,
-      25,
-      3,
-      5,
-      7,
-      2,
-      12,
-      26,
-      1205,
-      1201,
-      1202,
-      1203,
-      1204,
-      1101
-    ],
     "UnlockGotoTypeList": [
       2,
       3,
@@ -78,7 +50,47 @@
       72,
       76,
       77,
-      301
+      78,
+      79,
+      301,
+      330,
+      3401,
+      360,
+      351,
+      372,
+      373,
+      374,
+      376,
+      377
+    ],
+    "FuncEntranceIDList": [
+      6,
+      8,
+      31,
+      30,
+      41,
+      28,
+      29,
+      33,
+      23,
+      4,
+      15,
+      50,
+      2,
+      25,
+      3,
+      5,
+      7,
+      1205,
+      12,
+      26,
+      43,
+      14,
+      1202,
+      1203,
+      1201,
+      1204,
+      1101
     ],
     "BottomFuncEntranceIDList": [
       9,
@@ -93,6 +105,8 @@
       16
     ],
     "HudFuncEntranceIDList": [
+      52001,
+      6,
       8,
       33,
       23,
@@ -101,26 +115,27 @@
       3,
       4
     ],
-    "ID": 1,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 1
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
+      6,
       25,
+      27,
       38,
       39,
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [],
-    "ID": 4,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 4
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -141,6 +156,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -151,11 +167,10 @@
       5,
       4
     ],
-    "ID": 5,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 5
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -168,6 +183,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -177,31 +193,10 @@
       33,
       4
     ],
-    "ID": 6,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 6
   },
   {
-    "FuncEntranceIDList": [
-      6,
-      41,
-      28,
-      23,
-      4,
-      43,
-      14,
-      25,
-      3,
-      5,
-      7,
-      12,
-      26,
-      1205,
-      1201,
-      1202,
-      1203,
-      1204,
-      1101
-    ],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -228,7 +223,29 @@
       55,
       62,
       73,
-      72
+      72,
+      79
+    ],
+    "FuncEntranceIDList": [
+      6,
+      41,
+      28,
+      23,
+      4,
+      25,
+      3,
+      5,
+      7,
+      1205,
+      12,
+      26,
+      43,
+      14,
+      1202,
+      1203,
+      1201,
+      1204,
+      1101
     ],
     "BottomFuncEntranceIDList": [
       9,
@@ -240,40 +257,42 @@
       3
     ],
     "HudFuncEntranceIDList": [
+      6,
       33,
       23,
       5,
       3,
       4
     ],
-    "ID": 8,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 8
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [],
+    "WheelSupport": false,
     "ID": 9
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       38,
       39,
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
     ],
     "HudFuncEntranceIDList": [],
+    "WheelSupport": false,
     "ID": 10
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       4,
       38,
@@ -281,6 +300,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -288,10 +308,10 @@
     "HudFuncEntranceIDList": [
       4
     ],
+    "WheelSupport": false,
     "ID": 11
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       25,
       38,
@@ -299,15 +319,16 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
     ],
     "HudFuncEntranceIDList": [],
+    "WheelSupport": false,
     "ID": 12
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       7,
       37,
@@ -316,6 +337,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -323,10 +345,10 @@
     "HudFuncEntranceIDList": [
       37
     ],
+    "WheelSupport": false,
     "ID": 13
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       4,
       6,
@@ -350,17 +372,17 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [
       23,
       4
     ],
-    "ID": 14,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 14
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       2,
       11,
@@ -373,6 +395,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [
@@ -380,11 +403,10 @@
       3,
       20004
     ],
-    "ID": 15,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 15
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -406,6 +428,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -416,37 +439,10 @@
       33,
       4
     ],
-    "ID": 16,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 16
   },
   {
-    "FuncEntranceIDList": [
-      6,
-      8,
-      31,
-      30,
-      41,
-      28,
-      33,
-      23,
-      4,
-      15,
-      43,
-      14,
-      25,
-      3,
-      5,
-      7,
-      2,
-      12,
-      26,
-      1205,
-      1201,
-      1202,
-      1203,
-      1204,
-      1101
-    ],
     "UnlockGotoTypeList": [
       2,
       3,
@@ -488,7 +484,41 @@
       73,
       71,
       72,
-      76
+      76,
+      79,
+      330,
+      3401,
+      372,
+      374,
+      376
+    ],
+    "FuncEntranceIDList": [
+      6,
+      8,
+      31,
+      30,
+      41,
+      28,
+      33,
+      23,
+      4,
+      15,
+      50,
+      2,
+      25,
+      3,
+      5,
+      7,
+      1205,
+      12,
+      26,
+      43,
+      14,
+      1202,
+      1203,
+      1201,
+      1204,
+      1101
     ],
     "BottomFuncEntranceIDList": [
       9,
@@ -502,6 +532,7 @@
       16
     ],
     "HudFuncEntranceIDList": [
+      6,
       8,
       33,
       23,
@@ -510,11 +541,10 @@
       3,
       4
     ],
-    "ID": 17,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 17
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -537,6 +567,7 @@
       72,
       77
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -548,11 +579,10 @@
       3,
       4
     ],
-    "ID": 18,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 18
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       4,
       5,
@@ -573,6 +603,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [
@@ -581,11 +612,10 @@
       5,
       4
     ],
-    "ID": 19,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 19
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -607,6 +637,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
@@ -617,11 +648,10 @@
       3,
       4
     ],
-    "ID": 20,
-    "WheelSupport": true
+    "WheelSupport": true,
+    "ID": 20
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -644,15 +674,16 @@
       74,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [
       3
     ],
     "HudFuncEntranceIDList": [],
+    "WheelSupport": false,
     "ID": 21
   },
   {
-    "FuncEntranceIDList": [],
     "UnlockGotoTypeList": [
       3,
       4,
@@ -674,6 +705,7 @@
       73,
       72
     ],
+    "FuncEntranceIDList": [],
     "BottomFuncEntranceIDList": [],
     "LeftHudFuncEntranceIDList": [],
     "HudFuncEntranceIDList": [
@@ -683,6 +715,7 @@
       3,
       4
     ],
+    "WheelSupport": false,
     "ID": 22
   }
 ]

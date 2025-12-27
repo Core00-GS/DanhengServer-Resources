@@ -83,6 +83,9 @@
       "ServerInteractVerificationIDList": [],
       "DisableDither": true,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
@@ -93,10 +96,14 @@
             "$type": "RPG.GameCore.PropTagTimeRewindEntityComponent",
             "EnablePersistence": true,
             "RebuildWhenHitPlayer": true,
+            "InitState": "L0_Idle",
             "AnimStateOverride": [],
             "TimeRewindAnimEventJson": "Config/Gameplays/TimeRewind/TimeRewinder_General03.json",
+            "EnableLoopRewindSnapRatio": 0.9,
             "FoundationAndBallBind": {},
             "DestructibleBridgeBind": {},
+            "ContainerAndSeedBind": {},
+            "PerformanceSplitObjectBind": {},
             "Tag": {
               "Tag": "Prop.Component.TimeRewindEntity",
               "TagHash": 532483231

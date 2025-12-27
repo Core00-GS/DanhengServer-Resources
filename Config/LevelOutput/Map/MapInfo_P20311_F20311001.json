@@ -1164,7 +1164,27 @@
       ],
       "MapLayerList": [
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 2,
@@ -1557,7 +1577,27 @@
       ],
       "MapLayerList": [
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 3,
@@ -1986,7 +2026,27 @@
       ],
       "MapLayerList": [
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 4,
@@ -2823,7 +2883,27 @@
       "MapLayerList": [
         2,
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "PositionInCanvas": {
@@ -3457,6 +3537,48 @@
             "sqrMagnitude": 13014.4443
           },
           {
+            "x": -73.16666,
+            "y": 91.99999,
+            "normalized": {
+              "x": -0.62244457,
+              "y": 0.7826638,
+              "normalized": {
+                "x": -0.6224446,
+                "y": 0.7826639,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.9999999
+            },
+            "magnitude": 117.547264,
+            "sqrMagnitude": 13817.3594
+          },
+          {
+            "x": -69.66666,
+            "y": 67.99999,
+            "normalized": {
+              "x": -0.715615,
+              "y": 0.69849503,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 97.35215,
+            "sqrMagnitude": 9477.441
+          },
+          {
+            "x": 76.33333,
+            "y": 95.00001,
+            "normalized": {
+              "x": 0.6263614,
+              "y": 0.77953285,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.00000012
+            },
+            "magnitude": 121.867867,
+            "sqrMagnitude": 14851.7773
+          },
+          {
             "x": -142.0,
             "y": 41.33333,
             "normalized": {
@@ -3833,6 +3955,18 @@
             },
             "magnitude": 193.519775,
             "sqrMagnitude": 37449.9023
+          },
+          {
+            "x": -122.6667,
+            "y": 59.50002,
+            "normalized": {
+              "x": -0.8997414,
+              "y": 0.436423481,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 136.33551,
+            "sqrMagnitude": 18587.373
           },
           {
             "x": 125.3333,
@@ -4969,16 +5103,16 @@
             "sqrMagnitude": 11309.5479
           },
           {
-            "x": -70.33333,
-            "y": 27.33332,
+            "x": -75.83334,
+            "y": 28.33334,
             "normalized": {
-              "x": -0.93208766,
-              "y": 0.362232983,
+              "x": -0.936751544,
+              "y": 0.3499951,
               "magnitude": 1.0,
-              "sqrMagnitude": 1.00000012
+              "sqrMagnitude": 1.0
             },
-            "magnitude": 75.45785,
-            "sqrMagnitude": 5693.887
+            "magnitude": 80.95353,
+            "sqrMagnitude": 6553.474
           },
           {
             "x": -96.33334,
@@ -5435,6 +5569,30 @@
             },
             "magnitude": 225.5743,
             "sqrMagnitude": 50883.7656
+          },
+          {
+            "x": -70.66666,
+            "y": 2.999997,
+            "normalized": {
+              "x": -0.9991001,
+              "y": 0.042414587,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 70.73031,
+            "sqrMagnitude": 5002.77637
+          },
+          {
+            "x": 27.83333,
+            "y": 55.00001,
+            "normalized": {
+              "x": 0.451534331,
+              "y": 0.892253757,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 61.64167,
+            "sqrMagnitude": 3799.69556
           }
         ],
         "Atlas": "UI/Atlas/AtlasFiles/Minimap/Minimap_20311001.spriteatlas",
@@ -8005,13 +8163,481 @@
             }
           },
           {
+            "ID": 40,
+            "MapLayerID": 1,
+            "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_40.png",
+            "Indices": [
+              27,
+              28,
+              43
+            ],
+            "UIPosition": {
+              "x": 291.0,
+              "y": 773.0,
+              "normalized": {
+                "x": 0.3523173,
+                "y": 0.935880661,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.00000012
+              },
+              "magnitude": 825.96,
+              "sqrMagnitude": 682210.0
+            },
+            "InitialHidden": true,
+            "Triangles": [
+              {
+                "x": 0.24661,
+                "y": 0.687722,
+                "normalized": {
+                  "x": 0.337543935,
+                  "y": 0.94130975,
+                  "normalized": {
+                    "x": 0.337543964,
+                    "y": 0.9413098,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.7306012,
+                "sqrMagnitude": 0.5337781
+              },
+              {
+                "x": 0.313983,
+                "y": 0.745552,
+                "normalized": {
+                  "x": 0.388126671,
+                  "y": 0.921606064,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8089704,
+                "sqrMagnitude": 0.6544331
+              },
+              {
+                "x": 0.24661,
+                "y": 0.786477,
+                "normalized": {
+                  "x": 0.2991988,
+                  "y": 0.9541908,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.824234545,
+                "sqrMagnitude": 0.6793626
+              }
+            ]
+          },
+          {
+            "ID": 39,
+            "MapLayerID": 1,
+            "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_39.png",
+            "Indices": [
+              27,
+              43,
+              45,
+              44
+            ],
+            "UIPosition": {
+              "x": 291.0,
+              "y": 766.0,
+              "normalized": {
+                "x": 0.355132461,
+                "y": 0.934816,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 819.4126,
+              "sqrMagnitude": 671437.0
+            },
+            "InitialHidden": true,
+            "Triangles": [
+              {
+                "x": 0.313983,
+                "y": 0.745552,
+                "normalized": {
+                  "x": 0.388126671,
+                  "y": 0.921606064,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8089704,
+                "sqrMagnitude": 0.6544331
+              },
+              {
+                "x": 0.24661,
+                "y": 0.687722,
+                "normalized": {
+                  "x": 0.337543935,
+                  "y": 0.94130975,
+                  "normalized": {
+                    "x": 0.337543964,
+                    "y": 0.9413098,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.7306012,
+                "sqrMagnitude": 0.5337781
+              },
+              {
+                "x": 0.322881,
+                "y": 0.681495,
+                "normalized": {
+                  "x": 0.428159535,
+                  "y": 0.903703153,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.7541138,
+                "sqrMagnitude": 0.5686876
+              },
+              {
+                "x": 0.313983,
+                "y": 0.745552,
+                "normalized": {
+                  "x": 0.388126671,
+                  "y": 0.921606064,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8089704,
+                "sqrMagnitude": 0.6544331
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.409004,
+                "y": 0.747553,
+                "normalized": {
+                  "x": 0.47998032,
+                  "y": 0.8772793,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8521266,
+                "sqrMagnitude": 0.726119757
+              },
+              {
+                "x": 0.409004,
+                "y": 0.747553,
+                "normalized": {
+                  "x": 0.47998032,
+                  "y": 0.8772793,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8521266,
+                "sqrMagnitude": 0.726119757
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.504025,
+                "y": 0.749555,
+                "normalized": {
+                  "x": 0.558008134,
+                  "y": 0.8298355,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.90325737,
+                "sqrMagnitude": 0.815873861
+              },
+              {
+                "x": 0.313983,
+                "y": 0.745552,
+                "normalized": {
+                  "x": 0.388126671,
+                  "y": 0.921606064,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8089704,
+                "sqrMagnitude": 0.6544331
+              },
+              {
+                "x": 0.322881,
+                "y": 0.681495,
+                "normalized": {
+                  "x": 0.428159535,
+                  "y": 0.903703153,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.7541138,
+                "sqrMagnitude": 0.5686876
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.504025,
+                "y": 0.749555,
+                "normalized": {
+                  "x": 0.558008134,
+                  "y": 0.8298355,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.90325737,
+                "sqrMagnitude": 0.815873861
+              },
+              {
+                "x": 0.508475,
+                "y": 0.717527,
+                "normalized": {
+                  "x": 0.578189,
+                  "y": 0.8159029,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.879426956,
+                "sqrMagnitude": 0.7733918
+              },
+              {
+                "x": 0.599047,
+                "y": 0.751557,
+                "normalized": {
+                  "x": 0.6232992,
+                  "y": 0.7819835,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.9610906,
+                "sqrMagnitude": 0.9236952
+              },
+              {
+                "x": 0.599047,
+                "y": 0.751557,
+                "normalized": {
+                  "x": 0.6232992,
+                  "y": 0.7819835,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.9610906,
+                "sqrMagnitude": 0.9236952
+              },
+              {
+                "x": 0.601271,
+                "y": 0.735543,
+                "normalized": {
+                  "x": 0.632899165,
+                  "y": 0.7742342,
+                  "normalized": {
+                    "x": 0.6328992,
+                    "y": 0.774234235,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.9999999
+                },
+                "magnitude": 0.9500265,
+                "sqrMagnitude": 0.90255034
+              },
+              {
+                "x": 0.694068,
+                "y": 0.753559,
+                "normalized": {
+                  "x": 0.677476048,
+                  "y": 0.73554486,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 1.02449083,
+                "sqrMagnitude": 1.04958153
+              },
+              {
+                "x": 0.599047,
+                "y": 0.751557,
+                "normalized": {
+                  "x": 0.6232992,
+                  "y": 0.7819835,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.9610906,
+                "sqrMagnitude": 0.9236952
+              },
+              {
+                "x": 0.508475,
+                "y": 0.717527,
+                "normalized": {
+                  "x": 0.578189,
+                  "y": 0.8159029,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.879426956,
+                "sqrMagnitude": 0.7733918
+              },
+              {
+                "x": 0.601271,
+                "y": 0.735543,
+                "normalized": {
+                  "x": 0.632899165,
+                  "y": 0.7742342,
+                  "normalized": {
+                    "x": 0.6328992,
+                    "y": 0.774234235,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.9999999
+                },
+                "magnitude": 0.9500265,
+                "sqrMagnitude": 0.90255034
+              },
+              {
+                "x": 0.504025,
+                "y": 0.749555,
+                "normalized": {
+                  "x": 0.558008134,
+                  "y": 0.8298355,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.90325737,
+                "sqrMagnitude": 0.815873861
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.508475,
+                "y": 0.717527,
+                "normalized": {
+                  "x": 0.578189,
+                  "y": 0.8159029,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.879426956,
+                "sqrMagnitude": 0.7733918
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.415678,
+                "y": 0.699511,
+                "normalized": {
+                  "x": 0.510850668,
+                  "y": 0.859669447,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.813697636,
+                "sqrMagnitude": 0.662103832
+              },
+              {
+                "x": 0.508475,
+                "y": 0.717527,
+                "normalized": {
+                  "x": 0.578189,
+                  "y": 0.8159029,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.879426956,
+                "sqrMagnitude": 0.7733918
+              },
+              {
+                "x": 0.413453,
+                "y": 0.715525,
+                "normalized": {
+                  "x": 0.5003126,
+                  "y": 0.865844846,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.8263894,
+                "sqrMagnitude": 0.6829194
+              },
+              {
+                "x": 0.322881,
+                "y": 0.681495,
+                "normalized": {
+                  "x": 0.428159535,
+                  "y": 0.903703153,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.7541138,
+                "sqrMagnitude": 0.5686876
+              },
+              {
+                "x": 0.415678,
+                "y": 0.699511,
+                "normalized": {
+                  "x": 0.510850668,
+                  "y": 0.859669447,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.813697636,
+                "sqrMagnitude": 0.662103832
+              }
+            ]
+          },
+          {
             "ID": 12,
             "MapLayerID": 2,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_12.png",
             "Indices": [
-              57,
-              58,
-              59,
               60,
               61,
               62,
@@ -8020,7 +8646,10 @@
               65,
               66,
               67,
-              68
+              68,
+              69,
+              70,
+              71
             ],
             "UIPosition": {
               "x": 164.0,
@@ -8451,12 +9080,12 @@
             "MapLayerID": 2,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_13.png",
             "Indices": [
-              49,
-              72,
-              71,
               52,
-              51,
-              50
+              75,
+              74,
+              55,
+              54,
+              53
             ],
             "UIPosition": {
               "x": 75.0,
@@ -8653,16 +9282,16 @@
             "MapLayerID": 2,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_14.png",
             "Indices": [
-              47,
-              48,
-              49,
-              72,
-              71,
+              50,
+              51,
               52,
-              70,
-              69,
+              75,
+              74,
               55,
-              56
+              73,
+              72,
+              58,
+              59
             ],
             "UIPosition": {
               "x": 16.0,
@@ -9063,11 +9692,11 @@
             "MapLayerID": 2,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_15.png",
             "Indices": [
-              53,
-              70,
-              69,
-              55,
-              54
+              56,
+              73,
+              72,
+              58,
+              57
             ],
             "UIPosition": {
               "x": 51.0,
@@ -9253,10 +9882,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_16.png",
             "IsRect": true,
             "Indices": [
-              43,
-              44,
-              45,
-              46
+              46,
+              47,
+              48,
+              49
             ],
             "UIPosition": {
               "x": 164.0,
@@ -9365,14 +9994,81 @@
             ]
           },
           {
+            "ID": 41,
+            "MapLayerID": 2,
+            "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_41.png",
+            "Indices": [
+              46,
+              47,
+              76
+            ],
+            "UIPosition": {
+              "x": 164.0,
+              "y": 686.0,
+              "normalized": {
+                "x": 0.2325149,
+                "y": 0.972592831,
+                "magnitude": 1.0,
+                "sqrMagnitude": 1.0
+              },
+              "magnitude": 705.3311,
+              "sqrMagnitude": 497492.0
+            },
+            "InitialHidden": true,
+            "Triangles": [
+              {
+                "x": 0.188136,
+                "y": 0.658808,
+                "normalized": {
+                  "x": 0.2745931,
+                  "y": 0.9615605,
+                  "normalized": {
+                    "x": 0.274593145,
+                    "y": 0.961560547,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.6851446,
+                "sqrMagnitude": 0.469423115
+              },
+              {
+                "x": 0.138983,
+                "y": 0.61032,
+                "normalized": {
+                  "x": 0.2220372,
+                  "y": 0.97503823,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.6259447,
+                "sqrMagnitude": 0.391806751
+              },
+              {
+                "x": 0.219492,
+                "y": 0.61032,
+                "normalized": {
+                  "x": 0.338414848,
+                  "y": 0.940997064,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.6485886,
+                "sqrMagnitude": 0.4206672
+              }
+            ]
+          },
+          {
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_0.png",
             "IsRect": true,
             "Indices": [
-              73,
-              74,
-              75,
-              76
+              77,
+              78,
+              79,
+              80
             ],
             "UIPosition": {
               "x": 966.0,
@@ -9509,16 +10205,16 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_17.png",
             "Indices": [
+              90,
+              89,
+              88,
+              87,
               86,
               85,
               84,
               83,
               82,
-              81,
-              80,
-              79,
-              78,
-              77
+              81
             ],
             "UIPosition": {
               "x": 919.0,
@@ -9925,12 +10621,12 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_18.png",
             "Indices": [
-              81,
-              92,
-              91,
-              84,
-              83,
-              82
+              85,
+              96,
+              95,
+              88,
+              87,
+              86
             ],
             "UIPosition": {
               "x": 989.0,
@@ -10122,10 +10818,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_19.png",
             "IsRect": true,
             "Indices": [
-              90,
-              89,
-              88,
-              87
+              94,
+              93,
+              92,
+              91
             ],
             "UIPosition": {
               "x": 862.0,
@@ -10233,10 +10929,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_20.png",
             "IsRect": true,
             "Indices": [
-              93,
-              94,
-              95,
-              96
+              97,
+              98,
+              99,
+              100
             ],
             "UIPosition": {
               "x": 951.0,
@@ -10354,16 +11050,16 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_21.png",
             "Indices": [
-              107,
+              111,
+              120,
+              119,
+              118,
+              117,
               116,
               115,
               114,
               113,
-              112,
-              111,
-              110,
-              109,
-              108
+              112
             ],
             "UIPosition": {
               "x": 815.0,
@@ -10704,20 +11400,20 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_22.png",
             "Indices": [
-              97,
-              98,
-              99,
+              101,
               102,
               103,
-              104,
-              105,
               106,
               107,
               108,
               109,
               110,
-              117,
-              118
+              111,
+              112,
+              113,
+              114,
+              121,
+              122
             ],
             "UIPosition": {
               "x": 876.0,
@@ -11227,10 +11923,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_23.png",
             "IsRect": true,
             "Indices": [
-              119,
-              124,
               123,
-              122
+              128,
+              127,
+              126
             ],
             "UIPosition": {
               "x": 1023.0,
@@ -11356,10 +12052,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_24.png",
             "IsRect": true,
             "Indices": [
-              119,
-              127,
-              126,
-              125
+              123,
+              131,
+              130,
+              129
             ],
             "UIPosition": {
               "x": 1081.0,
@@ -11476,12 +12172,12 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_25.png",
             "Indices": [
-              102,
-              119,
-              120,
-              121,
-              104,
-              103
+              106,
+              123,
+              124,
+              125,
+              108,
+              107
             ],
             "UIPosition": {
               "x": 1045.0,
@@ -11672,11 +12368,11 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_26.png",
             "Indices": [
-              97,
               101,
-              100,
-              99,
-              98
+              105,
+              104,
+              103,
+              102
             ],
             "UIPosition": {
               "x": 1057.0,
@@ -11814,10 +12510,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_27.png",
             "IsRect": true,
             "Indices": [
-              169,
-              172,
-              171,
-              170
+              173,
+              176,
+              175,
+              174
             ],
             "UIPosition": {
               "x": 198.0,
@@ -11936,16 +12632,16 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_28.png",
             "Indices": [
-              149,
-              155,
-              154,
-              159,
-              160,
-              161,
-              158,
               153,
-              152,
-              150
+              159,
+              158,
+              163,
+              164,
+              165,
+              162,
+              157,
+              156,
+              154
             ],
             "UIPosition": {
               "x": 163.0,
@@ -12298,13 +12994,13 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_29.png",
             "Indices": [
-              159,
-              165,
-              164,
               163,
-              162,
-              161,
-              160
+              169,
+              168,
+              167,
+              166,
+              165,
+              164
             ],
             "UIPosition": {
               "x": 111.0,
@@ -12538,10 +13234,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_30.png",
             "IsRect": true,
             "Indices": [
-              164,
-              166,
-              167,
-              168
+              168,
+              170,
+              171,
+              172
             ],
             "UIPosition": {
               "x": 18.0,
@@ -12656,302 +13352,15 @@
             ]
           },
           {
-            "ID": 32,
-            "MapLayerID": 3,
-            "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_32.png",
-            "Indices": [
-              146,
-              157,
-              156,
-              151,
-              150,
-              149,
-              147
-            ],
-            "UIPosition": {
-              "x": 256.0,
-              "y": 540.0,
-              "normalized": {
-                "x": 0.428374022,
-                "y": 0.903601468,
-                "normalized": {
-                  "x": 0.428374052,
-                  "y": 0.9036015,
-                  "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
-                },
-                "magnitude": 0.99999994,
-                "sqrMagnitude": 0.9999999
-              },
-              "magnitude": 597.6086,
-              "sqrMagnitude": 357136.0
-            },
-            "InitialHidden": true,
-            "Triangles": [
-              {
-                "x": 0.216949,
-                "y": 0.562278,
-                "normalized": {
-                  "x": 0.3599737,
-                  "y": 0.9329625,
-                  "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
-                },
-                "magnitude": 0.602680147,
-                "sqrMagnitude": 0.363223374
-              },
-              {
-                "x": 0.216949,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.372774631,
-                  "y": 0.9279219,
-                  "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
-                },
-                "magnitude": 0.581984341,
-                "sqrMagnitude": 0.338705778
-              },
-              {
-                "x": 0.229661,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.3913509,
-                  "y": 0.9202415,
-                  "normalized": {
-                    "x": 0.391350925,
-                    "y": 0.920241535,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.9999999
-                },
-                "magnitude": 0.586841643,
-                "sqrMagnitude": 0.3443831
-              },
-              {
-                "x": 0.229661,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.3913509,
-                  "y": 0.9202415,
-                  "normalized": {
-                    "x": 0.391350925,
-                    "y": 0.920241535,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.9999999
-                },
-                "magnitude": 0.586841643,
-                "sqrMagnitude": 0.3443831
-              },
-              {
-                "x": 0.229661,
-                "y": 0.480427,
-                "normalized": {
-                  "x": 0.431289732,
-                  "y": 0.9022134,
-                  "normalized": {
-                    "x": 0.4312898,
-                    "y": 0.9022135,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.9999999,
-                  "sqrMagnitude": 0.9999998
-                },
-                "magnitude": 0.5324982,
-                "sqrMagnitude": 0.2835543
-              },
-              {
-                "x": 0.24661,
-                "y": 0.480427,
-                "normalized": {
-                  "x": 0.456664354,
-                  "y": 0.889639,
-                  "normalized": {
-                    "x": 0.456664383,
-                    "y": 0.8896391,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.99999994
-                },
-                "magnitude": 0.540024638,
-                "sqrMagnitude": 0.2916266
-              },
-              {
-                "x": 0.321187,
-                "y": 0.572954,
-                "normalized": {
-                  "x": 0.488988936,
-                  "y": 0.8722899,
-                  "normalized": {
-                    "x": 0.488989,
-                    "y": 0.87229,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.9999999,
-                  "sqrMagnitude": 0.9999998
-                },
-                "magnitude": 0.656838953,
-                "sqrMagnitude": 0.431437373
-              },
-              {
-                "x": 0.216949,
-                "y": 0.562278,
-                "normalized": {
-                  "x": 0.3599737,
-                  "y": 0.9329625,
-                  "magnitude": 1.0,
-                  "sqrMagnitude": 1.0
-                },
-                "magnitude": 0.602680147,
-                "sqrMagnitude": 0.363223374
-              },
-              {
-                "x": 0.229661,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.3913509,
-                  "y": 0.9202415,
-                  "normalized": {
-                    "x": 0.391350925,
-                    "y": 0.920241535,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.9999999
-                },
-                "magnitude": 0.586841643,
-                "sqrMagnitude": 0.3443831
-              },
-              {
-                "x": 0.255085,
-                "y": 0.483986,
-                "normalized": {
-                  "x": 0.466255248,
-                  "y": 0.88465023,
-                  "normalized": {
-                    "x": 0.466255277,
-                    "y": 0.8846503,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.99999994
-                },
-                "magnitude": 0.547093034,
-                "sqrMagnitude": 0.2993108
-              },
-              {
-                "x": 0.321187,
-                "y": 0.572954,
-                "normalized": {
-                  "x": 0.488988936,
-                  "y": 0.8722899,
-                  "normalized": {
-                    "x": 0.488989,
-                    "y": 0.87229,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.9999999,
-                  "sqrMagnitude": 0.9999998
-                },
-                "magnitude": 0.656838953,
-                "sqrMagnitude": 0.431437373
-              },
-              {
-                "x": 0.229661,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.3913509,
-                  "y": 0.9202415,
-                  "normalized": {
-                    "x": 0.391350925,
-                    "y": 0.920241535,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.9999999
-                },
-                "magnitude": 0.586841643,
-                "sqrMagnitude": 0.3443831
-              },
-              {
-                "x": 0.229661,
-                "y": 0.540036,
-                "normalized": {
-                  "x": 0.3913509,
-                  "y": 0.9202415,
-                  "normalized": {
-                    "x": 0.391350925,
-                    "y": 0.920241535,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.0
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.9999999
-                },
-                "magnitude": 0.586841643,
-                "sqrMagnitude": 0.3443831
-              },
-              {
-                "x": 0.24661,
-                "y": 0.480427,
-                "normalized": {
-                  "x": 0.456664354,
-                  "y": 0.889639,
-                  "normalized": {
-                    "x": 0.456664383,
-                    "y": 0.8896391,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.99999994
-                },
-                "magnitude": 0.540024638,
-                "sqrMagnitude": 0.2916266
-              },
-              {
-                "x": 0.255085,
-                "y": 0.483986,
-                "normalized": {
-                  "x": 0.466255248,
-                  "y": 0.88465023,
-                  "normalized": {
-                    "x": 0.466255277,
-                    "y": 0.8846503,
-                    "magnitude": 1.0,
-                    "sqrMagnitude": 1.00000012
-                  },
-                  "magnitude": 0.99999994,
-                  "sqrMagnitude": 0.99999994
-                },
-                "magnitude": 0.547093034,
-                "sqrMagnitude": 0.2993108
-              }
-            ]
-          },
-          {
             "ID": 33,
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_33.png",
             "IsRect": true,
             "Indices": [
-              137,
-              144,
-              143,
-              138
+              141,
+              148,
+              147,
+              142
             ],
             "UIPosition": {
               "x": 271.0,
@@ -13065,10 +13474,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_34.png",
             "IsRect": true,
             "Indices": [
-              139,
-              142,
-              141,
-              140
+              143,
+              146,
+              145,
+              144
             ],
             "UIPosition": {
               "x": 163.0,
@@ -13169,18 +13578,18 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_31.png",
             "Indices": [
-              129,
-              175,
-              136,
+              133,
+              179,
               140,
-              148,
-              174,
-              147,
-              146,
-              157,
-              145,
-              173,
-              130
+              144,
+              152,
+              178,
+              151,
+              150,
+              161,
+              149,
+              177,
+              134
             ],
             "UIPosition": {
               "x": 163.0,
@@ -13665,12 +14074,12 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_35.png",
             "Indices": [
-              128,
-              131,
               132,
-              133,
-              134,
-              135
+              135,
+              136,
+              137,
+              138,
+              139
             ],
             "UIPosition": {
               "x": 387.0,
@@ -13909,12 +14318,12 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_36.png",
             "Indices": [
-              184,
-              185,
-              186,
-              189,
               188,
-              187
+              189,
+              190,
+              193,
+              192,
+              191
             ],
             "UIPosition": {
               "x": 55.0,
@@ -14088,10 +14497,10 @@
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_37.png",
             "IsRect": true,
             "Indices": [
-              176,
-              183,
-              182,
-              181
+              180,
+              187,
+              186,
+              185
             ],
             "UIPosition": {
               "x": 256.0,
@@ -14186,12 +14595,12 @@
             "MapLayerID": 3,
             "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_38.png",
             "Indices": [
-              176,
               180,
-              179,
-              178,
-              177,
-              183
+              184,
+              183,
+              182,
+              181,
+              187
             ],
             "UIPosition": {
               "x": 163.0,
@@ -14400,6 +14809,427 @@
                 "sqrMagnitude": 0.6587967
               }
             ]
+          },
+          {
+            "ID": 32,
+            "MapLayerID": 3,
+            "Sprite": "UI/Atlas/AtlasRoot/Minimap/Minimap_20311001/MinimapSection_20311001_32.png",
+            "Indices": [
+              150,
+              161,
+              194,
+              195,
+              160,
+              155,
+              154,
+              153,
+              151
+            ],
+            "UIPosition": {
+              "x": 256.0,
+              "y": 540.0,
+              "normalized": {
+                "x": 0.428374022,
+                "y": 0.903601468,
+                "normalized": {
+                  "x": 0.428374052,
+                  "y": 0.9036015,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.99999994,
+                "sqrMagnitude": 0.9999999
+              },
+              "magnitude": 597.6086,
+              "sqrMagnitude": 357136.0
+            },
+            "InitialHidden": true,
+            "Triangles": [
+              {
+                "x": 0.216949,
+                "y": 0.562278,
+                "normalized": {
+                  "x": 0.3599737,
+                  "y": 0.9329625,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.602680147,
+                "sqrMagnitude": 0.363223374
+              },
+              {
+                "x": 0.216949,
+                "y": 0.540036,
+                "normalized": {
+                  "x": 0.372774631,
+                  "y": 0.9279219,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.581984341,
+                "sqrMagnitude": 0.338705778
+              },
+              {
+                "x": 0.229661,
+                "y": 0.540036,
+                "normalized": {
+                  "x": 0.3913509,
+                  "y": 0.9202415,
+                  "normalized": {
+                    "x": 0.391350925,
+                    "y": 0.920241535,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.9999999
+                },
+                "magnitude": 0.586841643,
+                "sqrMagnitude": 0.3443831
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.216949,
+                "y": 0.562278,
+                "normalized": {
+                  "x": 0.3599737,
+                  "y": 0.9329625,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.602680147,
+                "sqrMagnitude": 0.363223374
+              },
+              {
+                "x": 0.229661,
+                "y": 0.540036,
+                "normalized": {
+                  "x": 0.3913509,
+                  "y": 0.9202415,
+                  "normalized": {
+                    "x": 0.391350925,
+                    "y": 0.920241535,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.9999999
+                },
+                "magnitude": 0.586841643,
+                "sqrMagnitude": 0.3443831
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.229661,
+                "y": 0.540036,
+                "normalized": {
+                  "x": 0.3913509,
+                  "y": 0.9202415,
+                  "normalized": {
+                    "x": 0.391350925,
+                    "y": 0.920241535,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.0
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.9999999
+                },
+                "magnitude": 0.586841643,
+                "sqrMagnitude": 0.3443831
+              },
+              {
+                "x": 0.229661,
+                "y": 0.480427,
+                "normalized": {
+                  "x": 0.431289732,
+                  "y": 0.9022134,
+                  "normalized": {
+                    "x": 0.4312898,
+                    "y": 0.9022135,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.9999999,
+                  "sqrMagnitude": 0.9999998
+                },
+                "magnitude": 0.5324982,
+                "sqrMagnitude": 0.2835543
+              },
+              {
+                "x": 0.320339,
+                "y": 0.508007,
+                "normalized": {
+                  "x": 0.5333888,
+                  "y": 0.845870256,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.6005732,
+                "sqrMagnitude": 0.36068815
+              },
+              {
+                "x": 0.445551,
+                "y": 0.577402,
+                "normalized": {
+                  "x": 0.610912263,
+                  "y": 0.7916983,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.729320765,
+                "sqrMagnitude": 0.531908751
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.445551,
+                "y": 0.577402,
+                "normalized": {
+                  "x": 0.610912263,
+                  "y": 0.7916983,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.729320765,
+                "sqrMagnitude": 0.531908751
+              },
+              {
+                "x": 0.438983,
+                "y": 0.61121,
+                "normalized": {
+                  "x": 0.58335197,
+                  "y": 0.8122195,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.752518237,
+                "sqrMagnitude": 0.5662837
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.445551,
+                "y": 0.577402,
+                "normalized": {
+                  "x": 0.610912263,
+                  "y": 0.7916983,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.729320765,
+                "sqrMagnitude": 0.531908751
+              },
+              {
+                "x": 0.570763,
+                "y": 0.646797,
+                "normalized": {
+                  "x": 0.6616606,
+                  "y": 0.7498035,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.862622,
+                "sqrMagnitude": 0.7441168
+              },
+              {
+                "x": 0.438983,
+                "y": 0.61121,
+                "normalized": {
+                  "x": 0.58335197,
+                  "y": 0.8122195,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.0
+                },
+                "magnitude": 0.752518237,
+                "sqrMagnitude": 0.5662837
+              },
+              {
+                "x": 0.255085,
+                "y": 0.483986,
+                "normalized": {
+                  "x": 0.466255248,
+                  "y": 0.88465023,
+                  "normalized": {
+                    "x": 0.466255277,
+                    "y": 0.8846503,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.547093034,
+                "sqrMagnitude": 0.2993108
+              },
+              {
+                "x": 0.320339,
+                "y": 0.508007,
+                "normalized": {
+                  "x": 0.5333888,
+                  "y": 0.845870256,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.6005732,
+                "sqrMagnitude": 0.36068815
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.255085,
+                "y": 0.483986,
+                "normalized": {
+                  "x": 0.466255248,
+                  "y": 0.88465023,
+                  "normalized": {
+                    "x": 0.466255277,
+                    "y": 0.8846503,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.547093034,
+                "sqrMagnitude": 0.2993108
+              },
+              {
+                "x": 0.307203,
+                "y": 0.575623,
+                "normalized": {
+                  "x": 0.470831752,
+                  "y": 0.88222307,
+                  "magnitude": 1.0,
+                  "sqrMagnitude": 1.00000012
+                },
+                "magnitude": 0.652468741,
+                "sqrMagnitude": 0.425715476
+              },
+              {
+                "x": 0.229661,
+                "y": 0.480427,
+                "normalized": {
+                  "x": 0.431289732,
+                  "y": 0.9022134,
+                  "normalized": {
+                    "x": 0.4312898,
+                    "y": 0.9022135,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.9999999,
+                  "sqrMagnitude": 0.9999998
+                },
+                "magnitude": 0.5324982,
+                "sqrMagnitude": 0.2835543
+              },
+              {
+                "x": 0.229661,
+                "y": 0.480427,
+                "normalized": {
+                  "x": 0.431289732,
+                  "y": 0.9022134,
+                  "normalized": {
+                    "x": 0.4312898,
+                    "y": 0.9022135,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.9999999,
+                  "sqrMagnitude": 0.9999998
+                },
+                "magnitude": 0.5324982,
+                "sqrMagnitude": 0.2835543
+              },
+              {
+                "x": 0.24661,
+                "y": 0.480427,
+                "normalized": {
+                  "x": 0.456664354,
+                  "y": 0.889639,
+                  "normalized": {
+                    "x": 0.456664383,
+                    "y": 0.8896391,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.540024638,
+                "sqrMagnitude": 0.2916266
+              },
+              {
+                "x": 0.255085,
+                "y": 0.483986,
+                "normalized": {
+                  "x": 0.466255248,
+                  "y": 0.88465023,
+                  "normalized": {
+                    "x": 0.466255277,
+                    "y": 0.8846503,
+                    "magnitude": 1.0,
+                    "sqrMagnitude": 1.00000012
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 0.547093034,
+                "sqrMagnitude": 0.2993108
+              }
+            ]
           }
         ],
         "RoadMapSpriteDict": {
@@ -14431,7 +15261,27 @@
         1,
         2,
         3
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 1,
@@ -14702,7 +15552,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 6,
@@ -15182,7 +16052,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     },
     {
       "ID": 7,
@@ -15406,7 +16296,27 @@
       ],
       "MapLayerList": [
         1
-      ]
+      ],
+      "SubmapUIScaleLowerRatio": 1.0,
+      "SubmapUIScaleUpperRatio": 2.0,
+      "SubmapUIDefaultCenter": {
+        "x": 0.5,
+        "y": 0.5,
+        "normalized": {
+          "x": 0.707106769,
+          "y": 0.707106769,
+          "normalized": {
+            "x": 0.7071068,
+            "y": 0.7071068,
+            "magnitude": 1.0,
+            "sqrMagnitude": 1.00000012
+          },
+          "magnitude": 0.99999994,
+          "sqrMagnitude": 0.99999994
+        },
+        "magnitude": 0.707106769,
+        "sqrMagnitude": 0.5
+      }
     }
   ],
   "BackgroundMapSprite": "SpriteOutput/MapPics/Minimap/Minimap_Chap03_MAZ_P101_BG01.png",
@@ -15455,5 +16365,25 @@
       "Type": "RotatableRegion",
       "AreaID": 2
     }
-  ]
+  ],
+  "UIScaleLowerRatio": 1.0,
+  "UIScaleUpperRatio": 2.0,
+  "UIDefaultCenter": {
+    "x": 0.5,
+    "y": 0.5,
+    "normalized": {
+      "x": 0.707106769,
+      "y": 0.707106769,
+      "normalized": {
+        "x": 0.7071068,
+        "y": 0.7071068,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 0.99999994,
+      "sqrMagnitude": 0.99999994
+    },
+    "magnitude": 0.707106769,
+    "sqrMagnitude": 0.5
+  }
 }

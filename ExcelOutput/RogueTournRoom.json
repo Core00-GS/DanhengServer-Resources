@@ -2,2448 +2,2942 @@
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098080
+    "RogueRoomID": 11098080,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21098080
+    "RogueRoomID": 21098080,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
-    "RogueRoomID": 10033010
+    "TournMode": "Permanent",
+    "RogueRoomID": 10033010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
-    "RogueRoomID": 10083010
+    "TournMode": "Permanent",
+    "RogueRoomID": 10083010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
-    "RogueRoomID": 10013010
+    "TournMode": "Permanent",
+    "RogueRoomID": 10013010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
-    "RogueRoomID": 10023010
+    "TournMode": "Permanent",
+    "RogueRoomID": 10023010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098010
+    "RogueRoomID": 11098010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21098010
+    "RogueRoomID": 21098010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098040
+    "RogueRoomID": 11098040,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098060
+    "RogueRoomID": 11098060,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098030
+    "RogueRoomID": 11098030,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098050
+    "RogueRoomID": 11098050,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11098070
+    "RogueRoomID": 11098070,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11031011
+    "RogueRoomID": 11031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21031011
+    "RogueRoomID": 21031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31031011
+    "RogueRoomID": 31031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41031011
+    "RogueRoomID": 41031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51031011
+    "RogueRoomID": 51031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61031011
-  },
-  {
-    "RogueRoomType": "Shop",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11071010
-  },
-  {
-    "RogueRoomType": "Boss",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11011011
-  },
-  {
-    "RogueRoomType": "Hidden",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11121010
-  },
-  {
-    "RogueRoomType": "Hidden",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21121010
-  },
-  {
-    "RogueRoomType": "Hidden",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31121010
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11051011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21051011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31051011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41051011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51051011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61051011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11081011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21081011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31081011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41081011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51081011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61081011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11041011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21041011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31041011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41041011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51041011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61041011
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11061010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21061010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31061010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41061010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51061010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61061010
-  },
-  {
-    "RogueRoomType": "Respite",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11101010
-  },
-  {
-    "RogueRoomType": "Hidden",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11122010
-  },
-  {
-    "RogueRoomType": "Hidden",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21122010
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 11032011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 21032011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31032011
+    "RogueRoomID": 61031011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11072010
+    "RogueRoomID": 11071010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11012011
+    "RogueRoomID": 11011011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31122010
+    "RogueRoomID": 11121010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Hidden",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21121010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Hidden",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31121010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11052011
+    "RogueRoomID": 11051011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21052011
+    "RogueRoomID": 21051011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31052011
+    "RogueRoomID": 31051011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41051011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51051011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61051011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11082011
+    "RogueRoomID": 11081011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21082011
+    "RogueRoomID": 21081011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31082011
+    "RogueRoomID": 31081011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41081011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51081011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61081011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11042011
+    "RogueRoomID": 11041011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21042011
+    "RogueRoomID": 21041011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31042011
+    "RogueRoomID": 31041011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41041011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51041011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61041011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11062010
+    "RogueRoomID": 11061010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21062010
+    "RogueRoomID": 21061010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31062010
+    "RogueRoomID": 31061010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41061010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51061010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61061010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11102010
+    "RogueRoomID": 11101010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11123010
+    "RogueRoomID": 11122010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21123010
+    "RogueRoomID": 21122010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11033011
+    "RogueRoomID": 11032011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21033011
+    "RogueRoomID": 21032011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31033011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41033011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51033011
+    "RogueRoomID": 31032011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11073010
+    "RogueRoomID": 11072010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11013011
+    "RogueRoomID": 11012011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31123010
+    "RogueRoomID": 31122010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11053011
+    "RogueRoomID": 11052011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21053011
+    "RogueRoomID": 21052011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31053011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41053011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51053011
+    "RogueRoomID": 31052011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11083011
+    "RogueRoomID": 11082011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21083011
+    "RogueRoomID": 21082011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31083011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41083011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51083011
+    "RogueRoomID": 31082011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11043011
+    "RogueRoomID": 11042011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21043011
+    "RogueRoomID": 21042011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31043011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41043011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51043011
+    "RogueRoomID": 31042011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11063010
+    "RogueRoomID": 11062010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21063010
+    "RogueRoomID": 21062010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31063010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41063010
+    "RogueRoomID": 31062010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11103010
+    "RogueRoomID": 11102010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11124010
+    "RogueRoomID": 11123010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21124010
+    "RogueRoomID": 21123010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11034011
+    "RogueRoomID": 11033011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21034011
+    "RogueRoomID": 21033011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31033011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41033011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51033011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11074010
+    "RogueRoomID": 11073010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11014011
+    "RogueRoomID": 11013011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31124010
+    "RogueRoomID": 31123010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11054011
+    "RogueRoomID": 11053011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21054011
+    "RogueRoomID": 21053011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31054011
+    "RogueRoomID": 31053011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41054011
+    "RogueRoomID": 41053011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51054011
+    "RogueRoomID": 51053011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11084011
+    "RogueRoomID": 11083011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21084011
+    "RogueRoomID": 21083011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31084011
+    "RogueRoomID": 31083011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41084011
+    "RogueRoomID": 41083011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51084011
+    "RogueRoomID": 51083011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11044011
+    "RogueRoomID": 11043011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21044011
+    "RogueRoomID": 21043011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31044011
+    "RogueRoomID": 31043011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41044011
+    "RogueRoomID": 41043011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51044011
+    "RogueRoomID": 51043011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11064010
+    "RogueRoomID": 11063010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21064010
+    "RogueRoomID": 21063010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31064010
+    "RogueRoomID": 31063010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41064010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51064010
+    "RogueRoomID": 41063010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11104010
+    "RogueRoomID": 11103010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11125010
+    "RogueRoomID": 11124010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21125010
+    "RogueRoomID": 21124010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11035011
+    "RogueRoomID": 11034011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21035011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31035011
+    "RogueRoomID": 21034011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11075010
+    "RogueRoomID": 11074010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11015011
+    "RogueRoomID": 11014011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31125010
+    "RogueRoomID": 31124010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11055011
+    "RogueRoomID": 11054011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21055011
+    "RogueRoomID": 21054011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31055011
+    "RogueRoomID": 31054011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41055011
+    "RogueRoomID": 41054011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51055011
+    "RogueRoomID": 51054011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11085011
+    "RogueRoomID": 11084011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21085011
+    "RogueRoomID": 21084011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31085011
+    "RogueRoomID": 31084011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41085011
+    "RogueRoomID": 41084011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51085011
+    "RogueRoomID": 51084011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11045011
+    "RogueRoomID": 11044011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21045011
+    "RogueRoomID": 21044011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31045011
+    "RogueRoomID": 31044011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41045011
+    "RogueRoomID": 41044011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51045011
+    "RogueRoomID": 51044011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11065010
+    "RogueRoomID": 11064010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21065010
+    "RogueRoomID": 21064010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31065010
+    "RogueRoomID": 31064010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41065010
+    "RogueRoomID": 41064010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51065010
+    "RogueRoomID": 51064010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11105010
+    "RogueRoomID": 11104010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11126010
+    "RogueRoomID": 11125010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21126010
+    "RogueRoomID": 21125010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11036011
+    "RogueRoomID": 11035011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21036011
+    "RogueRoomID": 21035011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31035011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11076010
+    "RogueRoomID": 11075010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11016011
+    "RogueRoomID": 11015011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31126010
+    "RogueRoomID": 31125010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11056011
+    "RogueRoomID": 11055011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21056011
+    "RogueRoomID": 21055011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31056011
+    "RogueRoomID": 31055011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41056011
+    "RogueRoomID": 41055011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51056011
+    "RogueRoomID": 51055011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11086011
+    "RogueRoomID": 11085011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21086011
+    "RogueRoomID": 21085011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31086011
+    "RogueRoomID": 31085011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41086011
+    "RogueRoomID": 41085011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51086011
+    "RogueRoomID": 51085011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11046011
+    "RogueRoomID": 11045011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21046011
+    "RogueRoomID": 21045011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31046011
+    "RogueRoomID": 31045011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41046011
+    "RogueRoomID": 41045011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51046011
+    "RogueRoomID": 51045011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11066010
+    "RogueRoomID": 11065010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21066010
+    "RogueRoomID": 21065010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31066010
+    "RogueRoomID": 31065010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41066010
+    "RogueRoomID": 41065010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51066010
+    "RogueRoomID": 51065010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11106010
+    "RogueRoomID": 11105010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11127010
+    "RogueRoomID": 11126010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21127010
+    "RogueRoomID": 21126010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11037011
+    "RogueRoomID": 11036011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21037011
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31037011
+    "RogueRoomID": 21036011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11077010
+    "RogueRoomID": 11076010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11017011
+    "RogueRoomID": 11016011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31127010
+    "RogueRoomID": 31126010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11057011
+    "RogueRoomID": 11056011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21057011
+    "RogueRoomID": 21056011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31057011
+    "RogueRoomID": 31056011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41057011
+    "RogueRoomID": 41056011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51057011
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61057011
+    "RogueRoomID": 51056011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11087011
+    "RogueRoomID": 11086011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21087011
+    "RogueRoomID": 21086011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31087011
+    "RogueRoomID": 31086011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41087011
+    "RogueRoomID": 41086011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51087011
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61087011
+    "RogueRoomID": 51086011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11047011
+    "RogueRoomID": 11046011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21047011
+    "RogueRoomID": 21046011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31047011
+    "RogueRoomID": 31046011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41047011
+    "RogueRoomID": 41046011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51047011
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61047011
+    "RogueRoomID": 51046011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11067010
+    "RogueRoomID": 11066010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21067010
+    "RogueRoomID": 21066010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31067010
+    "RogueRoomID": 31066010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41067010
+    "RogueRoomID": 41066010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51067010
-  },
-  {
-    "RogueRoomType": "Coin",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61067010
+    "RogueRoomID": 51066010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11107010
+    "RogueRoomID": 11106010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Hidden",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11127010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Hidden",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21127010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11031012
+    "RogueRoomID": 11037011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21031012
+    "RogueRoomID": 21037011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31031012
+    "RogueRoomID": 31037011,
+    "VariantType": "None"
   },
   {
-    "RogueRoomType": "Battle",
+    "RogueRoomType": "Shop",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41031012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51031012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61031012
+    "RogueRoomID": 11077010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11011012
+    "RogueRoomID": 11017011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Hidden",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31127010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11051012
+    "RogueRoomID": 11057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21051012
+    "RogueRoomID": 21057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31051012
+    "RogueRoomID": 31057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41051012
+    "RogueRoomID": 41057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51051012
+    "RogueRoomID": 51057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61051012
+    "RogueRoomID": 61057011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11081012
+    "RogueRoomID": 11087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21081012
+    "RogueRoomID": 21087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31081012
+    "RogueRoomID": 31087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41081012
+    "RogueRoomID": 41087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51081012
+    "RogueRoomID": 51087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61081012
+    "RogueRoomID": 61087011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11041012
+    "RogueRoomID": 11047011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21041012
+    "RogueRoomID": 21047011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31041012
+    "RogueRoomID": 31047011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41041012
+    "RogueRoomID": 41047011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51041012
+    "RogueRoomID": 51047011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61041012
+    "RogueRoomID": 61047011,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Coin",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61067010,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Respite",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11107010,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11032012
+    "RogueRoomID": 11031012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21032012
+    "RogueRoomID": 21031012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31032012
+    "RogueRoomID": 31031012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41031012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51031012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61031012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11012012
+    "RogueRoomID": 11011012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11052012
+    "RogueRoomID": 11051012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21052012
+    "RogueRoomID": 21051012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31052012
+    "RogueRoomID": 31051012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41051012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51051012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61051012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11082012
+    "RogueRoomID": 11081012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21082012
+    "RogueRoomID": 21081012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31082012
+    "RogueRoomID": 31081012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41081012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51081012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61081012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11042012
+    "RogueRoomID": 11041012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21042012
+    "RogueRoomID": 21041012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31042012
+    "RogueRoomID": 31041012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41041012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51041012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61041012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11033012
+    "RogueRoomID": 11032012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21033012
+    "RogueRoomID": 21032012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31033012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41033012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51033012
+    "RogueRoomID": 31032012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11013012
+    "RogueRoomID": 11012012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11053012
+    "RogueRoomID": 11052012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21053012
+    "RogueRoomID": 21052012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31053012
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41053012
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51053012
+    "RogueRoomID": 31052012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11083012
+    "RogueRoomID": 11082012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21083012
+    "RogueRoomID": 21082012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31083012
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41083012
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51083012
+    "RogueRoomID": 31082012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11043012
+    "RogueRoomID": 11042012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21043012
+    "RogueRoomID": 21042012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31043012
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41043012
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51043012
+    "RogueRoomID": 31042012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11034012
+    "RogueRoomID": 11033012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21034012
+    "RogueRoomID": 21033012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31033012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41033012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51033012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11014012
+    "RogueRoomID": 11013012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11054012
+    "RogueRoomID": 11053012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21054012
+    "RogueRoomID": 21053012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31054012
+    "RogueRoomID": 31053012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41054012
+    "RogueRoomID": 41053012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51054012
+    "RogueRoomID": 51053012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11084012
+    "RogueRoomID": 11083012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21084012
+    "RogueRoomID": 21083012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31084012
+    "RogueRoomID": 31083012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41084012
+    "RogueRoomID": 41083012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51084012
+    "RogueRoomID": 51083012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11044012
+    "RogueRoomID": 11043012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21044012
+    "RogueRoomID": 21043012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31044012
+    "RogueRoomID": 31043012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41044012
+    "RogueRoomID": 41043012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51044012
+    "RogueRoomID": 51043012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11035012
+    "RogueRoomID": 11034012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21035012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31035012
+    "RogueRoomID": 21034012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11015012
+    "RogueRoomID": 11014012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11055012
+    "RogueRoomID": 11054012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21055012
+    "RogueRoomID": 21054012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31055012
+    "RogueRoomID": 31054012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41055012
+    "RogueRoomID": 41054012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51055012
+    "RogueRoomID": 51054012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11085012
+    "RogueRoomID": 11084012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21085012
+    "RogueRoomID": 21084012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31085012
+    "RogueRoomID": 31084012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41085012
+    "RogueRoomID": 41084012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51085012
+    "RogueRoomID": 51084012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11045012
+    "RogueRoomID": 11044012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21045012
+    "RogueRoomID": 21044012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31045012
+    "RogueRoomID": 31044012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41045012
+    "RogueRoomID": 41044012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51045012
+    "RogueRoomID": 51044012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11036012
+    "RogueRoomID": 11035012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21036012
+    "RogueRoomID": 21035012,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31035012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11016012
+    "RogueRoomID": 11015012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11056012
+    "RogueRoomID": 11055012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21056012
+    "RogueRoomID": 21055012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31056012
+    "RogueRoomID": 31055012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41056012
+    "RogueRoomID": 41055012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51056012
+    "RogueRoomID": 51055012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11086012
+    "RogueRoomID": 11085012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21086012
+    "RogueRoomID": 21085012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31086012
+    "RogueRoomID": 31085012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41086012
+    "RogueRoomID": 41085012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51086012
+    "RogueRoomID": 51085012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11046012
+    "RogueRoomID": 11045012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21046012
+    "RogueRoomID": 21045012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31046012
+    "RogueRoomID": 31045012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41046012
+    "RogueRoomID": 41045012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51046012
+    "RogueRoomID": 51045012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11037012
+    "RogueRoomID": 11036012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21037012
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31037012
+    "RogueRoomID": 21036012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11017012
+    "RogueRoomID": 11016012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11057012
+    "RogueRoomID": 11056012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21057012
+    "RogueRoomID": 21056012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31057012
+    "RogueRoomID": 31056012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41057012
+    "RogueRoomID": 41056012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51057012
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61057012
+    "RogueRoomID": 51056012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11087012
+    "RogueRoomID": 11086012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21087012
+    "RogueRoomID": 21086012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31087012
+    "RogueRoomID": 31086012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41087012
+    "RogueRoomID": 41086012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51087012
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61087012
+    "RogueRoomID": 51086012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11047012
+    "RogueRoomID": 11046012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21047012
+    "RogueRoomID": 21046012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31047012
+    "RogueRoomID": 31046012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41047012
+    "RogueRoomID": 41046012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51047012
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61047012
+    "RogueRoomID": 51046012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11031013
+    "RogueRoomID": 11037012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21031013
+    "RogueRoomID": 21037012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31031013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41031013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51031013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 61031013
+    "RogueRoomID": 31037012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11011013
+    "RogueRoomID": 11017012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11051013
+    "RogueRoomID": 11057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21051013
+    "RogueRoomID": 21057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31051013
+    "RogueRoomID": 31057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41051013
+    "RogueRoomID": 41057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51051013
+    "RogueRoomID": 51057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61051013
+    "RogueRoomID": 61057012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11081013
+    "RogueRoomID": 11087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21081013
+    "RogueRoomID": 21087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31081013
+    "RogueRoomID": 31087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41081013
+    "RogueRoomID": 41087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51081013
+    "RogueRoomID": 51087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61081013
+    "RogueRoomID": 61087012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11041013
+    "RogueRoomID": 11047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21041013
+    "RogueRoomID": 21047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31041013
+    "RogueRoomID": 31047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41041013
+    "RogueRoomID": 41047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51041013
+    "RogueRoomID": 51047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61041013
+    "RogueRoomID": 61047012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11032013
+    "RogueRoomID": 11031013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21032013
+    "RogueRoomID": 21031013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31032013
+    "RogueRoomID": 31031013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41031013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51031013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61031013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11012013
+    "RogueRoomID": 11011013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11052013
+    "RogueRoomID": 11051013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21052013
+    "RogueRoomID": 21051013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31052013
+    "RogueRoomID": 31051013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41051013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51051013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61051013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11082013
+    "RogueRoomID": 11081013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21082013
+    "RogueRoomID": 21081013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31082013
+    "RogueRoomID": 31081013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41081013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51081013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61081013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11042013
+    "RogueRoomID": 11041013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21042013
+    "RogueRoomID": 21041013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31042013
+    "RogueRoomID": 31041013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41041013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51041013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61041013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11033013
+    "RogueRoomID": 11032013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21033013
+    "RogueRoomID": 21032013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31033013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41033013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51033013
+    "RogueRoomID": 31032013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11013013
+    "RogueRoomID": 11012013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11053013
+    "RogueRoomID": 11052013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21053013
+    "RogueRoomID": 21052013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31053013
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41053013
-  },
-  {
-    "RogueRoomType": "Event",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51053013
+    "RogueRoomID": 31052013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11083013
+    "RogueRoomID": 11082013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21083013
+    "RogueRoomID": 21082013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31083013
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41083013
-  },
-  {
-    "RogueRoomType": "Reward",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51083013
+    "RogueRoomID": 31082013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11043013
+    "RogueRoomID": 11042013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21043013
+    "RogueRoomID": 21042013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31043013
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 41043013
-  },
-  {
-    "RogueRoomType": "Encounter",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 51043013
+    "RogueRoomID": 31042013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11034013
+    "RogueRoomID": 11033013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21034013
+    "RogueRoomID": 21033013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31033013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41033013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51033013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11014013
+    "RogueRoomID": 11013013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11054013
+    "RogueRoomID": 11053013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21054013
+    "RogueRoomID": 21053013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31054013
+    "RogueRoomID": 31053013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41054013
+    "RogueRoomID": 41053013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51054013
+    "RogueRoomID": 51053013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11084013
+    "RogueRoomID": 11083013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21084013
+    "RogueRoomID": 21083013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31084013
+    "RogueRoomID": 31083013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41084013
+    "RogueRoomID": 41083013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51084013
+    "RogueRoomID": 51083013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11044013
+    "RogueRoomID": 11043013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21044013
+    "RogueRoomID": 21043013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31044013
+    "RogueRoomID": 31043013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41044013
+    "RogueRoomID": 41043013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51044013
+    "RogueRoomID": 51043013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11035013
+    "RogueRoomID": 11034013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21035013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31035013
+    "RogueRoomID": 21034013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11015013
+    "RogueRoomID": 11014013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11055013
+    "RogueRoomID": 11054013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21055013
+    "RogueRoomID": 21054013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31055013
+    "RogueRoomID": 31054013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41055013
+    "RogueRoomID": 41054013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51055013
+    "RogueRoomID": 51054013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11085013
+    "RogueRoomID": 11084013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21085013
+    "RogueRoomID": 21084013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31085013
+    "RogueRoomID": 31084013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41085013
+    "RogueRoomID": 41084013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51085013
+    "RogueRoomID": 51084013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11045013
+    "RogueRoomID": 11044013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21045013
+    "RogueRoomID": 21044013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31045013
+    "RogueRoomID": 31044013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41045013
+    "RogueRoomID": 41044013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51045013
+    "RogueRoomID": 51044013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11036013
+    "RogueRoomID": 11035013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21036013
+    "RogueRoomID": 21035013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31035013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11016013
+    "RogueRoomID": 11015013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11056013
+    "RogueRoomID": 11055013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21056013
+    "RogueRoomID": 21055013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31056013
+    "RogueRoomID": 31055013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41056013
+    "RogueRoomID": 41055013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51056013
+    "RogueRoomID": 51055013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11086013
+    "RogueRoomID": 11085013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21086013
+    "RogueRoomID": 21085013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31086013
+    "RogueRoomID": 31085013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41086013
+    "RogueRoomID": 41085013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51086013
+    "RogueRoomID": 51085013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11046013
+    "RogueRoomID": 11045013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21046013
+    "RogueRoomID": 21045013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31046013
+    "RogueRoomID": 31045013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41046013
+    "RogueRoomID": 41045013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51046013
+    "RogueRoomID": 51045013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11037013
+    "RogueRoomID": 11036013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21037013
-  },
-  {
-    "RogueRoomType": "Battle",
-    "TournMode": "Tourn1",
-    "RogueRoomID": 31037013
+    "RogueRoomID": 21036013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11017013
+    "RogueRoomID": 11016013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11057013
+    "RogueRoomID": 11056013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21057013
+    "RogueRoomID": 21056013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31057013
+    "RogueRoomID": 31056013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41057013
+    "RogueRoomID": 41056013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51057013
+    "RogueRoomID": 51056013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11086013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21086013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31086013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41086013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Reward",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51086013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11046013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21046013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31046013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41046013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Encounter",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51046013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11037013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21037013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31037013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Boss",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 11017013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61057013
+    "RogueRoomID": 11057013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 21057013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 31057013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 41057013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 51057013,
+    "VariantType": "None"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn1",
+    "RogueRoomID": 61057013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11087013
+    "RogueRoomID": 11087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21087013
+    "RogueRoomID": 21087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31087013
+    "RogueRoomID": 31087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41087013
+    "RogueRoomID": 41087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51087013
+    "RogueRoomID": 51087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61087013
+    "RogueRoomID": 61087013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 11047013
+    "RogueRoomID": 11047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 21047013
+    "RogueRoomID": 21047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 31047013
+    "RogueRoomID": 31047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 41047013
+    "RogueRoomID": 41047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 51047013
+    "RogueRoomID": 51047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Encounter",
     "TournMode": "Tourn1",
-    "RogueRoomID": 61047013
+    "RogueRoomID": 61047013,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2454,7 +2948,8 @@
   {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
-    "RogueRoomID": 120810129
+    "RogueRoomID": 120810129,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2465,17 +2960,20 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 120110129
+    "RogueRoomID": 120110129,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200001
+    "RogueRoomID": 200001,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200002
+    "RogueRoomID": 200002,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2528,12 +3026,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200011
+    "RogueRoomID": 200011,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200012
+    "RogueRoomID": 200012,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -2550,7 +3050,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200015
+    "RogueRoomID": 200015,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -2573,12 +3074,14 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200019
+    "RogueRoomID": 200019,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200020
+    "RogueRoomID": 200020,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2631,12 +3134,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200029
+    "RogueRoomID": 200029,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200030
+    "RogueRoomID": 200030,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -2653,7 +3158,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200033
+    "RogueRoomID": 200033,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -2676,127 +3182,152 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200037
+    "RogueRoomID": 200037,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200038
+    "RogueRoomID": 200038,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200039
+    "RogueRoomID": 200039,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200040
+    "RogueRoomID": 200040,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200041
+    "RogueRoomID": 200041,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200042
+    "RogueRoomID": 200042,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200043
+    "RogueRoomID": 200043,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200044
+    "RogueRoomID": 200044,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299900
+    "RogueRoomID": 200101,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299901
+    "RogueRoomID": 200102,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200101
+    "RogueRoomID": 200103,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200102
+    "RogueRoomID": 200104,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200103
+    "RogueRoomID": 200105,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200104
+    "RogueRoomID": 200106,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200105
+    "RogueRoomID": 200107,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200106
+    "RogueRoomID": 200108,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200107
+    "RogueRoomID": 200109,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200108
+    "RogueRoomID": 200110,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Adventure",
     "TournMode": "Tourn2",
-    "RogueRoomID": 200109
+    "RogueRoomID": 200111,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299902
+    "RogueRoomID": 299902,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299903
+    "RogueRoomID": 299903,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299904
+    "RogueRoomID": 299904,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299905
+    "RogueRoomID": 299905,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299906
+    "RogueRoomID": 299906,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299907
+    "RogueRoomID": 299907,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2849,12 +3380,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299916
+    "RogueRoomID": 299916,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299917
+    "RogueRoomID": 299917,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -2871,7 +3404,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299920
+    "RogueRoomID": 299920,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -2900,32 +3434,38 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299925
+    "RogueRoomID": 299925,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299926
+    "RogueRoomID": 299926,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299927
+    "RogueRoomID": 299927,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299928
+    "RogueRoomID": 299928,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299929
+    "RogueRoomID": 299929,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299930
+    "RogueRoomID": 299930,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -2978,12 +3518,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299939
+    "RogueRoomID": 299939,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299940
+    "RogueRoomID": 299940,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -3000,7 +3542,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299943
+    "RogueRoomID": 299943,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -3029,32 +3572,38 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299948
+    "RogueRoomID": 299948,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299949
+    "RogueRoomID": 299949,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299950
+    "RogueRoomID": 299950,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299951
+    "RogueRoomID": 299951,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299952
+    "RogueRoomID": 299952,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299953
+    "RogueRoomID": 299953,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -3107,12 +3656,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299962
+    "RogueRoomID": 299962,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299963
+    "RogueRoomID": 299963,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -3129,7 +3680,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299966
+    "RogueRoomID": 299966,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -3158,32 +3710,38 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299971
+    "RogueRoomID": 299971,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299972
+    "RogueRoomID": 299972,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299973
+    "RogueRoomID": 299973,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299974
+    "RogueRoomID": 299974,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299975
+    "RogueRoomID": 299975,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299976
+    "RogueRoomID": 299976,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Battle",
@@ -3236,12 +3794,14 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299985
+    "RogueRoomID": 299985,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299986
+    "RogueRoomID": 299986,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Reward",
@@ -3258,7 +3818,8 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 299989
+    "RogueRoomID": 299989,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -3287,37 +3848,44 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320110121
+    "RogueRoomID": 320110121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320110122
+    "RogueRoomID": 320110122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320110123
+    "RogueRoomID": 320110123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320210121
+    "RogueRoomID": 320210121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320210122
+    "RogueRoomID": 320210122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320210123
+    "RogueRoomID": 320210123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320610120
+    "RogueRoomID": 320610120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
@@ -3398,6 +3966,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 720510121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 720510122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 720510123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 820510121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 820510122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 820510123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 220810121,
@@ -3432,6 +4036,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 220410123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320310121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320310122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320310123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420310121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420310122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420310123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -3508,12 +4148,14 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 321010120
+    "RogueRoomID": 321010120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320710120
+    "RogueRoomID": 320710120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -3542,7 +4184,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 520610120
+    "RogueRoomID": 520610120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -3617,6 +4260,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920510121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920510122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920510123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020510121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020510122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020510123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 420810121,
@@ -3651,6 +4330,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 420410123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520310121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520310122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520310123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620310121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620310122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620310123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -3727,7 +4442,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 620610120
+    "RogueRoomID": 620610120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -3802,6 +4518,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120510121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120510122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120510123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220510121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220510122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220510123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 620810121,
@@ -3836,6 +4588,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 620410123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720310121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720310122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720310123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820310121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820310122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820310123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -3912,37 +4700,44 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320120121
+    "RogueRoomID": 320120121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320120122
+    "RogueRoomID": 320120122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320120123
+    "RogueRoomID": 320120123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320220121
+    "RogueRoomID": 320220121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320220122
+    "RogueRoomID": 320220122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320220123
+    "RogueRoomID": 320220123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320620120
+    "RogueRoomID": 320620120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
@@ -4023,6 +4818,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920520121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920520122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920520123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020520121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020520122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020520123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 220820121,
@@ -4057,6 +4888,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 220420123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720320121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720320122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720320123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820320121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820320122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820320123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -4133,12 +5000,14 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 321020120
+    "RogueRoomID": 321020120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 320720120
+    "RogueRoomID": 320720120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -4167,7 +5036,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 520620120
+    "RogueRoomID": 520620120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -4242,6 +5112,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120520121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120520122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120520123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220520121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220520122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220520123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 420820121,
@@ -4276,6 +5182,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 420420123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920320121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920320122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920320123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020320121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020320122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020320123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -4352,7 +5294,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 620620120
+    "RogueRoomID": 620620120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -4427,6 +5370,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320520121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320520122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320520123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420520121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420520122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420520123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 620820121,
@@ -4461,6 +5440,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 620420123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120320121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120320122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120320123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220320121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220320122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220320123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -4537,7 +5552,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 720620120
+    "RogueRoomID": 720620120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -4612,6 +5628,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520520121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520520122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520520123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620520121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620520122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620520123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 820820121,
@@ -4646,6 +5698,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 820420123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320320121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320320122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320320123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420320121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420320122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420320123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -4722,37 +5810,44 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220130121
+    "RogueRoomID": 220130121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220130122
+    "RogueRoomID": 220130122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220130123
+    "RogueRoomID": 220130123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220230121
+    "RogueRoomID": 220230121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220230122
+    "RogueRoomID": 220230122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220230123
+    "RogueRoomID": 220230123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220630120
+    "RogueRoomID": 220630120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
@@ -4833,6 +5928,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920530121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920530122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920530123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020530121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020530122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020530123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 220830121,
@@ -4867,6 +5998,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 220430123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720330121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720330122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720330123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820330121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820330122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820330123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -4943,12 +6110,14 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 221030120
+    "RogueRoomID": 221030120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220730120
+    "RogueRoomID": 220730120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -4977,7 +6146,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 420630120
+    "RogueRoomID": 420630120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -5052,6 +6222,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120530121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120530122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120530123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220530121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220530122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220530123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 420830121,
@@ -5086,6 +6292,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 420430123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920330121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920330122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920330123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020330121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020330122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020330123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -5162,7 +6404,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 520630120
+    "RogueRoomID": 520630120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -5237,6 +6480,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320530121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320530122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320530123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420530121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420530122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420530123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 620830121,
@@ -5271,6 +6550,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 620430123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120330121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120330122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120330123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220330121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220330122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220330123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -5347,7 +6662,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 620630120
+    "RogueRoomID": 620630120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -5422,6 +6738,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520530121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520530122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520530123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620530121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620530122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620530123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 820830121,
@@ -5456,6 +6808,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 820430123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320330121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320330122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320330123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420330121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420330122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420330123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -5532,37 +6920,44 @@
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220140121
+    "RogueRoomID": 220140121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220140122
+    "RogueRoomID": 220140122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Boss",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220140123
+    "RogueRoomID": 220140123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220240121
+    "RogueRoomID": 220240121,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220240122
+    "RogueRoomID": 220240122,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Elite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220240123
+    "RogueRoomID": 220240123,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220640120
+    "RogueRoomID": 220640120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Coin",
@@ -5643,6 +7038,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920540121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920540122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 920540123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020540121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020540122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1020540123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 220840121,
@@ -5677,6 +7108,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 220440123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720340121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720340122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1720340123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820340121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820340122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1820340123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -5753,12 +7220,14 @@
   {
     "RogueRoomType": "Respite",
     "TournMode": "Tourn2",
-    "RogueRoomID": 221040120
+    "RogueRoomID": 221040120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Shop",
     "TournMode": "Tourn2",
-    "RogueRoomID": 220740120
+    "RogueRoomID": 220740120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Hidden",
@@ -5787,7 +7256,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 420640120
+    "RogueRoomID": 420640120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -5862,6 +7332,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120540121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120540122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1120540123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220540121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220540122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1220540123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 420840121,
@@ -5896,6 +7402,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 420440123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920340121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920340122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1920340123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020340121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020340122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2020340123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -5972,7 +7514,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 520640120
+    "RogueRoomID": 520640120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -6047,6 +7590,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320540121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320540122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1320540123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420540121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420540122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1420540123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 620840121,
@@ -6081,6 +7660,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 620440123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120340121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120340122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2120340123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220340121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220340122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2220340123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",
@@ -6157,7 +7772,8 @@
   {
     "RogueRoomType": "Coin",
     "TournMode": "Tourn2",
-    "RogueRoomID": 620640120
+    "RogueRoomID": 620640120,
+    "VariantType": "None"
   },
   {
     "RogueRoomType": "Event",
@@ -6232,6 +7848,42 @@
     "VariantType": "EventSingle"
   },
   {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520540121,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520540122,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1520540123,
+    "VariantType": "EventTriple"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620540121,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620540122,
+    "VariantType": "EventNone"
+  },
+  {
+    "RogueRoomType": "Event",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 1620540123,
+    "VariantType": "EventNone"
+  },
+  {
     "RogueRoomType": "Reward",
     "TournMode": "Tourn2",
     "RogueRoomID": 820840121,
@@ -6266,6 +7918,42 @@
     "TournMode": "Tourn2",
     "RogueRoomID": 820440123,
     "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320340121,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320340122,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2320340123,
+    "VariantType": "EncounterSingle"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420340121,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420340122,
+    "VariantType": "EncounterDouble"
+  },
+  {
+    "RogueRoomType": "Battle",
+    "TournMode": "Tourn2",
+    "RogueRoomID": 2420340123,
+    "VariantType": "EncounterDouble"
   },
   {
     "RogueRoomType": "Battle",

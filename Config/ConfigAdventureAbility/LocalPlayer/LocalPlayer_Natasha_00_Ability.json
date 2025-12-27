@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Natasha_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -130,8 +130,9 @@
                 },
                 "CompareType": "LessEqual",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 32212254722
+                  "FixedValue": {
+                    "RawValue": 32212254722,
+                    "Value": 7.5
                   }
                 },
                 "IgnoreRadius": true,
@@ -169,8 +170,9 @@
                     "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Bullet.prefab",
                     "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Hit.prefab",
                     "LinearPitchAngle": {
-                      "fixedValue": {
-                        "RawValue": 98784247808
+                      "FixedValue": {
+                        "RawValue": 98784247808,
+                        "Value": 23.0
                       }
                     },
                     "BoomerangEccentricity": 1.0,
@@ -216,8 +218,9 @@
                                 "$type": "RPG.GameCore.ByCompareProjectileLifetime",
                                 "CompareType": "GreaterEqual",
                                 "CompareValue": {
-                                  "fixedValue": {
-                                    "RawValue": 5153960756
+                                  "FixedValue": {
+                                    "RawValue": 5153960756,
+                                    "Value": 1.2
                                   }
                                 },
                                 "TaskEnabled": true,
@@ -335,8 +338,9 @@
                     "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Bullet.prefab",
                     "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Hit.prefab",
                     "LinearPitchAngle": {
-                      "fixedValue": {
-                        "RawValue": 128849018880
+                      "FixedValue": {
+                        "RawValue": 128849018880,
+                        "Value": 30.0
                       }
                     },
                     "BoomerangEccentricity": 1.0,
@@ -382,8 +386,9 @@
                                 "$type": "RPG.GameCore.ByCompareProjectileLifetime",
                                 "CompareType": "GreaterEqual",
                                 "CompareValue": {
-                                  "fixedValue": {
-                                    "RawValue": 5153960756
+                                  "FixedValue": {
+                                    "RawValue": 5153960756,
+                                    "Value": 1.2
                                   }
                                 },
                                 "TaskEnabled": true,
@@ -512,8 +517,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 85899346
+                "FixedValue": {
+                  "RawValue": 85899346,
+                  "Value": 0.02
                 }
               },
               "TaskEnabled": true,
@@ -557,8 +563,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Bullet.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Hit.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 128849018880
+                  "FixedValue": {
+                    "RawValue": 128849018880,
+                    "Value": 30.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -604,8 +611,9 @@
                             "$type": "RPG.GameCore.ByCompareProjectileLifetime",
                             "CompareType": "GreaterEqual",
                             "CompareValue": {
-                              "fixedValue": {
-                                "RawValue": 5153960756
+                              "FixedValue": {
+                                "RawValue": 5153960756,
+                                "Value": 1.2
                               }
                             },
                             "TaskEnabled": true,
@@ -708,8 +716,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 322122546
+                "FixedValue": {
+                  "RawValue": 322122546,
+                  "Value": 0.07
                 }
               },
               "TaskEnabled": true,
@@ -723,8 +732,7 @@
     {
       "Name": "LocalPlayer_Natasha_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -783,8 +791,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 566935683
+                "FixedValue": {
+                  "RawValue": 566935683,
+                  "Value": 0.13
                 }
               },
               "TaskEnabled": true,
@@ -843,8 +852,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Bullet.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_Common_Hit.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -1001,8 +1011,9 @@
               },
               "AnimStateName": "MazeSkill",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 566935683
+                "FixedValue": {
+                  "RawValue": 566935683,
+                  "Value": 0.13
                 }
               },
               "TaskEnabled": true,
@@ -1061,8 +1072,9 @@
                 "FlyEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_MazeAttack_Bullet.prefab",
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Natasha_00/Eff_Avatar_Natasha_00_Common_Hit.prefab",
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 21474836480
+                  "FixedValue": {
+                    "RawValue": 21474836480,
+                    "Value": 5.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -1185,5 +1197,17 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Natasha": {
+      "LifeTime": 20.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

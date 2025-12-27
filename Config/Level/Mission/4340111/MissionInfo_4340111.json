@@ -177,7 +177,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -192,10 +192,11 @@
       "LevelPlaneID": 20321,
       "LevelFloorID": 20321001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        434011107
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "434011107"
       ],
       "FinishType": "WaitDays",
       "ParamType": "Equal",
@@ -216,10 +217,11 @@
       "LevelPlaneID": 20321,
       "LevelFloorID": 20321001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        434011107
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "434011107"
       ],
       "FinishType": "WaitDays",
       "ParamType": "Equal",
@@ -240,10 +242,11 @@
       "LevelPlaneID": 20321,
       "LevelFloorID": 20321001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        3,
-        434011107
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "3",
+        "434011107"
       ],
       "FinishType": "WaitDays",
       "ParamType": "Equal",
@@ -352,6 +355,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -360,6 +365,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -370,6 +377,8 @@
     },
     {
       "Index": 2,
+      "Name": "OldValue_2",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -380,6 +389,8 @@
     },
     {
       "Index": 3,
+      "Name": "OldValue_3",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         0,
@@ -390,7 +401,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    0
+    "OldValue_0"
   ],
   "AssistWayPointPackList": []
 }

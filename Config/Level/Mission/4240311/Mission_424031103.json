@@ -30,6 +30,7 @@
             "MainMissionID": 4240311,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "isLocal": true,
               "ValidValueParamList": []
             },

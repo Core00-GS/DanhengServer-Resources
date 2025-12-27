@@ -24,8 +24,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -35,6 +36,7 @@
         {
           "$type": "RPG.GameCore.WaitTutorial",
           "Event": "ShowUIMainPage",
+          "GoNextImmediately": true,
           "OnSuccessImmediate": [
             {
               "$type": "RPG.GameCore.TutorialTaskUnlock",

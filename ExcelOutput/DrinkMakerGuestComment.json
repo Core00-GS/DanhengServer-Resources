@@ -1,10 +1,11 @@
 [
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 11,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 11,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853331,
@@ -12,11 +13,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 12,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 12,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137858,
@@ -24,11 +26,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 13,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 13,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946083,
@@ -36,11 +39,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 21,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 21,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853328,
@@ -48,11 +52,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 22,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 22,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137855,
@@ -60,11 +65,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 23,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 23,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946086,
@@ -72,11 +78,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 31,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 31,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853329,
@@ -84,11 +91,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 32,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 32,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137856,
@@ -96,11 +104,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 33,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 33,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946085,
@@ -108,11 +117,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 41,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 41,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853334,
@@ -120,11 +130,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 42,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 42,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137861,
@@ -132,11 +143,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 43,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 43,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946080,
@@ -144,11 +156,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 51,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 51,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853335,
@@ -156,11 +169,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 52,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 52,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137862,
@@ -168,11 +182,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 53,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 53,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946079,
@@ -180,11 +195,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon3.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 61,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 61,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 704853332,
@@ -192,11 +208,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 62,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 62,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": 1108137859,
@@ -204,11 +221,12 @@
     }
   },
   {
-    "TriggerTypeParamList": [],
     "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon1.png",
+    "TriggerTypeParamList": [],
+    "SatisfyTriggerType": "None",
+    "CommentID": 63,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 63,
     "Type": "Unsatisfactory",
     "CommentContent": {
       "Hash": -457946082,
@@ -216,14 +234,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 101,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 101,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700281,
@@ -231,14 +249,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       3
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 104,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 104,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700276,
@@ -246,14 +264,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       4
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 105,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 105,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700277,
@@ -261,14 +279,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 106,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 106,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700278,
@@ -276,14 +294,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 107,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 107,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700279,
@@ -291,14 +309,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 108,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 108,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700272,
@@ -306,14 +324,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 109,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 109,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700273,
@@ -321,14 +339,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 110,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 110,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183075,
@@ -336,14 +354,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 111,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 111,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183074,
@@ -351,14 +369,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 112,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 112,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183073,
@@ -366,14 +384,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 113,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 113,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183072,
@@ -381,14 +399,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       2102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 114,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 114,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183079,
@@ -396,14 +414,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       101
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 115,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 115,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183078,
@@ -411,14 +429,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 116,
     "Weight": 1,
     "GuestID": 1,
-    "CommentID": 116,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183077,
@@ -426,15 +444,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 117,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 117,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183076,
@@ -442,15 +460,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 118,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 118,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183083,
@@ -458,15 +476,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 119,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 119,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183082,
@@ -474,15 +492,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 120,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 120,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499694,
@@ -490,15 +508,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 121,
     "Weight": 99,
     "GuestID": 1,
-    "CommentID": 121,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499695,
@@ -506,14 +524,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 201,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 201,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700442,
@@ -521,14 +539,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 202,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 202,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700441,
@@ -536,14 +554,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       2
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 203,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 203,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700440,
@@ -551,14 +569,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 206,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 206,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700437,
@@ -566,14 +584,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 207,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 207,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700436,
@@ -581,14 +599,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 208,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 208,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700435,
@@ -596,14 +614,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 209,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 209,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700434,
@@ -611,14 +629,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 210,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 210,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182912,
@@ -626,14 +644,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 211,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 211,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182913,
@@ -641,14 +659,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 212,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 212,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182914,
@@ -656,14 +674,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       1201
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 213,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 213,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182915,
@@ -671,14 +689,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 214,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 214,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182916,
@@ -686,15 +704,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 215,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 215,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182917,
@@ -702,15 +720,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 216,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 216,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182918,
@@ -718,15 +736,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 217,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 217,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182919,
@@ -734,15 +752,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 218,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 218,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182920,
@@ -750,15 +768,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 219,
     "Weight": 99,
     "GuestID": 2,
-    "CommentID": 219,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795182921,
@@ -766,14 +784,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 220,
     "Weight": 1,
     "GuestID": 2,
-    "CommentID": 220,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499857,
@@ -781,14 +799,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 301,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 301,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700347,
@@ -796,14 +814,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 306,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 306,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700340,
@@ -811,14 +829,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 307,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 307,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700341,
@@ -826,14 +844,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 308,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 308,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700338,
@@ -841,14 +859,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 309,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 309,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700339,
@@ -856,14 +874,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 310,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 310,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183009,
@@ -871,14 +889,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 311,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 311,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183008,
@@ -886,14 +904,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 312,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 312,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183011,
@@ -901,14 +919,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       101
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 313,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 313,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183010,
@@ -916,14 +934,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       1201
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 314,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 314,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183013,
@@ -931,14 +949,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       402
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 315,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 315,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183012,
@@ -946,14 +964,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       403
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 316,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 316,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183015,
@@ -961,14 +979,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       404
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 317,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 317,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183014,
@@ -976,14 +994,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 318,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 318,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183017,
@@ -991,14 +1009,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       2102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 319,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 319,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183016,
@@ -1006,14 +1024,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       103
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 320,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 320,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499760,
@@ -1021,15 +1039,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 321,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 321,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499761,
@@ -1037,15 +1055,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 322,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 322,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499758,
@@ -1053,15 +1071,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 323,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 323,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499759,
@@ -1069,15 +1087,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 324,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 324,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499756,
@@ -1085,15 +1103,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 325,
     "Weight": 99,
     "GuestID": 4,
-    "CommentID": 325,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499757,
@@ -1101,14 +1119,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 326,
     "Weight": 1,
     "GuestID": 4,
-    "CommentID": 326,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499754,
@@ -1116,14 +1134,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 401,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 401,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700244,
@@ -1131,14 +1149,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       3
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 404,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 404,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700249,
@@ -1146,14 +1164,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       4
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 405,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 405,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700248,
@@ -1161,14 +1179,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 406,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 406,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700251,
@@ -1176,14 +1194,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 407,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 407,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700250,
@@ -1191,14 +1209,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 408,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 408,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700237,
@@ -1206,14 +1224,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 409,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 409,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700236,
@@ -1221,14 +1239,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 410,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 410,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183110,
@@ -1236,14 +1254,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 411,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 411,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183111,
@@ -1251,14 +1269,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 412,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 412,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183108,
@@ -1266,14 +1284,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       101
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 413,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 413,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183109,
@@ -1281,14 +1299,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       2102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 414,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 414,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183106,
@@ -1296,14 +1314,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       32
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 415,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 415,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183107,
@@ -1311,14 +1329,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       399
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 416,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 416,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183104,
@@ -1326,14 +1344,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       3001
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 417,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 417,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183105,
@@ -1341,14 +1359,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       3002
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 418,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 418,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183118,
@@ -1356,15 +1374,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 419,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 419,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183119,
@@ -1372,15 +1390,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 420,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 420,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499659,
@@ -1388,15 +1406,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 421,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 421,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499658,
@@ -1404,15 +1422,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 422,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 422,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499661,
@@ -1420,15 +1438,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 423,
     "Weight": 99,
     "GuestID": 5,
-    "CommentID": 423,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499660,
@@ -1436,14 +1454,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 424,
     "Weight": 1,
     "GuestID": 5,
-    "CommentID": 424,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499663,
@@ -1451,14 +1469,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 501,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 501,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700149,
@@ -1466,14 +1484,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 502,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 502,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700150,
@@ -1481,14 +1499,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       2
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 503,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 503,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700151,
@@ -1496,14 +1514,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       3
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 504,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 504,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700152,
@@ -1511,14 +1529,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       4
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 505,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 505,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700153,
@@ -1526,14 +1544,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 506,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 506,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700154,
@@ -1541,14 +1559,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 507,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 507,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700155,
@@ -1556,14 +1574,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 508,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 508,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700140,
@@ -1571,14 +1589,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 509,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 509,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700141,
@@ -1586,14 +1604,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 510,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 510,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183207,
@@ -1601,14 +1619,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 511,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 511,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183206,
@@ -1616,14 +1634,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 512,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 512,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183205,
@@ -1631,14 +1649,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       34
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 513,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 513,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183204,
@@ -1646,14 +1664,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       33
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 514,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 514,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183203,
@@ -1661,14 +1679,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       202
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 515,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 515,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183202,
@@ -1676,14 +1694,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       203
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 516,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 516,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183201,
@@ -1691,14 +1709,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       101
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 517,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 517,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183200,
@@ -1706,15 +1724,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 518,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 518,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183215,
@@ -1722,15 +1740,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 519,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 519,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183214,
@@ -1738,15 +1756,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 520,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 520,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499562,
@@ -1754,15 +1772,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 521,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 521,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499563,
@@ -1770,15 +1788,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 522,
     "Weight": 99,
     "GuestID": 6,
-    "CommentID": 522,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499564,
@@ -1786,14 +1804,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 523,
     "Weight": 1,
     "GuestID": 6,
-    "CommentID": 523,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499565,
@@ -1801,14 +1819,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon6.png",
+    "SatisfyTriggerType": "ByIngredientTypeCnt",
+    "CommentID": 601,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 601,
-    "SatisfyTriggerType": "ByIngredientTypeCnt",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700310,
@@ -1816,14 +1834,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       1
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 602,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 602,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700309,
@@ -1831,14 +1849,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       2
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 603,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 603,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700308,
@@ -1846,14 +1864,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       3
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 604,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 604,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700315,
@@ -1861,14 +1879,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       4
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 605,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 605,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700314,
@@ -1876,14 +1894,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       5
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 606,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 606,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700313,
@@ -1891,14 +1909,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       6
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 607,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 607,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700312,
@@ -1906,14 +1924,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       7
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 608,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 608,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700303,
@@ -1921,14 +1939,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       8
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 609,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 609,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -933700302,
@@ -1936,14 +1954,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       21
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 610,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 610,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183044,
@@ -1951,14 +1969,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       22
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 611,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 611,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183045,
@@ -1966,14 +1984,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       24
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 612,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 612,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183046,
@@ -1981,14 +1999,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       34
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 613,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 613,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183047,
@@ -1996,14 +2014,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       32
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 614,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 614,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183040,
@@ -2011,14 +2029,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       103
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 615,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 615,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183041,
@@ -2026,14 +2044,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       102
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 616,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 616,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183042,
@@ -2041,15 +2059,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       -20,
       10
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 617,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 617,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183043,
@@ -2057,15 +2075,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       30,
       60
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 618,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 618,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183052,
@@ -2073,15 +2091,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       100,
       150
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 619,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 619,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": 1795183053,
@@ -2089,15 +2107,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       180,
       260
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 620,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 620,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499725,
@@ -2105,15 +2123,15 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
     "TriggerTypeParamList": [
       265,
       280
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon5.png",
+    "SatisfyTriggerType": "ByHueInterval",
+    "CommentID": 621,
     "Weight": 99,
     "GuestID": 3,
-    "CommentID": 621,
-    "SatisfyTriggerType": "ByHueInterval",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499724,
@@ -2121,14 +2139,14 @@
     }
   },
   {
+    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
     "TriggerTypeParamList": [
       25
     ],
-    "IconPath": "SpriteOutput/Quest/DrinkMaker/DrinkMakerEmoji/DrinkMakerEmojiIcon4.png",
+    "SatisfyTriggerType": "ByTagCombination",
+    "CommentID": 622,
     "Weight": 1,
     "GuestID": 3,
-    "CommentID": 622,
-    "SatisfyTriggerType": "ByTagCombination",
     "Type": "Satisfactory",
     "CommentContent": {
       "Hash": -2096499723,

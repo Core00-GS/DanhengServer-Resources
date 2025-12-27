@@ -1,8 +1,10 @@
 {
   "GroupName": "Sound",
   "AreaAnchorName": "LevelArea_P81123_F81123001_G59",
-  "SaveType": "Permanent",
+  "SaveType": "Reset",
   "LoadOnInitial": true,
+  "ValueSource": {},
+  "ConflictIDList": [],
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "AnchorList": [],
@@ -163,7 +165,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u80fd\u6e90\u5c4b",
+      "Name": "能源屋",
       "ID": 2,
       "PosX": 46.7,
       "PosY": 26.57,
@@ -498,5 +500,10 @@
   "BattleAreaList": [],
   "NPCList": [],
   "CrowdList": [],
-  "PedestrianList": []
+  "PedestrianList": [],
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

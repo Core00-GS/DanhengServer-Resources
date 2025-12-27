@@ -718,5 +718,135 @@
       14044
     ],
     "AvatarID": 1404
+  },
+  {
+    "EmotionConfigList": [
+      14070,
+      14071,
+      14072,
+      14073,
+      14074
+    ],
+    "AvatarID": 1407
+  },
+  {
+    "EmotionConfigList": [
+      14050,
+      14051,
+      14052,
+      14053,
+      14054
+    ],
+    "AvatarID": 1405
+  },
+  {
+    "EmotionConfigList": [
+      14090,
+      14091,
+      14092,
+      14093,
+      14094
+    ],
+    "AvatarID": 1409
+  },
+  {
+    "EmotionConfigList": [
+      14060,
+      14061,
+      14062,
+      14063,
+      14064
+    ],
+    "AvatarID": 1406
+  },
+  {
+    "EmotionConfigList": [
+      14081,
+      14082,
+      14083,
+      14084,
+      14085
+    ],
+    "AvatarID": 1408
+  },
+  {
+    "EmotionConfigList": [
+      10141,
+      10142,
+      10143,
+      10144,
+      10145
+    ],
+    "AvatarID": 1014
+  },
+  {
+    "EmotionConfigList": [
+      10151,
+      10152,
+      10153,
+      10154,
+      10155
+    ],
+    "AvatarID": 1015
+  },
+  {
+    "EmotionConfigList": [
+      14101,
+      14102,
+      14103,
+      14104,
+      14105
+    ],
+    "AvatarID": 1410
+  },
+  {
+    "EmotionConfigList": [
+      14121,
+      14122,
+      14123,
+      14124,
+      14125
+    ],
+    "AvatarID": 1412
+  },
+  {
+    "EmotionConfigList": [
+      14131,
+      14132,
+      14133,
+      14134,
+      14135
+    ],
+    "AvatarID": 1413
+  },
+  {
+    "EmotionConfigList": [
+      14141,
+      14142,
+      14143,
+      14144,
+      14145
+    ],
+    "AvatarID": 1414
+  },
+  {
+    "EmotionConfigList": [
+      13211,
+      13212,
+      13213,
+      13214,
+      13215
+    ],
+    "AvatarID": 1321
+  },
+  {
+    "EmotionConfigList": [
+      14151,
+      14152,
+      14153,
+      14154,
+      14155
+    ],
+    "AvatarID": 1415
   }
 ]

@@ -1,1288 +1,1522 @@
 [
   {
-    "BaseValue": {
-      "RawValue": 193953851139
-    },
-    "AffixID": 1,
     "Property": "HPDelta",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 67883847903
+      "RawValue": 67883847903,
+      "Value": 15.81
+    },
+    "BaseValue": {
+      "RawValue": 193953851139,
+      "Value": 45.16
     },
     "GroupID": 21
   },
   {
-    "BaseValue": {
-      "RawValue": 96976925570
-    },
-    "AffixID": 1,
     "Property": "AttackDelta",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 33941923955
+      "RawValue": 33941923955,
+      "Value": 7.9
+    },
+    "BaseValue": {
+      "RawValue": 96976925570,
+      "Value": 22.58
     },
     "GroupID": 22
   },
   {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 1,
     "Property": "HPAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 41562400
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
     },
     "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 2,
     "Property": "AttackAddedRatio",
+    "AffixID": 2,
     "LevelAdd": {
-      "RawValue": 41562400
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
     },
     "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 148434072
-    },
-    "AffixID": 3,
     "Property": "DefenceAddedRatio",
+    "AffixID": 3,
     "LevelAdd": {
-      "RawValue": 51951927
+      "RawValue": 51951927,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 148434072,
+      "Value": 0.03
     },
     "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 89060445
-    },
-    "AffixID": 4,
     "Property": "CriticalChanceBase",
+    "AffixID": 4,
     "LevelAdd": {
-      "RawValue": 31172873
+      "RawValue": 31172873,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 89060445,
+      "Value": 0.02
     },
     "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 5,
     "Property": "CriticalDamageBase",
+    "AffixID": 5,
     "LevelAdd": {
-      "RawValue": 62341451
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
     },
     "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 94996087
-    },
-    "AffixID": 6,
     "Property": "HealRatioBase",
-    "LevelAdd": {
-      "RawValue": 33247343
-    },
-    "GroupID": 23
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 7,
-    "Property": "StatusProbabilityBase",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 23
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 24
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 24
-  },
-  {
-    "BaseValue": {
-      "RawValue": 148434072
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 51951927
-    },
-    "GroupID": 24
-  },
-  {
-    "BaseValue": {
-      "RawValue": 6926923259
-    },
-    "AffixID": 4,
-    "Property": "SpeedDelta",
-    "LevelAdd": {
-      "RawValue": 4294967296
-    },
-    "GroupID": 24
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 148434072
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 51951927
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 4,
-    "Property": "PhysicalAddedRatio",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 5,
-    "Property": "FireAddedRatio",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
     "AffixID": 6,
-    "Property": "IceAddedRatio",
     "LevelAdd": {
-      "RawValue": 37404870
+      "RawValue": 33247343,
+      "Value": 0.01
     },
-    "GroupID": 25
+    "BaseValue": {
+      "RawValue": 94996087,
+      "Value": 0.02
+    },
+    "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
+    "Property": "StatusProbabilityBase",
     "AffixID": 7,
-    "Property": "ThunderAddedRatio",
     "LevelAdd": {
-      "RawValue": 37404870
+      "RawValue": 41562400,
+      "Value": 0.01
     },
-    "GroupID": 25
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 23
   },
   {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 8,
-    "Property": "WindAddedRatio",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 9,
-    "Property": "QuantumAddedRatio",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 10,
-    "Property": "ImaginaryAddedRatio",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 25
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 1,
-    "Property": "BreakDamageAddedRatioBase",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 26
-  },
-  {
-    "BaseValue": {
-      "RawValue": 53437985
-    },
-    "AffixID": 2,
-    "Property": "SPRatioBase",
-    "LevelAdd": {
-      "RawValue": 18704584
-    },
-    "GroupID": 26
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 3,
     "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 26
-  },
-  {
-    "BaseValue": {
-      "RawValue": 118747257
-    },
-    "AffixID": 4,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 41562400
-    },
-    "GroupID": 26
-  },
-  {
-    "BaseValue": {
-      "RawValue": 148434072
-    },
-    "AffixID": 5,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 51951927
-    },
-    "GroupID": 26
-  },
-  {
-    "BaseValue": {
-      "RawValue": 290930776712
-    },
     "AffixID": 1,
-    "Property": "HPDelta",
     "LevelAdd": {
-      "RawValue": 101825771851
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 24
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 24
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 51951927,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 148434072,
+      "Value": 0.03
+    },
+    "GroupID": 24
+  },
+  {
+    "Property": "SpeedDelta",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 4294967296,
+      "Value": 1.0
+    },
+    "BaseValue": {
+      "RawValue": 6926923259,
+      "Value": 1.61
+    },
+    "GroupID": 24
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 51951927,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 148434072,
+      "Value": 0.03
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "PhysicalAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "FireAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "IceAddedRatio",
+    "AffixID": 6,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "ThunderAddedRatio",
+    "AffixID": 7,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "WindAddedRatio",
+    "AffixID": 8,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "QuantumAddedRatio",
+    "AffixID": 9,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "ImaginaryAddedRatio",
+    "AffixID": 10,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 25
+  },
+  {
+    "Property": "BreakDamageAddedRatioBase",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 26
+  },
+  {
+    "Property": "SPRatioBase",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 18704584,
+      "Value": 0.0
+    },
+    "BaseValue": {
+      "RawValue": 53437985,
+      "Value": 0.01
+    },
+    "GroupID": 26
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 26
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 41562400,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 118747257,
+      "Value": 0.03
+    },
+    "GroupID": 26
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 51951927,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 148434072,
+      "Value": 0.03
+    },
+    "GroupID": 26
+  },
+  {
+    "Property": "HPDelta",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 101825771851,
+      "Value": 23.71
+    },
+    "BaseValue": {
+      "RawValue": 290930776712,
+      "Value": 67.74
     },
     "GroupID": 31
   },
   {
-    "BaseValue": {
-      "RawValue": 145465388358
-    },
-    "AffixID": 1,
     "Property": "AttackDelta",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 50912885929
+      "RawValue": 50912885929,
+      "Value": 11.85
+    },
+    "BaseValue": {
+      "RawValue": 145465388358,
+      "Value": 33.87
     },
     "GroupID": 32
   },
   {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 1,
     "Property": "HPAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 62341451
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
     },
     "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 2,
     "Property": "AttackAddedRatio",
+    "AffixID": 2,
     "LevelAdd": {
-      "RawValue": 62341451
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
     },
     "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 222651108
-    },
-    "AffixID": 3,
     "Property": "DefenceAddedRatio",
+    "AffixID": 3,
     "LevelAdd": {
-      "RawValue": 77927886
+      "RawValue": 77927886,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 222651108,
+      "Value": 0.05
     },
     "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 133590663
-    },
-    "AffixID": 4,
     "Property": "CriticalChanceBase",
+    "AffixID": 4,
     "LevelAdd": {
-      "RawValue": 46755019
+      "RawValue": 46755019,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 133590663,
+      "Value": 0.03
     },
     "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 5,
     "Property": "CriticalDamageBase",
+    "AffixID": 5,
     "LevelAdd": {
-      "RawValue": 93514327
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
     },
     "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 142498427
-    },
-    "AffixID": 6,
     "Property": "HealRatioBase",
-    "LevelAdd": {
-      "RawValue": 49873162
-    },
-    "GroupID": 33
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 7,
-    "Property": "StatusProbabilityBase",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 33
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 34
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 34
-  },
-  {
-    "BaseValue": {
-      "RawValue": 222651108
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 77927886
-    },
-    "GroupID": 34
-  },
-  {
-    "BaseValue": {
-      "RawValue": 10390384882
-    },
-    "AffixID": 4,
-    "Property": "SpeedDelta",
-    "LevelAdd": {
-      "RawValue": 4294967296
-    },
-    "GroupID": 34
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 222651108
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 77927886
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
-    "AffixID": 4,
-    "Property": "PhysicalAddedRatio",
-    "LevelAdd": {
-      "RawValue": 56109454
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
-    "AffixID": 5,
-    "Property": "FireAddedRatio",
-    "LevelAdd": {
-      "RawValue": 56109454
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
     "AffixID": 6,
-    "Property": "IceAddedRatio",
     "LevelAdd": {
-      "RawValue": 56109454
+      "RawValue": 49873162,
+      "Value": 0.01
     },
-    "GroupID": 35
+    "BaseValue": {
+      "RawValue": 142498427,
+      "Value": 0.03
+    },
+    "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
+    "Property": "StatusProbabilityBase",
     "AffixID": 7,
-    "Property": "ThunderAddedRatio",
     "LevelAdd": {
-      "RawValue": 56109454
+      "RawValue": 62341451,
+      "Value": 0.01
     },
-    "GroupID": 35
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 33
   },
   {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
-    "AffixID": 8,
-    "Property": "WindAddedRatio",
-    "LevelAdd": {
-      "RawValue": 56109454
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
-    "AffixID": 9,
-    "Property": "QuantumAddedRatio",
-    "LevelAdd": {
-      "RawValue": 56109454
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 160309654
-    },
-    "AffixID": 10,
-    "Property": "ImaginaryAddedRatio",
-    "LevelAdd": {
-      "RawValue": 56109454
-    },
-    "GroupID": 35
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 1,
-    "Property": "BreakDamageAddedRatioBase",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 36
-  },
-  {
-    "BaseValue": {
-      "RawValue": 80152681
-    },
-    "AffixID": 2,
-    "Property": "SPRatioBase",
-    "LevelAdd": {
-      "RawValue": 28054727
-    },
-    "GroupID": 36
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 3,
     "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 36
-  },
-  {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 4,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 62341451
-    },
-    "GroupID": 36
-  },
-  {
-    "BaseValue": {
-      "RawValue": 222651108
-    },
-    "AffixID": 5,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 77927886
-    },
-    "GroupID": 36
-  },
-  {
-    "BaseValue": {
-      "RawValue": 387907702281
-    },
     "AffixID": 1,
-    "Property": "HPDelta",
     "LevelAdd": {
-      "RawValue": 135767695805
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 34
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 34
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 77927886,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 222651108,
+      "Value": 0.05
+    },
+    "GroupID": 34
+  },
+  {
+    "Property": "SpeedDelta",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 4294967296,
+      "Value": 1.0
+    },
+    "BaseValue": {
+      "RawValue": 10390384882,
+      "Value": 2.42
+    },
+    "GroupID": 34
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 77927886,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 222651108,
+      "Value": 0.05
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "PhysicalAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "FireAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "IceAddedRatio",
+    "AffixID": 6,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "ThunderAddedRatio",
+    "AffixID": 7,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "WindAddedRatio",
+    "AffixID": 8,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "QuantumAddedRatio",
+    "AffixID": 9,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "ImaginaryAddedRatio",
+    "AffixID": 10,
+    "LevelAdd": {
+      "RawValue": 56109454,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 160309654,
+      "Value": 0.04
+    },
+    "GroupID": 35
+  },
+  {
+    "Property": "BreakDamageAddedRatioBase",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 36
+  },
+  {
+    "Property": "SPRatioBase",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 28054727,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 80152681,
+      "Value": 0.02
+    },
+    "GroupID": 36
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 36
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
+    },
+    "GroupID": 36
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 77927886,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 222651108,
+      "Value": 0.05
+    },
+    "GroupID": 36
+  },
+  {
+    "Property": "HPDelta",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 135767695805,
+      "Value": 31.61
+    },
+    "BaseValue": {
+      "RawValue": 387907702281,
+      "Value": 90.32
     },
     "GroupID": 41
   },
   {
-    "BaseValue": {
-      "RawValue": 193953851139
-    },
-    "AffixID": 1,
     "Property": "AttackDelta",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 67883847903
+      "RawValue": 67883847903,
+      "Value": 15.81
+    },
+    "BaseValue": {
+      "RawValue": 193953851139,
+      "Value": 45.16
     },
     "GroupID": 42
   },
   {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 1,
     "Property": "HPAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 83124797
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
     },
     "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 2,
     "Property": "AttackAddedRatio",
+    "AffixID": 2,
     "LevelAdd": {
-      "RawValue": 83124797
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
     },
     "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 3,
     "Property": "DefenceAddedRatio",
+    "AffixID": 3,
     "LevelAdd": {
-      "RawValue": 103903851
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
     },
     "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 4,
     "Property": "CriticalChanceBase",
+    "AffixID": 4,
     "LevelAdd": {
-      "RawValue": 62341451
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
     },
     "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 356241771
-    },
-    "AffixID": 5,
     "Property": "CriticalDamageBase",
+    "AffixID": 5,
     "LevelAdd": {
-      "RawValue": 124682899
+      "RawValue": 124682899,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 356241771,
+      "Value": 0.08
     },
     "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 189996469
-    },
-    "AffixID": 6,
     "Property": "HealRatioBase",
-    "LevelAdd": {
-      "RawValue": 66498981
-    },
-    "GroupID": 43
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 7,
-    "Property": "StatusProbabilityBase",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 43
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 44
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 44
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 44
-  },
-  {
-    "BaseValue": {
-      "RawValue": 13853846511
-    },
-    "AffixID": 4,
-    "Property": "SpeedDelta",
-    "LevelAdd": {
-      "RawValue": 4724464026
-    },
-    "GroupID": 44
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
-    "AffixID": 4,
-    "Property": "PhysicalAddedRatio",
-    "LevelAdd": {
-      "RawValue": 74809740
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
-    "AffixID": 5,
-    "Property": "FireAddedRatio",
-    "LevelAdd": {
-      "RawValue": 74809740
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
     "AffixID": 6,
-    "Property": "IceAddedRatio",
     "LevelAdd": {
-      "RawValue": 74809740
+      "RawValue": 66498981,
+      "Value": 0.02
     },
-    "GroupID": 45
+    "BaseValue": {
+      "RawValue": 189996469,
+      "Value": 0.04
+    },
+    "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
+    "Property": "StatusProbabilityBase",
     "AffixID": 7,
-    "Property": "ThunderAddedRatio",
     "LevelAdd": {
-      "RawValue": 74809740
+      "RawValue": 83124797,
+      "Value": 0.02
     },
-    "GroupID": 45
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 43
   },
   {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
-    "AffixID": 8,
-    "Property": "WindAddedRatio",
-    "LevelAdd": {
-      "RawValue": 74809740
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
-    "AffixID": 9,
-    "Property": "QuantumAddedRatio",
-    "LevelAdd": {
-      "RawValue": 74809740
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 213743344
-    },
-    "AffixID": 10,
-    "Property": "ImaginaryAddedRatio",
-    "LevelAdd": {
-      "RawValue": 74809740
-    },
-    "GroupID": 45
-  },
-  {
-    "BaseValue": {
-      "RawValue": 356241771
-    },
-    "AffixID": 1,
-    "Property": "BreakDamageAddedRatioBase",
-    "LevelAdd": {
-      "RawValue": 124682899
-    },
-    "GroupID": 46
-  },
-  {
-    "BaseValue": {
-      "RawValue": 106871675
-    },
-    "AffixID": 2,
-    "Property": "SPRatioBase",
-    "LevelAdd": {
-      "RawValue": 37404870
-    },
-    "GroupID": 46
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 3,
     "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 46
-  },
-  {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 4,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 46
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 5,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 46
-  },
-  {
-    "BaseValue": {
-      "RawValue": 484884627851
-    },
     "AffixID": 1,
-    "Property": "HPDelta",
     "LevelAdd": {
-      "RawValue": 169709619750
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 44
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 44
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 44
+  },
+  {
+    "Property": "SpeedDelta",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 4724464026,
+      "Value": 1.1
+    },
+    "BaseValue": {
+      "RawValue": 13853846511,
+      "Value": 3.23
+    },
+    "GroupID": 44
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "PhysicalAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "FireAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "IceAddedRatio",
+    "AffixID": 6,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "ThunderAddedRatio",
+    "AffixID": 7,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "WindAddedRatio",
+    "AffixID": 8,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "QuantumAddedRatio",
+    "AffixID": 9,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "ImaginaryAddedRatio",
+    "AffixID": 10,
+    "LevelAdd": {
+      "RawValue": 74809740,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 213743344,
+      "Value": 0.05
+    },
+    "GroupID": 45
+  },
+  {
+    "Property": "BreakDamageAddedRatioBase",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 124682899,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 356241771,
+      "Value": 0.08
+    },
+    "GroupID": 46
+  },
+  {
+    "Property": "SPRatioBase",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 37404870,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 106871675,
+      "Value": 0.02
+    },
+    "GroupID": 46
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 46
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 46
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 46
+  },
+  {
+    "Property": "HPDelta",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 169709619750,
+      "Value": 39.51
+    },
+    "BaseValue": {
+      "RawValue": 484884627851,
+      "Value": 112.9
     },
     "GroupID": 51
   },
   {
-    "BaseValue": {
-      "RawValue": 242442313924
-    },
-    "AffixID": 1,
     "Property": "AttackDelta",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 84854809877
+      "RawValue": 84854809877,
+      "Value": 19.76
+    },
+    "BaseValue": {
+      "RawValue": 242442313924,
+      "Value": 56.45
     },
     "GroupID": 52
   },
   {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 1,
     "Property": "HPAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 103903851
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
     },
     "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 2,
     "Property": "AttackAddedRatio",
+    "AffixID": 2,
     "LevelAdd": {
-      "RawValue": 103903851
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
     },
     "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 371085174
-    },
-    "AffixID": 3,
     "Property": "DefenceAddedRatio",
+    "AffixID": 3,
     "LevelAdd": {
-      "RawValue": 129879813
+      "RawValue": 129879813,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 371085174,
+      "Value": 0.09
     },
     "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 222651108
-    },
-    "AffixID": 4,
     "Property": "CriticalChanceBase",
+    "AffixID": 4,
     "LevelAdd": {
-      "RawValue": 77927886
+      "RawValue": 77927886,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 222651108,
+      "Value": 0.05
     },
     "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 445302213
-    },
-    "AffixID": 5,
     "Property": "CriticalDamageBase",
+    "AffixID": 5,
     "LevelAdd": {
-      "RawValue": 155855775
+      "RawValue": 155855775,
+      "Value": 0.04
+    },
+    "BaseValue": {
+      "RawValue": 445302213,
+      "Value": 0.1
     },
     "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 6,
     "Property": "HealRatioBase",
-    "LevelAdd": {
-      "RawValue": 83124797
-    },
-    "GroupID": 53
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 7,
-    "Property": "StatusProbabilityBase",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 53
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 54
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 54
-  },
-  {
-    "BaseValue": {
-      "RawValue": 371085174
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 129879813
-    },
-    "GroupID": 54
-  },
-  {
-    "BaseValue": {
-      "RawValue": 17317308137
-    },
-    "AffixID": 4,
-    "Property": "SpeedDelta",
-    "LevelAdd": {
-      "RawValue": 6012954216
-    },
-    "GroupID": 54
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 1,
-    "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 2,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 371085174
-    },
-    "AffixID": 3,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 129879813
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 4,
-    "Property": "PhysicalAddedRatio",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 5,
-    "Property": "FireAddedRatio",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
     "AffixID": 6,
-    "Property": "IceAddedRatio",
     "LevelAdd": {
-      "RawValue": 93514327
+      "RawValue": 83124797,
+      "Value": 0.02
     },
-    "GroupID": 55
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
+    },
+    "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
+    "Property": "StatusProbabilityBase",
     "AffixID": 7,
-    "Property": "ThunderAddedRatio",
     "LevelAdd": {
-      "RawValue": 93514327
+      "RawValue": 103903851,
+      "Value": 0.02
     },
-    "GroupID": 55
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 53
   },
   {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 8,
-    "Property": "WindAddedRatio",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 9,
-    "Property": "QuantumAddedRatio",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 267181326
-    },
-    "AffixID": 10,
-    "Property": "ImaginaryAddedRatio",
-    "LevelAdd": {
-      "RawValue": 93514327
-    },
-    "GroupID": 55
-  },
-  {
-    "BaseValue": {
-      "RawValue": 445302213
-    },
-    "AffixID": 1,
-    "Property": "BreakDamageAddedRatioBase",
-    "LevelAdd": {
-      "RawValue": 155855775
-    },
-    "GroupID": 56
-  },
-  {
-    "BaseValue": {
-      "RawValue": 133590663
-    },
-    "AffixID": 2,
-    "Property": "SPRatioBase",
-    "LevelAdd": {
-      "RawValue": 46755019
-    },
-    "GroupID": 56
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 3,
     "Property": "HPAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 56
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 4,
-    "Property": "AttackAddedRatio",
-    "LevelAdd": {
-      "RawValue": 103903851
-    },
-    "GroupID": 56
-  },
-  {
-    "BaseValue": {
-      "RawValue": 371085174
-    },
-    "AffixID": 5,
-    "Property": "DefenceAddedRatio",
-    "LevelAdd": {
-      "RawValue": 129879813
-    },
-    "GroupID": 56
-  },
-  {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
     "AffixID": 1,
-    "Property": "DefenceAddedRatio",
     "LevelAdd": {
-      "RawValue": 103903851
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 54
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 54
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 129879813,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 371085174,
+      "Value": 0.09
+    },
+    "GroupID": 54
+  },
+  {
+    "Property": "SpeedDelta",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 6012954216,
+      "Value": 1.4
+    },
+    "BaseValue": {
+      "RawValue": 17317308137,
+      "Value": 4.03
+    },
+    "GroupID": 54
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 129879813,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 371085174,
+      "Value": 0.09
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "PhysicalAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "FireAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "IceAddedRatio",
+    "AffixID": 6,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "ThunderAddedRatio",
+    "AffixID": 7,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "WindAddedRatio",
+    "AffixID": 8,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "QuantumAddedRatio",
+    "AffixID": 9,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "ImaginaryAddedRatio",
+    "AffixID": 10,
+    "LevelAdd": {
+      "RawValue": 93514327,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 267181326,
+      "Value": 0.06
+    },
+    "GroupID": 55
+  },
+  {
+    "Property": "BreakDamageAddedRatioBase",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 155855775,
+      "Value": 0.04
+    },
+    "BaseValue": {
+      "RawValue": 445302213,
+      "Value": 0.1
+    },
+    "GroupID": 56
+  },
+  {
+    "Property": "SPRatioBase",
+    "AffixID": 2,
+    "LevelAdd": {
+      "RawValue": 46755019,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 133590663,
+      "Value": 0.03
+    },
+    "GroupID": 56
+  },
+  {
+    "Property": "HPAddedRatio",
+    "AffixID": 3,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 56
+  },
+  {
+    "Property": "AttackAddedRatio",
+    "AffixID": 4,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
+    },
+    "GroupID": 56
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 5,
+    "LevelAdd": {
+      "RawValue": 129879813,
+      "Value": 0.03
+    },
+    "BaseValue": {
+      "RawValue": 371085174,
+      "Value": 0.09
+    },
+    "GroupID": 56
+  },
+  {
+    "Property": "DefenceAddedRatio",
+    "AffixID": 1,
+    "LevelAdd": {
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
     },
     "GroupID": 433
   },
   {
-    "BaseValue": {
-      "RawValue": 178120887
-    },
-    "AffixID": 1,
     "Property": "CriticalChanceBase",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 62341451
+      "RawValue": 62341451,
+      "Value": 0.01
+    },
+    "BaseValue": {
+      "RawValue": 178120887,
+      "Value": 0.04
     },
     "GroupID": 434
   },
   {
-    "BaseValue": {
-      "RawValue": 189996469
-    },
-    "AffixID": 1,
     "Property": "HealRatioBase",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 66498981
+      "RawValue": 66498981,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 189996469,
+      "Value": 0.04
     },
     "GroupID": 436
   },
   {
-    "BaseValue": {
-      "RawValue": 237494514
-    },
-    "AffixID": 1,
     "Property": "HPAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 83124797
+      "RawValue": 83124797,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 237494514,
+      "Value": 0.06
     },
     "GroupID": 441
   },
   {
-    "BaseValue": {
-      "RawValue": 296868138
-    },
-    "AffixID": 1,
     "Property": "DefenceAddedRatio",
+    "AffixID": 1,
     "LevelAdd": {
-      "RawValue": 103903851
+      "RawValue": 103903851,
+      "Value": 0.02
+    },
+    "BaseValue": {
+      "RawValue": 296868138,
+      "Value": 0.07
     },
     "GroupID": 443
   }

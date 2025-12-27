@@ -122,7 +122,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5168\u5c40\u6df7\u54cd",
+      "Name": "全局混响",
       "ID": 2,
       "PosY": 1.49
     }

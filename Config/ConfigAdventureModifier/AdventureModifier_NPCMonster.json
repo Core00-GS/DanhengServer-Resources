@@ -593,6 +593,128 @@
       ],
       "Count": -1,
       "Stacking": "Unique"
+    },
+    "ADV_Monster_Common_NoMove": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "NoMove"
+      ],
+      "TickInterval": 1.0,
+      "OnModifierAdd": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAny",
+            "PredicateList": [
+              {
+                "$type": "RPG.GameCore.AdvByContainBehaviorFlag",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "Flag": "Fear",
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              {
+                "$type": "RPG.GameCore.AdvByContainBehaviorFlag",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "Flag": "Enchanted",
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              }
+            ],
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.AdvSetNpcAlertConfig",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "ModifierOwnerEntity"
+              },
+              "AlertLimitMax": 100.0,
+              "AlertGuardLimitMin": 20.0,
+              "AlertGuardLimitMax": 80.0,
+              "AlertDeclineSpeed": 1.0,
+              "AlertDeclineProtectTime": 1.0,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.AbortTargetSkill",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "ModifierOwnerEntity"
+              },
+              "ResetToIdle": true,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "OnModifierRemove": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAnd",
+            "PredicateList": [
+              {
+                "$type": "RPG.GameCore.AdvByContainBehaviorFlag",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "Flag": "Fear",
+                "Inverse": true,
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              {
+                "$type": "RPG.GameCore.AdvByContainBehaviorFlag",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "Flag": "Enchanted",
+                "Inverse": true,
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              }
+            ],
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.AdvSetNpcAlertConfig",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "ModifierOwnerEntity"
+              },
+              "AlertSystemEnable": true,
+              "AlertLimitMax": 100.0,
+              "AlertGuardLimitMin": 20.0,
+              "AlertGuardLimitMax": 80.0,
+              "AlertDeclineSpeed": 1.0,
+              "AlertDeclineProtectTime": 1.0,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Unique"
     }
   }
 }

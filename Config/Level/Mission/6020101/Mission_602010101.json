@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CaptureNPCToCharacter",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 399431958528
+            "FixedValue": {
+              "RawValue": 399431958528,
+              "Value": 93.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718012688203776
+            "FixedValue": {
+              "RawValue": 1718012688203776,
+              "Value": 400006.0
             }
           },
           "CharacterUniqueName": {
@@ -72,13 +74,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 575525617664
+            "FixedValue": {
+              "RawValue": 575525617664,
+              "Value": 134.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "MaxRange": 15,
@@ -90,13 +94,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 575525617664
+            "FixedValue": {
+              "RawValue": 575525617664,
+              "Value": 134.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "MaxRange": 15,
@@ -108,13 +114,15 @@
         {
           "$type": "RPG.GameCore.ShowWaypointByProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 575525617664
+            "FixedValue": {
+              "RawValue": 575525617664,
+              "Value": 134.0
             }
           },
           "InstanceID": {
-            "fixedValue": {
-              "RawValue": 1288507368669184
+            "FixedValue": {
+              "RawValue": 1288507368669184,
+              "Value": 300004.0
             }
           },
           "MaxRange": 15,

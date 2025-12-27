@@ -12,6 +12,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -25,24 +26,7 @@
       ]
     },
     {
-      "TaskList": [
-        {
-          "$type": "RPG.GameCore.CreateProp",
-          "GroupID": {
-            "fixedValue": {
-              "RawValue": 266287972352
-            }
-          },
-          "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288511663636480
-            }
-          },
-          "CreateList": [],
-          "TaskEnabled": true,
-          "IsClientOnly": true
-        }
-      ]
+      "TaskList": []
     }
   ],
   "Type": "Mission"

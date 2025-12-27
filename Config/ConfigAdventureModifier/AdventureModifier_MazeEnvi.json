@@ -35,8 +35,9 @@
           },
           "ByRandom": true,
           "MaxNumber": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskList": [
@@ -95,8 +96,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -108,8 +110,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "ModifyFunction": "Add",
@@ -235,6 +238,16 @@
           "TaskEnabled": true
         }
       ],
+      "Count": -1,
+      "Stacking": "Unique"
+    },
+    "ADV_StageAbility_20423": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
       "Count": -1,
       "Stacking": "Unique"
     }

@@ -1,11 +1,9 @@
 [
   {
     "SpecialGroupList": [],
-    "T1GroupID": 101,
-    "CostItemID": 122000,
     "RollShopID": 1,
+    "SecretGroupID": 0,
     "CostItemNum": 2,
-    "IntroduceID": 79,
     "T4GroupID": 104,
     "ShopName": {
       "Hash": 1559946433,
@@ -13,34 +11,37 @@
     },
     "T3GroupID": 103,
     "RollShopType": "Mall",
-    "T2GroupID": 102
+    "CostItemID": 122000,
+    "T1GroupID": 101,
+    "T2GroupID": 102,
+    "IntroduceID": 79
   },
   {
     "SpecialGroupList": [],
-    "CostItemID": 122000,
     "RollShopID": 2,
+    "SecretGroupID": 205,
     "CostItemNum": 1,
-    "IntroduceID": 77,
     "T4GroupID": 204,
     "ShopName": {
       "Hash": 1559946434,
       "Hash64": 16731706278325975592
     },
     "T3GroupID": 203,
-    "SecretGroupID": 205,
     "RollShopType": "Normal",
-    "T2GroupID": 202
+    "CostItemID": 122000,
+    "T1GroupID": 0,
+    "T2GroupID": 202,
+    "IntroduceID": 77
   },
   {
     "SpecialGroupList": [
       {
-        "CMKJLKBIDLH": 305
+        "OMKJDDNPMNI": 305
       }
     ],
-    "CostItemID": 122000,
     "RollShopID": 3,
+    "SecretGroupID": 0,
     "CostItemNum": 1,
-    "IntroduceID": 78,
     "T4GroupID": 304,
     "ShopName": {
       "Hash": 1559946435,
@@ -48,6 +49,9 @@
     },
     "T3GroupID": 303,
     "RollShopType": "Normal",
-    "T2GroupID": 302
+    "CostItemID": 122000,
+    "T1GroupID": 0,
+    "T2GroupID": 302,
+    "IntroduceID": 78
   }
 ]

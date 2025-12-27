@@ -36,6 +36,7 @@
             "MainMissionID": 1021501,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "ValidValueParamList": [
                 0,
                 1,
@@ -55,6 +56,7 @@
                 "MainMissionID": 1021501,
                 "MissionCustomValue": {
                   "Index": 1,
+                  "Name": "OldValue_1",
                   "ValidValueParamList": [
                     0,
                     1,
@@ -77,6 +79,7 @@
                 },
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -108,6 +111,7 @@
               "FailedTaskList": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -132,6 +136,7 @@
           "FailedTaskList": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -191,13 +196,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288601857949696
+            "FixedValue": {
+              "RawValue": 1288601857949696,
+              "Value": 300026.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 128849018880
+            "FixedValue": {
+              "RawValue": 128849018880,
+              "Value": 30.0
             }
           },
           "DestroyList": [],
@@ -209,6 +216,7 @@
           "TargetSubmissionID": 102150113,
           "TargetMissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
             "ValidValueParamList": [
               0,
               1,
@@ -221,6 +229,7 @@
             "MainMissionID": 1021501,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "ValidValueParamList": [
                 0,
                 1,
@@ -231,7 +240,9 @@
           },
           "ValueB": {
             "DirectValue": 1,
-            "MissionCustomValue": {}
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            }
           },
           "TaskEnabled": true,
           "IsClientOnly": true
@@ -254,13 +265,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 150323855360
+                "FixedValue": {
+                  "RawValue": 150323855360,
+                  "Value": 35.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288503073701888
+                "FixedValue": {
+                  "RawValue": 1288503073701888,
+                  "Value": 300003.0
                 }
               }
             }
@@ -292,6 +305,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

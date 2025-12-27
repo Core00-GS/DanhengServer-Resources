@@ -3,8 +3,8 @@
     "PlayerRank": "",
     "Name": "BoxingClubPerformance_Name_1",
     "EnemyRank": "",
-    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_1",
     "BubbleTalkEnemy": "BoxingClubPerformance_BubbleTalkEnemy_1",
+    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_1",
     "ID": 1,
     "MonsterTemplateID": 1012020
   },
@@ -12,8 +12,8 @@
     "PlayerRank": "",
     "Name": "BoxingClubPerformance_Name_2",
     "EnemyRank": "",
-    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_2",
     "BubbleTalkEnemy": "BoxingClubPerformance_BubbleTalkEnemy_2",
+    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_2",
     "ID": 2,
     "MonsterTemplateID": 1002020
   },
@@ -21,8 +21,8 @@
     "PlayerRank": "",
     "Name": "BoxingClubPerformance_Name_3",
     "EnemyRank": "",
-    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_3",
     "BubbleTalkEnemy": "BoxingClubPerformance_BubbleTalkEnemy_3",
+    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_3",
     "ID": 3,
     "MonsterTemplateID": 1013010
   },
@@ -30,8 +30,8 @@
     "PlayerRank": "",
     "Name": "BoxingClubPerformance_Name_4",
     "EnemyRank": "",
-    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_4",
     "BubbleTalkEnemy": "BoxingClubPerformance_BubbleTalkEnemy_4",
+    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_4",
     "ID": 4,
     "MonsterTemplateID": 1013020
   },
@@ -39,8 +39,8 @@
     "PlayerRank": "",
     "Name": "BoxingClubPerformance_Name_5",
     "EnemyRank": "",
-    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_5",
     "BubbleTalkEnemy": "BoxingClubPerformance_BubbleTalkEnemy_5",
+    "BubbleTalkPlayer": "BoxingClubPerformance_BubbleTalkPlayer_5",
     "ID": 5,
     "MonsterTemplateID": 1013010
   }

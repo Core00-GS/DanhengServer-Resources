@@ -34,8 +34,6 @@
             "Hash": -1383074883,
             "Hash64": 3793771070633358049
           },
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }
@@ -56,8 +54,6 @@
             "Hash": -1383074884,
             "Hash64": 13900000299905365460
           },
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }
@@ -78,8 +74,6 @@
             "Hash": -1383074884,
             "Hash64": 13900000299905365460
           },
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }
@@ -100,8 +94,6 @@
             "Hash": -1383074884,
             "Hash64": 13900000299905365460
           },
-          "MinHeight": -0.15,
-          "MaxHeight": 0.3,
           "TaskEnabled": true,
           "IsClientOnly": true
         }

@@ -17,94 +17,94 @@
   "LoadOnInitial": true,
   "GroupStateList": [
     {
-      "Comment": "1\u5c42\u52302\u5c42",
+      "Comment": "1层到2层",
       "DstState": 1
     },
     {
-      "Comment": "1\u5c42\u52303\u5c42",
+      "Comment": "1层到3层",
       "DstState": 2
     },
     {
-      "Comment": "1\u5c42\u52304\u5c42",
+      "Comment": "1层到4层",
       "DstState": 3
     },
     {
-      "Comment": "\u9501\u57281\u5c42",
+      "Comment": "锁在1层",
       "DstState": 4
     },
     {
-      "Comment": "2\u5c42\u52301\u5c42",
+      "Comment": "2层到1层",
       "SrcState": 1
     },
     {
-      "Comment": "2\u5c42\u52303\u5c42",
+      "Comment": "2层到3层",
       "SrcState": 1,
       "DstState": 2
     },
     {
-      "Comment": "2\u5c42\u52304\u5c42",
+      "Comment": "2层到4层",
       "SrcState": 1,
       "DstState": 3
     },
     {
-      "Comment": "\u9501\u57282\u5c42",
+      "Comment": "锁在2层",
       "SrcState": 1,
       "DstState": 5
     },
     {
-      "Comment": "3\u5c42\u52301\u5c42",
+      "Comment": "3层到1层",
       "SrcState": 2
     },
     {
-      "Comment": "3\u5c42\u52302\u5c42",
+      "Comment": "3层到2层",
       "SrcState": 2,
       "DstState": 1
     },
     {
-      "Comment": "3\u5c42\u52304\u5c42",
+      "Comment": "3层到4层",
       "SrcState": 2,
       "DstState": 3
     },
     {
-      "Comment": "\u9501\u57283\u5c42",
+      "Comment": "锁在3层",
       "SrcState": 2,
       "DstState": 6
     },
     {
-      "Comment": "4\u5c42\u52301\u5c42",
+      "Comment": "4层到1层",
       "SrcState": 3
     },
     {
-      "Comment": "4\u5c42\u52302\u5c42",
+      "Comment": "4层到2层",
       "SrcState": 3,
       "DstState": 1
     },
     {
-      "Comment": "4\u5c42\u52303\u5c42",
+      "Comment": "4层到3层",
       "SrcState": 3,
       "DstState": 2
     },
     {
-      "Comment": "\u9501\u57284\u5c42",
+      "Comment": "锁在4层",
       "SrcState": 3,
       "DstState": 7
     },
     {
-      "Comment": "\u89e3\u9501\u57281\u5c42",
+      "Comment": "解锁在1层",
       "SrcState": 4
     },
     {
-      "Comment": "\u89e3\u9501\u57282\u5c42",
+      "Comment": "解锁在2层",
       "SrcState": 5,
       "DstState": 1
     },
     {
-      "Comment": "\u89e3\u9501\u57283\u5c42",
+      "Comment": "解锁在3层",
       "SrcState": 6,
       "DstState": 2
     },
     {
-      "Comment": "\u89e3\u9501\u57284\u5c42",
+      "Comment": "解锁在4层",
       "SrcState": 7,
       "DstState": 3
     }
@@ -263,6 +263,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -322,6 +325,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -484,6 +490,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -645,6 +654,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -704,6 +716,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -752,6 +767,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -800,6 +818,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -848,6 +869,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -896,6 +920,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,
@@ -944,6 +971,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "IsClientOnly": true,

@@ -43,8 +43,7 @@
       "ValueSource": {},
       "Trigger": {
         "Shape": "Box",
-        "Radius": 1.0,
-        "PointList": []
+        "Radius": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": -1.0,
@@ -57,10 +56,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

@@ -63,10 +63,13 @@
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
-      "Name": "\u4e0a\u5e8a\u7761\u89c9",
+      "Name": "上床睡觉",
       "ID": 300001,
       "PosX": -2.446,
       "PosY": 0.610431,
@@ -110,6 +113,9 @@
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,

@@ -2,14 +2,21 @@
   "SomatoType": "MiddleAvatar",
   "CharacterBodySize": "None",
   "BuffPanelOffset": {
-    "y": 1.2,
+    "x": "Infinity",
+    "y": "Infinity",
+    "z": "Infinity",
+    "IsInfinity": true,
+    "IsPositiveInfinity": true,
     "normalized": {
-      "y": 1.0,
-      "magnitude": 1.0,
-      "sqrMagnitude": 1.0
+      "x": "NaN",
+      "y": "NaN",
+      "z": "NaN",
+      "IsNaN": true,
+      "magnitude": "NaN",
+      "sqrMagnitude": "NaN"
     },
-    "magnitude": 1.2,
-    "sqrMagnitude": 1.44
+    "magnitude": "Infinity",
+    "sqrMagnitude": "Infinity"
   },
   "HitBoxWidth": 0.3,
   "HitBoxLength": 1.0,
@@ -25,8 +32,10 @@
   "IsSpecialVisualCharacter": "Keep",
   "AnimEventConfigList": [
     "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Acheron_00_Designer_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/DesignerBaked/Avatar_Acheron_00_Designer_AnimEvent_Baked.json",
     "Config/ConfigAnimEvents/Avatar/Effect/Avatar_Acheron_00_Effect_AnimEvent.json",
     "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Acheron_00_Audio_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Common_Designer_AnimEvent.json",
     "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Common_ControllerVibration_AnimEvent.json"
   ],
   "SkillList": [
@@ -162,74 +171,87 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill01_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 2147483650
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 214748365
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 214748365
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckBuff",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -323,56 +345,66 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill02_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 214748365
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 214748365
+              "RawValue": 214748365,
+              "Value": 0.05
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckBuff",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -389,6 +421,7 @@
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
       "MaxCastTimes": -1,
+      "ProgressDisplayType": "Acheron",
       "TargetInfo": {
         "TargetType": "AllEnemy",
         "AdjoinSubTargetCount": 1,
@@ -399,38 +432,45 @@
       "SkillNameHUD": true,
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_Ready",
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill03_Phase01",
       "PrepareAbility": "Avatar_Acheron_00_Skill03_EnterReady",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 257698037760
+          "RawValue": 257698037760,
+          "Value": 60.0
         },
         "Groups": [
           {
             "GroupName": "DefaultUltra",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "Ultra_Common_ImmediateRelease",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "Ultra_Common_SingleAttack",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckFlowers",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -438,8 +478,7 @@
       "AIUltraSkillPriority": "DamageAfterHeal",
       "CanBeInterrupted": true,
       "AutoCostSpNeed": true,
-      "IsSkillInsertable": true,
-      "BuildEffectPreload": true
+      "IsSkillInsertable": true
     },
     {
       "Name": "Skill31",
@@ -447,6 +486,7 @@
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
       "MaxCastTimes": -1,
+      "ProgressDisplayType": "Acheron",
       "TargetInfo": {
         "TargetType": "EnemySelect",
         "AdjoinSubTargetCount": 1,
@@ -459,51 +499,58 @@
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_01_Ready",
       "ReadyAnimWaitTime": 0.3,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill31_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckFlowers",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
-      "AutoCostSpNeed": true,
-      "BuildEffectPreload": true
+      "AutoCostSpNeed": true
     },
     {
       "Name": "Skill32",
@@ -511,6 +558,7 @@
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
       "MaxCastTimes": -1,
+      "ProgressDisplayType": "Acheron",
       "TargetInfo": {
         "TargetType": "EnemySelect",
         "AdjoinSubTargetCount": 1,
@@ -523,51 +571,58 @@
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_02_Ready",
       "ReadyAnimWaitTime": 0.3,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill32_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckFlowers",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
-      "AutoCostSpNeed": true,
-      "BuildEffectPreload": true
+      "AutoCostSpNeed": true
     },
     {
       "Name": "Skill33",
@@ -575,6 +630,7 @@
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
       "MaxCastTimes": -1,
+      "ProgressDisplayType": "Acheron",
       "TargetInfo": {
         "TargetType": "EnemySelect",
         "AdjoinSubTargetCount": 1,
@@ -587,51 +643,58 @@
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_03_Ready",
       "ReadyAnimWaitTime": 0.3,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill33_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckFlowers",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
-      "AutoCostSpNeed": true,
-      "BuildEffectPreload": true
+      "AutoCostSpNeed": true
     },
     {
       "Name": "Skill34",
@@ -639,6 +702,7 @@
       "UseType": "SelectEntity",
       "ActivateAfterRevive": true,
       "MaxCastTimes": -1,
+      "ProgressDisplayType": "Acheron",
       "TargetInfo": {
         "TargetType": "AllEnemy",
         "AdjoinSubTargetCount": 1,
@@ -651,43 +715,51 @@
       "CanOverkill": true,
       "ReadyAnimState": "Skill02_Ready_01",
       "ReadyAnimWaitTime": 0.3,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_Skill34_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "AddpP_Common_SelfNeighbour",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 42949673
+              "RawValue": 42949673,
+              "Value": 0.01
             }
           },
           {
             "GroupName": "Add01_Acheron_CheckFlowers",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -695,8 +767,7 @@
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
       "AutoCostSpNeed": true,
-      "AutoStandbyOnSkillFinish": true,
-      "BuildEffectPreload": true
+      "AutoStandbyOnSkillFinish": true
     },
     {
       "Name": "SkillP01",
@@ -712,9 +783,11 @@
         "AllowEnemyServant": "Allow"
       },
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_PassiveSkill_1",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -736,9 +809,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Acheron_00_SkillMazeInLevel",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -761,9 +836,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Common_PassiveSkill",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -846,6 +923,7 @@
       ]
     }
   ],
+  "DynamicValues": {},
   "WeaponType": "WP_Bullet",
   "SkillReadyTransits": [
     {
@@ -873,6 +951,7 @@
   "OverrideHeightForCameraOffset": -1.0,
   "MonsterIgnoreGlobalDymanicOffset": true,
   "MaxMonsterPhase": 1,
+  "AITagList": {},
   "ReplaceEmoConfig": {
     "EmoDefaultName": "Emo_Acheron_00_Ani_Default",
     "EmoBlinkName": "Emo_Acheron_00_Ani_Blink",
@@ -888,5 +967,6 @@
       }
     ]
   },
+  "CastShadow": "Keep",
   "AlwaysCutOnSkillTargetTeamChange": true
 }

@@ -1,5 +1,9 @@
 [
-  {},
+  {
+    "Level": 0,
+    "IncomeTarget": 0,
+    "RewardQuestID": 0
+  },
   {
     "Level": 1,
     "IncomeTarget": 20,

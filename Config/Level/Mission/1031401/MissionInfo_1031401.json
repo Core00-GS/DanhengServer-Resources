@@ -105,7 +105,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -135,7 +135,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -154,13 +154,14 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        103140103,
-        0,
-        2,
-        103140104
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "103140103",
+        "OldValue_0",
+        "2",
+        "103140104"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -170,7 +171,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -189,13 +190,14 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        103140103,
-        0,
-        2,
-        103140104
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "103140103",
+        "OldValue_0",
+        "2",
+        "103140104"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -205,7 +207,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -224,13 +226,14 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        4,
-        103140105,
-        0,
-        4,
-        103140106
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "4",
+        "103140105",
+        "OldValue_0",
+        "4",
+        "103140106"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -240,7 +243,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -259,13 +262,14 @@
       "LevelPlaneID": 10301,
       "LevelFloorID": 10301001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        4,
-        103140105,
-        0,
-        4,
-        103140106
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "4",
+        "103140105",
+        "OldValue_0",
+        "4",
+        "103140106"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -275,7 +279,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -418,6 +422,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "isRange": true,
       "ValidValueParamList": [
         0,

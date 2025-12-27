@@ -1,74 +1,62 @@
 [
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 1,
-    "ConfigID": 300006,
-    "Type": "Narrow"
+    "Floor": "Floor1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 2,
-    "ConfigID": 300003,
-    "Type": "Narrow"
+    "Floor": "Floor1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 3,
-    "ConfigID": 300008,
-    "Type": "Narrow"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 4,
-    "ConfigID": 300007,
-    "Type": "Narrow"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 5,
-    "ConfigID": 300005,
-    "Type": "Narrow"
+    "Floor": "Floor1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 6,
-    "ConfigID": 300004,
-    "Type": "Narrow"
+    "Floor": "Floor1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 7,
-    "ConfigID": 300002,
-    "Type": "Narrow"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 17,
+    "Type": "Narrow",
     "PaintingID": 8,
-    "ConfigID": 300001,
-    "Type": "Narrow"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 65,
+    "Type": "Wide",
     "PaintingID": 9,
-    "ConfigID": 300004,
-    "Type": "Wide"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 65,
+    "Type": "Wide",
     "PaintingID": 10,
-    "ConfigID": 300003,
-    "Type": "Wide"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 65,
+    "Type": "Wide",
     "PaintingID": 11,
-    "ConfigID": 300002,
-    "Type": "Wide"
+    "Floor": "FloorB1"
   },
   {
-    "GroupID": 65,
+    "Type": "Wide",
     "PaintingID": 12,
-    "ConfigID": 300001,
-    "Type": "Wide"
+    "Floor": "FloorB1"
   }
 ]

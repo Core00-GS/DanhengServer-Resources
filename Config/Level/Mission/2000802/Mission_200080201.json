@@ -16,14 +16,16 @@
           "Path": {
             "Value": "Stages/Outputs/Chapter00/EnviroProfile/Chap00_INT_Train_01.enviroProfile.asset"
           },
+          "Priority": "TRANSIT_ENV_TASK",
           "TaskEnabled": true,
           "IsClientOnly": true
         },
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -35,6 +37,7 @@
           "Path": {
             "Value": "Stages/Outputs/Chapter00/EnviroProfile/Chap00_INT_Train_01_Varient1.enviroProfile.asset"
           },
+          "Priority": "TRANSIT_ENV_TASK",
           "TaskEnabled": true,
           "IsClientOnly": true
         },

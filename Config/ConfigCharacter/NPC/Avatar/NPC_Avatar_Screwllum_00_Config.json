@@ -62,5 +62,16 @@
   "UseDefaultSteerMode": true,
   "MouthTalkType": "EyeLight",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Avatar/NPC_Avatar_Screwllum_00_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryHoloGram_Screwllum_00",
+        "StoryCrystal_Screwllum_00",
+        "StoryCrystalWithoutEffect_Screwllum_00"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

@@ -1,9 +1,16 @@
 [
   {
-    "Icon": ""
+    "Icon": "",
+    "SortID": 1,
+    "MapSpaceType": "Unknow",
+    "Name": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMapThirdWorld01.png",
+    "SortID": 2,
     "MapSpaceType": "Reality",
     "Name": {
       "Hash": 483152114,
@@ -12,6 +19,7 @@
   },
   {
     "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMapThirdWorld02.png",
+    "SortID": 3,
     "MapSpaceType": "Dream",
     "Name": {
       "Hash": 483152115,
@@ -20,6 +28,7 @@
   },
   {
     "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMap4thWorld01.png",
+    "SortID": 4,
     "MapSpaceType": "AmphoreusDay",
     "Name": {
       "Hash": 483152116,
@@ -28,6 +37,7 @@
   },
   {
     "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMap4thWorld02.png",
+    "SortID": 5,
     "MapSpaceType": "AmphoreusNight",
     "Name": {
       "Hash": 483152117,
@@ -36,10 +46,20 @@
   },
   {
     "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMap4thWorld03.png",
+    "SortID": 6,
     "MapSpaceType": "AmphoreusSpecial",
     "Name": {
       "Hash": 483152118,
       "Hash64": 13113027118257412011
+    }
+  },
+  {
+    "Icon": "SpriteOutput/RegionalMap/IconRegionMap/IconRegionalMap4thWorld04.png",
+    "SortID": 3,
+    "MapSpaceType": "AmphoreusEternal",
+    "Name": {
+      "Hash": 483152119,
+      "Hash64": 716564260713628146
     }
   }
 ]

@@ -317,6 +317,16 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "1011503",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 1515
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "1000402",
         "Type": "FinishMainMission"
       }
@@ -376,6 +386,16 @@
       }
     ],
     "UnlockID": 2500
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1011403",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 2700
   },
   {
     "ShowCondition": [],
@@ -1341,11 +1361,99 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      },
+      {
+        "Param": "8032201",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 3058
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "1000510",
         "Type": "FinishMainMission"
       }
     ],
     "UnlockID": 3059
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 3060
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 3061
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "803220201",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 3062
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 3063
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 3064
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      },
+      {
+        "Param": "803610101",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 3065
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 3066
   },
   {
     "ShowCondition": [],
@@ -1557,8 +1665,8 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "1",
-        "Type": "PlayerLevel"
+        "Param": "1000113",
+        "Type": "FinishMainMission"
       }
     ],
     "UnlockID": 9902
@@ -1797,12 +1905,12 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "1010403",
+        "Param": "1011502",
         "Type": "FinishMainMission"
       },
       {
-        "Param": "4030002",
-        "Type": "FinishMainMission"
+        "Param": "2",
+        "Type": "FinishSimulatedRogueAreaProgress"
       }
     ],
     "UnlockID": 9929
@@ -1975,6 +2083,16 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "104030904",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9946
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "104010403",
         "Type": "FinishSubMission"
       }
@@ -1995,11 +2113,41 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "999",
-        "Type": "PlayerLevel"
+        "Param": "104030108",
+        "Type": "FinishSubMission"
       }
     ],
     "UnlockID": 9949
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104030904",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9950
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104041402",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9951
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104050106",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9952
   },
   {
     "ShowCondition": [],
@@ -2010,6 +2158,190 @@
       }
     ],
     "UnlockID": 9954
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104041402",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9955
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040505",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9956
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040612",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9957
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043677",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9958
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043710",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9959
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043677",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9960
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370816",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9961
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8036300",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9962
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043710",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9963
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "434019902",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9964
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8036301",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9965
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "0",
+        "Type": "HeroRoomOpen"
+      }
+    ],
+    "UnlockID": 9966
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043710",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9967
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8037100",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9968
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2043701",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9969
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370808",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 9970
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1010403",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "4030002",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9971
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8027115",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 9972
   },
   {
     "ShowCondition": [],
@@ -2113,7 +2445,7 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "21",
+        "Param": "3",
         "Type": "PlayerLevel"
       }
     ],
@@ -2133,6 +2465,16 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 10010
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "100020115",
         "Type": "FinishSubMission"
       }
@@ -2143,8 +2485,8 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "1000401",
-        "Type": "FinishMainMission"
+        "Param": "1",
+        "Type": "PlayerLevel"
       }
     ],
     "UnlockID": 19002
@@ -2741,6 +3083,62 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "4010127",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1040307",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 23424
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4010127",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1040407",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 23425
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4010127",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1040612",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 23426
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4010127",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1040213",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 23427
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "4010121",
         "Type": "FinishMainMission"
       }
@@ -3003,6 +3401,34 @@
     "ShowCondition": [],
     "Conditions": [
       {
+        "Param": "4010115",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1040407",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 24007
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4010115",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "1043709",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 24008
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
         "Param": "2011411",
         "Type": "FinishMainMission"
       }
@@ -3202,6 +3628,102 @@
       }
     ],
     "UnlockID": 50016
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4030010",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 50017
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8013103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 50018
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8013103",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8013104",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8013101",
+        "Type": "FinishMainMission"
+      },
+      {
+        "Param": "8013102",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 50019
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "8013103",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 50020
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 50021
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      },
+      {
+        "Param": "4030009",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 50022
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "803710003",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 50023
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 52001
   },
   {
     "ShowCondition": [],
@@ -3791,8 +4313,8 @@
     "ShowCondition": [],
     "Conditions": [
       {
-        "Param": "8024101",
-        "Type": "FinishMainMission"
+        "Param": "802410104",
+        "Type": "FinishSubMission"
       }
     ],
     "UnlockID": 105004
@@ -3950,6 +4472,216 @@
       }
     ],
     "UnlockID": 107001
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1-1",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109000
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1-2",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109001
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2-1",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109002
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2-4",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109003
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "3-1",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109004
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "3-4",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109005
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4-1",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109006
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4-4",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109007
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "5-1",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109008
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2-3",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109009
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "803510216",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 109010
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1-3",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109011
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2-2",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109012
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "803510101",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 109013
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1-2",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109014
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "3-7",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109015
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "4-7",
+        "Type": "ElfProgressDay"
+      }
+    ],
+    "UnlockID": 109016
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 109017
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "2200008",
+        "Type": "FinishQuest"
+      }
+    ],
+    "UnlockID": 109018
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "21",
+        "Type": "PlayerLevel"
+      }
+    ],
+    "UnlockID": 109019
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "50070",
+        "Type": "ActivityInTimeLimit"
+      }
+    ],
+    "UnlockID": 34013
   },
   {
     "ShowCondition": [],
@@ -4270,5 +5002,225 @@
       }
     ],
     "UnlockID": 70027
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040310",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70028
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040539",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70029
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040505",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70030
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1040612",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70031
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043677",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70032
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043710",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70033
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1033808",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 70034
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104050304",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 101
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104061221",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 3501
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104367703",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 36101
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104367703",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 36202
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104367703",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 36303
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370623",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37101
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370603",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37102
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370604",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37103
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370605",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37104
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370668",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37105
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370608",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37106
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370608",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37107
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370616",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37108
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "104370616",
+        "Type": "FinishSubMission"
+      }
+    ],
+    "UnlockID": 37109
+  },
+  {
+    "ShowCondition": [],
+    "Conditions": [
+      {
+        "Param": "1043710",
+        "Type": "FinishMainMission"
+      }
+    ],
+    "UnlockID": 37201
   }
 ]

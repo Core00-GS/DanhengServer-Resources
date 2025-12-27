@@ -26,17 +26,24 @@
       "LevelGraph": "Config/Level/Maze/MazeRogue/Maze_Rogue_NPC_EventPainting.json",
       "LoadOnInitial": true,
       "ValueSource": {},
+      "StaticNPC": true,
       "DialogueTriggerAngle": 120,
       "DialogueGroups": [],
       "ServerInteractVerificationIDList": [],
       "DefaultLookAtMode": "LookPlayer",
       "BoardShowList": [],
       "TalkDialogGroupIDList": [],
+      "AdditiveResidentEffect": [],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
+      "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
+      "OverrideReplaceMaterialKeyList": [],
       "CameraCenterEntityList": [],
+      "CameraConfig": {},
       "SpawnConfig": {
         "TryCapture": true,
         "CaptureDistanceTolerance": 1.5,
@@ -47,6 +54,7 @@
           "NeedFadeOut": true
         }
       },
+      "ModelPresetConfig": {},
       "TriggerValidGuest": {
         "LocalPlayer": true,
         "Teammember": true
@@ -61,6 +69,9 @@
   ],
   "CrowdList": [],
   "PedestrianList": [],
+  "PedestrianV2List": [],
   "AudienceList": [],
-  "SmartObjectList": []
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

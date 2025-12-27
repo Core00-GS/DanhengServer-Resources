@@ -15,13 +15,15 @@
           "Predicate": {
             "$type": "RPG.GameCore.ByCompareItemNumber",
             "ItemID": {
-              "fixedValue": {
-                "RawValue": 817620039237632
+              "FixedValue": {
+                "RawValue": 817620039237632,
+                "Value": 190367.0
               }
             },
             "Number": {
-              "fixedValue": {
-                "RawValue": 4294967296
+              "FixedValue": {
+                "RawValue": 4294967296,
+                "Value": 1.0
               }
             },
             "CompareType": "Equal",
@@ -75,13 +77,15 @@
               "Predicate": {
                 "$type": "RPG.GameCore.ByCompareItemNumber",
                 "ItemID": {
-                  "fixedValue": {
-                    "RawValue": 817620039237632
+                  "FixedValue": {
+                    "RawValue": 817620039237632,
+                    "Value": 190367.0
                   }
                 },
                 "Number": {
-                  "fixedValue": {
-                    "RawValue": 4294967296
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
                   }
                 },
                 "CompareType": "Equal",

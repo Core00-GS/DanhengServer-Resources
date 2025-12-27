@@ -60,8 +60,10 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Special/NPC_Special_Chimera_00_ReplaceCharacterMaterial.json",
   "ReplaceMaterialKeyList": [
     "NPC_Special_Chimera_00_08"
   ],
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

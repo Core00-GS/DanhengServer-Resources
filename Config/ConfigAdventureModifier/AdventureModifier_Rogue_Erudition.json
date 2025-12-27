@@ -14,7 +14,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612821": {
       "LifeTime": -1.0,
@@ -180,7 +181,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612851": {
       "LifeTime": -1.0,

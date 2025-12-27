@@ -521,6 +521,16 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20002_F20002001/LevelGroup_P20002_F20002001_G136.json",
       "Name": "MainMission4340142_anchorForSecretMission",
       "ID": 136
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20002_F20002001/LevelGroup_P20002_F20002001_G138.json",
+      "Name": "MainMission1043672_02",
+      "ID": 138
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20002_F20002001/LevelGroup_P20002_F20002001_G139.json",
+      "Name": "MainMission8035301_01",
+      "ID": 139
     }
   ],
   "DimensionList": [
@@ -639,7 +649,9 @@
         98,
         99,
         100,
-        101
+        101,
+        102,
+        103
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -1495,6 +1507,17 @@
       "Category": "Mission",
       "SaveType": "Reset",
       "IsHoyoGroup": true
+    },
+    "138": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "139": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
     }
-  }
+  },
+  "ValidSubmapList": []
 }

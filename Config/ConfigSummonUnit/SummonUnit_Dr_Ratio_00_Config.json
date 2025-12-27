@@ -36,8 +36,9 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -62,8 +63,9 @@
         "TriggerName": "HitNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 25769803776
+          "FixedValue": {
+            "RawValue": 25769803776,
+            "Value": 6.0
           }
         },
         "UseVerticalBound": true,
@@ -140,5 +142,6 @@
         "IsClientOnly": true
       }
     ]
-  }
+  },
+  "DynamicValues": {}
 }

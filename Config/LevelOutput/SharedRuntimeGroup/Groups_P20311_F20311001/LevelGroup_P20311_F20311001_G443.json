@@ -14,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Audio.Sound",
+      "TagHash": 1757672304
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -150,8 +155,7 @@
         "Radius": 1.0,
         "DimX": 10.0,
         "DimY": 10.0,
-        "DimZ": 30.0,
-        "PointList": []
+        "DimZ": 30.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [
@@ -179,5 +183,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

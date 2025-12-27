@@ -44,6 +44,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1
@@ -51,7 +53,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    0
+    "OldValue_0"
   ],
   "IsShow": true,
   "IsLegacyAssistWayPoint": true,

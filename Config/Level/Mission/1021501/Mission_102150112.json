@@ -36,6 +36,7 @@
             "MainMissionID": 1021501,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "ValidValueParamList": [
                 0,
                 1,
@@ -55,6 +56,7 @@
                 "MainMissionID": 1021501,
                 "MissionCustomValue": {
                   "Index": 1,
+                  "Name": "OldValue_1",
                   "ValidValueParamList": [
                     0,
                     1,
@@ -77,6 +79,7 @@
                 },
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -108,6 +111,7 @@
               "FailedTaskList": [
                 {
                   "$type": "RPG.GameCore.PlayMissionTalk",
+                  "MuteBattleVO": true,
                   "SimpleTalkList": [
                     {
                       "TextSpeed": 20.0,
@@ -132,6 +136,7 @@
           "FailedTaskList": [
             {
               "$type": "RPG.GameCore.PlayMissionTalk",
+              "MuteBattleVO": true,
               "SimpleTalkList": [
                 {
                   "TextSpeed": 20.0,
@@ -183,6 +188,7 @@
           "TargetSubmissionID": 102150112,
           "TargetMissionCustomValue": {
             "Index": 1,
+            "Name": "OldValue_1",
             "ValidValueParamList": [
               0,
               1,
@@ -195,6 +201,7 @@
             "MainMissionID": 1021501,
             "MissionCustomValue": {
               "Index": 1,
+              "Name": "OldValue_1",
               "ValidValueParamList": [
                 0,
                 1,
@@ -205,7 +212,9 @@
           },
           "ValueB": {
             "DirectValue": 1,
-            "MissionCustomValue": {}
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            }
           },
           "TaskEnabled": true,
           "IsClientOnly": true
@@ -228,13 +237,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 146028888064
+                "FixedValue": {
+                  "RawValue": 146028888064,
+                  "Value": 34.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288503073701888
+                "FixedValue": {
+                  "RawValue": 1288503073701888,
+                  "Value": 300003.0
                 }
               }
             }
@@ -266,6 +277,7 @@
         },
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

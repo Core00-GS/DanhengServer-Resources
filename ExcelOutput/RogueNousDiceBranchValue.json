@@ -2,10 +2,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -18,10 +20,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -34,10 +38,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -50,10 +56,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -66,10 +74,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -82,10 +92,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -98,10 +110,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -114,10 +128,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -130,10 +146,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -146,10 +164,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -162,10 +182,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -178,10 +200,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -194,10 +218,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -210,10 +236,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -226,10 +254,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -242,10 +272,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -258,10 +290,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -274,10 +308,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -290,10 +326,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -306,10 +344,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -322,10 +362,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -338,10 +380,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -354,10 +398,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -370,10 +416,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -386,10 +434,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -402,10 +452,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -418,10 +470,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -434,10 +488,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -450,10 +506,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -466,10 +524,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -482,10 +542,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -498,10 +560,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -514,10 +578,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -530,10 +596,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -546,10 +614,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -562,10 +632,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -578,10 +650,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -594,10 +668,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -610,10 +686,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -626,10 +704,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -642,10 +722,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -658,10 +740,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -674,10 +758,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -690,10 +776,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -706,10 +794,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -722,10 +812,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -738,10 +830,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 3092376456
+        "RawValue": 3092376456,
+        "Value": 0.72
       }
     ],
     "BranchEffectDesc": {
@@ -754,10 +848,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -770,10 +866,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -786,10 +884,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -802,10 +902,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -818,10 +920,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 2061584304
+        "RawValue": 2061584304,
+        "Value": 0.48
       }
     ],
     "BranchEffectDesc": {
@@ -834,10 +938,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1546188228
+        "RawValue": 1546188228,
+        "Value": 0.36
       }
     ],
     "BranchEffectDesc": {
@@ -850,10 +956,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 2061584304
+        "RawValue": 2061584304,
+        "Value": 0.48
       }
     ],
     "BranchEffectDesc": {
@@ -866,10 +974,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 171798692
+        "RawValue": 171798692,
+        "Value": 0.04
       }
     ],
     "BranchEffectDesc": {
@@ -882,10 +992,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -898,10 +1010,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -914,10 +1028,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 171798692
+        "RawValue": 171798692,
+        "Value": 0.04
       }
     ],
     "BranchEffectDesc": {
@@ -930,10 +1046,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -946,10 +1064,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 171798692
+        "RawValue": 171798692,
+        "Value": 0.04
       }
     ],
     "BranchEffectDesc": {
@@ -962,10 +1082,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -978,10 +1100,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -994,10 +1118,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1010,10 +1136,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 85899346
+        "RawValue": 85899346,
+        "Value": 0.02
       }
     ],
     "BranchEffectDesc": {
@@ -1026,10 +1154,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1042,10 +1172,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 128849019
+        "RawValue": 128849019,
+        "Value": 0.03
       }
     ],
     "BranchEffectDesc": {
@@ -1058,10 +1190,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 85899346
+        "RawValue": 85899346,
+        "Value": 0.02
       }
     ],
     "BranchEffectDesc": {
@@ -1074,10 +1208,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 128849019
+        "RawValue": 128849019,
+        "Value": 0.03
       }
     ],
     "BranchEffectDesc": {
@@ -1090,10 +1226,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 85899346
+        "RawValue": 85899346,
+        "Value": 0.02
       }
     ],
     "BranchEffectDesc": {
@@ -1106,10 +1244,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 171798692
+        "RawValue": 171798692,
+        "Value": 0.04
       }
     ],
     "BranchEffectDesc": {
@@ -1122,10 +1262,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 128849019
+        "RawValue": 128849019,
+        "Value": 0.03
       }
     ],
     "BranchEffectDesc": {
@@ -1138,10 +1280,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 171798692
+        "RawValue": 171798692,
+        "Value": 0.04
       }
     ],
     "BranchEffectDesc": {
@@ -1154,10 +1298,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1170,10 +1316,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -1186,10 +1334,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1202,10 +1352,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1218,10 +1370,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1234,10 +1388,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1250,10 +1406,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 687194768
+        "RawValue": 687194768,
+        "Value": 0.16
       }
     ],
     "BranchEffectDesc": {
@@ -1266,10 +1424,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1282,10 +1442,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 687194768
+        "RawValue": 687194768,
+        "Value": 0.16
       }
     ],
     "BranchEffectDesc": {
@@ -1298,10 +1460,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1314,10 +1478,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -1330,10 +1496,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1346,10 +1514,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1362,10 +1532,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1378,10 +1550,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1394,10 +1568,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1410,10 +1586,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1426,10 +1604,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 429496729600
+        "RawValue": 429496729600,
+        "Value": 100.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1442,10 +1622,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1458,10 +1640,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 773094114
+        "RawValue": 773094114,
+        "Value": 0.18
       }
     ],
     "BranchEffectDesc": {
@@ -1474,10 +1658,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1490,10 +1676,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1506,10 +1694,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1522,10 +1712,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 257698038
+        "RawValue": 257698038,
+        "Value": 0.06
       }
     ],
     "BranchEffectDesc": {
@@ -1538,10 +1730,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1554,10 +1748,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 386547057
+        "RawValue": 386547057,
+        "Value": 0.09
       }
     ],
     "BranchEffectDesc": {
@@ -1570,10 +1766,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1586,10 +1784,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1602,10 +1802,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 1030792152
+        "RawValue": 1030792152,
+        "Value": 0.24
       }
     ],
     "BranchEffectDesc": {
@@ -1618,10 +1820,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1634,10 +1838,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1650,10 +1856,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1666,10 +1874,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 343597384
+        "RawValue": 343597384,
+        "Value": 0.08
       }
     ],
     "BranchEffectDesc": {
@@ -1682,10 +1892,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 687194768
+        "RawValue": 687194768,
+        "Value": 0.16
       }
     ],
     "BranchEffectDesc": {
@@ -1698,10 +1910,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 515396076
+        "RawValue": 515396076,
+        "Value": 0.12
       }
     ],
     "BranchEffectDesc": {
@@ -1714,10 +1928,12 @@
   {
     "ParamList": [
       {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       {
-        "RawValue": 687194768
+        "RawValue": 687194768,
+        "Value": 0.16
       }
     ],
     "BranchEffectDesc": {

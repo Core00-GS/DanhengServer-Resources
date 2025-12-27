@@ -7,17 +7,17 @@
       1001714,
       1001715
     ],
-    "NextPhase": 102,
     "ExtraQuest": 1002001,
-    "PanelTitle": {
-      "Hash": -322981332,
-      "Hash64": 2968996071244643990
-    },
+    "NextPhase": 102,
+    "PhaseID": 101,
     "PanelDesc": {
       "Hash": 1744326253,
       "Hash64": 9029072456416460181
     },
-    "PhaseID": 101
+    "PanelTitle": {
+      "Hash": -322981332,
+      "Hash64": 2968996071244643990
+    }
   },
   {
     "QuestList": [
@@ -27,17 +27,17 @@
       1001742,
       1001798
     ],
-    "NextPhase": 103,
     "ExtraQuest": 1002002,
-    "PanelTitle": {
-      "Hash": -322981329,
-      "Hash64": 9322877427785392385
-    },
+    "NextPhase": 103,
+    "PhaseID": 102,
     "PanelDesc": {
       "Hash": -2147356516,
       "Hash64": 1759244972945336416
     },
-    "PhaseID": 102
+    "PanelTitle": {
+      "Hash": -322981329,
+      "Hash64": 9322877427785392385
+    }
   },
   {
     "QuestList": [
@@ -47,17 +47,17 @@
       1001725,
       1001724
     ],
-    "NextPhase": 104,
     "ExtraQuest": 1002003,
-    "PanelTitle": {
-      "Hash": -322981330,
-      "Hash64": 15570311140978483190
-    },
+    "NextPhase": 104,
+    "PhaseID": 103,
     "PanelDesc": {
       "Hash": 581526839,
       "Hash64": 12444304669040128618
     },
-    "PhaseID": 103
+    "PanelTitle": {
+      "Hash": -322981330,
+      "Hash64": 15570311140978483190
+    }
   },
   {
     "QuestList": [
@@ -67,17 +67,17 @@
       1001727,
       1001716
     ],
-    "NextPhase": 105,
     "ExtraQuest": 1002004,
-    "PanelTitle": {
-      "Hash": -322981327,
-      "Hash64": 17853899229129117577
-    },
+    "NextPhase": 105,
+    "PhaseID": 104,
     "PanelDesc": {
       "Hash": 984811366,
       "Hash64": 2868219700063235043
     },
-    "PhaseID": 104
+    "PanelTitle": {
+      "Hash": -322981327,
+      "Hash64": 17853899229129117577
+    }
   },
   {
     "QuestList": [
@@ -87,17 +87,17 @@
       1001754,
       1001766
     ],
-    "NextPhase": 106,
     "ExtraQuest": 1002005,
-    "PanelTitle": {
-      "Hash": -322981328,
-      "Hash64": 8752495261760072763
-    },
+    "NextPhase": 106,
+    "PhaseID": 105,
     "PanelDesc": {
       "Hash": -581272575,
       "Hash64": 14049464998532945424
     },
-    "PhaseID": 105
+    "PanelTitle": {
+      "Hash": -322981328,
+      "Hash64": 8752495261760072763
+    }
   },
   {
     "QuestList": [
@@ -106,17 +106,17 @@
       1001764,
       1001773
     ],
-    "NextPhase": 107,
     "ExtraQuest": 1002006,
-    "PanelTitle": {
-      "Hash": -322981325,
-      "Hash64": 13732745207471384549
-    },
+    "NextPhase": 107,
+    "PhaseID": 106,
     "PanelDesc": {
       "Hash": -177988048,
       "Hash64": 12355807603297107541
     },
-    "PhaseID": 106
+    "PanelTitle": {
+      "Hash": -322981325,
+      "Hash64": 13732745207471384549
+    }
   },
   {
     "QuestList": [
@@ -125,17 +125,17 @@
       1001783,
       1001785
     ],
-    "NextPhase": 108,
     "ExtraQuest": 1002007,
-    "PanelTitle": {
-      "Hash": -322981326,
-      "Hash64": 6724020475680051307
-    },
+    "NextPhase": 108,
+    "PhaseID": 107,
     "PanelDesc": {
       "Hash": -1744071989,
       "Hash64": 11257949928018365801
     },
-    "PhaseID": 107
+    "PanelTitle": {
+      "Hash": -322981326,
+      "Hash64": 6724020475680051307
+    }
   },
   {
     "QuestList": [
@@ -144,17 +144,17 @@
       1001775,
       1001776
     ],
-    "NextPhase": 109,
     "ExtraQuest": 1002008,
-    "PanelTitle": {
-      "Hash": -322981339,
-      "Hash64": 5809130302783532782
-    },
+    "NextPhase": 109,
+    "PhaseID": 108,
     "PanelDesc": {
       "Hash": -628326742,
       "Hash64": 12658553816156683582
     },
-    "PhaseID": 108
+    "PanelTitle": {
+      "Hash": -322981339,
+      "Hash64": 5809130302783532782
+    }
   },
   {
     "QuestList": [
@@ -164,14 +164,15 @@
       1001796
     ],
     "ExtraQuest": 1002009,
-    "PanelTitle": {
-      "Hash": -322981340,
-      "Hash64": 2283470613103744486
-    },
+    "NextPhase": 0,
+    "PhaseID": 109,
     "PanelDesc": {
       "Hash": 2100556613,
       "Hash64": 3123912958743345407
     },
-    "PhaseID": 109
+    "PanelTitle": {
+      "Hash": -322981340,
+      "Hash64": 2283470613103744486
+    }
   }
 ]

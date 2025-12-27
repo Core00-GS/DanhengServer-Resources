@@ -27,8 +27,7 @@
       ],
       "Name": "LocalPlayer_Yukong_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnAdd": [
         {
@@ -129,8 +128,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 64424508
+                "FixedValue": {
+                  "RawValue": 64424508,
+                  "Value": 0.01
                 }
               },
               "TaskEnabled": true,
@@ -167,8 +167,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": 429496730
+                  "FixedValue": {
+                    "RawValue": 429496730,
+                    "Value": 0.1
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -186,7 +187,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -248,7 +249,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -330,7 +331,9 @@
                   "CycleDamping": 0.7,
                   "RangeAttenuation": 0.5,
                   "RangeAttenuationDelay": 999.0,
-                  "RangeAttenuationDuration": -1.0
+                  "RangeAttenuationDuration": -1.0,
+                  "IsUsePositionNoise": true,
+                  "IsUseRotationNoise": true
                 }
               },
               "TaskEnabled": true,
@@ -365,8 +368,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 64424508
+                "FixedValue": {
+                  "RawValue": 64424508,
+                  "Value": 0.01
                 }
               },
               "TaskEnabled": true,
@@ -408,8 +412,9 @@
                 "HitEffect": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeAttack_Hit.prefab",
                 "FlyEffectFadeOut": true,
                 "LinearPitchAngle": {
-                  "fixedValue": {
-                    "RawValue": -4294967296
+                  "FixedValue": {
+                    "RawValue": -4294967296,
+                    "Value": -1.0
                   }
                 },
                 "BoomerangEccentricity": 1.0,
@@ -427,7 +432,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -489,7 +494,7 @@
                   },
                   "AttackRootTargetType": {
                     "$type": "RPG.GameCore.TargetAlias",
-                    "Alias": "ProjectileHitEntity"
+                    "Alias": "ProjectileHitPos"
                   },
                   "TriggerBattle": true,
                   "TriggerBattleDelay": 0.1,
@@ -571,7 +576,9 @@
                   "CycleDamping": 0.7,
                   "RangeAttenuation": 0.5,
                   "RangeAttenuationDelay": 999.0,
-                  "RangeAttenuationDuration": -1.0
+                  "RangeAttenuationDuration": -1.0,
+                  "IsUsePositionNoise": true,
+                  "IsUseRotationNoise": true
                 }
               },
               "TaskEnabled": true,
@@ -591,8 +598,7 @@
     {
       "Name": "LocalPlayer_Yukong_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -603,8 +609,19 @@
           },
           "ID": 120702,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Yukong_00_Ability.AbilityList.1.OnStart.0.LifeTime.FixedValue"
+            }
+          },
+          "DynamicValues": {
+            "MDF_MoveSpeedRatio": {
+              "FixedValue": {
+                "RawValue": -149061134974976,
+                "Value": -34706.0,
+                "Path": "LocalPlayer_Yukong_00_Ability.AbilityList.1.OnStart.0.DynamicValues.MDF_MoveSpeedRatio.FixedValue"
+              }
             }
           },
           "TaskEnabled": true,
@@ -656,5 +673,389 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Yukong": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_Modifier_Maze_Yukong": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_AfterImageFastRun.prefab",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_AfterImageRun.prefab",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifierAttachEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_Loop.prefab",
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifyAdventureCharacterRunSpeedRatio",
+          "UniqueKey": "ADV_Modifier_Maze_Yukong",
+          "ModifyEnabled": true,
+          "TransitionDuration": 0.3,
+          "SpeedRatioMultiplier": {
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Yukong_00_Ability.GlobalModifiers.ADV_Modifier_Maze_Yukong.OnCreate.3.SpeedRatioMultiplier.FixedValue"
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAnimatorParam",
+            "ParamType": "Int",
+            "ParamName": "MotionFlag",
+            "ParamCompareType": "Equal",
+            "IntegerValue": 3,
+            "TaskEnabled": true,
+            "IsClientOnly": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_FootL.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_FootR.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_ShoulderL.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_ShoulderR.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.TriggerEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_Root.prefab",
+              "Scale": {
+                "x": -1.0,
+                "y": -1.0,
+                "z": -1.0,
+                "normalized": {
+                  "x": -0.577350259,
+                  "y": -0.577350259,
+                  "z": -0.577350259,
+                  "normalized": {
+                    "x": -0.5773503,
+                    "y": -0.5773503,
+                    "z": -0.5773503,
+                    "magnitude": 1.00000012,
+                    "sqrMagnitude": 1.00000024
+                  },
+                  "magnitude": 0.99999994,
+                  "sqrMagnitude": 0.99999994
+                },
+                "magnitude": 1.73205078,
+                "sqrMagnitude": 3.0
+              },
+              "IsNeedFadeIn": true,
+              "ParamEntityUsage": "LookAt",
+              "TowardMaxPitchAngle": 90.0,
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.TriggerEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_End.prefab",
+          "Scale": {
+            "x": -1.0,
+            "y": -1.0,
+            "z": -1.0,
+            "normalized": {
+              "x": -0.577350259,
+              "y": -0.577350259,
+              "z": -0.577350259,
+              "normalized": {
+                "x": -0.5773503,
+                "y": -0.5773503,
+                "z": -0.5773503,
+                "magnitude": 1.00000012,
+                "sqrMagnitude": 1.00000024
+              },
+              "magnitude": 0.99999994,
+              "sqrMagnitude": 0.99999994
+            },
+            "magnitude": 1.73205078,
+            "sqrMagnitude": 3.0
+          },
+          "IsNeedFadeIn": true,
+          "ParamEntityUsage": "LookAt",
+          "TowardMaxPitchAngle": 90.0,
+          "MaxMutexCount": 1,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.ModifyAdventureCharacterRunSpeedRatio",
+          "UniqueKey": "ADV_Modifier_Maze_Yukong",
+          "TransitionDuration": 0.3,
+          "SpeedRatioMultiplier": {
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_FootL.prefab",
+          "IsNeedFadeOut": true,
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_FootR.prefab",
+          "IsNeedFadeOut": true,
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_ShoulderL.prefab",
+          "IsNeedFadeOut": true,
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_ShoulderR.prefab",
+          "IsNeedFadeOut": true,
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveEffect",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Yukong_00/Eff_Avatar_Yukong_00_MazeSkill_Root.prefab",
+          "IsNeedFadeOut": true,
+          "FadeOutRegionStart": -1.0,
+          "FadeOutRegionEnd": -1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnUnstage": [
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh",
+      "DynamicValues": {}
+    }
+  }
 }

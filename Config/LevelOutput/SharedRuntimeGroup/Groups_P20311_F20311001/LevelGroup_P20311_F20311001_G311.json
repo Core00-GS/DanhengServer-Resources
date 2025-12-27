@@ -15,11 +15,23 @@
   "LoadSide": "Server",
   "GroupRefreshID": 1001,
   "ValueSource": {},
-  "ConflictIDList": [],
+  "ConflictIDList": [
+    103380402,
+    103380403,
+    103380404,
+    103380405,
+    103380406
+  ],
   "IsHoyoGroup": true,
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Level.Monster",
+      "TagHash": -1058465803
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [
     {
@@ -28,6 +40,7 @@
         "PathwayList": [],
         "SlaveConfigList": []
       },
+      "AIVariableSource": {},
       "LoadOnInitial": true,
       "ValueSource": {},
       "CampID": 3,
@@ -41,7 +54,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -83,7 +98,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -104,6 +121,7 @@
         "PathwayList": [],
         "SlaveConfigList": []
       },
+      "AIVariableSource": {},
       "LoadOnInitial": true,
       "ValueSource": {},
       "CampID": 3,
@@ -118,7 +136,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -160,7 +180,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -202,7 +224,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -244,7 +268,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -266,6 +292,7 @@
         "PathwayList": [],
         "SlaveConfigList": []
       },
+      "AIVariableSource": {},
       "LoadOnInitial": true,
       "ValueSource": {},
       "CampID": 3,
@@ -280,7 +307,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -322,7 +351,9 @@
       ],
       "DefaultLookAtMode": "LookPlayer",
       "TagList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "SpawnConfig": {
         "EntitySpawnConfig": {
           "NeedBlackIn": true,
@@ -511,5 +542,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

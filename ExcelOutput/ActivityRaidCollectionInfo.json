@@ -6,7 +6,8 @@
       2
     ],
     "RaidCollectionType": "Penacony",
-    "ActivityID": 50007
+    "ActivityID": 50007,
+    "RewardID": 0
   },
   {
     "IconPath": "",
@@ -14,9 +15,9 @@
       3,
       4
     ],
-    "RewardID": 50021,
     "RaidCollectionType": "LuoFu",
-    "ActivityID": 50021
+    "ActivityID": 50021,
+    "RewardID": 50021
   },
   {
     "IconPath": "SpriteOutput/TabIcon/Activity/IconFourthWorldRaidCollectionGame.png",
@@ -24,8 +25,8 @@
       5,
       6
     ],
-    "RewardID": 50026,
     "RaidCollectionType": "Amphoreus",
-    "ActivityID": 50026
+    "ActivityID": 50026,
+    "RewardID": 50026
   }
 ]

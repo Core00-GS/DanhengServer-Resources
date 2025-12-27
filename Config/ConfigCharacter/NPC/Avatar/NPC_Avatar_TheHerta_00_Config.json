@@ -63,5 +63,16 @@
   "UseDefaultSteerMode": true,
   "TalkEmotionAssetPath": "Story/TalkEmotion/Avatar/TheHerta_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Avatar/NPC_Avatar_TheHerta_00_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryHoloGram_TheHerta_00",
+        "StoryCrystal_TheHerta_00",
+        "StoryCrystalWithoutEffect_TheHerta_00"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

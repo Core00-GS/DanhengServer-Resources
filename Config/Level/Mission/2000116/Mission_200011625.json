@@ -10,13 +10,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 322122547200
+                  "FixedValue": {
+                    "RawValue": 322122547200,
+                    "Value": 75.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288533138472960
+                  "FixedValue": {
+                    "RawValue": 1288533138472960,
+                    "Value": 300010.0
                   }
                 }
               }
@@ -33,13 +35,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 322122547200
+                  "FixedValue": {
+                    "RawValue": 322122547200,
+                    "Value": 75.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288533138472960
+                  "FixedValue": {
+                    "RawValue": 1288533138472960,
+                    "Value": 300010.0
                   }
                 }
               }
@@ -53,13 +57,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 322122547200
+                      "FixedValue": {
+                        "RawValue": 322122547200,
+                        "Value": 75.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288533138472960
+                      "FixedValue": {
+                        "RawValue": 1288533138472960,
+                        "Value": 300010.0
                       }
                     }
                   }

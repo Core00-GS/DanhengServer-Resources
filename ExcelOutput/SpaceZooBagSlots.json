@@ -1,6 +1,8 @@
 [
   {
-    "ImagePath": ""
+    "ImagePath": "",
+    "Channel": "None",
+    "CatteryID": 0
   },
   {
     "ImagePath": "SpriteOutput/Quest/SpaceZoo/SpaceZooIcon/SpaceZooTabHeadIcon.png",

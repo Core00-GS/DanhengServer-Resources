@@ -6,11 +6,11 @@
       6019102,
       6019103
     ],
+    "QuestGroupID": 1,
     "TabName": {
       "Hash": -739922031,
       "Hash64": 3398683217852530798
-    },
-    "QuestGroupID": 1
+    }
   },
   {
     "QuestIDList": [
@@ -19,11 +19,11 @@
       6019105,
       6019106
     ],
+    "QuestGroupID": 6,
     "TabName": {
       "Hash": -1143206558,
       "Hash64": 15335370494559115171
-    },
-    "QuestGroupID": 6
+    }
   },
   {
     "QuestIDList": [
@@ -32,11 +32,11 @@
       6019108,
       6019109
     ],
+    "QuestGroupID": 3,
     "TabName": {
       "Hash": -1902721445,
       "Hash64": 960302900947300361
-    },
-    "QuestGroupID": 3
+    }
   },
   {
     "QuestIDList": [
@@ -45,11 +45,11 @@
       6019111,
       6019112
     ],
+    "QuestGroupID": 4,
     "TabName": {
       "Hash": 19592856,
       "Hash64": 17162541176570580538
-    },
-    "QuestGroupID": 4
+    }
   },
   {
     "QuestIDList": [
@@ -58,11 +58,11 @@
       6019114,
       6019115
     ],
+    "QuestGroupID": 5,
     "TabName": {
       "Hash": 1585676797,
       "Hash64": 3691981716285440724
-    },
-    "QuestGroupID": 5
+    }
   },
   {
     "QuestIDList": [
@@ -71,10 +71,10 @@
       6019117,
       6019118
     ],
+    "QuestGroupID": 2,
     "TabName": {
       "Hash": 826161910,
       "Hash64": 1892612898929736180
-    },
-    "QuestGroupID": 2
+    }
   }
 ]

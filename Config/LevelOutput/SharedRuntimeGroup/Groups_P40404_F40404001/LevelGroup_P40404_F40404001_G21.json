@@ -110,8 +110,7 @@
         "Radius": 2.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -125,29 +124,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300001.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013802
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -194,8 +178,7 @@
         "Radius": 2.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -209,29 +192,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300002.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013804
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -277,8 +245,7 @@
         "Radius": 4.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -292,29 +259,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300003.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013805
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -361,8 +313,7 @@
         "Radius": 2.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -376,29 +327,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300004.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013806
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -445,8 +381,7 @@
         "Radius": 2.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -460,29 +395,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300005.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013807
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -549,8 +469,7 @@
           "x": -1.0,
           "magnitude": 1.0,
           "sqrMagnitude": 1.0
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "State": "Locked",
@@ -564,29 +483,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300006.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013809
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -633,8 +537,7 @@
         "Radius": 8.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Locked",
@@ -653,8 +556,7 @@
             },
             "magnitude": 2.18,
             "sqrMagnitude": 4.7524004
-          },
-          "PointList": []
+          }
         }
       },
       "StateConfigs": [],
@@ -663,29 +565,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300007.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013810
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -742,8 +629,7 @@
           },
           "magnitude": 2.81,
           "sqrMagnitude": 7.89609957
-        },
-        "PointList": []
+        }
       },
       "CampID": 4,
       "State": "Locked",
@@ -762,8 +648,7 @@
             },
             "magnitude": 2.18,
             "sqrMagnitude": 4.7524004
-          },
-          "PointList": []
+          }
         }
       },
       "StateConfigs": [],
@@ -772,29 +657,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
-      "Dialog": {
-        "LevelGraph": "Config/Level/PropDialogue/P10401/F10401001_G93/DialogueMain_F10401001_G93_P300008.json",
-        "PackList": [],
-        "EnableCondition": {
-          "Conditions": [
-            {
-              "Type": "SubMission",
-              "Phase": "Finish",
-              "ID": 434013812
-            }
-          ]
-        },
-        "EnableDialogCamera": true
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
       },
-      "InteractIconType": "CheckIcon",
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
-      "InteractTitle": {
-        "Hash": -1408797097,
-        "Hash64": 110550860369148845
-      },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

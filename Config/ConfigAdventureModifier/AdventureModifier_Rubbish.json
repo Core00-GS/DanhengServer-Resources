@@ -11,8 +11,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -43,8 +44,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerSP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "ModifyFunction": "Add",
@@ -448,8 +450,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "ModifyFunction": "Add",
@@ -486,8 +489,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 858993460
+            "FixedValue": {
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           "ModifyFunction": "Add",
@@ -544,8 +548,9 @@
         {
           "$type": "RPG.GameCore.AdventureModifyTeamPlayerHP",
           "AddRatio": {
-            "fixedValue": {
-              "RawValue": 1717986920
+            "FixedValue": {
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           "ModifyFunction": "Add",

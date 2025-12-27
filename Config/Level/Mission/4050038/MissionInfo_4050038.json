@@ -23,7 +23,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -38,10 +38,11 @@
       "LevelPlaneID": 10000,
       "LevelFloorID": 10000000,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "405003801"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -73,10 +74,11 @@
       "LevelPlaneID": 10201,
       "LevelFloorID": 10201001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "405003801"
       ],
       "FinishType": "GetItem",
       "ParamType": "Equal",
@@ -99,10 +101,11 @@
       "LevelPlaneID": 10202,
       "LevelFloorID": 10202004,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "405003801"
       ],
       "FinishType": "GetItem",
       "ParamType": "Equal",
@@ -125,10 +128,11 @@
       "LevelPlaneID": 10201,
       "LevelFloorID": 10201001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        3,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "3",
+        "405003801"
       ],
       "FinishType": "GetItem",
       "ParamType": "Equal",
@@ -151,10 +155,11 @@
       "LevelPlaneID": 10201,
       "LevelFloorID": 10201001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        4,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "4",
+        "405003801"
       ],
       "FinishType": "GetItem",
       "ParamType": "Equal",
@@ -177,10 +182,11 @@
       "LevelPlaneID": 10000,
       "LevelFloorID": 10000000,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "405003801"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -212,10 +218,11 @@
       "LevelPlaneID": 10000,
       "LevelFloorID": 10000000,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        3,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "3",
+        "405003801"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -247,10 +254,11 @@
       "LevelPlaneID": 10000,
       "LevelFloorID": 10000000,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        4,
-        405003801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "4",
+        "405003801"
       ],
       "FinishType": "ConsumeMissionItem",
       "ParamType": "Equal",
@@ -301,6 +309,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,

@@ -167,10 +167,12 @@
       "CustomValueList": [],
       "CustomValueReward": [
         {
+          "Name": "OldValue_0",
           "Value": 1,
           "RewardID": 2001367
         },
         {
+          "Name": "OldValue_0",
           "Value": 2,
           "RewardID": 2001368
         }
@@ -314,6 +316,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2

@@ -4,32 +4,74 @@
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 5,
-    "OpponentBirdID": 310,
-    "HPmax": 10,
+    "PlayerID": 900,
+    "PlayerBirdID": 311,
+    "GoMissionCondition": 0,
     "LevelID": 1000,
+    "OpponentID": 100,
+    "HPmax": 10,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
     "VictoryDesc": {
       "Hash": -1435412560,
       "Hash64": 17204578040470795989
     },
-    "PlayerID": 900,
-    "OpponentID": 100,
-    "PlayerBirdID": 311
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 5,
-    "OpponentBirdID": 310,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 0,
     "LevelID": 1010,
+    "OpponentID": 101,
+    "HPmax": 100,
+    "UnlockID": 802310101,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
     "VictoryDesc": {
       "Hash": -1435412591,
       "Hash64": 14001425113989067814
     },
-    "OpponentID": 101,
-    "UnlockID": 802310101,
-    "PlayerBirdID": 300
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -41,37 +83,38 @@
       102,
       104
     ],
-    "Mode": 1,
     "TurnStep": 10,
-    "OpponentBirdID": 301,
-    "LevelMission": 802310203,
-    "MissionDescription": {
-      "Hash": 331703991,
-      "Hash64": 1839256683403008490
-    },
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 802310202,
     "LevelID": 1100,
-    "LevelName": {
-      "Hash": -976708714,
-      "Hash64": 976433714703184768
-    },
+    "OpponentID": 111,
+    "HPmax": 100,
+    "UnlockID": 802310102,
+    "LevelMission": 802310203,
+    "OpponentBirdID": 301,
     "VictoryDesc": {
       "Hash": 1212400560,
       "Hash64": 2017406590164366510
     },
-    "GoMissionCondition": 802310202,
+    "LoseDesc": {
+      "Hash": 1404158101,
+      "Hash64": 14651586340216295380
+    },
+    "Mode": 1,
     "RewardID": 230001,
     "LevelDescription": {
       "Hash": -1171028299,
       "Hash64": 7584786845164871009
     },
-    "OpponentID": 111,
-    "LoseDesc": {
-      "Hash": 1404158101,
-      "Hash64": 14651586340216295380
+    "LevelName": {
+      "Hash": -976708714,
+      "Hash64": 976433714703184768
     },
-    "UnlockID": 802310102,
-    "PlayerBirdID": 300
+    "MissionDescription": {
+      "Hash": 331703991,
+      "Hash64": 1839256683403008490
+    }
   },
   {
     "EnvironmentID": [
@@ -87,31 +130,38 @@
       101,
       102
     ],
-    "Mode": 2,
     "TurnStep": 10,
-    "OpponentBirdID": 301,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 0,
     "LevelID": 1100,
-    "LevelName": {
-      "Hash": -1379993241,
-      "Hash64": 17807722666083967078
-    },
+    "OpponentID": 112,
+    "HPmax": 100,
+    "UnlockID": 802310506,
+    "LevelMission": 0,
+    "OpponentBirdID": 301,
     "VictoryDesc": {
       "Hash": 1615685087,
       "Hash64": 274137584257431511
     },
+    "LoseDesc": {
+      "Hash": 1404158104,
+      "Hash64": 18108934954828848778
+    },
+    "Mode": 2,
     "RewardID": 230011,
     "LevelDescription": {
       "Hash": -1171028300,
       "Hash64": 6687911102506048441
     },
-    "OpponentID": 112,
-    "LoseDesc": {
-      "Hash": 1404158104,
-      "Hash64": 18108934954828848778
+    "LevelName": {
+      "Hash": -1379993241,
+      "Hash64": 17807722666083967078
     },
-    "UnlockID": 802310506,
-    "PlayerBirdID": 300
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -124,37 +174,38 @@
       202,
       204
     ],
-    "Mode": 1,
     "TurnStep": 10,
-    "OpponentBirdID": 302,
-    "LevelMission": 802310304,
-    "MissionDescription": {
-      "Hash": 331709368,
-      "Hash64": 14367708883619100717
-    },
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 301,
+    "GoMissionCondition": 802310303,
     "LevelID": 1200,
-    "LevelName": {
-      "Hash": 267160935,
-      "Hash64": 2700550629446096694
-    },
+    "OpponentID": 121,
+    "HPmax": 100,
+    "UnlockID": 802310206,
+    "LevelMission": 802310304,
+    "OpponentBirdID": 302,
     "VictoryDesc": {
       "Hash": 857461855,
       "Hash64": 159475513505585408
     },
-    "GoMissionCondition": 802310303,
+    "LoseDesc": {
+      "Hash": 1404161304,
+      "Hash64": 15050367946104558807
+    },
+    "Mode": 1,
     "RewardID": 230002,
     "LevelDescription": {
       "Hash": -1171029452,
       "Hash64": 5939863498259978919
     },
-    "OpponentID": 121,
-    "LoseDesc": {
-      "Hash": 1404161304,
-      "Hash64": 15050367946104558807
+    "LevelName": {
+      "Hash": 267160935,
+      "Hash64": 2700550629446096694
     },
-    "UnlockID": 802310206,
-    "PlayerBirdID": 301
+    "MissionDescription": {
+      "Hash": 331709368,
+      "Hash64": 14367708883619100717
+    }
   },
   {
     "EnvironmentID": [
@@ -170,31 +221,38 @@
       201,
       202
     ],
-    "Mode": 2,
     "TurnStep": 10,
-    "OpponentBirdID": 302,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 301,
+    "GoMissionCondition": 0,
     "LevelID": 1200,
-    "LevelName": {
-      "Hash": 670445462,
-      "Hash64": 730157722440078884
-    },
+    "OpponentID": 122,
+    "HPmax": 100,
+    "UnlockID": 802310506,
+    "LevelMission": 0,
+    "OpponentBirdID": 302,
     "VictoryDesc": {
       "Hash": 454177328,
       "Hash64": 6151812186939635134
     },
+    "LoseDesc": {
+      "Hash": 1404161301,
+      "Hash64": 12827380352211033132
+    },
+    "Mode": 2,
     "RewardID": 230012,
     "LevelDescription": {
       "Hash": -1171029451,
       "Hash64": 10177813870525396415
     },
-    "OpponentID": 122,
-    "LoseDesc": {
-      "Hash": 1404161301,
-      "Hash64": 12827380352211033132
+    "LevelName": {
+      "Hash": 670445462,
+      "Hash64": 730157722440078884
     },
-    "UnlockID": 802310506,
-    "PlayerBirdID": 301
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -208,37 +266,38 @@
       302,
       304
     ],
-    "Mode": 1,
     "TurnStep": 10,
-    "OpponentBirdID": 303,
-    "LevelMission": 802310403,
-    "MissionDescription": {
-      "Hash": 331706169,
-      "Hash64": 7471314218954579396
-    },
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 302,
+    "GoMissionCondition": 802310408,
     "LevelID": 1300,
-    "LevelName": {
-      "Hash": -1703499188,
-      "Hash64": 2164053207156558237
-    },
+    "OpponentID": 131,
+    "HPmax": 100,
+    "UnlockID": 802310305,
+    "LevelMission": 802310403,
+    "OpponentBirdID": 303,
     "VictoryDesc": {
       "Hash": 1939191034,
       "Hash64": 2965011999041463617
     },
-    "GoMissionCondition": 802310408,
+    "LoseDesc": {
+      "Hash": 1404160279,
+      "Hash64": 14641971047597929278
+    },
+    "Mode": 1,
     "RewardID": 230003,
     "LevelDescription": {
       "Hash": -1171030477,
       "Hash64": 17175668971067911606
     },
-    "OpponentID": 131,
-    "LoseDesc": {
-      "Hash": 1404160279,
-      "Hash64": 14641971047597929278
+    "LevelName": {
+      "Hash": -1703499188,
+      "Hash64": 2164053207156558237
     },
-    "UnlockID": 802310305,
-    "PlayerBirdID": 302
+    "MissionDescription": {
+      "Hash": 331706169,
+      "Hash64": 7471314218954579396
+    }
   },
   {
     "EnvironmentID": [
@@ -254,31 +313,38 @@
       301,
       302
     ],
-    "Mode": 2,
     "TurnStep": 10,
-    "OpponentBirdID": 303,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 302,
+    "GoMissionCondition": 0,
     "LevelID": 1300,
-    "LevelName": {
-      "Hash": -137415247,
-      "Hash64": 17310831391866063215
-    },
+    "OpponentID": 132,
+    "HPmax": 100,
+    "UnlockID": 802310506,
+    "LevelMission": 0,
+    "OpponentBirdID": 303,
     "VictoryDesc": {
       "Hash": 373107093,
       "Hash64": 14465641718746914582
     },
+    "LoseDesc": {
+      "Hash": 1404160278,
+      "Hash64": 6745940090312389962
+    },
+    "Mode": 2,
     "RewardID": 230013,
     "LevelDescription": {
       "Hash": -1171030474,
       "Hash64": 14123426784867583803
     },
-    "OpponentID": 132,
-    "LoseDesc": {
-      "Hash": 1404160278,
-      "Hash64": 6745940090312389962
+    "LevelName": {
+      "Hash": -137415247,
+      "Hash64": 17310831391866063215
     },
-    "UnlockID": 802310506,
-    "PlayerBirdID": 302
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -293,37 +359,38 @@
       402,
       404
     ],
-    "Mode": 1,
     "TurnStep": 10,
-    "OpponentBirdID": 304,
-    "LevelMission": 802310503,
-    "MissionDescription": {
-      "Hash": 331702834,
-      "Hash64": 7679864423730982212
-    },
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 303,
+    "GoMissionCondition": 802310511,
     "LevelID": 1400,
-    "LevelName": {
-      "Hash": -459629539,
-      "Hash64": 2240993933526454547
-    },
+    "OpponentID": 141,
+    "HPmax": 100,
+    "UnlockID": 802310406,
+    "LevelMission": 802310503,
+    "OpponentBirdID": 304,
     "VictoryDesc": {
       "Hash": -1322909567,
       "Hash64": 16853774995394159289
     },
-    "GoMissionCondition": 802310511,
+    "LoseDesc": {
+      "Hash": 1404163482,
+      "Hash64": 921241471362375061
+    },
+    "Mode": 1,
     "RewardID": 230004,
     "LevelDescription": {
       "Hash": -1171022918,
       "Hash64": 16385401791375562906
     },
-    "OpponentID": 141,
-    "LoseDesc": {
-      "Hash": 1404163482,
-      "Hash64": 921241471362375061
+    "LevelName": {
+      "Hash": -459629539,
+      "Hash64": 2240993933526454547
     },
-    "UnlockID": 802310406,
-    "PlayerBirdID": 303
+    "MissionDescription": {
+      "Hash": 331702834,
+      "Hash64": 7679864423730982212
+    }
   },
   {
     "EnvironmentID": [
@@ -339,31 +406,38 @@
       401,
       402
     ],
-    "Mode": 2,
     "TurnStep": 10,
-    "OpponentBirdID": 304,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 303,
+    "GoMissionCondition": 0,
     "LevelID": 1400,
-    "LevelName": {
-      "Hash": -2025713480,
-      "Hash64": 10456916430511600727
-    },
+    "OpponentID": 142,
+    "HPmax": 100,
+    "UnlockID": 802310506,
+    "LevelMission": 0,
+    "OpponentBirdID": 304,
     "VictoryDesc": {
       "Hash": 243174374,
       "Hash64": 6703130835968154044
     },
+    "LoseDesc": {
+      "Hash": 1404163483,
+      "Hash64": 17820899845267366714
+    },
+    "Mode": 2,
     "RewardID": 230014,
     "LevelDescription": {
       "Hash": -1171022921,
       "Hash64": 16569830284287069772
     },
-    "OpponentID": 142,
-    "LoseDesc": {
-      "Hash": 1404163483,
-      "Hash64": 17820899845267366714
+    "LevelName": {
+      "Hash": -2025713480,
+      "Hash64": 10456916430511600727
     },
-    "UnlockID": 802310506,
-    "PlayerBirdID": 303
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -379,32 +453,38 @@
       502,
       504
     ],
-    "Mode": 1,
     "TurnStep": 10,
-    "OpponentBirdID": 305,
-    "LevelMission": 802310505,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 304,
+    "GoMissionCondition": 0,
     "LevelID": 1500,
-    "LevelName": {
-      "Hash": 1864677634,
-      "Hash64": 2150529142146037976
-    },
+    "OpponentID": 151,
+    "HPmax": 100,
+    "UnlockID": 802310504,
+    "LevelMission": 802310505,
+    "OpponentBirdID": 305,
     "VictoryDesc": {
       "Hash": -241180388,
       "Hash64": 16095386387163280849
     },
+    "LoseDesc": {
+      "Hash": 1404162457,
+      "Hash64": 8964885905799260090
+    },
+    "Mode": 1,
     "RewardID": 230005,
     "LevelDescription": {
       "Hash": -1171023943,
       "Hash64": 5726274383730695229
     },
-    "OpponentID": 151,
-    "LoseDesc": {
-      "Hash": 1404162457,
-      "Hash64": 8964885905799260090
+    "LevelName": {
+      "Hash": 1864677634,
+      "Hash64": 2150529142146037976
     },
-    "UnlockID": 802310504,
-    "PlayerBirdID": 304
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [
@@ -420,151 +500,481 @@
       501,
       502
     ],
-    "Mode": 2,
     "TurnStep": 10,
-    "OpponentBirdID": 305,
-    "HPmax": 100,
+    "PlayerID": 0,
+    "PlayerBirdID": 304,
+    "GoMissionCondition": 0,
     "LevelID": 1500,
-    "LevelName": {
-      "Hash": 1461393107,
-      "Hash64": 933376353980192507
-    },
+    "OpponentID": 152,
+    "HPmax": 100,
+    "UnlockID": 802310506,
+    "LevelMission": 0,
+    "OpponentBirdID": 305,
     "VictoryDesc": {
       "Hash": 162104139,
       "Hash64": 1902824758882787265
     },
+    "LoseDesc": {
+      "Hash": 1404162460,
+      "Hash64": 14007758021170022569
+    },
+    "Mode": 2,
     "RewardID": 230015,
     "LevelDescription": {
       "Hash": -1171023944,
       "Hash64": 7625674763061317257
     },
-    "OpponentID": 152,
-    "LoseDesc": {
-      "Hash": 1404162460,
-      "Hash64": 14007758021170022569
+    "LevelName": {
+      "Hash": 1461393107,
+      "Hash64": 933376353980192507
     },
-    "UnlockID": 802310506,
-    "PlayerBirdID": 304
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 10,
+    "PlayerID": 0,
+    "PlayerBirdID": 311,
+    "GoMissionCondition": 0,
     "LevelID": 1999,
     "OpponentID": 999,
-    "PlayerBirdID": 311
+    "HPmax": 10,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 304,
+    "GoMissionCondition": 0,
     "LevelID": 1998,
     "OpponentID": 998,
-    "PlayerBirdID": 304
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 304,
+    "GoMissionCondition": 0,
     "LevelID": 1997,
     "OpponentID": 997,
-    "PlayerBirdID": 304
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 303,
+    "GoMissionCondition": 0,
     "LevelID": 1996,
     "OpponentID": 996,
-    "PlayerBirdID": 303
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 303,
+    "GoMissionCondition": 0,
     "LevelID": 1995,
     "OpponentID": 995,
-    "PlayerBirdID": 303
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 302,
+    "GoMissionCondition": 0,
     "LevelID": 1994,
     "OpponentID": 994,
-    "PlayerBirdID": 302
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 302,
+    "GoMissionCondition": 0,
     "LevelID": 1993,
     "OpponentID": 993,
-    "PlayerBirdID": 302
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 301,
+    "GoMissionCondition": 0,
     "LevelID": 1992,
     "OpponentID": 992,
-    "PlayerBirdID": 301
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 3,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 301,
+    "GoMissionCondition": 0,
     "LevelID": 1991,
     "OpponentID": 991,
-    "PlayerBirdID": 301
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 10,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 0,
     "LevelID": 1990,
     "OpponentID": 990,
-    "PlayerBirdID": 300
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
     "EnvironmentID": [],
     "LevelImage": "",
     "VSTalkList": [],
     "TurnStep": 3,
-    "OpponentBirdID": 310,
-    "HPmax": 200,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 0,
     "LevelID": 1989,
     "OpponentID": 989,
-    "PlayerBirdID": 300
+    "HPmax": 200,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "EnvironmentID": [],
+    "LevelImage": "",
+    "VSTalkList": [],
+    "TurnStep": 5,
+    "PlayerID": 0,
+    "PlayerBirdID": 300,
+    "GoMissionCondition": 0,
+    "LevelID": 2010,
+    "OpponentID": 101,
+    "HPmax": 100,
+    "UnlockID": 0,
+    "LevelMission": 0,
+    "OpponentBirdID": 310,
+    "VictoryDesc": {
+      "Hash": -1435413550,
+      "Hash64": 9077086387911890887
+    },
+    "LoseDesc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Mode": 0,
+    "RewardID": 0,
+    "LevelDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "LevelName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "MissionDescription": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

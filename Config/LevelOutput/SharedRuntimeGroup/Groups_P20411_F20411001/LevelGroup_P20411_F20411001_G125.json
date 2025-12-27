@@ -1,13 +1,13 @@
 {
   "GroupName": "MainMission1040105_41",
   "Category": "Mission",
+  "LevelGraph": "Config/Level/GroupGraph/F20411001/Group_F20411001_G125.json",
   "AreaAnchorName": "LevelArea_P20411_F20411001_G125",
   "SaveType": "Reset",
   "OwnerMainMissionID": 1040105,
   "ValueSource": {},
   "ConflictIDList": [],
   "IsHoyoGroup": true,
-  "HoYoGroupType": "Container",
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
@@ -58,8 +58,7 @@
         "Radius": 2.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "OverrideHintRange": 20.0,
@@ -77,7 +76,9 @@
         "LevelGraph": "Config/Level/PropDialogue/P20411/F20411001_G125/DialogueMain_F20411001_G125_P300001.json",
         "PackList": []
       },
-      "InteractIconType": "CheckIcon",
+      "InteractIconType": {
+        "JsonValueStr": "CheckIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -86,6 +87,7 @@
       },
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

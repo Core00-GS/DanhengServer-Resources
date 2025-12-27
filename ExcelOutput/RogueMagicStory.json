@@ -2,10 +2,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057900.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 801,
     "StoryID": 53001,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657595,
       "Hash64": 6008700703766746319
@@ -14,10 +14,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057920.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 801,
     "StoryID": 53002,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657596,
       "Hash64": 7272002208414967799
@@ -26,10 +26,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057950.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 801,
     "StoryID": 53003,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657597,
       "Hash64": 3059902716289902638
@@ -38,10 +38,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057970.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 802,
     "StoryID": 53004,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657590,
       "Hash64": 17746017407534897488
@@ -50,10 +50,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403057990.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 802,
     "StoryID": 53005,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657591,
       "Hash64": 13648697804023205394
@@ -62,10 +62,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058010.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 802,
     "StoryID": 53006,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657592,
       "Hash64": 9195916782771271339
@@ -74,10 +74,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058040.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 803,
     "StoryID": 53007,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657593,
       "Hash64": 3044398147855097038
@@ -86,10 +86,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058070.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 803,
     "StoryID": 53008,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657586,
       "Hash64": 1953818767282351027
@@ -98,10 +98,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058090.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 803,
     "StoryID": 53009,
-    "IsHide": true,
     "StoryName": {
       "Hash": 1336657587,
       "Hash64": 6101770042768628381
@@ -110,10 +110,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058110.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 804,
     "StoryID": 53010,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225761,
       "Hash64": 13700345008504090939
@@ -122,10 +122,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058130.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 804,
     "StoryID": 53011,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225760,
       "Hash64": 14337639455205769244
@@ -134,10 +134,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058150.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 804,
     "StoryID": 53012,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225759,
       "Hash64": 18147591635888571518
@@ -146,10 +146,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058170.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 805,
     "StoryID": 53013,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225758,
       "Hash64": 5252951173490152100
@@ -158,10 +158,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058190.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 805,
     "StoryID": 53014,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225765,
       "Hash64": 6974363959128337993
@@ -170,10 +170,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058220.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 805,
     "StoryID": 53015,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225764,
       "Hash64": 17012417193025452864
@@ -182,10 +182,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058250.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 806,
     "StoryID": 53016,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225763,
       "Hash64": 1262157463282860577
@@ -194,10 +194,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058270.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 806,
     "StoryID": 53017,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225762,
       "Hash64": 5094785815260032150
@@ -206,10 +206,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_10.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058290.json",
+    "IsHide": true,
     "StoryCategory": "MagicFaction",
     "UnLockDisplay": 806,
     "StoryID": 53018,
-    "IsHide": true,
     "StoryName": {
       "Hash": -1392225769,
       "Hash64": 16039496507372413444
@@ -218,6 +218,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058350.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 807,
     "StoryID": 53019,
@@ -229,6 +230,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058380.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 807,
     "StoryID": 53020,
@@ -240,6 +242,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058440.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53021,
@@ -251,6 +254,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058480.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53022,
@@ -262,6 +266,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058520.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53023,
@@ -273,6 +278,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058560.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53024,
@@ -284,6 +290,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058590.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53025,
@@ -295,6 +302,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058630.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 809,
     "StoryID": 53026,
@@ -306,6 +314,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058670.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 810,
     "StoryID": 53027,
@@ -317,6 +326,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058710.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 810,
     "StoryID": 53028,
@@ -328,6 +338,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058750.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 810,
     "StoryID": 53029,
@@ -339,6 +350,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058780.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 811,
     "StoryID": 53030,
@@ -350,6 +362,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058820.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 811,
     "StoryID": 53031,
@@ -361,6 +374,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058860.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 811,
     "StoryID": 53032,
@@ -372,6 +386,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058900.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53033,
@@ -383,6 +398,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058940.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53034,
@@ -394,6 +410,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403058970.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53035,
@@ -405,6 +422,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403059000.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53036,
@@ -416,6 +434,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403059040.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53037,
@@ -427,6 +446,7 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403059080.json",
+    "IsHide": false,
     "StoryCategory": "MagicWar",
     "UnLockDisplay": 812,
     "StoryID": 53038,
@@ -438,10 +458,10 @@
   {
     "StoryImage": "SpriteOutput/Rogue/RandomEvent/Horizon/RoguePicEventDLC_13.png",
     "LevelGraphPath": "Config/Level/RogueDialogue/RogueNpcDialogEvent/Act/Act403059110.json",
+    "IsHide": true,
     "StoryCategory": "Final",
     "UnLockDisplay": 812,
     "StoryID": 53039,
-    "IsHide": true,
     "StoryName": {
       "Hash": -229426354,
       "Hash64": 2463799808900802622

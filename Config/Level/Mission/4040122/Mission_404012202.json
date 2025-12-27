@@ -5,6 +5,7 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -22,8 +23,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 773094113280
+            "FixedValue": {
+              "RawValue": 773094113280,
+              "Value": 180.0
             }
           },
           "MaxAdvencePerTick": -1.0,

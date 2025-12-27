@@ -18,13 +18,15 @@
           "CreateNpcList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 249108103168
+                "FixedValue": {
+                  "RawValue": 249108103168,
+                  "Value": 58.0
                 }
               },
               "GroupNpcID": {
-                "fixedValue": {
-                  "RawValue": 1717991213367296
+                "FixedValue": {
+                  "RawValue": 1717991213367296,
+                  "Value": 400001.0
                 }
               },
               "CreateList": [],

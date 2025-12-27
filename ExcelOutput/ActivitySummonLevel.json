@@ -1,34 +1,35 @@
 [
   {
+    "BattleTargetList": [
+      5001201
+    ],
     "ReplaceTrialAvatarList": [
       1104
-    ],
-    "MasterAvatarList": [
-      3248001,
-      3248002
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle01.png",
     "TrialAvatarList": [
       3241104
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001201
+    "MasterAvatarList": [
+      3248001,
+      3248002
     ],
     "UIEnterBattleAreaID": 2011101,
-    "EventID": 421001,
     "GroupID": 1,
-    "DifficultyLevel": "Easy"
+    "DifficultyLevel": "Easy",
+    "EventID": 421001
   },
   {
+    "BattleTargetList": [
+      5001202,
+      5001203,
+      5001204
+    ],
     "ReplaceTrialAvatarList": [
       1104,
       1306,
       1106
-    ],
-    "MasterAvatarList": [
-      3248001,
-      3248002
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle01.png",
     "TrialAvatarList": [
@@ -37,44 +38,45 @@
       3241106
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001202,
-      5001203,
-      5001204
+    "MasterAvatarList": [
+      3248001,
+      3248002
     ],
     "UIEnterBattleAreaID": 2011101,
-    "EventID": 421002,
     "GroupID": 1,
-    "DifficultyLevel": "Hard"
+    "DifficultyLevel": "Hard",
+    "EventID": 421002
   },
   {
+    "BattleTargetList": [
+      5001201
+    ],
     "ReplaceTrialAvatarList": [
       1110
-    ],
-    "MasterAvatarList": [
-      3241001
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle02.png",
     "TrialAvatarList": [
       3241110
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001201
+    "MasterAvatarList": [
+      3241001
     ],
     "UIEnterBattleAreaID": 2010101,
-    "EventID": 421011,
     "GroupID": 2,
-    "DifficultyLevel": "Easy"
+    "DifficultyLevel": "Easy",
+    "EventID": 421011
   },
   {
+    "BattleTargetList": [
+      5001205,
+      5001206,
+      5001207
+    ],
     "ReplaceTrialAvatarList": [
       1107,
       1110,
       1202
-    ],
-    "MasterAvatarList": [
-      3241001
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle02.png",
     "TrialAvatarList": [
@@ -83,44 +85,44 @@
       3231202
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001205,
-      5001206,
-      5001207
+    "MasterAvatarList": [
+      3241001
     ],
     "UIEnterBattleAreaID": 2010101,
-    "EventID": 421012,
     "GroupID": 2,
-    "DifficultyLevel": "Hard"
+    "DifficultyLevel": "Hard",
+    "EventID": 421012
   },
   {
+    "BattleTargetList": [
+      5001201
+    ],
     "ReplaceTrialAvatarList": [
       1105
-    ],
-    "MasterAvatarList": [
-      3241108
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle03.png",
     "TrialAvatarList": [
       3241105
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001201
+    "MasterAvatarList": [
+      3241108
     ],
     "UIEnterBattleAreaID": 2012101,
-    "EventID": 421021,
     "GroupID": 3,
-    "DifficultyLevel": "Easy"
+    "DifficultyLevel": "Easy",
+    "EventID": 421021
   },
   {
+    "BattleTargetList": [
+      5001208,
+      5001209,
+      5001210
+    ],
     "ReplaceTrialAvatarList": [
       1307,
       1009,
       1203
-    ],
-    "MasterAvatarList": [
-      3241108
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle03.png",
     "TrialAvatarList": [
@@ -129,23 +131,21 @@
       3241203
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001208,
-      5001209,
-      5001210
+    "MasterAvatarList": [
+      3241108
     ],
     "UIEnterBattleAreaID": 2012101,
-    "EventID": 421022,
     "GroupID": 3,
-    "DifficultyLevel": "Hard"
+    "DifficultyLevel": "Hard",
+    "EventID": 421022
   },
   {
+    "BattleTargetList": [
+      5001201
+    ],
     "ReplaceTrialAvatarList": [
       1205,
       1203
-    ],
-    "MasterAvatarList": [
-      3241101
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle04.png",
     "TrialAvatarList": [
@@ -153,22 +153,24 @@
       3241203
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001201
+    "MasterAvatarList": [
+      3241101
     ],
     "UIEnterBattleAreaID": 2012201,
-    "EventID": 421031,
     "GroupID": 4,
-    "DifficultyLevel": "Easy"
+    "DifficultyLevel": "Easy",
+    "EventID": 421031
   },
   {
+    "BattleTargetList": [
+      5001211,
+      5001212,
+      5001213
+    ],
     "ReplaceTrialAvatarList": [
       1212,
       1205,
       1203
-    ],
-    "MasterAvatarList": [
-      3241101
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle04.png",
     "TrialAvatarList": [
@@ -177,23 +179,21 @@
       3241203
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001211,
-      5001212,
-      5001213
+    "MasterAvatarList": [
+      3241101
     ],
     "UIEnterBattleAreaID": 2012201,
-    "EventID": 421032,
     "GroupID": 4,
-    "DifficultyLevel": "Hard"
+    "DifficultyLevel": "Hard",
+    "EventID": 421032
   },
   {
+    "BattleTargetList": [
+      5001201
+    ],
     "ReplaceTrialAvatarList": [
       1202,
       1217
-    ],
-    "MasterAvatarList": [
-      3251106
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle05.png",
     "TrialAvatarList": [
@@ -201,22 +201,24 @@
       3241217
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001201
+    "MasterAvatarList": [
+      3251106
     ],
     "UIEnterBattleAreaID": 2011101,
-    "EventID": 421041,
     "GroupID": 5,
-    "DifficultyLevel": "Easy"
+    "DifficultyLevel": "Easy",
+    "EventID": 421041
   },
   {
+    "BattleTargetList": [
+      5001214,
+      5001215,
+      5001216
+    ],
     "ReplaceTrialAvatarList": [
       1302,
       1202,
       1217
-    ],
-    "MasterAvatarList": [
-      3251106
     ],
     "ImagePath": "SpriteOutput/Quest/Television/TelevisionMonsterIconMiddle/TelevisionMonsterMiddle05.png",
     "TrialAvatarList": [
@@ -225,14 +227,12 @@
       3241217
     ],
     "ReplaceMasterAvatarList": [],
-    "BattleTargetList": [
-      5001214,
-      5001215,
-      5001216
+    "MasterAvatarList": [
+      3251106
     ],
     "UIEnterBattleAreaID": 2011101,
-    "EventID": 421042,
     "GroupID": 5,
-    "DifficultyLevel": "Hard"
+    "DifficultyLevel": "Hard",
+    "EventID": 421042
   }
 ]

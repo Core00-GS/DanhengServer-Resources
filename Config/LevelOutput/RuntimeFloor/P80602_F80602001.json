@@ -453,6 +453,11 @@
       "ID": 77
     },
     {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G149.json",
+      "Name": "RogueModule_Tournament_Base_Common",
+      "ID": 149
+    },
+    {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G78.json",
       "Name": "RogueModule_Tournament_Content_Coin",
       "ID": 78
@@ -498,6 +503,11 @@
       "ID": 86
     },
     {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G150.json",
+      "Name": "RogueModule_Tournament_Base_Common",
+      "ID": 150
+    },
+    {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G87.json",
       "Name": "Tpl_RogueModule_Tournament_Content_Coin",
       "ID": 87
@@ -541,6 +551,11 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G95.json",
       "Name": "RogueModule_Tournament_Base_Common",
       "ID": 95
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G151.json",
+      "Name": "RogueModule_Tournament_Base_Common",
+      "ID": 151
     },
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G96.json",
@@ -636,6 +651,11 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G115.json",
       "Name": "RogueModule_Tournament_Base_Common",
       "ID": 115
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G148.json",
+      "Name": "RogueModule_Tournament_Base_Common",
+      "ID": 148
     },
     {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P80602_F80602001/LevelGroup_P80602_F80602001_G116.json",
@@ -802,13 +822,14 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041101,
           "Name": "BattleArea1",
           "ID": 1
         },
         {
           "EnviroProfile": "Stages/Outputs/Chapter04/EnviroProfile/Chap04_CloseView_BAT_A103_day_01.enviroProfile.asset",
           "Tags": [
-            "BattleArea02"
+            "BattleArea01"
           ],
           "TagContainer": [],
           "AudioEnterEvent": [
@@ -818,13 +839,14 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041102,
           "Name": "BattleArea2",
           "ID": 2
         },
         {
           "EnviroProfile": "Stages/Outputs/Chapter04/EnviroProfile/Chap04_CloseView_BAT_boss_A101_night.enviroProfile.asset",
           "Tags": [
-            "BattleArea03"
+            "BattleArea01"
           ],
           "TagContainer": [],
           "AudioEnterEvent": [
@@ -835,6 +857,7 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041103,
           "Name": "BattleArea3",
           "ID": 3
         }
@@ -971,11 +994,18 @@
         {
           "ID": 36,
           "Name": "FSV_OracleMachine_Thunder_1",
+          "AllowedValues": [],
+          "MaxValue": 1
+        },
+        {
+          "ID": 37,
+          "Name": "FSV_Myd",
           "AllowedValues": [
             0,
-            1
+            1,
+            2
           ],
-          "MaxValue": 1
+          "MaxValue": 2
         }
       ],
       "IsExclusiveSaveMapSection": true,
@@ -1120,7 +1150,11 @@
         137,
         138,
         139,
-        140
+        140,
+        141,
+        142,
+        143,
+        144
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -1597,6 +1631,13 @@
       "LoadSide": "Server",
       "LoadOnInitial": true
     },
+    "149": {
+      "Category": "Custom",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
+    },
     "78": {
       "Category": "Custom",
       "SaveType": "Permanent",
@@ -1659,6 +1700,13 @@
       "LoadSide": "Server",
       "LoadOnInitial": true
     },
+    "150": {
+      "Category": "Custom",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
+    },
     "87": {
       "Category": "Custom",
       "SaveType": "Permanent",
@@ -1715,6 +1763,13 @@
       "LoadSide": "Server"
     },
     "95": {
+      "Category": "Custom",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
+    },
+    "151": {
       "Category": "Custom",
       "SaveType": "Permanent",
       "IsHoyoGroup": true,
@@ -1841,6 +1896,13 @@
       "LoadSide": "Server"
     },
     "115": {
+      "Category": "Custom",
+      "SaveType": "Permanent",
+      "IsHoyoGroup": true,
+      "LoadSide": "Server",
+      "LoadOnInitial": true
+    },
+    "148": {
       "Category": "Custom",
       "SaveType": "Permanent",
       "IsHoyoGroup": true,

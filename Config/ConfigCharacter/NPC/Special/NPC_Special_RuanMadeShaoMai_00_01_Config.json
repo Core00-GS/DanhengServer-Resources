@@ -60,8 +60,10 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Special/NPC_Special_RuanMadeShaoMai_00_ReplaceCharacterMaterial.json",
   "ReplaceMaterialKeyList": [
     "NPC_Special_RuanMadeShaoMai_00_01"
   ],
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

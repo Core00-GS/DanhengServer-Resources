@@ -60,7 +60,9 @@
         "LevelGraph": "Config/Level/PropDialogue/P20421/F20421001_G284/DialogueMain_F20421001_G284_P300001.json",
         "PackList": []
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "InteractTitle": {
@@ -132,12 +134,15 @@
             },
             "magnitude": 1.73205078,
             "sqrMagnitude": 3.0
-          }
+          },
+          "ForceSimulateImmediately": true
         }
       ],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [
@@ -209,12 +214,15 @@
             },
             "magnitude": 1.73205078,
             "sqrMagnitude": 3.0
-          }
+          },
+          "ForceSimulateImmediately": true
         }
       ],
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [

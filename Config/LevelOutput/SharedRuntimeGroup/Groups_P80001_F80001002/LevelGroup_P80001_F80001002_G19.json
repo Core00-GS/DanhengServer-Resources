@@ -34,7 +34,9 @@
         2
       ],
       "DefaultLookAtMode": "LookPlayer",
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "Name": "Monster5",
       "RotY": 90.0,
       "ID": 200005,
@@ -86,6 +88,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -138,6 +143,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -184,6 +192,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -218,14 +229,14 @@
           {
             "$type": "RPG.GameCore.SharedString",
             "Value": "3,300001",
-            "Key": "\u602a\u7269\u6b7b\u4ea1\u6807\u8bb0"
+            "Key": "怪物死亡标记"
           }
         ],
         "SharedValues": [
           {
             "$type": "RPG.GameCore.SharedString",
             "Value": "3,300001",
-            "Key": "\u602a\u7269\u6b7b\u4ea1\u6807\u8bb0"
+            "Key": "怪物死亡标记"
           }
         ]
       },
@@ -238,6 +249,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -272,14 +286,14 @@
           {
             "$type": "RPG.GameCore.SharedString",
             "Value": "4,300002",
-            "Key": "\u602a\u7269\u6b7b\u4ea1\u6807\u8bb0"
+            "Key": "怪物死亡标记"
           }
         ],
         "SharedValues": [
           {
             "$type": "RPG.GameCore.SharedString",
             "Value": "4,300002",
-            "Key": "\u602a\u7269\u6b7b\u4ea1\u6807\u8bb0"
+            "Key": "怪物死亡标记"
           }
         ]
       },
@@ -292,6 +306,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -350,6 +367,9 @@
           "Color": "#4b4b4b"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -399,6 +419,9 @@
           "IconID": 6
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -445,6 +468,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,

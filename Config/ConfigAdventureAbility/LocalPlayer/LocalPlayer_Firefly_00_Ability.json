@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Firefly_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -96,43 +95,51 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 5153960756
+                    "FixedValue": {
+                      "RawValue": 5153960756,
+                      "Value": 1.2
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 120259082
+                    "FixedValue": {
+                      "RawValue": 120259082,
+                      "Value": 0.03
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 184683593
+                    "FixedValue": {
+                      "RawValue": 184683593,
+                      "Value": 0.04
                     }
                   },
                   "DefaultMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 12884901888
+                    "FixedValue": {
+                      "RawValue": 12884901888,
+                      "Value": 3.0
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 120259082
+                    "FixedValue": {
+                      "RawValue": 120259082,
+                      "Value": 0.03
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 184683593
+                    "FixedValue": {
+                      "RawValue": 184683593,
+                      "Value": 0.04
                     }
                   }
                 }
@@ -148,8 +155,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 214748365
+                "FixedValue": {
+                  "RawValue": 214748365,
+                  "Value": 0.05
                 }
               },
               "TaskEnabled": true,
@@ -163,8 +171,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 257698038
+                "FixedValue": {
+                  "RawValue": 257698038,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -213,8 +222,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 601295422
+                "FixedValue": {
+                  "RawValue": 601295422,
+                  "Value": 0.14
                 }
               },
               "TaskEnabled": true,
@@ -244,18 +254,21 @@
                   "MovingRangeList": [
                     {
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 120259082
+                        "FixedValue": {
+                          "RawValue": 120259082,
+                          "Value": 0.03
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 184683593
+                        "FixedValue": {
+                          "RawValue": 184683593,
+                          "Value": 0.04
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 8589934592
+                        "FixedValue": {
+                          "RawValue": 8589934592,
+                          "Value": 2.0
                         }
                       }
                     }
@@ -271,8 +284,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 214748365
+                    "FixedValue": {
+                      "RawValue": 214748365,
+                      "Value": 0.05
                     }
                   },
                   "TaskEnabled": true,
@@ -303,8 +317,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -345,8 +360,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 601295422
+                    "FixedValue": {
+                      "RawValue": 601295422,
+                      "Value": 0.14
                     }
                   },
                   "TaskEnabled": true,
@@ -376,18 +392,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 120259082
+                            "FixedValue": {
+                              "RawValue": 120259082,
+                              "Value": 0.03
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 184683593
+                            "FixedValue": {
+                              "RawValue": 184683593,
+                              "Value": 0.04
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 4294967296
+                            "FixedValue": {
+                              "RawValue": 4294967296,
+                              "Value": 1.0
                             }
                           }
                         }
@@ -403,8 +422,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -435,8 +455,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 257698038
+                        "FixedValue": {
+                          "RawValue": 257698038,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -477,8 +498,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 601295422
+                        "FixedValue": {
+                          "RawValue": 601295422,
+                          "Value": 0.14
                         }
                       },
                       "TaskEnabled": true,
@@ -508,8 +530,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -540,8 +563,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 257698038
+                        "FixedValue": {
+                          "RawValue": 257698038,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -582,8 +606,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 601295422
+                        "FixedValue": {
+                          "RawValue": 601295422,
+                          "Value": 0.14
                         }
                       },
                       "TaskEnabled": true,
@@ -660,8 +685,9 @@
             "Alias": "AdvLocalPlayer"
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "AutoMove": true,
@@ -890,8 +916,7 @@
       ],
       "Name": "LocalPlayer_Firefly_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -954,8 +979,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "TaskEnabled": true,
@@ -1217,8 +1243,9 @@
           },
           "ModifierName": "ADV_StageAbility_Maze_Firefly_MidAirInvincible",
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": 21474836480
+            "FixedValue": {
+              "RawValue": 21474836480,
+              "Value": 5.0
             }
           },
           "TaskEnabled": true,
@@ -1254,8 +1281,9 @@
           "OffsetY": {},
           "YawAngle": {},
           "Duration": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -1348,24 +1376,29 @@
             "Alias": "AdvLocalPlayer"
           },
           "MaxDuration": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Firefly_00_Ability.AbilityList.1.OnStart.18.MaxDuration.FixedValue"
             }
           },
           "MaxSpeed": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "CanPlayerControl": true,
           "Acceleration": {
-            "fixedValue": {
-              "RawValue": 171798691840
+            "FixedValue": {
+              "RawValue": 171798691840,
+              "Value": 40.0
             }
           },
           "TaskEnabled": true,
@@ -1381,8 +1414,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1073741825
+            "FixedValue": {
+              "RawValue": 1073741825,
+              "Value": 0.25
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -1397,8 +1431,10 @@
             "CustomSkill"
           ],
           "MaxWaitTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Firefly_00_Ability.AbilityList.1.OnStart.21.MaxWaitTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1475,8 +1511,9 @@
                     },
                     "CompareType": "LessEqual",
                     "CompareValue": {
-                      "fixedValue": {
-                        "RawValue": 47244640256
+                      "FixedValue": {
+                        "RawValue": 47244640256,
+                        "Value": 11.0
                       }
                     },
                     "IgnoreRadius": true,
@@ -1514,8 +1551,9 @@
                       },
                       "CompareType": "LessEqual",
                       "CompareValue": {
-                        "fixedValue": {
-                          "RawValue": 47244640256
+                        "FixedValue": {
+                          "RawValue": 47244640256,
+                          "Value": 11.0
                         }
                       },
                       "IgnoreRadius": true,
@@ -1533,8 +1571,9 @@
                   {
                     "$type": "RPG.GameCore.TargetTake",
                     "Count": {
-                      "fixedValue": {
-                        "RawValue": 4294967296
+                      "FixedValue": {
+                        "RawValue": 4294967296,
+                        "Value": 1.0
                       }
                     }
                   }
@@ -1542,8 +1581,9 @@
               },
               "ByRandom": true,
               "MaxNumber": {
-                "fixedValue": {
-                  "RawValue": 4294967296
+                "FixedValue": {
+                  "RawValue": 4294967296,
+                  "Value": 1.0
                 }
               },
               "TaskList": [
@@ -1575,8 +1615,9 @@
             "Alias": "AdvLocalPlayer"
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "AutoMove": true,
@@ -1604,8 +1645,9 @@
           },
           "AnimStateName": "MazeSkill_End",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 120259082
+            "FixedValue": {
+              "RawValue": 120259082,
+              "Value": 0.03
             }
           },
           "TaskEnabled": true,
@@ -1618,13 +1660,15 @@
             "Alias": "AdvLocalPlayer"
           },
           "MaxDuration": {
-            "fixedValue": {
-              "RawValue": 1717986920
+            "FixedValue": {
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           "MaxSpeed": {
-            "fixedValue": {
-              "RawValue": 34359738368
+            "FixedValue": {
+              "RawValue": 34359738368,
+              "Value": 8.0
             }
           },
           "MinSpeed": {},
@@ -1663,8 +1707,9 @@
           },
           "AnimStateName": "MazeSkill_End",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 158913788
+            "FixedValue": {
+              "RawValue": 158913788,
+              "Value": 0.04
             }
           },
           "TaskEnabled": true,
@@ -1861,8 +1906,9 @@
           },
           "AnimStateName": "MazeSkill_End",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 481036337
+            "FixedValue": {
+              "RawValue": 481036337,
+              "Value": 0.11
             }
           },
           "TaskEnabled": true,
@@ -1875,5 +1921,261 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Firefly": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Firefly_FireWeakness": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnStack": [
+        {
+          "$type": "RPG.GameCore.AdvAddGlobalWeakness",
+          "Weakness": "Fire",
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_StageAbility_Maze_Firefly_MidAirInvincible": {
+      "LifeTime": 5.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "Stealth",
+        "HolyShield"
+      ],
+      "TickInterval": 0.03,
+      "OnInterval": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByAnd",
+            "PredicateList": [
+              {
+                "$type": "RPG.GameCore.ByHasPlayerMoveInput",
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              },
+              {
+                "$type": "RPG.GameCore.ByCompareCharacterSpeed",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "ModifierOwnerEntity"
+                },
+                "RealSpeed": true,
+                "CompareType": "Greater",
+                "CompareValue": {},
+                "TaskEnabled": true,
+                "IsClientOnly": true
+              }
+            ],
+            "TaskEnabled": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "Predicate": {
+                "$type": "RPG.GameCore.ByCompareDynamicValue",
+                "TargetType": {
+                  "$type": "RPG.GameCore.TargetAlias",
+                  "Alias": "Caster"
+                },
+                "DynamicKey": {
+                  "Value": "_SoundStartFlag"
+                },
+                "CompareType": "Equal",
+                "CompareValue": {},
+                "TaskEnabled": true
+              },
+              "SuccessTaskList": [
+                {
+                  "$type": "RPG.GameCore.TriggerSound",
+                  "SoundName": {
+                    "Value": "Ev_sfx_avatar_MazeSkill_Movment_shiftUp_Firefly"
+                  },
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                },
+                {
+                  "$type": "RPG.GameCore.SetDynamicValue",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "Caster"
+                  },
+                  "Value": {
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
+                    }
+                  },
+                  "DynamicKey": {
+                    "Value": "_SoundStartFlag"
+                  },
+                  "SkipInCharmAction": true,
+                  "TaskEnabled": true
+                },
+                {
+                  "$type": "RPG.GameCore.SetDynamicValue",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "Caster"
+                  },
+                  "Value": {},
+                  "DynamicKey": {
+                    "Value": "_SoundEndFlag"
+                  },
+                  "SkipInCharmAction": true,
+                  "TaskEnabled": true
+                }
+              ],
+              "TaskEnabled": true
+            }
+          ],
+          "FailedTaskList": [
+            {
+              "$type": "RPG.GameCore.PredicateTaskList",
+              "Predicate": {
+                "$type": "RPG.GameCore.ByAnd",
+                "PredicateList": [
+                  {
+                    "$type": "RPG.GameCore.ByCompareDynamicValue",
+                    "TargetType": {
+                      "$type": "RPG.GameCore.TargetAlias",
+                      "Alias": "Caster"
+                    },
+                    "DynamicKey": {
+                      "Value": "_SoundStartFlag"
+                    },
+                    "CompareType": "Equal",
+                    "CompareValue": {
+                      "FixedValue": {
+                        "RawValue": 4294967296,
+                        "Value": 1.0
+                      }
+                    },
+                    "TaskEnabled": true
+                  },
+                  {
+                    "$type": "RPG.GameCore.ByCompareDynamicValue",
+                    "TargetType": {
+                      "$type": "RPG.GameCore.TargetAlias",
+                      "Alias": "Caster"
+                    },
+                    "DynamicKey": {
+                      "Value": "_SoundEndFlag"
+                    },
+                    "CompareType": "Equal",
+                    "CompareValue": {},
+                    "TaskEnabled": true
+                  }
+                ],
+                "TaskEnabled": true
+              },
+              "SuccessTaskList": [
+                {
+                  "$type": "RPG.GameCore.TriggerSound",
+                  "SoundName": {
+                    "Value": "Ev_sfx_avatar_MazeSkill_Movment_shiftDown_Firefly"
+                  },
+                  "TaskEnabled": true,
+                  "IsClientOnly": true
+                },
+                {
+                  "$type": "RPG.GameCore.SetDynamicValue",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "Caster"
+                  },
+                  "Value": {},
+                  "DynamicKey": {
+                    "Value": "_SoundStartFlag"
+                  },
+                  "SkipInCharmAction": true,
+                  "TaskEnabled": true
+                },
+                {
+                  "$type": "RPG.GameCore.SetDynamicValue",
+                  "TargetType": {
+                    "$type": "RPG.GameCore.TargetAlias",
+                    "Alias": "Caster"
+                  },
+                  "Value": {
+                    "FixedValue": {
+                      "RawValue": 4294967296,
+                      "Value": 1.0
+                    }
+                  },
+                  "DynamicKey": {
+                    "Value": "_SoundEndFlag"
+                  },
+                  "SkipInCharmAction": true,
+                  "TaskEnabled": true
+                }
+              ],
+              "TaskEnabled": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "OnUnstage": [
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh",
+      "DynamicValues": {}
+    },
+    "ADV_StageAbility_Maze_Firefly_FadeOut": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnUnstage": [
+        {
+          "$type": "RPG.GameCore.SetTargetEntityFadeWithAnim",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "TargetValue": 1.0,
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        },
+        {
+          "$type": "RPG.GameCore.RemoveAdventureModifier",
+          "TargetType": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "ModifierOwnerEntity"
+          },
+          "ModifierName": "ADV_StageAbility_Maze_Firefly_FadeOut",
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "ReplaceByCaster"
+    }
+  }
 }

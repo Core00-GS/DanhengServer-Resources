@@ -85,8 +85,7 @@
           },
           "LocalRotationY": 87.41472,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010297,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010297
         },
         {
           "Identity": "Bath",
@@ -110,8 +109,7 @@
           },
           "LocalRotationY": 180.1772,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020308,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020308
         },
         {
           "Identity": "Bath",
@@ -135,8 +133,7 @@
           },
           "LocalRotationY": 72.04048,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040327,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040327
         },
         {
           "Identity": "Bath",
@@ -162,8 +159,7 @@
           },
           "LocalRotationY": 349.9452,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030298,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100030298
         },
         {
           "Identity": "Bath",
@@ -196,8 +192,7 @@
           },
           "LocalRotationY": 209.0559,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010447,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010447
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10401001/MunicipalChatConfig_F10401001_0037.json",
@@ -259,8 +254,7 @@
           },
           "LocalRotationY": 37.87099,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010298,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010298
         },
         {
           "Identity": "Bath",
@@ -287,8 +281,7 @@
           },
           "LocalRotationY": 175.6784,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020301,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020301
         },
         {
           "Identity": "Bath",
@@ -321,8 +314,7 @@
           },
           "LocalRotationY": 304.2287,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040298,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040298
         },
         {
           "Identity": "Bath",
@@ -348,8 +340,7 @@
           },
           "LocalRotationY": 112.5196,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040210
         }
       ],
       "NewMunicipalChatCrowdInfos": [
@@ -418,8 +409,7 @@
           },
           "LocalRotationY": 257.3688,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040210
         },
         {
           "Identity": "Bath",
@@ -443,8 +433,7 @@
           },
           "LocalRotationY": 220.2928,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040243,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040243
         },
         {
           "Identity": "Bath",
@@ -475,8 +464,7 @@
           },
           "LocalRotationY": 82.9385,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040333,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040333
         },
         {
           "Identity": "Bath",
@@ -498,8 +486,7 @@
           },
           "LocalRotationY": 32.10078,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040289,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040289
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -555,8 +542,7 @@
           },
           "LocalRotationY": 183.2802,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020253,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020253
         },
         {
           "Identity": "Bath",
@@ -585,8 +571,7 @@
           },
           "LocalRotationY": 246.0265,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010222,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010222
         },
         {
           "Identity": "Bath",
@@ -610,8 +595,7 @@
           },
           "LocalRotationY": 203.0136,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020216,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020216
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -669,8 +653,7 @@
           },
           "LocalRotationY": 152.7451,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020310,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020310
         },
         {
           "Identity": "Bath",
@@ -725,8 +708,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020318,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020318
         },
         {
           "Identity": "Bath",
@@ -748,8 +730,7 @@
           },
           "LocalRotationY": 272.4671,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010000,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010000
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -810,8 +791,7 @@
           },
           "LocalRotationY": 32.44885,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010300,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010300
         },
         {
           "Identity": "Bath",
@@ -833,8 +813,7 @@
           },
           "LocalRotationY": 42.88742,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020358,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020358
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -886,10 +865,9 @@
             "magnitude": 1.98901689,
             "sqrMagnitude": 3.9561882
           },
-          "LocalRotationY": 9.792096,
+          "LocalRotationY": 9.792097,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040000,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040000
         },
         {
           "Identity": "Bath",
@@ -922,8 +900,7 @@
           },
           "LocalRotationY": 282.6733,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010449,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010449
         },
         {
           "Identity": "Bath",
@@ -973,8 +950,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010384,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010384
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1034,8 +1010,7 @@
           },
           "LocalRotationY": 97.15446,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010295
         },
         {
           "Identity": "Bath",
@@ -1066,8 +1041,7 @@
           },
           "LocalRotationY": 280.4172,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010222,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010222
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1127,8 +1101,7 @@
           },
           "LocalRotationY": 171.4865,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010447,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010447
         },
         {
           "Identity": "Bath",
@@ -1179,8 +1152,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010318,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010318
         },
         {
           "Identity": "Bath",
@@ -1213,8 +1185,7 @@
           },
           "LocalRotationY": 125.3788,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040228,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040228
         },
         {
           "Identity": "Bath",
@@ -1247,8 +1218,7 @@
           },
           "LocalRotationY": 301.4574,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020396,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020396
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10401001/MunicipalChatConfig_F10401001_0042.json",
@@ -1317,8 +1287,7 @@
           },
           "LocalRotationY": 279.8855,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030268,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100030268
         },
         {
           "Identity": "Bath",
@@ -1349,8 +1318,7 @@
           },
           "LocalRotationY": 223.2955,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040328,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040328
         },
         {
           "Identity": "Bath",
@@ -1376,8 +1344,7 @@
           },
           "LocalRotationY": 63.40677,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020298,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020298
         },
         {
           "Identity": "Bath",
@@ -1408,8 +1375,7 @@
           },
           "LocalRotationY": 236.2313,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040308,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040308
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1470,8 +1436,7 @@
           },
           "LocalRotationY": 154.5891,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020447,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020447
         },
         {
           "Identity": "Bath",
@@ -1519,8 +1484,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010364,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010364
         },
         {
           "Identity": "Bath",
@@ -1577,8 +1541,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020318,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020318
         },
         {
           "Identity": "Bath",
@@ -1602,8 +1565,7 @@
           },
           "LocalRotationY": 254.2104,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040210
         },
         {
           "Identity": "Bath",
@@ -1627,8 +1589,7 @@
           },
           "LocalRotationY": 191.3213,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040361,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040361
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1689,8 +1650,7 @@
           },
           "LocalRotationY": 224.0035,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010210
         },
         {
           "Identity": "Bath",
@@ -1714,8 +1674,7 @@
           },
           "LocalRotationY": 149.4662,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010309,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010309
         },
         {
           "Identity": "Bath",
@@ -1741,8 +1700,7 @@
           },
           "LocalRotationY": 3.829859,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020361,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020361
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1801,8 +1759,7 @@
           },
           "LocalRotationY": 183.4218,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010295
         },
         {
           "Identity": "Bath",
@@ -1835,8 +1792,7 @@
           },
           "LocalRotationY": 65.13566,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010222,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010222
         },
         {
           "Identity": "Bath",
@@ -1858,8 +1814,7 @@
           },
           "LocalRotationY": 9.129247,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020293,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020293
         },
         {
           "Identity": "Bath",
@@ -1885,8 +1840,7 @@
           },
           "LocalRotationY": 297.7347,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020000,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020000
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -1938,8 +1892,7 @@
           },
           "LocalRotationY": 52.97424,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010301,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010301
         },
         {
           "Identity": "Bath",
@@ -1972,8 +1925,7 @@
           },
           "LocalRotationY": 224.9521,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020231,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020231
         },
         {
           "Identity": "Bath",
@@ -2004,8 +1956,7 @@
           },
           "LocalRotationY": 241.5417,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100040298,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100040298
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -2059,8 +2010,7 @@
           },
           "LocalRotationY": 86.41379,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010295
         },
         {
           "Identity": "UpPeople",
@@ -2084,8 +2034,7 @@
           },
           "LocalRotationY": 145.2721,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020222,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020222
         },
         {
           "Identity": "UpPeople",
@@ -2109,8 +2058,7 @@
           },
           "LocalRotationY": 191.4107,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030202,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100030202
         }
       ],
       "NewMunicipalChatConfigPath": "Config/Level/MunicipalChatConfig/F10401001/MunicipalChatConfig_F10401001_0066.json",
@@ -2182,8 +2130,7 @@
           },
           "LocalRotationY": 125.4371,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010210
         },
         {
           "Identity": "UpPeople",
@@ -2214,8 +2161,7 @@
           },
           "LocalRotationY": 85.73169,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100030222,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100030222
         },
         {
           "Identity": "UpPeople",
@@ -2241,8 +2187,7 @@
           },
           "LocalRotationY": 244.6976,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020301,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020301
         },
         {
           "Identity": "UpPeople",
@@ -2274,8 +2219,7 @@
             "sqrMagnitude": 1.81678307
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020402,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020402
         }
       ],
       "NewMunicipalChatCrowdInfos": [],
@@ -2359,8 +2303,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010318,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010318
         },
         {
           "Identity": "UpPeople",
@@ -2386,8 +2329,7 @@
           },
           "LocalRotationY": 326.179,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100010295,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100010295
         },
         {
           "Identity": "DownPeople",
@@ -2444,8 +2386,7 @@
             }
           },
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020318,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020318
         },
         {
           "Identity": "UpPeople",
@@ -2471,8 +2412,7 @@
           },
           "LocalRotationY": 16.25199,
           "DefaultAnimationType": "FreeStyle",
-          "DefaultIdleFreeStyleMotionID": 100020210,
-          "NearbyAnimConfig": {}
+          "DefaultIdleFreeStyleMotionID": 100020210
         }
       ],
       "NewMunicipalChatCrowdInfos": [],

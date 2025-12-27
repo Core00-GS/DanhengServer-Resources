@@ -1,5 +1,5 @@
 {
-  "GroupName": "\u526f\u672c\u5165\u53e3",
+  "GroupName": "副本入口",
   "ConfigPrefabPath": "Level/Maze/Chapter01/Chap01_MAZ_M203_LevelArea.prefab",
   "AreaAnchorName": "LevelArea_P20134_F20134001_G15",
   "SaveType": "Permanent",
@@ -106,6 +106,9 @@
       ],
       "RaidID": 4010102,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,

@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Gepard_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -96,38 +95,45 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 6442450946
+                    "FixedValue": {
+                      "RawValue": 6442450946,
+                      "Value": 1.5
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 85899346
+                    "FixedValue": {
+                      "RawValue": 85899346,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 19327352834
+                    "FixedValue": {
+                      "RawValue": 19327352834,
+                      "Value": 4.5
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 85899346
+                    "FixedValue": {
+                      "RawValue": 85899346,
+                      "Value": 0.02
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   }
                 }
@@ -143,8 +149,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 360777252
+                "FixedValue": {
+                  "RawValue": 360777252,
+                  "Value": 0.08
                 }
               },
               "TaskEnabled": true,
@@ -217,8 +224,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 558345749
+                "FixedValue": {
+                  "RawValue": 558345749,
+                  "Value": 0.13
                 }
               },
               "TaskEnabled": true,
@@ -248,18 +256,21 @@
                   "MovingRangeList": [
                     {
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 64424508
+                        "FixedValue": {
+                          "RawValue": 64424508,
+                          "Value": 0.01
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 300647711
+                        "FixedValue": {
+                          "RawValue": 300647711,
+                          "Value": 0.07
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 9878424782
+                        "FixedValue": {
+                          "RawValue": 9878424782,
+                          "Value": 2.3
                         }
                       }
                     }
@@ -275,8 +286,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 322122546
+                    "FixedValue": {
+                      "RawValue": 322122546,
+                      "Value": 0.07
                     }
                   },
                   "TaskEnabled": true,
@@ -307,8 +319,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 360777252
+                    "FixedValue": {
+                      "RawValue": 360777252,
+                      "Value": 0.08
                     }
                   },
                   "TaskEnabled": true,
@@ -386,8 +399,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 558345749
+                    "FixedValue": {
+                      "RawValue": 558345749,
+                      "Value": 0.13
                     }
                   },
                   "TaskEnabled": true,
@@ -417,18 +431,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 64424508
+                            "FixedValue": {
+                              "RawValue": 64424508,
+                              "Value": 0.01
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 236223200
+                            "FixedValue": {
+                              "RawValue": 236223200,
+                              "Value": 0.05
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 6442450946
+                            "FixedValue": {
+                              "RawValue": 6442450946,
+                              "Value": 1.5
                             }
                           }
                         }
@@ -444,8 +461,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 322122546
+                        "FixedValue": {
+                          "RawValue": 322122546,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -476,8 +494,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 360777252
+                        "FixedValue": {
+                          "RawValue": 360777252,
+                          "Value": 0.08
                         }
                       },
                       "TaskEnabled": true,
@@ -555,8 +574,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 558345749
+                        "FixedValue": {
+                          "RawValue": 558345749,
+                          "Value": 0.13
                         }
                       },
                       "TaskEnabled": true,
@@ -577,18 +597,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 64424508
+                            "FixedValue": {
+                              "RawValue": 64424508,
+                              "Value": 0.01
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 236223200
+                            "FixedValue": {
+                              "RawValue": 236223200,
+                              "Value": 0.05
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 4294967296
+                            "FixedValue": {
+                              "RawValue": 4294967296,
+                              "Value": 1.0
                             }
                           }
                         }
@@ -604,8 +627,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 322122546
+                        "FixedValue": {
+                          "RawValue": 322122546,
+                          "Value": 0.07
                         }
                       },
                       "TaskEnabled": true,
@@ -636,8 +660,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 360777252
+                        "FixedValue": {
+                          "RawValue": 360777252,
+                          "Value": 0.08
                         }
                       },
                       "TaskEnabled": true,
@@ -715,8 +740,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 558345749
+                        "FixedValue": {
+                          "RawValue": 558345749,
+                          "Value": 0.13
                         }
                       },
                       "TaskEnabled": true,
@@ -736,8 +762,7 @@
     {
       "Name": "LocalPlayer_Gepard_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -777,8 +802,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 300647711
+            "FixedValue": {
+              "RawValue": 300647711,
+              "Value": 0.07
             }
           },
           "TaskEnabled": true,
@@ -808,8 +834,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 429496730
+            "FixedValue": {
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           "TaskEnabled": true,
@@ -823,8 +850,9 @@
           },
           "ID": 110401,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -847,8 +875,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 858993460
+            "FixedValue": {
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           "TaskEnabled": true,
@@ -856,5 +885,18 @@
         }
       ]
     }
-  ]
+  ],
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Geppard": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [],
+      "Count": 1,
+      "Stacking": "Merge"
+    }
+  }
 }

@@ -88,10 +88,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 7,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -105,7 +109,7 @@
       "Name": "DestructibleItem",
       "RotY": 358.2293,
       "ID": 300001,
-      "PosX": 24.88,
+      "PosX": 23.88,
       "PosY": 78.92355,
       "PosZ": -23.88
     },
@@ -220,10 +224,14 @@
           "State": "Locked"
         }
       ],
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -237,7 +245,7 @@
       "Name": "Spear",
       "RotY": 358.2293,
       "ID": 300002,
-      "PosX": 24.88,
+      "PosX": 23.88,
       "PosY": 78.92355,
       "PosZ": -23.88
     },
@@ -285,10 +293,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 7,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -361,10 +373,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -398,9 +414,18 @@
       "PointList": [
         {
           "Position": {
+            "x": -0.999523,
             "y": 1.0,
-            "magnitude": 1.0,
-            "sqrMagnitude": 1.0
+            "z": 0.0309,
+            "normalized": {
+              "x": -0.7067693,
+              "y": 0.7071066,
+              "z": 0.021849595,
+              "magnitude": 1.0,
+              "sqrMagnitude": 1.0
+            },
+            "magnitude": 1.4142139,
+            "sqrMagnitude": 2.000001
           },
           "ControlType": 1,
           "Control1": {

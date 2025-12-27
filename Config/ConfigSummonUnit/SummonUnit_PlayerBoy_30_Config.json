@@ -36,8 +36,9 @@
   ],
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -126,8 +127,9 @@
     {
       "$type": "RPG.GameCore.WaitSecond",
       "WaitTime": {
-        "fixedValue": {
-          "RawValue": 1073741825
+        "FixedValue": {
+          "RawValue": 1073741825,
+          "Value": 0.25
         }
       },
       "MaxAdvencePerTick": -1.0,
@@ -201,8 +203,9 @@
       {
         "TriggerName": "PlayerBoy_30_FieldTrigger",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 39513699124
+          "FixedValue": {
+            "RawValue": 39513699124,
+            "Value": 9.2
           }
         },
         "CenterOffset": {
@@ -252,8 +255,9 @@
       {
         "TriggerName": "PlayerBoy_30_FieldTrigger_Prop",
         "Radius": {
-          "fixedValue": {
-            "RawValue": 39513699124
+          "FixedValue": {
+            "RawValue": 39513699124,
+            "Value": 9.2
           }
         },
         "CenterOffset": {
@@ -281,6 +285,7 @@
               "Alias": "TaskActionTarget"
             },
             "IsSkill": true,
+            "PauseReason": "Task",
             "TaskEnabled": true,
             "IsClientOnly": true
           }
@@ -293,6 +298,7 @@
               "Alias": "TaskActionTarget"
             },
             "IsSkill": true,
+            "PauseReason": "Task",
             "TaskEnabled": true,
             "IsClientOnly": true
           }

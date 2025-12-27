@@ -138,6 +138,11 @@
       "$type": "RPG.GameCore.FloorCustomFloatConfig",
       "ID": 10037,
       "Name": "FCV_Catchable_isHand"
+    },
+    {
+      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+      "ID": 10038,
+      "Name": "FCV_OpenTitanEye"
     }
   ],
   "GroupInstanceList": [
@@ -787,7 +792,7 @@
       "ID": 133
     },
     {
-      "GroupPath": "Config/LevelOutput/RuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G134.json",
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G134.json",
       "Name": "MainMission1040208_06",
       "ID": 134
     },
@@ -1336,6 +1341,11 @@
       "IsDelete": true
     },
     {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G257.json",
+      "Name": "MainMission1040402_01",
+      "ID": 257
+    },
+    {
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G258.json",
       "Name": "Book",
       "ID": 258
@@ -1369,6 +1379,46 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G266.json",
       "Name": "FarmElement2",
       "ID": 266
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G267.json",
+      "Name": "MainMission1040404_01",
+      "ID": 267
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G269.json",
+      "Name": "MainMission1040502_01",
+      "ID": 269
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G270.json",
+      "Name": "MainMission1040502_02",
+      "ID": 270
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G271.json",
+      "Name": "Blockline",
+      "ID": 271
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G278.json",
+      "Name": "MainMission1043650_04",
+      "ID": 278
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G281.json",
+      "Name": "MainMission1043710_01",
+      "ID": 281
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G282.json",
+      "Name": "MainMission1043710_02",
+      "ID": 282
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20412_F20412001/LevelGroup_P20412_F20412001_G283.json",
+      "Name": "MainMission1043710_03",
+      "ID": 283
     }
   ],
   "DimensionList": [
@@ -1388,13 +1438,15 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041105,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea1",
           "ID": 1
         },
         {
           "EnviroProfile": "Stages/Outputs/Chapter04/EnviroProfile/Chap04_CloseView_BAT_A103_day_01.enviroProfile.asset",
           "Tags": [
-            "BattleArea02"
+            "BattleArea01"
           ],
           "TagContainer": [],
           "AudioEnterEvent": [
@@ -1403,6 +1455,8 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041106,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea2",
           "ID": 2
         }
@@ -1837,6 +1891,24 @@
         {
           "ID": 50,
           "Name": "FSV_PortalUnlock",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 51,
+          "Name": "FSV_SecondHalf",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 52,
+          "Name": "FSV_TRState",
           "AllowedValues": [
             0,
             1
@@ -2065,9 +2137,18 @@
         238,
         239,
         240,
-        242,
+        241,
         243,
-        244
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -2089,13 +2170,15 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041105,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea1",
           "ID": 1
         },
         {
           "EnviroProfile": "Stages/Outputs/Chapter04/EnviroProfile/Chap04_CloseView_BAT_A103_day_01.enviroProfile.asset",
           "Tags": [
-            "BattleArea02"
+            "BattleArea01"
           ],
           "TagContainer": [],
           "AudioEnterEvent": [
@@ -2104,6 +2187,8 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041106,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea2",
           "ID": 2
         }
@@ -2543,6 +2628,24 @@
             1
           ],
           "MaxValue": 1
+        },
+        {
+          "ID": 51,
+          "Name": "FSV_SecondHalf",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 52,
+          "Name": "FSV_TRState",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
         }
       ],
       "TagContainer": [],
@@ -2745,11 +2848,20 @@
         230,
         232,
         233,
-        239,
+        238,
         240,
         241,
         242,
-        243
+        243,
+        244,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
       ],
       "ExclusiveSavedGroupIDList": [
         10,
@@ -2795,13 +2907,15 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041105,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea1",
           "ID": 1
         },
         {
           "EnviroProfile": "Stages/Outputs/Chapter04/EnviroProfile/Chap04_CloseView_BAT_A103_day_01.enviroProfile.asset",
           "Tags": [
-            "BattleArea02"
+            "BattleArea01"
           ],
           "TagContainer": [],
           "AudioEnterEvent": [
@@ -2810,6 +2924,8 @@
           "AudienceGroupIDList": [],
           "PrefetchMainMissionList": [],
           "PrefetchSubMissionList": [],
+          "UnifiedBattleAreaID": 2041106,
+          "IsOverrideUnifiedConfigAudio": true,
           "Name": "BattleArea2",
           "ID": 2
         }
@@ -3262,6 +3378,24 @@
             1
           ],
           "MaxValue": 1
+        },
+        {
+          "ID": 51,
+          "Name": "FSV_SecondHalf",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
+        },
+        {
+          "ID": 52,
+          "Name": "FSV_TRState",
+          "AllowedValues": [
+            0,
+            1
+          ],
+          "MaxValue": 1
         }
       ],
       "SavedValueConfigDict": {
@@ -3480,10 +3614,19 @@
         227,
         228,
         229,
-        239,
-        241,
+        238,
+        240,
         242,
-        243
+        243,
+        244,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253
       ],
       "ExclusiveSavedGroupIDList": [
         10,
@@ -4695,6 +4838,11 @@
       "SaveType": "Reset",
       "IsHoyoGroup": true
     },
+    "257": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
     "258": {
       "Category": "Atmosphere",
       "SaveType": "Permanent",
@@ -4740,20 +4888,63 @@
         ],
         "Operation": "And"
       }
+    },
+    "267": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "269": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "270": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "271": {
+      "SaveType": "Reset",
+      "IsHoyoGroup": true,
+      "LoadOnInitial": true
+    },
+    "278": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "281": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "282": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
+    },
+    "283": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
     }
   },
   "ValidSubmapList": [
     {
       "SubmapID": 204120101,
-      "NearbyTeleportMappingInfoID": 2041201
+      "NearbyTeleportMappingInfoID": 2041201,
+      "FiveDimInstance": {}
     },
     {
       "SubmapID": 204120102,
-      "NearbyTeleportMappingInfoID": 2041203
+      "NearbyTeleportMappingInfoID": 2041203,
+      "FiveDimInstance": {}
     },
     {
       "SubmapID": 204120103,
-      "NearbyTeleportMappingInfoID": 2041202
+      "NearbyTeleportMappingInfoID": 2041202,
+      "FiveDimInstance": {}
     }
   ],
   "IsRestartLevelGraph": true,

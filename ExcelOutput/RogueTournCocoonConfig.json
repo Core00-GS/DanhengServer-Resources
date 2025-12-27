@@ -1,38 +1,6 @@
 [
   {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004022,
-        "BFPAOANBJON": 50
-      }
-    ],
-    "DisplayItemList": [
-      {
-        "ItemNum": 200,
-        "ItemID": 22
-      },
-      {
-        "ItemID": 2
-      },
-      {
-        "ItemID": 83011
-      },
-      {
-        "ItemID": 83021
-      },
-      {
-        "ItemID": 83012
-      },
-      {
-        "ItemID": 83022
-      },
-      {
-        "ItemID": 83013
-      },
-      {
-        "ItemID": 83023
-      }
-    ],
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
     "DropList": [
       1000919,
       1000410,
@@ -46,57 +14,65 @@
       713014,
       401901
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 1004022
+      }
+    ],
     "RecommendDamageTypes": [
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 201,
-    "EventID": 80300031,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1001,
-    "NpcMonsterID": 1004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004022,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83012
+        "ItemID": 83011,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83022
+        "ItemID": 83021,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83013
+        "ItemID": 83012,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83023
+        "ItemID": 83022,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83014
+        "ItemID": 83013,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83024
+        "ItemID": 83023,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300031,
+    "RecommendLevel": 45,
+    "ID": 1001,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 201,
+    "NpcMonsterID": 1004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
     "DropList": [
       1000919,
       1000416,
@@ -108,57 +84,65 @@
       713014,
       713015
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 1004022
+      }
+    ],
     "RecommendDamageTypes": [
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 201,
-    "EventID": 80300032,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1001,
-    "NpcMonsterID": 1004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004022,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83012
+        "ItemID": 83012,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83022
+        "ItemID": 83022,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83013
+        "ItemID": 83013,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83023
+        "ItemID": 83023,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83014
+        "ItemID": 83014,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83024
+        "ItemID": 83024,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300032,
+    "RecommendLevel": 55,
+    "ID": 1001,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 201,
+    "NpcMonsterID": 1004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
     "DropList": [
       1000919,
       1000422,
@@ -171,57 +155,65 @@
       713015,
       401923
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 1004022
+      }
+    ],
     "RecommendDamageTypes": [
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 201,
-    "EventID": 80300033,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1001,
-    "NpcMonsterID": 1004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004022,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83012
+        "ItemID": 83012,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83022
+        "ItemID": 83022,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83013
+        "ItemID": 83013,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83023
+        "ItemID": 83023,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83014
+        "ItemID": 83014,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83024
+        "ItemID": 83024,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300033,
+    "RecommendLevel": 65,
+    "ID": 1001,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 201,
+    "NpcMonsterID": 1004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
     "DropList": [
       1000919,
       1000428,
@@ -233,51 +225,65 @@
       713015,
       713015
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 1004022
+      }
+    ],
     "RecommendDamageTypes": [
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 201,
-    "EventID": 80300034,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1001,
-    "NpcMonsterID": 1004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004022,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83013
+        "ItemID": 83012,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83023
+        "ItemID": 83022,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83014
+        "ItemID": 83013,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83024
+        "ItemID": 83023,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83014,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83024,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300034,
+    "RecommendLevel": 75,
+    "ID": 1001,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 201,
+    "NpcMonsterID": 1004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
     "DropList": [
       1000919,
       1000434,
@@ -290,57 +296,57 @@
       713015,
       401941
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 1004022
+      }
+    ],
     "RecommendDamageTypes": [
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss1.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 201,
-    "EventID": 80300035,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1001,
-    "NpcMonsterID": 1004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1014011,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83071
+        "ItemID": 83013,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83081
+        "ItemID": 83023,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83072
+        "ItemID": 83014,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83082
-      },
-      {
-        "ItemID": 83073
-      },
-      {
-        "ItemID": 83083
+        "ItemID": 83024,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300035,
+    "RecommendLevel": 80,
+    "ID": 1001,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 201,
+    "NpcMonsterID": 1004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
     "DropList": [
       1000919,
       1000410,
@@ -354,57 +360,65 @@
       713024,
       401971
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 1014011
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Fire"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 202,
-    "EventID": 80300041,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1002,
-    "NpcMonsterID": 1014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1014011,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83072
+        "ItemID": 83071,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83082
+        "ItemID": 83081,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83073
+        "ItemID": 83072,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83083
+        "ItemID": 83082,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83074
+        "ItemID": 83073,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83084
+        "ItemID": 83083,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300041,
+    "RecommendLevel": 45,
+    "ID": 1002,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 202,
+    "NpcMonsterID": 1014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
     "DropList": [
       1000919,
       1000416,
@@ -416,57 +430,65 @@
       713024,
       713025
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 1014011
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Fire"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 202,
-    "EventID": 80300042,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1002,
-    "NpcMonsterID": 1014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1014011,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83072
+        "ItemID": 83072,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83082
+        "ItemID": 83082,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83073
+        "ItemID": 83073,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83083
+        "ItemID": 83083,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83074
+        "ItemID": 83074,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83084
+        "ItemID": 83084,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300042,
+    "RecommendLevel": 55,
+    "ID": 1002,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 202,
+    "NpcMonsterID": 1014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
     "DropList": [
       1000919,
       1000422,
@@ -479,57 +501,65 @@
       713025,
       401993
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 1014011
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Fire"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 202,
-    "EventID": 80300043,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1002,
-    "NpcMonsterID": 1014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1014011,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83072
+        "ItemID": 83072,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83082
+        "ItemID": 83082,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83073
+        "ItemID": 83073,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83083
+        "ItemID": 83083,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83074
+        "ItemID": 83074,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83084
+        "ItemID": 83084,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300043,
+    "RecommendLevel": 65,
+    "ID": 1002,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 202,
+    "NpcMonsterID": 1014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
     "DropList": [
       1000919,
       1000428,
@@ -541,51 +571,65 @@
       713025,
       713025
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 1014011
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Fire"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 202,
-    "EventID": 80300044,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1002,
-    "NpcMonsterID": 1014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1014011,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83073
+        "ItemID": 83072,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83083
+        "ItemID": 83082,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83074
+        "ItemID": 83073,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83084
+        "ItemID": 83083,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83074,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83084,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300044,
+    "RecommendLevel": 75,
+    "ID": 1002,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 202,
+    "NpcMonsterID": 1014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
     "DropList": [
       1000919,
       1000434,
@@ -598,57 +642,57 @@
       713025,
       402011
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 1014011
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Fire"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss2.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 202,
-    "EventID": 80300045,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1002,
-    "NpcMonsterID": 1014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004011,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83031
+        "ItemID": 83073,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83051
+        "ItemID": 83083,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83032
+        "ItemID": 83074,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83052
-      },
-      {
-        "ItemID": 83033
-      },
-      {
-        "ItemID": 83053
+        "ItemID": 83084,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300045,
+    "RecommendLevel": 80,
+    "ID": 1002,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 202,
+    "NpcMonsterID": 1014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
     "DropList": [
       1000919,
       1000410,
@@ -662,57 +706,65 @@
       713034,
       402041
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 2004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Wind",
       "Imaginary",
       "Physical"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 203,
-    "EventID": 80300051,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1003,
-    "NpcMonsterID": 2004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004011,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83032
+        "ItemID": 83031,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83052
+        "ItemID": 83051,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83033
+        "ItemID": 83032,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83053
+        "ItemID": 83052,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83034
+        "ItemID": 83033,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83054
+        "ItemID": 83053,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300051,
+    "RecommendLevel": 45,
+    "ID": 1003,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 203,
+    "NpcMonsterID": 2004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
     "DropList": [
       1000919,
       1000416,
@@ -724,57 +776,65 @@
       713034,
       713035
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 2004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Wind",
       "Imaginary",
       "Physical"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 203,
-    "EventID": 80300052,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1003,
-    "NpcMonsterID": 2004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004011,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83032
+        "ItemID": 83032,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83052
+        "ItemID": 83052,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83033
+        "ItemID": 83033,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83053
+        "ItemID": 83053,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83034
+        "ItemID": 83034,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83054
+        "ItemID": 83054,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300052,
+    "RecommendLevel": 55,
+    "ID": 1003,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 203,
+    "NpcMonsterID": 2004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
     "DropList": [
       1000919,
       1000422,
@@ -787,57 +847,65 @@
       713035,
       402063
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 2004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Wind",
       "Imaginary",
       "Physical"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 203,
-    "EventID": 80300053,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1003,
-    "NpcMonsterID": 2004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004011,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83032
+        "ItemID": 83032,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83052
+        "ItemID": 83052,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83033
+        "ItemID": 83033,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83053
+        "ItemID": 83053,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83034
+        "ItemID": 83034,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83054
+        "ItemID": 83054,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300053,
+    "RecommendLevel": 65,
+    "ID": 1003,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 203,
+    "NpcMonsterID": 2004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
     "DropList": [
       1000919,
       1000428,
@@ -849,51 +917,65 @@
       713035,
       713035
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 2004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Wind",
       "Imaginary",
       "Physical"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 203,
-    "EventID": 80300054,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1003,
-    "NpcMonsterID": 2004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004011,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83033
+        "ItemID": 83032,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83053
+        "ItemID": 83052,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83034
+        "ItemID": 83033,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83054
+        "ItemID": 83053,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83034,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83054,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300054,
+    "RecommendLevel": 75,
+    "ID": 1003,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 203,
+    "NpcMonsterID": 2004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
     "DropList": [
       1000919,
       1000434,
@@ -906,57 +988,57 @@
       713035,
       402081
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 2004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Wind",
       "Imaginary",
       "Physical"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss3.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 203,
-    "EventID": 80300055,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1003,
-    "NpcMonsterID": 2004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004011,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83041
+        "ItemID": 83033,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83061
+        "ItemID": 83053,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83042
+        "ItemID": 83034,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83062
-      },
-      {
-        "ItemID": 83043
-      },
-      {
-        "ItemID": 83063
+        "ItemID": 83054,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300055,
+    "RecommendLevel": 80,
+    "ID": 1003,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 203,
+    "NpcMonsterID": 2004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
     "DropList": [
       1000919,
       1000410,
@@ -970,57 +1052,65 @@
       713044,
       402111
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 1004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Quantum",
       "Thunder"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 204,
-    "EventID": 80300061,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1004,
-    "NpcMonsterID": 1004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004011,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83042
+        "ItemID": 83041,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83062
+        "ItemID": 83061,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83043
+        "ItemID": 83042,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83063
+        "ItemID": 83062,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83044
+        "ItemID": 83043,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83064
+        "ItemID": 83063,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300061,
+    "RecommendLevel": 45,
+    "ID": 1004,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 204,
+    "NpcMonsterID": 1004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
     "DropList": [
       1000919,
       1000416,
@@ -1032,57 +1122,65 @@
       713044,
       713045
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 1004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Quantum",
       "Thunder"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 204,
-    "EventID": 80300062,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1004,
-    "NpcMonsterID": 1004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004011,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83042
+        "ItemID": 83042,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83062
+        "ItemID": 83062,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83043
+        "ItemID": 83043,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83063
+        "ItemID": 83063,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83044
+        "ItemID": 83044,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83064
+        "ItemID": 83064,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300062,
+    "RecommendLevel": 55,
+    "ID": 1004,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 204,
+    "NpcMonsterID": 1004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
     "DropList": [
       1000919,
       1000422,
@@ -1095,57 +1193,65 @@
       713045,
       402133
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 1004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Quantum",
       "Thunder"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 204,
-    "EventID": 80300063,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1004,
-    "NpcMonsterID": 1004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004011,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83042
+        "ItemID": 83042,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83062
+        "ItemID": 83062,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83043
+        "ItemID": 83043,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83063
+        "ItemID": 83063,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83044
+        "ItemID": 83044,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83064
+        "ItemID": 83064,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300063,
+    "RecommendLevel": 65,
+    "ID": 1004,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 204,
+    "NpcMonsterID": 1004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
     "DropList": [
       1000919,
       1000428,
@@ -1157,51 +1263,65 @@
       713045,
       713045
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 1004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Quantum",
       "Thunder"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 204,
-    "EventID": 80300064,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1004,
-    "NpcMonsterID": 1004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 1004011,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83043
+        "ItemID": 83042,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83063
+        "ItemID": 83062,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83044
+        "ItemID": 83043,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83064
+        "ItemID": 83063,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83044,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83064,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300064,
+    "RecommendLevel": 75,
+    "ID": 1004,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 204,
+    "NpcMonsterID": 1004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
     "DropList": [
       1000919,
       1000434,
@@ -1214,57 +1334,57 @@
       713045,
       402151
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 1004011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Quantum",
       "Thunder"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss4.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 204,
-    "EventID": 80300065,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1004,
-    "NpcMonsterID": 1004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2024011,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83091
+        "ItemID": 83043,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83101
+        "ItemID": 83063,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83092
+        "ItemID": 83044,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83102
-      },
-      {
-        "ItemID": 83093
-      },
-      {
-        "ItemID": 83103
+        "ItemID": 83064,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300065,
+    "RecommendLevel": 80,
+    "ID": 1004,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 204,
+    "NpcMonsterID": 1004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
     "DropList": [
       1000919,
       1000410,
@@ -1278,57 +1398,65 @@
       713054,
       402181
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 2024011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Ice",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 205,
-    "EventID": 80300071,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1005,
-    "NpcMonsterID": 2024011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2024011,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83092
+        "ItemID": 83091,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83102
+        "ItemID": 83101,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83093
+        "ItemID": 83092,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83103
+        "ItemID": 83102,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83094
+        "ItemID": 83093,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83104
+        "ItemID": 83103,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300071,
+    "RecommendLevel": 45,
+    "ID": 1005,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 205,
+    "NpcMonsterID": 2024011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
     "DropList": [
       1000919,
       1000416,
@@ -1340,57 +1468,65 @@
       713054,
       713055
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 2024011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Ice",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 205,
-    "EventID": 80300072,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1005,
-    "NpcMonsterID": 2024011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2024011,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83092
+        "ItemID": 83092,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83102
+        "ItemID": 83102,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83093
+        "ItemID": 83093,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83103
+        "ItemID": 83103,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83094
+        "ItemID": 83094,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83104
+        "ItemID": 83104,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300072,
+    "RecommendLevel": 55,
+    "ID": 1005,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 205,
+    "NpcMonsterID": 2024011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
     "DropList": [
       1000919,
       1000422,
@@ -1403,57 +1539,65 @@
       713055,
       402203
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 2024011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Ice",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 205,
-    "EventID": 80300073,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1005,
-    "NpcMonsterID": 2024011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2024011,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83092
+        "ItemID": 83092,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83102
+        "ItemID": 83102,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83093
+        "ItemID": 83093,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83103
+        "ItemID": 83103,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83094
+        "ItemID": 83094,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83104
+        "ItemID": 83104,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300073,
+    "RecommendLevel": 65,
+    "ID": 1005,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 205,
+    "NpcMonsterID": 2024011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
     "DropList": [
       1000919,
       1000428,
@@ -1465,51 +1609,65 @@
       713055,
       713055
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 2024011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Ice",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 205,
-    "EventID": 80300074,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1005,
-    "NpcMonsterID": 2024011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2024011,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83093
+        "ItemID": 83092,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83103
+        "ItemID": 83102,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83094
+        "ItemID": 83093,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83104
+        "ItemID": 83103,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83094,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83104,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300074,
+    "RecommendLevel": 75,
+    "ID": 1005,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 205,
+    "NpcMonsterID": 2024011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
     "DropList": [
       1000919,
       1000434,
@@ -1522,57 +1680,57 @@
       713055,
       402221
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 2024011
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Ice",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss5.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 205,
-    "EventID": 80300075,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1005,
-    "NpcMonsterID": 2024011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004021,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83111
+        "ItemID": 83093,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83121
+        "ItemID": 83103,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83112
+        "ItemID": 83094,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83122
-      },
-      {
-        "ItemID": 83113
-      },
-      {
-        "ItemID": 83123
+        "ItemID": 83104,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300075,
+    "RecommendLevel": 80,
+    "ID": 1005,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 205,
+    "NpcMonsterID": 2024011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
     "DropList": [
       1000919,
       1000410,
@@ -1586,57 +1744,65 @@
       713064,
       460021
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 2004021
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 206,
-    "EventID": 80300081,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1006,
-    "NpcMonsterID": 2004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004021,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83112
+        "ItemID": 83111,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83122
+        "ItemID": 83121,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83113
+        "ItemID": 83112,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83123
+        "ItemID": 83122,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83114
+        "ItemID": 83113,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83124
+        "ItemID": 83123,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300081,
+    "RecommendLevel": 45,
+    "ID": 1006,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 206,
+    "NpcMonsterID": 2004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
     "DropList": [
       1000919,
       1000416,
@@ -1648,57 +1814,65 @@
       713064,
       713065
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 2004021
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 206,
-    "EventID": 80300082,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1006,
-    "NpcMonsterID": 2004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004021,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83112
+        "ItemID": 83112,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83122
+        "ItemID": 83122,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83113
+        "ItemID": 83113,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83123
+        "ItemID": 83123,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83114
+        "ItemID": 83114,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83124
+        "ItemID": 83124,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300082,
+    "RecommendLevel": 55,
+    "ID": 1006,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 206,
+    "NpcMonsterID": 2004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
     "DropList": [
       1000919,
       1000422,
@@ -1711,57 +1885,65 @@
       713065,
       460043
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 2004021
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 206,
-    "EventID": 80300083,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1006,
-    "NpcMonsterID": 2004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004021,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83112
+        "ItemID": 83112,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83122
+        "ItemID": 83122,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83113
+        "ItemID": 83113,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83123
+        "ItemID": 83123,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83114
+        "ItemID": 83114,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83124
+        "ItemID": 83124,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300083,
+    "RecommendLevel": 65,
+    "ID": 1006,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 206,
+    "NpcMonsterID": 2004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
     "DropList": [
       1000919,
       1000428,
@@ -1773,51 +1955,65 @@
       713065,
       713065
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 2004021
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 206,
-    "EventID": 80300084,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1006,
-    "NpcMonsterID": 2004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 2004021,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83113
+        "ItemID": 83112,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83123
+        "ItemID": 83122,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83114
+        "ItemID": 83113,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83124
+        "ItemID": 83123,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83114,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83124,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300084,
+    "RecommendLevel": 75,
+    "ID": 1006,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 206,
+    "NpcMonsterID": 2004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
     "DropList": [
       1000919,
       1000434,
@@ -1830,57 +2026,57 @@
       713065,
       460061
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 2004021
+      }
+    ],
     "RecommendDamageTypes": [
       "Thunder",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss6.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 206,
-    "EventID": 80300085,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1006,
-    "NpcMonsterID": 2004021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3014022,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83131
+        "ItemID": 83113,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83141
+        "ItemID": 83123,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83132
+        "ItemID": 83114,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83142
-      },
-      {
-        "ItemID": 83133
-      },
-      {
-        "ItemID": 83143
+        "ItemID": 83124,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300085,
+    "RecommendLevel": 80,
+    "ID": 1006,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 206,
+    "NpcMonsterID": 2004021,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
     "DropList": [
       1000919,
       1000410,
@@ -1894,57 +2090,65 @@
       713074,
       460121
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 3014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 207,
-    "EventID": 80300091,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1007,
-    "NpcMonsterID": 3014021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3014022,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83132
+        "ItemID": 83131,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83142
+        "ItemID": 83141,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83133
+        "ItemID": 83132,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83143
+        "ItemID": 83142,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83134
+        "ItemID": 83133,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83144
+        "ItemID": 83143,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300091,
+    "RecommendLevel": 45,
+    "ID": 1007,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 207,
+    "NpcMonsterID": 3014021,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
     "DropList": [
       1000919,
       1000416,
@@ -1956,57 +2160,65 @@
       713074,
       713075
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 3014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 207,
-    "EventID": 80300092,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1007,
-    "NpcMonsterID": 3014021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3014022,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83132
+        "ItemID": 83132,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83142
+        "ItemID": 83142,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83133
+        "ItemID": 83133,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83143
+        "ItemID": 83143,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83134
+        "ItemID": 83134,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83144
+        "ItemID": 83144,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300092,
+    "RecommendLevel": 55,
+    "ID": 1007,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 207,
+    "NpcMonsterID": 3014021,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
     "DropList": [
       1000919,
       1000422,
@@ -2019,57 +2231,65 @@
       713075,
       460143
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 3014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 207,
-    "EventID": 80300093,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1007,
-    "NpcMonsterID": 3014021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3014022,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83132
+        "ItemID": 83132,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83142
+        "ItemID": 83142,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83133
+        "ItemID": 83133,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83143
+        "ItemID": 83143,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83134
+        "ItemID": 83134,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83144
+        "ItemID": 83144,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300093,
+    "RecommendLevel": 65,
+    "ID": 1007,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 207,
+    "NpcMonsterID": 3014021,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
     "DropList": [
       1000919,
       1000428,
@@ -2081,51 +2301,65 @@
       713075,
       713075
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 3014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 207,
-    "EventID": 80300094,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1007,
-    "NpcMonsterID": 3014021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3014022,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83133
+        "ItemID": 83132,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83143
+        "ItemID": 83142,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83134
+        "ItemID": 83133,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83144
+        "ItemID": 83143,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83134,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83144,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300094,
+    "RecommendLevel": 75,
+    "ID": 1007,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 207,
+    "NpcMonsterID": 3014021,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
     "DropList": [
       1000919,
       1000434,
@@ -2138,69 +2372,57 @@
       713075,
       460161
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 3014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Wind",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss7.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 207,
-    "EventID": 80300095,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1007,
-    "NpcMonsterID": 3014021
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3004011,
-        "BFPAOANBJON": 50
-      },
-      {
-        "GGAIJBLEGDE": 3003033,
-        "BFPAOANBJON": 50
-      },
-      {
-        "GGAIJBLEGDE": 3003043,
-        "BFPAOANBJON": 50
-      },
-      {
-        "GGAIJBLEGDE": 3003053,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83151
+        "ItemID": 83133,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83161
+        "ItemID": 83143,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83152
+        "ItemID": 83134,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83162
-      },
-      {
-        "ItemID": 83153
-      },
-      {
-        "ItemID": 83163
+        "ItemID": 83144,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300095,
+    "RecommendLevel": 80,
+    "ID": 1007,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 207,
+    "NpcMonsterID": 3014021,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
     "DropList": [
       1000919,
       1000410,
@@ -2214,70 +2436,78 @@
       713084,
       460191
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 3004011
+      },
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 3003033
+      },
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 3003043
+      },
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 3003053
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 208,
-    "EventID": 80300101,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1008,
-    "NpcMonsterID": 3004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3004011,
-        "BFPAOANBJON": 60
-      },
-      {
-        "GGAIJBLEGDE": 3003033,
-        "BFPAOANBJON": 60
-      },
-      {
-        "GGAIJBLEGDE": 3003043,
-        "BFPAOANBJON": 60
-      },
-      {
-        "GGAIJBLEGDE": 3003053,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83152
+        "ItemID": 83151,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83162
+        "ItemID": 83161,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83153
+        "ItemID": 83152,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83163
+        "ItemID": 83162,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83154
+        "ItemID": 83153,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83164
+        "ItemID": 83163,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300101,
+    "RecommendLevel": 45,
+    "ID": 1008,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 208,
+    "NpcMonsterID": 3004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
     "DropList": [
       1000919,
       1000416,
@@ -2289,70 +2519,78 @@
       713084,
       713085
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 3004011
+      },
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 3003033
+      },
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 3003043
+      },
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 3003053
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 208,
-    "EventID": 80300102,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1008,
-    "NpcMonsterID": 3004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3004011,
-        "BFPAOANBJON": 70
-      },
-      {
-        "GGAIJBLEGDE": 3003033,
-        "BFPAOANBJON": 70
-      },
-      {
-        "GGAIJBLEGDE": 3003043,
-        "BFPAOANBJON": 70
-      },
-      {
-        "GGAIJBLEGDE": 3003053,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83152
+        "ItemID": 83152,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83162
+        "ItemID": 83162,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83153
+        "ItemID": 83153,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83163
+        "ItemID": 83163,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83154
+        "ItemID": 83154,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83164
+        "ItemID": 83164,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300102,
+    "RecommendLevel": 55,
+    "ID": 1008,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 208,
+    "NpcMonsterID": 3004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
     "DropList": [
       1000919,
       1000422,
@@ -2365,70 +2603,78 @@
       713085,
       460213
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 3004011
+      },
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 3003033
+      },
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 3003043
+      },
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 3003053
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 208,
-    "EventID": 80300103,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1008,
-    "NpcMonsterID": 3004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3004011,
-        "BFPAOANBJON": 80
-      },
-      {
-        "GGAIJBLEGDE": 3003033,
-        "BFPAOANBJON": 80
-      },
-      {
-        "GGAIJBLEGDE": 3003043,
-        "BFPAOANBJON": 80
-      },
-      {
-        "GGAIJBLEGDE": 3003053,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83152
+        "ItemID": 83152,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83162
+        "ItemID": 83162,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83153
+        "ItemID": 83153,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83163
+        "ItemID": 83163,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83154
+        "ItemID": 83154,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83164
+        "ItemID": 83164,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300103,
+    "RecommendLevel": 65,
+    "ID": 1008,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 208,
+    "NpcMonsterID": 3004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
     "DropList": [
       1000919,
       1000428,
@@ -2440,64 +2686,78 @@
       713085,
       713085
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 3004011
+      },
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 3003033
+      },
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 3003043
+      },
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 3003053
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 208,
-    "EventID": 80300104,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1008,
-    "NpcMonsterID": 3004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 3004011,
-        "BFPAOANBJON": 90
-      },
-      {
-        "GGAIJBLEGDE": 3003033,
-        "BFPAOANBJON": 90
-      },
-      {
-        "GGAIJBLEGDE": 3003043,
-        "BFPAOANBJON": 90
-      },
-      {
-        "GGAIJBLEGDE": 3003053,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83153
+        "ItemID": 83152,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83163
+        "ItemID": 83162,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83154
+        "ItemID": 83153,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83164
+        "ItemID": 83163,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83154,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83164,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300104,
+    "RecommendLevel": 75,
+    "ID": 1008,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 208,
+    "NpcMonsterID": 3004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
     "DropList": [
       1000919,
       1000434,
@@ -2510,58 +2770,70 @@
       713085,
       460231
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 3004011
+      },
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 3003033
+      },
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 3003043
+      },
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 3003053
+      }
+    ],
     "RecommendDamageTypes": [
       "Fire",
       "Physical",
       "Thunder",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss8.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 208,
-    "EventID": 80300105,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1008,
-    "NpcMonsterID": 3004011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 8024012,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83171
+        "ItemID": 83153,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83181
+        "ItemID": 83163,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83172
+        "ItemID": 83154,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83182
-      },
-      {
-        "ItemID": 83173
-      },
-      {
-        "ItemID": 83183
+        "ItemID": 83164,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300105,
+    "RecommendLevel": 80,
+    "ID": 1008,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 208,
+    "NpcMonsterID": 3004011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
     "DropList": [
       1000919,
       1000410,
@@ -2575,57 +2847,65 @@
       713094,
       460261
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 8024012
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Quantum",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 209,
-    "EventID": 80300111,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1009,
-    "NpcMonsterID": 8024010
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 8024012,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83172
+        "ItemID": 83171,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83182
+        "ItemID": 83181,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83173
+        "ItemID": 83172,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83183
+        "ItemID": 83182,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83174
+        "ItemID": 83173,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83184
+        "ItemID": 83183,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300111,
+    "RecommendLevel": 45,
+    "ID": 1009,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 209,
+    "NpcMonsterID": 8024010,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
     "DropList": [
       1000919,
       1000416,
@@ -2637,57 +2917,65 @@
       713094,
       713095
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 8024012
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Quantum",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 209,
-    "EventID": 80300112,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1009,
-    "NpcMonsterID": 8024010
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 8024012,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83172
+        "ItemID": 83172,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83182
+        "ItemID": 83182,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83173
+        "ItemID": 83173,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83183
+        "ItemID": 83183,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83174
+        "ItemID": 83174,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83184
+        "ItemID": 83184,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300112,
+    "RecommendLevel": 55,
+    "ID": 1009,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 209,
+    "NpcMonsterID": 8024010,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
     "DropList": [
       1000919,
       1000422,
@@ -2700,57 +2988,65 @@
       713095,
       460283
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 8024012
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Quantum",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 209,
-    "EventID": 80300113,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1009,
-    "NpcMonsterID": 8024010
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 8024012,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83172
+        "ItemID": 83172,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83182
+        "ItemID": 83182,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83173
+        "ItemID": 83173,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83183
+        "ItemID": 83183,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83174
+        "ItemID": 83174,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83184
+        "ItemID": 83184,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300113,
+    "RecommendLevel": 65,
+    "ID": 1009,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 209,
+    "NpcMonsterID": 8024010,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
     "DropList": [
       1000919,
       1000428,
@@ -2762,51 +3058,65 @@
       713095,
       713095
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 8024012
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Quantum",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 209,
-    "EventID": 80300114,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1009,
-    "NpcMonsterID": 8024010
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 8024012,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83173
+        "ItemID": 83172,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83183
+        "ItemID": 83182,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83174
+        "ItemID": 83173,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83184
+        "ItemID": 83183,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83174,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83184,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300114,
+    "RecommendLevel": 75,
+    "ID": 1009,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 209,
+    "NpcMonsterID": 8024010,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
     "DropList": [
       1000919,
       1000434,
@@ -2819,61 +3129,57 @@
       713095,
       460301
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 8024012
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Quantum",
       "Imaginary"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss9.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 209,
-    "EventID": 80300115,
-    "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
-    "ID": 1009,
-    "NpcMonsterID": 8024010
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 4014015,
-        "BFPAOANBJON": 50
-      },
-      {
-        "GGAIJBLEGDE": 4014022,
-        "BFPAOANBJON": 50
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83191
+        "ItemID": 83173,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83201
+        "ItemID": 83183,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83192
+        "ItemID": 83174,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83202
-      },
-      {
-        "ItemID": 83193
-      },
-      {
-        "ItemID": 83203
+        "ItemID": 83184,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300115,
+    "RecommendLevel": 80,
+    "ID": 1009,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 209,
+    "NpcMonsterID": 8024010,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
     "DropList": [
       1000919,
       1000410,
@@ -2887,61 +3193,69 @@
       713104,
       460331
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 4014015
+      },
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 4014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Thunder",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 210,
-    "EventID": 80300121,
-    "RecommendLevel": 45,
-    "StaminaCost": 40,
-    "WorldLevel": 1,
-    "RogueKeyCost": 1,
-    "Difficulty": 1,
-    "ID": 1010,
-    "NpcMonsterID": 4014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 4014015,
-        "BFPAOANBJON": 60
-      },
-      {
-        "GGAIJBLEGDE": 4014022,
-        "BFPAOANBJON": 60
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83192
+        "ItemID": 83191,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83202
+        "ItemID": 83201,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83193
+        "ItemID": 83192,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83203
+        "ItemID": 83202,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83194
+        "ItemID": 83193,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83204
+        "ItemID": 83203,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300121,
+    "RecommendLevel": 45,
+    "ID": 1010,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 210,
+    "NpcMonsterID": 4014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
     "DropList": [
       1000919,
       1000416,
@@ -2953,61 +3267,69 @@
       713104,
       713105
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 4014015
+      },
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 4014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Thunder",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 210,
-    "EventID": 80300122,
-    "RecommendLevel": 55,
-    "StaminaCost": 40,
-    "WorldLevel": 3,
-    "RogueKeyCost": 1,
-    "Difficulty": 2,
-    "ID": 1010,
-    "NpcMonsterID": 4014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 4014015,
-        "BFPAOANBJON": 70
-      },
-      {
-        "GGAIJBLEGDE": 4014022,
-        "BFPAOANBJON": 70
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83192
+        "ItemID": 83192,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83202
+        "ItemID": 83202,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83193
+        "ItemID": 83193,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83203
+        "ItemID": 83203,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83194
+        "ItemID": 83194,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83204
+        "ItemID": 83204,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300122,
+    "RecommendLevel": 55,
+    "ID": 1010,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 210,
+    "NpcMonsterID": 4014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
     "DropList": [
       1000919,
       1000422,
@@ -3020,61 +3342,69 @@
       713105,
       460353
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 4014015
+      },
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 4014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Thunder",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 210,
-    "EventID": 80300123,
-    "RecommendLevel": 65,
-    "StaminaCost": 40,
-    "WorldLevel": 4,
-    "RogueKeyCost": 1,
-    "Difficulty": 3,
-    "ID": 1010,
-    "NpcMonsterID": 4014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 4014015,
-        "BFPAOANBJON": 80
-      },
-      {
-        "GGAIJBLEGDE": 4014022,
-        "BFPAOANBJON": 80
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83192
+        "ItemID": 83192,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83202
+        "ItemID": 83202,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83193
+        "ItemID": 83193,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83203
+        "ItemID": 83203,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83194
+        "ItemID": 83194,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83204
+        "ItemID": 83204,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300123,
+    "RecommendLevel": 65,
+    "ID": 1010,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 210,
+    "NpcMonsterID": 4014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
     "DropList": [
       1000919,
       1000428,
@@ -3086,55 +3416,69 @@
       713105,
       713105
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 4014015
+      },
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 4014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Thunder",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 210,
-    "EventID": 80300124,
-    "RecommendLevel": 75,
-    "StaminaCost": 40,
-    "WorldLevel": 5,
-    "RogueKeyCost": 1,
-    "Difficulty": 4,
-    "ID": 1010,
-    "NpcMonsterID": 4014011
-  },
-  {
-    "DisplayMonsterMap": [
-      {
-        "GGAIJBLEGDE": 4014015,
-        "BFPAOANBJON": 90
-      },
-      {
-        "GGAIJBLEGDE": 4014022,
-        "BFPAOANBJON": 90
-      }
-    ],
     "DisplayItemList": [
       {
-        "ItemNum": 200,
-        "ItemID": 22
+        "ItemID": 22,
+        "ItemNum": 200
       },
       {
-        "ItemID": 2
+        "ItemID": 2,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83193
+        "ItemID": 83192,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83203
+        "ItemID": 83202,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83194
+        "ItemID": 83193,
+        "ItemNum": 0
       },
       {
-        "ItemID": 83204
+        "ItemID": 83203,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83194,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83204,
+        "ItemNum": 0
       }
     ],
+    "EventID": 80300124,
+    "RecommendLevel": 75,
+    "ID": 1010,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 210,
+    "NpcMonsterID": 4014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
     "DropList": [
       1000919,
       1000434,
@@ -3147,21 +3491,749 @@
       713105,
       460371
     ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 4014015
+      },
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 4014022
+      }
+    ],
     "RecommendDamageTypes": [
       "Ice",
       "Thunder",
       "Quantum"
     ],
-    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss10.png",
-    "MapEntranceID": 8040001,
-    "DisplayID": 210,
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83193,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83203,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83194,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83204,
+        "ItemNum": 0
+      }
+    ],
     "EventID": 80300125,
     "RecommendLevel": 80,
-    "StaminaCost": 40,
-    "WorldLevel": 6,
-    "RogueKeyCost": 1,
-    "Difficulty": 5,
     "ID": 1010,
-    "NpcMonsterID": 4014011
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 210,
+    "NpcMonsterID": 4014011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss11.png",
+    "DropList": [
+      1000919,
+      1000410,
+      713112,
+      713112,
+      713113,
+      713113,
+      713113,
+      713113,
+      713114,
+      713114,
+      460401
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 2034012
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Physical",
+      "Fire",
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83211,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83221,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83212,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83222,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83213,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83223,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300131,
+    "RecommendLevel": 45,
+    "ID": 1011,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 211,
+    "NpcMonsterID": 2034011,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss11.png",
+    "DropList": [
+      1000919,
+      1000416,
+      713113,
+      713113,
+      713113,
+      460411,
+      713114,
+      713114,
+      713115
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 2034012
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Physical",
+      "Fire",
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83212,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83222,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83213,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83223,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83214,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83224,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300132,
+    "RecommendLevel": 55,
+    "ID": 1011,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 211,
+    "NpcMonsterID": 2034011,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss11.png",
+    "DropList": [
+      1000919,
+      1000422,
+      713113,
+      713113,
+      460421,
+      713114,
+      713114,
+      460422,
+      713115,
+      460423
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 2034012
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Physical",
+      "Fire",
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83212,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83222,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83213,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83223,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83214,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83224,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300133,
+    "RecommendLevel": 65,
+    "ID": 1011,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 211,
+    "NpcMonsterID": 2034011,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss11.png",
+    "DropList": [
+      1000919,
+      1000428,
+      713113,
+      460431,
+      713114,
+      713114,
+      713114,
+      713115,
+      713115
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 2034012
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Physical",
+      "Fire",
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83212,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83222,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83213,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83223,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83214,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83224,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300134,
+    "RecommendLevel": 75,
+    "ID": 1011,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 211,
+    "NpcMonsterID": 2034011,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss11.png",
+    "DropList": [
+      1000919,
+      1000434,
+      713114,
+      713114,
+      713114,
+      713114,
+      713114,
+      713115,
+      713115,
+      460441
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 2034012
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Physical",
+      "Fire",
+      "Wind"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83213,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83223,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83214,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83224,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300135,
+    "RecommendLevel": 80,
+    "ID": 1011,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 211,
+    "NpcMonsterID": 2034011,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss12.png",
+    "DropList": [
+      1000919,
+      1000410,
+      713122,
+      713122,
+      713123,
+      713123,
+      713123,
+      713123,
+      713124,
+      713124,
+      460471
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 50,
+        "JKFLPCELDJB": 4014031
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Wind",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83231,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83241,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83232,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83242,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83233,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83243,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300141,
+    "RecommendLevel": 45,
+    "ID": 1012,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 1,
+    "DisplayID": 212,
+    "NpcMonsterID": 4014031,
+    "FuncUnlockID": 0,
+    "Difficulty": 1,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss12.png",
+    "DropList": [
+      1000919,
+      1000416,
+      713123,
+      713123,
+      713123,
+      460481,
+      713124,
+      713124,
+      713125
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 60,
+        "JKFLPCELDJB": 4014031
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Wind",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83232,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83242,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83233,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83243,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83234,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83244,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300142,
+    "RecommendLevel": 55,
+    "ID": 1012,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 3,
+    "DisplayID": 212,
+    "NpcMonsterID": 4014031,
+    "FuncUnlockID": 0,
+    "Difficulty": 2,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss12.png",
+    "DropList": [
+      1000919,
+      1000422,
+      713123,
+      713123,
+      460491,
+      713124,
+      713124,
+      460492,
+      713125,
+      460493
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 70,
+        "JKFLPCELDJB": 4014031
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Wind",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83232,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83242,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83233,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83243,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83234,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83244,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300143,
+    "RecommendLevel": 65,
+    "ID": 1012,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 4,
+    "DisplayID": 212,
+    "NpcMonsterID": 4014031,
+    "FuncUnlockID": 0,
+    "Difficulty": 3,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss12.png",
+    "DropList": [
+      1000919,
+      1000428,
+      713123,
+      460501,
+      713124,
+      713124,
+      713124,
+      713125,
+      713125
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 80,
+        "JKFLPCELDJB": 4014031
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Wind",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83232,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83242,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83233,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83243,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83234,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83244,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300144,
+    "RecommendLevel": 75,
+    "ID": 1012,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 5,
+    "DisplayID": 212,
+    "NpcMonsterID": 4014031,
+    "FuncUnlockID": 0,
+    "Difficulty": 4,
+    "StaminaCost": 40
+  },
+  {
+    "PicPath": "SpriteOutput/Rogue/BossRush/BgRogueTourmBossRushBoss12.png",
+    "DropList": [
+      1000919,
+      1000434,
+      713124,
+      713124,
+      713124,
+      713124,
+      713124,
+      713125,
+      713125,
+      460511
+    ],
+    "DisplayMonsterMap": [
+      {
+        "FFFOHJDKMJD": 90,
+        "JKFLPCELDJB": 4014031
+      }
+    ],
+    "RecommendDamageTypes": [
+      "Wind",
+      "Quantum",
+      "Imaginary"
+    ],
+    "DisplayItemList": [
+      {
+        "ItemID": 22,
+        "ItemNum": 200
+      },
+      {
+        "ItemID": 2,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83233,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83243,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83234,
+        "ItemNum": 0
+      },
+      {
+        "ItemID": 83244,
+        "ItemNum": 0
+      }
+    ],
+    "EventID": 80300145,
+    "RecommendLevel": 80,
+    "ID": 1012,
+    "MaxChallengeCnt": 6,
+    "RogueKeyCost": 1,
+    "WorldLevel": 6,
+    "DisplayID": 212,
+    "NpcMonsterID": 4014031,
+    "FuncUnlockID": 0,
+    "Difficulty": 5,
+    "StaminaCost": 40
   }
 ]

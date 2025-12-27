@@ -6,7 +6,9 @@
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "ButtonIcon": "SpriteOutput/TalkIcon/ChatMissionIcon.png",
-          "IconType": "ShopIcon",
+          "IconType": {
+            "JsonValueStr": "ShopIcon"
+          },
           "ButtonText": {
             "Hash": 346083563,
             "Hash64": 7352499856520939455
@@ -28,13 +30,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 438086664192
+                  "FixedValue": {
+                    "RawValue": 438086664192,
+                    "Value": 102.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }

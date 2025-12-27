@@ -1,19 +1,20 @@
 [
   {
-    "Cost": [
-      {
-        "ItemNum": 250,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 858993460
-      }
-    ],
     "NextTalentIDList": [
       201
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 250
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 858993460,
+        "Value": 0.2
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -31,20 +32,21 @@
     "TalentID": 101
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 250,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       201
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 250
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -62,20 +64,21 @@
     "TalentID": 102
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 250,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       201
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 250
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -93,23 +96,25 @@
     "TalentID": 103
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 17179869184
-      },
-      {
-        "RawValue": 4252017627
-      }
-    ],
     "NextTalentIDList": [
       301
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 17179869184,
+        "Value": 4.0
+      },
+      {
+        "RawValue": 4252017627,
+        "Value": 0.99
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -127,22 +132,23 @@
     "TalentID": 201
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 4294967296
-      }
-    ],
     "NextTalentIDList": [
       401,
       402,
       403
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -160,20 +166,21 @@
     "TalentID": 301
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 500,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       501
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 500
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -191,20 +198,21 @@
     "TalentID": 401
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 500,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       501
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 500
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -222,20 +230,21 @@
     "TalentID": 402
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 500,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       501
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 500
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -253,23 +262,25 @@
     "TalentID": 403
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 4294967296
-      },
-      {
-        "RawValue": 4294967296
-      }
-    ],
     "NextTalentIDList": [
       601
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      },
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -287,22 +298,23 @@
     "TalentID": 501
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 4294967296
-      }
-    ],
     "NextTalentIDList": [
       701,
       702,
       703
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -320,20 +332,21 @@
     "TalentID": 601
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       801
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -351,20 +364,21 @@
     "TalentID": 701
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       801
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -382,20 +396,21 @@
     "TalentID": 702
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       801
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -413,22 +428,23 @@
     "TalentID": 703
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 4294967296
-      }
-    ],
     "NextTalentIDList": [
       901,
       902,
       903
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -446,20 +462,21 @@
     "TalentID": 801
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStatusProbability.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 644245095
-      }
-    ],
     "NextTalentIDList": [
       1001
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStatusProbability.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 644245095,
+        "Value": 0.15
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -477,20 +494,21 @@
     "TalentID": 901
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1001
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -508,20 +526,21 @@
     "TalentID": 902
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 600,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamageResistance.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1001
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamageResistance.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 600
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -539,22 +558,23 @@
     "TalentID": 903
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 12884901888
-      }
-    ],
     "NextTalentIDList": [
       1101,
       1102,
       1103
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 12884901888,
+        "Value": 3.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -572,20 +592,21 @@
     "TalentID": 1001
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1201
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDefenceUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -603,20 +624,21 @@
     "TalentID": 1101
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1201
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -634,20 +656,21 @@
     "TalentID": 1102
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1201
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffSpeedUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -665,22 +688,23 @@
     "TalentID": 1103
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1200,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 4294967296
-      }
-    ],
     "NextTalentIDList": [
       1301,
       1302,
       1303
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1200
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 4294967296,
+        "Value": 1.0
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -698,20 +722,21 @@
     "TalentID": 1201
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalChance.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 257698038
-      }
-    ],
     "NextTalentIDList": [
       1401
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalChance.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 257698038,
+        "Value": 0.06
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -729,20 +754,21 @@
     "TalentID": 1301
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1401
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -760,20 +786,21 @@
     "TalentID": 1302
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 700,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 515396076
-      }
-    ],
     "NextTalentIDList": [
       1401
+    ],
+    "Icon": "SpriteOutput/UI/Avatar/Icon/IconCriticalDamage.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 700
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 515396076,
+        "Value": 0.12
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -791,19 +818,19 @@
     "TalentID": 1303
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1200,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [],
     "NextTalentIDList": [
       1501,
       1502,
       1503
     ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1200
+      }
+    ],
+    "EffectDescParamList": [],
     "UnlockIDList": [],
     "EffectDesc": {
       "Hash": 1530106469,
@@ -820,20 +847,21 @@
     "TalentID": 1401
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1601
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -851,20 +879,21 @@
     "TalentID": 1501
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1602
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -882,20 +911,21 @@
     "TalentID": 1502
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1603
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -913,20 +943,21 @@
     "TalentID": 1503
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1004.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1701
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1004.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -944,20 +975,21 @@
     "TalentID": 1601
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1701
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -975,20 +1007,21 @@
     "TalentID": 1602
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 800,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUpElement.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1701
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUpElement.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 800
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1006,19 +1039,19 @@
     "TalentID": 1603
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1400,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
-    "EffectDescParamList": [],
     "NextTalentIDList": [
       1801,
       1802,
       1803
     ],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1400
+      }
+    ],
+    "EffectDescParamList": [],
     "UnlockIDList": [],
     "EffectDesc": {
       "Hash": 1530106568,
@@ -1035,20 +1068,21 @@
     "TalentID": 1701
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 429496730
-      }
-    ],
     "NextTalentIDList": [
       1901
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUp.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 429496730,
+        "Value": 0.1
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1066,20 +1100,21 @@
     "TalentID": 1801
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1902
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1097,20 +1132,21 @@
     "TalentID": 1802
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       1903
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffHPBoost.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1128,20 +1164,21 @@
     "TalentID": 1803
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1004.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       2001
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1004.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1159,20 +1196,21 @@
     "TalentID": 1901
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       2001
+    ],
+    "Icon": "SpriteOutput/Rogue/Talent/1005.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1190,20 +1228,21 @@
     "TalentID": 1902
   },
   {
-    "Cost": [
-      {
-        "ItemNum": 1000,
-        "ItemID": 281013
-      }
-    ],
-    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUpElement.png",
-    "EffectDescParamList": [
-      {
-        "RawValue": 214748365
-      }
-    ],
     "NextTalentIDList": [
       2001
+    ],
+    "Icon": "SpriteOutput/BuffIcon/Inlevel/IconBuffAttackUpElement.png",
+    "Cost": [
+      {
+        "ItemID": 281013,
+        "ItemNum": 1000
+      }
+    ],
+    "EffectDescParamList": [
+      {
+        "RawValue": 214748365,
+        "Value": 0.05
+      }
     ],
     "UnlockIDList": [],
     "EffectDesc": {
@@ -1221,15 +1260,15 @@
     "TalentID": 1903
   },
   {
+    "NextTalentIDList": [],
+    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
     "Cost": [
       {
-        "ItemNum": 1600,
-        "ItemID": 281013
+        "ItemID": 281013,
+        "ItemNum": 1600
       }
     ],
-    "Icon": "SpriteOutput/Rogue/Talent/1006.png",
     "EffectDescParamList": [],
-    "NextTalentIDList": [],
     "UnlockIDList": [],
     "EffectDesc": {
       "Hash": 226144422,

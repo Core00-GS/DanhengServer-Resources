@@ -4,8 +4,9 @@
   "TickLodTemplateName": "DefaultStaticEntity",
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [
@@ -22,8 +23,9 @@
         "TriggerName": "HitNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 17179869184
+          "FixedValue": {
+            "RawValue": 17179869184,
+            "Value": 4.0
           }
         },
         "UseVerticalBound": true,
@@ -47,8 +49,9 @@
             },
             "ID": 140202,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": 2147483648000
+              "FixedValue": {
+                "RawValue": 2147483648000,
+                "Value": 500.0
               }
             },
             "TaskEnabled": true,
@@ -61,8 +64,9 @@
         "TriggerName": "HitNpcMonsterTriggerEffect",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 17179869184
+          "FixedValue": {
+            "RawValue": 17179869184,
+            "Value": 4.0
           }
         },
         "UseVerticalBound": true,
@@ -85,8 +89,9 @@
             },
             "ModifierName": "ADV_StageAbility_Maze_Aglaea_Hit",
             "Count": {
-              "fixedValue": {
-                "RawValue": 4294967296
+              "FixedValue": {
+                "RawValue": 4294967296,
+                "Value": 1.0
               }
             },
             "TaskEnabled": true,
@@ -111,8 +116,9 @@
         "TriggerName": "HitPropTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 17179869184
+          "FixedValue": {
+            "RawValue": 17179869184,
+            "Value": 4.0
           }
         },
         "UseVerticalBound": true,
@@ -199,8 +205,9 @@
         "TriggerName": "HitNPCTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 17179869184
+          "FixedValue": {
+            "RawValue": 17179869184,
+            "Value": 4.0
           }
         },
         "UseVerticalBound": true,

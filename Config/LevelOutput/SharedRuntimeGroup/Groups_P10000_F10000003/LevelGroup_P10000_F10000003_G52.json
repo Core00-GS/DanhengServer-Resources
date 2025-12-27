@@ -47,7 +47,7 @@
         "magnitude": 1.73205078,
         "sqrMagnitude": 3.0
       },
-      "PropID": 111,
+      "PropID": 100,
       "LoadOnInitial": true,
       "ValueSource": {},
       "CampID": 4,
@@ -60,8 +60,7 @@
           "Radius": 2.0,
           "DimX": 8.0,
           "DimY": 8.0,
-          "DimZ": 8.0,
-          "PointList": []
+          "DimZ": 8.0
         }
       },
       "StateConfigs": [],
@@ -73,10 +72,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 15,
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

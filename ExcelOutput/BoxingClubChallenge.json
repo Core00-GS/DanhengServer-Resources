@@ -1,8 +1,5 @@
 [
   {
-    "SpecialAvatarIDList": [
-      3051204
-    ],
     "StageGroupList": [
       10,
       11,
@@ -11,35 +8,37 @@
       14,
       15
     ],
-    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto1.png",
+    "StageBuffAndGroupMap": {},
+    "SpecialAvatarIDList": [
+      3051204
+    ],
     "DamageType": [
       "Wind",
       "Quantum",
       "Fire",
       "Thunder"
     ],
-    "StageBuffAndGroupMap": {},
-    "SpecialAvatarActivityModule": 5000001,
-    "ChallengeTurnLimit": 20,
+    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto1.png",
+    "ChallengeID": 1,
     "ChallengeBuff": 3100037,
     "FirstPassRewardID": 139011,
-    "ActivityModuleID": 5000002,
-    "ChallengeID": 1,
     "PerfectTurn": 7,
+    "ActivityModuleID": 5000002,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -79243652,
       "Hash64": 6351739166480473374
     },
-    "Type": "First",
     "ChallengeTip": {
       "Hash": 1132193937,
       "Hash64": 2447714964684200877
-    }
+    },
+    "Type": "First",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 0,
+    "SpecialAvatarActivityModule": 5000001
   },
   {
-    "SpecialAvatarIDList": [
-      3051109
-    ],
     "StageGroupList": [
       20,
       21,
@@ -48,36 +47,37 @@
       24,
       25
     ],
-    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto2.png",
+    "StageBuffAndGroupMap": {},
+    "SpecialAvatarIDList": [
+      3051109
+    ],
     "DamageType": [
       "Wind",
       "Fire",
       "Thunder",
       "Ice"
     ],
-    "StageBuffAndGroupMap": {},
-    "SpecialAvatarActivityModule": 5000001,
-    "ChallengeTurnLimit": 20,
+    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto2.png",
+    "ChallengeID": 2,
     "ChallengeBuff": 3100043,
     "FirstPassRewardID": 139012,
-    "ActivityModuleID": 5000003,
-    "ChallengeID": 2,
     "PerfectTurn": 7,
+    "ActivityModuleID": 5000003,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -1645327593,
       "Hash64": 4176083762724759817
     },
-    "Type": "First",
-    "PreChallengeID": 1,
     "ChallengeTip": {
       "Hash": 1535478464,
       "Hash64": 11515249107929085014
-    }
+    },
+    "Type": "First",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 1,
+    "SpecialAvatarActivityModule": 5000001
   },
   {
-    "SpecialAvatarIDList": [
-      3051103
-    ],
     "StageGroupList": [
       30,
       31,
@@ -86,36 +86,37 @@
       34,
       35
     ],
-    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto3.png",
+    "StageBuffAndGroupMap": {},
+    "SpecialAvatarIDList": [
+      3051103
+    ],
     "DamageType": [
       "Fire",
       "Thunder",
       "Ice",
       "Imaginary"
     ],
-    "StageBuffAndGroupMap": {},
-    "SpecialAvatarActivityModule": 5000001,
-    "ChallengeTurnLimit": 20,
+    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto3.png",
+    "ChallengeID": 3,
     "ChallengeBuff": 3100047,
     "FirstPassRewardID": 139013,
-    "ActivityModuleID": 5000004,
-    "ChallengeID": 3,
     "PerfectTurn": 7,
+    "ActivityModuleID": 5000004,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": 1083555762,
       "Hash64": 17625180998158926776
     },
-    "Type": "First",
-    "PreChallengeID": 2,
     "ChallengeTip": {
       "Hash": -30605477,
       "Hash64": 12921153555276478749
-    }
+    },
+    "Type": "First",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 2,
+    "SpecialAvatarActivityModule": 5000001
   },
   {
-    "SpecialAvatarIDList": [
-      3051104
-    ],
     "StageGroupList": [
       40,
       41,
@@ -124,36 +125,37 @@
       44,
       45
     ],
-    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto5.png",
+    "StageBuffAndGroupMap": {},
+    "SpecialAvatarIDList": [
+      3051104
+    ],
     "DamageType": [
       "Wind",
       "Fire",
       "Physical",
       "Quantum"
     ],
-    "StageBuffAndGroupMap": {},
-    "SpecialAvatarActivityModule": 5000001,
-    "ChallengeTurnLimit": 20,
+    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto5.png",
+    "ChallengeID": 4,
     "ChallengeBuff": 3100033,
     "FirstPassRewardID": 139014,
-    "ActivityModuleID": 5000005,
-    "ChallengeID": 4,
     "PerfectTurn": 7,
+    "ActivityModuleID": 5000005,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -482528179,
       "Hash64": 17471646718053344721
     },
-    "Type": "First",
-    "PreChallengeID": 3,
     "ChallengeTip": {
       "Hash": 372679050,
       "Hash64": 9289838430568058159
-    }
+    },
+    "Type": "First",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 3,
+    "SpecialAvatarActivityModule": 5000001
   },
   {
-    "SpecialAvatarIDList": [
-      3051003
-    ],
     "StageGroupList": [
       50,
       51,
@@ -162,212 +164,258 @@
       54,
       55
     ],
-    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto6.png",
+    "StageBuffAndGroupMap": {},
+    "SpecialAvatarIDList": [
+      3051003
+    ],
     "DamageType": [
       "Wind",
       "Fire",
       "Thunder",
       "Quantum"
     ],
-    "StageBuffAndGroupMap": {},
-    "SpecialAvatarActivityModule": 5000001,
-    "ChallengeTurnLimit": 20,
-    "ChallengeBuff": 3100037,
-    "IsSpecialChallenge": true,
-    "FirstPassRewardID": 139015,
-    "ActivityModuleID": 5000006,
+    "IconPath": "SpriteOutput/UI/Quest/FistClub/FistClubTaskCardPhoto6.png",
     "ChallengeID": 5,
+    "ChallengeBuff": 3100037,
+    "FirstPassRewardID": 139015,
     "PerfectTurn": 7,
+    "ActivityModuleID": 5000006,
+    "IsSpecialChallenge": true,
     "Name": {
       "Hash": -2048612120,
       "Hash64": 2060224243242986998
     },
-    "Type": "First",
-    "PreChallengeID": 4,
     "ChallengeTip": {
       "Hash": -1193404891,
       "Hash64": 1004860543299917361
-    }
+    },
+    "Type": "First",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 4,
+    "SpecialAvatarActivityModule": 5000001
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101091": 58
+    },
     "SpecialAvatarIDList": [
       3071302,
       3071111
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "DamageType": [
       "Physical"
     ],
-    "StageBuffAndGroupMap": {
-      "3101091": 58
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000301,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "ChallengeID": 6,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000301,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": 680271235,
       "Hash64": 3859542548190683705
     },
-    "Type": "Second"
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Type": "Second",
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 0,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101051": 64
+    },
     "SpecialAvatarIDList": [
       3071212,
       3071106
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand2.png",
     "DamageType": [
       "Ice"
     ],
-    "StageBuffAndGroupMap": {
-      "3101051": 64
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000302,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand2.png",
     "ChallengeID": 7,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000302,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -885812706,
       "Hash64": 8256649047333147064
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 6
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 6,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101081": 56
+    },
     "SpecialAvatarIDList": [
       3071210,
       3071009
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand3.png",
     "DamageType": [
       "Fire"
     ],
-    "StageBuffAndGroupMap": {
-      "3101081": 56
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000303,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand3.png",
     "ChallengeID": 8,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000303,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": 1130609929,
       "Hash64": 17069060666714768174
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 7
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 7,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101071": 57
+    },
     "SpecialAvatarIDList": [
       3071108,
       3071005
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "DamageType": [
       "Wind"
     ],
-    "StageBuffAndGroupMap": {
-      "3101071": 57
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000304,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "ChallengeID": 9,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000304,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -435474012,
       "Hash64": 619523958871971790
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 8
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 8,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101061": 59
+    },
     "SpecialAvatarIDList": [
       3071006,
       3071102
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand2.png",
     "DamageType": [
       "Quantum"
     ],
-    "StageBuffAndGroupMap": {
-      "3101061": 59
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000305,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand2.png",
     "ChallengeID": 10,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000305,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -1695539700,
       "Hash64": 9809632545625988738
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 9
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 9,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101101": 60
+    },
     "SpecialAvatarIDList": [
       3071004,
       3071213
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand3.png",
     "DamageType": [
       "Imaginary"
     ],
-    "StageBuffAndGroupMap": {
-      "3101101": 60
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000306,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand3.png",
     "ChallengeID": 11,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000306,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -1695539699,
       "Hash64": 14371673849254513331
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 10
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 10,
+    "SpecialAvatarActivityModule": 4000301
   },
   {
+    "StageGroupList": [],
+    "StageBuffAndGroupMap": {
+      "3101111": 61
+    },
     "SpecialAvatarIDList": [
       3071204,
       3071008
     ],
-    "StageGroupList": [],
-    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "DamageType": [
       "Thunder"
     ],
-    "StageBuffAndGroupMap": {
-      "3101111": 61
-    },
-    "SpecialAvatarActivityModule": 4000301,
-    "ChallengeTurnLimit": 20,
-    "FirstPassRewardID": 100,
-    "ActivityModuleID": 4000307,
+    "IconPath": "SpriteOutput/Quest/BoxingClubResonance/BCRBattleEnterItemBadgeHand1.png",
     "ChallengeID": 12,
+    "ChallengeBuff": 0,
+    "FirstPassRewardID": 100,
     "PerfectTurn": 5,
+    "ActivityModuleID": 4000307,
+    "IsSpecialChallenge": false,
     "Name": {
       "Hash": -1695539702,
       "Hash64": 14654432117000761044
     },
+    "ChallengeTip": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Type": "Second",
-    "PreChallengeID": 11
+    "ChallengeTurnLimit": 20,
+    "PreChallengeID": 11,
+    "SpecialAvatarActivityModule": 4000301
   }
 ]

@@ -1065,6 +1065,11 @@
       "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20221_F20221001/LevelGroup_P20221_F20221001_G224.json",
       "Name": "MainMission8025112_03_2",
       "ID": 224
+    },
+    {
+      "GroupPath": "Config/LevelOutput/SharedRuntimeGroup/Groups_P20221_F20221001/LevelGroup_P20221_F20221001_G226.json",
+      "Name": "MainMission2043701_10",
+      "ID": 226
     }
   ],
   "DimensionList": [
@@ -1264,7 +1269,8 @@
         206,
         207,
         208,
-        209
+        209,
+        210
       ],
       "ExclusiveSavedGroupIDList": [],
       "StartAnchorID": 1
@@ -1327,7 +1333,8 @@
         180,
         190,
         208,
-        209
+        209,
+        210
       ],
       "ExclusiveSavedGroupIDList": [
         5,
@@ -1405,7 +1412,8 @@
         178,
         190,
         208,
-        209
+        209,
+        210
       ],
       "ExclusiveSavedGroupIDList": [
         5,
@@ -1494,7 +1502,8 @@
         206,
         207,
         208,
-        209
+        209,
+        210
       ],
       "ExclusiveSavedGroupIDList": [
         5,
@@ -3196,6 +3205,12 @@
       "Category": "Mission",
       "SaveType": "Reset",
       "IsHoyoGroup": true
+    },
+    "226": {
+      "Category": "Mission",
+      "SaveType": "Reset",
+      "IsHoyoGroup": true
     }
-  }
+  },
+  "ValidSubmapList": []
 }

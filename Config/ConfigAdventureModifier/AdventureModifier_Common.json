@@ -78,7 +78,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Physical": {
       "LifeTime": -1.0,
@@ -88,7 +89,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Fire": {
       "LifeTime": -1.0,
@@ -98,7 +100,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Ice": {
       "LifeTime": -1.0,
@@ -108,7 +111,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Thunder": {
       "LifeTime": -1.0,
@@ -118,7 +122,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Wind": {
       "LifeTime": -1.0,
@@ -128,7 +133,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Quantum": {
       "LifeTime": -1.0,
@@ -138,7 +144,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_EnterBattle_Imaginary": {
       "LifeTime": -1.0,
@@ -148,7 +155,8 @@
       "ApplyBehaviorFlagBindEffects": true,
       "TickInterval": 1.0,
       "Count": 1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_MazeCommon_OnStageEffect": {
       "LifeTime": -1.0,
@@ -285,6 +293,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -326,6 +342,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -338,6 +362,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -361,6 +393,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000111,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -373,6 +413,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000111,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -408,20 +456,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -498,6 +604,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -539,6 +653,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -551,6 +673,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -574,6 +704,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000112,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -586,6 +724,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000112,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -621,20 +767,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -711,6 +915,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -752,6 +964,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -764,6 +984,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -787,6 +1015,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000113,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -799,6 +1035,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000113,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -834,20 +1078,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -924,6 +1226,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -965,6 +1275,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -977,6 +1295,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1000,6 +1326,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000114,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1012,6 +1346,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000114,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1047,20 +1389,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -1137,6 +1537,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -1178,6 +1586,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1190,6 +1606,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1213,6 +1637,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000115,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1225,6 +1657,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000115,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1260,20 +1700,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -1350,6 +1848,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -1391,6 +1897,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1403,6 +1917,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1426,6 +1948,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000116,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1438,6 +1968,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000116,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1473,20 +2011,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -1563,6 +2159,14 @@
                     "Alias": "Caster"
                   },
                   "ID": 1000119,
+                  "DynamicValues": {
+                    "SkillIndex": {
+                      "FixedValue": {
+                        "RawValue": 8589934592,
+                        "Value": 2.0
+                      }
+                    }
+                  },
                   "TaskEnabled": true,
                   "IsClientOnly": true
                 }
@@ -1604,6 +2208,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1616,6 +2228,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000119,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1639,6 +2259,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000117,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 4294967296,
+                                    "Value": 1.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1651,6 +2279,14 @@
                                 "Alias": "Caster"
                               },
                               "ID": 1000117,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
                               "TaskEnabled": true,
                               "IsClientOnly": true
                             }
@@ -1686,20 +2322,78 @@
                             "Alias": "Caster"
                           },
                           "ID": 1000120,
+                          "DynamicValues": {
+                            "SkillIndex": {
+                              "FixedValue": {
+                                "RawValue": 4294967296,
+                                "Value": 1.0
+                              }
+                            }
+                          },
                           "TaskEnabled": true,
                           "IsClientOnly": true
                         }
                       ],
                       "FailedTaskList": [
                         {
-                          "$type": "RPG.GameCore.AddMazeBuff",
-                          "TargetType": {
-                            "$type": "RPG.GameCore.TargetAlias",
-                            "Alias": "Caster"
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "MazeSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
                           },
-                          "ID": 1000120,
-                          "TaskEnabled": true,
-                          "IsClientOnly": true
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
+                        },
+                        {
+                          "$type": "RPG.GameCore.PredicateTaskList",
+                          "Predicate": {
+                            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+                            "SkillType": "CustomSkill",
+                            "TaskEnabled": true,
+                            "IsClientOnly": true
+                          },
+                          "SuccessTaskList": [
+                            {
+                              "$type": "RPG.GameCore.AddMazeBuff",
+                              "TargetType": {
+                                "$type": "RPG.GameCore.TargetAlias",
+                                "Alias": "Caster"
+                              },
+                              "ID": 1000120,
+                              "DynamicValues": {
+                                "SkillIndex": {
+                                  "FixedValue": {
+                                    "RawValue": 8589934592,
+                                    "Value": 2.0
+                                  }
+                                }
+                              },
+                              "TaskEnabled": true,
+                              "IsClientOnly": true
+                            }
+                          ],
+                          "TaskEnabled": true
                         }
                       ],
                       "TaskEnabled": true
@@ -1741,6 +2435,43 @@
                 "Alias": "Caster"
               },
               "ID": 1000102,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Unique"
+    },
+    "ADV_StageAbility_MazeCommon_ListenEnterBattle_TeamLeader": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnBeforeBattle": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.ByIsTeamLeader",
+            "TargetType": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "Caster"
+            },
+            "TaskEnabled": true,
+            "IsClientOnly": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.AddMazeBuff",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "ID": 1000121,
               "TaskEnabled": true,
               "IsClientOnly": true
             }
@@ -1913,8 +2644,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.3,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -1928,8 +2660,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.3,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 6012954216
+            "FixedValue": {
+              "RawValue": 6012954216,
+              "Value": 1.4
             }
           },
           "TaskEnabled": true,
@@ -2494,8 +3227,9 @@
           },
           "ByRandom": true,
           "MaxNumber": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskList": [
@@ -2732,8 +3466,9 @@
           "UniqueKey": "TaskEnabled",
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -2747,8 +3482,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 6442450946
+            "FixedValue": {
+              "RawValue": 6442450946,
+              "Value": 1.5
             }
           },
           "TaskEnabled": true,
@@ -2771,8 +3507,9 @@
           "UniqueKey": "TaskEnabled",
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,
@@ -2786,8 +3523,9 @@
           "ModifyEnabled": true,
           "TransitionDuration": 0.25,
           "SpeedRatioMultiplier": {
-            "fixedValue": {
-              "RawValue": 2147483650
+            "FixedValue": {
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           "TaskEnabled": true,
@@ -2848,6 +3586,16 @@
       "TickInterval": 1.0,
       "Count": -1,
       "Stacking": "Unique"
+    },
+    "ADV_StageAbility_MazeCommon_EnterBattle_Avatar": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Replace"
     }
   }
 }

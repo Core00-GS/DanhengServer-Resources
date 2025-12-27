@@ -51,6 +51,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -122,7 +125,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u547d\u9014\u7a7a\u95f4",
+      "Name": "命途空间",
       "ID": 1,
       "PosX": -102.7,
       "PosZ": 179.3
@@ -230,7 +233,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u65cb\u8f6c\u4e2d\u5fc3",
+      "Name": "旋转中心",
       "ID": 2,
       "PosX": -161.0,
       "PosZ": 242.3

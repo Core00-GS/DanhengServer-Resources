@@ -74,6 +74,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -126,6 +129,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -168,13 +174,15 @@
         "LevelGraph": "Config/Level/NPCDialogue/P20122/F20122001_G91/DialogueMain_F20122001_G91_N400001.json",
         "PackList": [
           {
-            "Name": "\u6709\u65e0\u9053\u5177\u4ea4\u4e92",
+            "Name": "有无道具交互",
             "LevelGraph": "Config/Level/NPCDialogue/P20122/F20122001_G91/DialoguePack_MissionGroup_F20122001_G91_N400001.json"
           }
         ],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "Name": "NPC1",
       "ID": 400001,

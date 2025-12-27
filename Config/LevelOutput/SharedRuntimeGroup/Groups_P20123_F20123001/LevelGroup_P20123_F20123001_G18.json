@@ -93,6 +93,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -135,9 +138,11 @@
         },
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
-      "Name": "\u5a1c\u5854\u838e",
+      "Name": "娜塔莎",
       "RotY": 266.4,
       "ID": 400001,
       "PosX": -9.26,
@@ -171,9 +176,11 @@
         },
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
-      "Name": "\u75af\u5973\u4eba",
+      "Name": "疯女人",
       "RotY": 346.72,
       "ID": 400002,
       "PosX": -16.47,

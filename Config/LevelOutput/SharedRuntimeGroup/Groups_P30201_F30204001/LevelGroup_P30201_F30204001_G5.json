@@ -44,7 +44,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5706\u76d8\u533a\u57df",
+      "Name": "圆盘区域",
       "ID": 1,
       "PosY": 1.1,
       "PosZ": -93.5
@@ -86,7 +86,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5176\u4ed6\u533a\u57df",
+      "Name": "其他区域",
       "ID": 2,
       "PosX": 85.7,
       "PosY": 2.5,
@@ -129,7 +129,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5176\u4ed6\u533a\u57df",
+      "Name": "其他区域",
       "ID": 3,
       "PosX": 28.2,
       "PosY": 2.5,
@@ -172,7 +172,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5176\u4ed6\u533a\u57df",
+      "Name": "其他区域",
       "ID": 4,
       "PosX": -104.3,
       "PosY": 2.5,
@@ -215,7 +215,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5176\u4ed6\u533a\u57df",
+      "Name": "其他区域",
       "ID": 5,
       "PosX": -49.1,
       "PosY": 2.5,
@@ -317,7 +317,7 @@
         ]
       },
       "NPCCrowdRadius": 25.0,
-      "Name": "\u58eb\u5175\u76d4\u7532",
+      "Name": "士兵盔甲",
       "ID": 6,
       "PosX": 100.1,
       "PosY": 2.5,
@@ -354,7 +354,7 @@
       },
       "LoadOnInitial": true,
       "NPCCrowdRadius": 25.0,
-      "Name": "\u5e10\u7bf7",
+      "Name": "帐篷",
       "ID": 7,
       "PosX": 93.75,
       "PosY": 2.56,
@@ -397,7 +397,7 @@
         }
       ],
       "NPCCrowdRadius": 25.0,
-      "Name": "\u6df7\u54cd",
+      "Name": "混响",
       "ID": 8
     }
   ],

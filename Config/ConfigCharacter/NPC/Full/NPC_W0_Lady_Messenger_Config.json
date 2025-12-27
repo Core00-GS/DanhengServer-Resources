@@ -64,5 +64,14 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Full/NPC_Full_W0_Lady_Messenger_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryCrystal_Messenger"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

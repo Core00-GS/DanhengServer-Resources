@@ -1,112 +1,158 @@
 [
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000101.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10001001,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000100,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000112.json",
-    "DialogShowOrder": 10001001,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10001002,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000153,
-    "Weight": 10
+    "DialogShowOrder": 10001001,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000113.json",
-    "DialogShowOrder": 10001002,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10001003,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000157,
-    "Weight": 10
+    "DialogShowOrder": 10001002,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000102.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10002001,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000105,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000103.json",
-    "DialogShowOrder": 10002001,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10002002,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000110,
-    "Weight": 10
+    "DialogShowOrder": 10002001,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000104.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10003001,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000115,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000105.json",
-    "DialogShowOrder": 10003001,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10003002,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000120,
-    "Weight": 10
+    "DialogShowOrder": 10003001,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000106.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10004001,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000125,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000107.json",
-    "DialogShowOrder": 10004001,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10004002,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000130,
-    "Weight": 10
+    "DialogShowOrder": 10004001,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000108.json",
-    "DialogShowOrder": 10004002,
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10004003,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000135,
-    "Weight": 10
+    "DialogShowOrder": 10004002,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000109.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10005001,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000140,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000110.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10005002,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000145,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   },
   {
     "JsonPath": "Config/Level/Mission/4060000/Act/Act406000111.json",
-    "MenuItemType": "ChatIcon",
+    "MenuItemType": {
+      "JsonValueStr": "ChatIcon"
+    },
     "ID": 10005003,
-    "GroupID": "Pam",
+    "Weight": 10,
     "MenuItemID": 406000150,
-    "Weight": 10
+    "DialogShowOrder": 0,
+    "UnlockQuestID": 0,
+    "GroupID": "Pam"
   }
 ]

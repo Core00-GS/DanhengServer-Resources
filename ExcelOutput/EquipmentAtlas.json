@@ -488,13 +488,115 @@
     "DefaultUnlock": true
   },
   {
-    "EquipmentID": 23038
+    "EquipmentID": 23038,
+    "DefaultUnlock": true
   },
   {
-    "EquipmentID": 23039
+    "EquipmentID": 23039,
+    "DefaultUnlock": true
   },
   {
     "EquipmentID": 24005,
     "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 22004,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23040,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23041,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23042,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23043,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21053,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21054,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21055,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21056,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21057,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21058,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21060,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21061,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 21062,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23044,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23045,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23046,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 22005,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23047,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23048,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23049,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23051,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 22006,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23052,
+    "DefaultUnlock": true
+  },
+  {
+    "EquipmentID": 23050,
+    "DefaultUnlock": false
   }
 ]

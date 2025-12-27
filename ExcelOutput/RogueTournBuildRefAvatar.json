@@ -24,6 +24,10 @@
     "AvatarID": 1304
   },
   {
+    "SortWeight": 1007,
+    "AvatarID": 1414
+  },
+  {
     "SortWeight": 2001,
     "AvatarID": 1105
   },
@@ -104,6 +108,10 @@
     "AvatarID": 1404
   },
   {
+    "SortWeight": 3014,
+    "AvatarID": 1408
+  },
+  {
     "SortWeight": 4001,
     "AvatarID": 8007
   },
@@ -114,6 +122,22 @@
   {
     "SortWeight": 4003,
     "AvatarID": 1402
+  },
+  {
+    "SortWeight": 4004,
+    "AvatarID": 1407
+  },
+  {
+    "SortWeight": 4005,
+    "AvatarID": 1409
+  },
+  {
+    "SortWeight": 4006,
+    "AvatarID": 1413
+  },
+  {
+    "SortWeight": 4007,
+    "AvatarID": 1415
   },
   {
     "SortWeight": 5001,
@@ -164,6 +188,10 @@
     "AvatarID": 1403
   },
   {
+    "SortWeight": 5013,
+    "AvatarID": 1412
+  },
+  {
     "SortWeight": 6001,
     "AvatarID": 1106
   },
@@ -206,6 +234,18 @@
   {
     "SortWeight": 6011,
     "AvatarID": 1225
+  },
+  {
+    "SortWeight": 6012,
+    "AvatarID": 1406
+  },
+  {
+    "SortWeight": 6013,
+    "AvatarID": 1410
+  },
+  {
+    "SortWeight": 6014,
+    "AvatarID": 1321
   },
   {
     "SortWeight": 7001,
@@ -282,5 +322,9 @@
   {
     "SortWeight": 8009,
     "AvatarID": 1401
+  },
+  {
+    "SortWeight": 8010,
+    "AvatarID": 1405
   }
 ]

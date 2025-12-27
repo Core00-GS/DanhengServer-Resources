@@ -29,13 +29,15 @@
               "Predicate": {
                 "$type": "RPG.GameCore.ByCompareItemNumber",
                 "ItemID": {
-                  "fixedValue": {
-                    "RawValue": 602064220585984
+                  "FixedValue": {
+                    "RawValue": 602064220585984,
+                    "Value": 140179.0
                   }
                 },
                 "Number": {
-                  "fixedValue": {
-                    "RawValue": 4294967296
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
                   }
                 },
                 "CompareType": "Equal",

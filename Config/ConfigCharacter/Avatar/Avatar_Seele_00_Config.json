@@ -2,14 +2,21 @@
   "SomatoType": "MiddleAvatar",
   "CharacterBodySize": "None",
   "BuffPanelOffset": {
-    "y": 1.2,
+    "x": "Infinity",
+    "y": "Infinity",
+    "z": "Infinity",
+    "IsInfinity": true,
+    "IsPositiveInfinity": true,
     "normalized": {
-      "y": 1.0,
-      "magnitude": 1.0,
-      "sqrMagnitude": 1.0
+      "x": "NaN",
+      "y": "NaN",
+      "z": "NaN",
+      "IsNaN": true,
+      "magnitude": "NaN",
+      "sqrMagnitude": "NaN"
     },
-    "magnitude": 1.2,
-    "sqrMagnitude": 1.44
+    "magnitude": "Infinity",
+    "sqrMagnitude": "Infinity"
   },
   "HitBoxWidth": 0.3,
   "HitBoxLength": 1.0,
@@ -24,8 +31,10 @@
   "IsSpecialVisualCharacter": "Keep",
   "AnimEventConfigList": [
     "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Seele_00_Designer_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/DesignerBaked/Avatar_Seele_00_Designer_AnimEvent_Baked.json",
     "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Seele_00_Audio_AnimEvent.json",
     "Config/ConfigAnimEvents/Avatar/Effect/Avatar_Seele_00_Effect_AnimEvent.json",
+    "Config/ConfigAnimEvents/Avatar/Designer/Avatar_Common_Designer_AnimEvent.json",
     "Config/ConfigAnimEvents/Avatar/Audio/Avatar_Common_ControllerVibration_AnimEvent.json"
   ],
   "SkillList": [
@@ -154,68 +163,80 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Seele_00_Skill01_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 2147483650
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultNormalSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BaseWeight",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 2147483650
+              "RawValue": 2147483650,
+              "Value": 0.5
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1288490190
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           }
         ]
@@ -298,80 +319,94 @@
           "FrameBlendDuration": 1.0
         }
       },
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Seele_00_Skill02_Phase01",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAIPreCheck": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill_PreCheck",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           {
             "GroupName": "Add10_Seele_BuffSelfSpeedUp",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "AddNP_Common_BPSkill",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           }
         ]
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 4294967296
+          "RawValue": 4294967296,
+          "Value": 1.0
         },
         "Groups": [
           {
             "GroupName": "DefaultBPSkill",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "BasePp_Common_SingleAttack",
             "Weight": {
-              "RawValue": 429496730
+              "RawValue": 429496730,
+              "Value": 0.1
             }
           },
           {
             "GroupName": "BasePp_Common_WeakBreak",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           },
           {
             "GroupName": "Add10_Seele_BuffSelfSpeedUp",
             "Weight": {
-              "RawValue": 858993460
+              "RawValue": 858993460,
+              "Value": 0.2
             }
           },
           {
             "GroupName": "AddNP_Common_BPSkill",
             "Weight": {
-              "RawValue": 1717986920
+              "RawValue": 1717986920,
+              "Value": 0.4
             }
           }
         ]
@@ -397,32 +432,38 @@
       },
       "CanOverkill": true,
       "ReadyAnimState": "Skill03_Ready",
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Seele_00_Skill03_Phase01",
       "PrepareAbility": "Avatar_Seele_00_Skill03_EnterReady",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "ComplexSkillAI": {
         "SkillBasicPower": {
-          "RawValue": 257698037760
+          "RawValue": 257698037760,
+          "Value": 60.0
         },
         "Groups": [
           {
             "GroupName": "DefaultUltra",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "Ultra_Common_ImmediateRelease",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           {
             "GroupName": "Ultra_Common_SingleAttack",
             "Weight": {
-              "RawValue": 4294967296
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           }
         ]
@@ -447,9 +488,11 @@
         "AllowEnemyServant": "Allow"
       },
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Seele_00_PassiveSkill_1",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -471,9 +514,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Seele_00_SkillMazeInLevel",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -496,9 +541,11 @@
       },
       "SkillNameHUD": true,
       "CanOverkill": true,
+      "UseTwoCameraConfigOnEnterReady": true,
       "EntryAbility": "Avatar_Common_PassiveSkill",
       "DelayRatio": {
-        "RawValue": 4294967296
+        "RawValue": 4294967296,
+        "Value": 1.0
       },
       "AIUltraSkillPriority": "PROG_Default",
       "CanBeInterrupted": true,
@@ -551,6 +598,7 @@
       ]
     }
   ],
+  "DynamicValues": {},
   "WeaponType": "WP_Sword_Long",
   "SkillReadyTransits": [
     {
@@ -578,5 +626,7 @@
   "OverrideHeightForCameraOffset": -1.0,
   "MonsterIgnoreGlobalDymanicOffset": true,
   "MaxMonsterPhase": 1,
+  "AITagList": {},
+  "CastShadow": "Keep",
   "AlwaysCutOnSkillTargetTeamChange": true
 }

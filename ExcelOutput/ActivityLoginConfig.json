@@ -227,5 +227,32 @@
     ],
     "ID": 10080,
     "ActivityModuleID": 1008001
+  },
+  {
+    "RewardList": [
+      3000701,
+      3000702,
+      3000703,
+      3000704,
+      3000705,
+      3000706,
+      3000707
+    ],
+    "ID": 10095,
+    "ActivityModuleID": 1009501
+  },
+  {
+    "RewardList": [
+      1201
+    ],
+    "ID": 10093,
+    "ActivityModuleID": 1009301
+  },
+  {
+    "RewardList": [
+      1201
+    ],
+    "ID": 10125,
+    "ActivityModuleID": 1012501
   }
 ]

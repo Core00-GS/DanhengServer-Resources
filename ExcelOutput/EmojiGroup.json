@@ -178,5 +178,50 @@
       "Hash": -1580924870,
       "Hash64": 3140533586869747094
     }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji021.png",
+    "EmojiGroupID": 121,
+    "EmojiGroupType": "All",
+    "GroupName": {
+      "Hash": 1147958485,
+      "Hash64": 16902768407236347288
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji022.png",
+    "EmojiGroupID": 122,
+    "EmojiGroupType": "All",
+    "GroupName": {
+      "Hash": -418125456,
+      "Hash64": 4807302586181294130
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji023.png",
+    "EmojiGroupID": 123,
+    "EmojiGroupType": "All",
+    "GroupName": {
+      "Hash": -1984209397,
+      "Hash64": 325703656549803788
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji024.png",
+    "EmojiGroupID": 124,
+    "EmojiGroupType": "All",
+    "GroupName": {
+      "Hash": 744673958,
+      "Hash64": 7469166367106301658
+    }
+  },
+  {
+    "ImgPath": "SpriteOutput/UI/Friend/TabEmoji/TabEmoji025.png",
+    "EmojiGroupID": 125,
+    "EmojiGroupType": "All",
+    "GroupName": {
+      "Hash": -821409983,
+      "Hash64": 1214359269255593664
+    }
   }
 ]

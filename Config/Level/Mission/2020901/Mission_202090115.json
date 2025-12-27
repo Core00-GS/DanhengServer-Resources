@@ -9,25 +9,29 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 627065225216
+            "FixedValue": {
+              "RawValue": 627065225216,
+              "Value": 146.0
             }
           },
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 648540061696
+                "FixedValue": {
+                  "RawValue": 648540061696,
+                  "Value": 151.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -42,13 +46,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 627065225216
+                "FixedValue": {
+                  "RawValue": 627065225216,
+                  "Value": 146.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1717995508334592
+                "FixedValue": {
+                  "RawValue": 1717995508334592,
+                  "Value": 400002.0
                 }
               }
             }
@@ -62,25 +68,29 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 631360192512
+            "FixedValue": {
+              "RawValue": 631360192512,
+              "Value": 147.0
             }
           },
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 652835028992
+                "FixedValue": {
+                  "RawValue": 652835028992,
+                  "Value": 152.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -95,13 +105,15 @@
           "DestroyList": [
             {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 631360192512
+                "FixedValue": {
+                  "RawValue": 631360192512,
+                  "Value": 147.0
                 }
               },
               "GroupInstanceID": {
-                "fixedValue": {
-                  "RawValue": 1717995508334592
+                "FixedValue": {
+                  "RawValue": 1717995508334592,
+                  "Value": 400002.0
                 }
               }
             }

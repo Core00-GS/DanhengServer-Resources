@@ -15,10 +15,11 @@
       "LevelFloorID": 20331001,
       "IsCanDelete": true,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        1,
-        1,
-        103270227
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_1",
+        "1",
+        "103270227"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -210,6 +211,7 @@
       "TakeParamIntList": [
         103270215
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_103270206",
@@ -221,7 +223,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270207,
@@ -230,10 +234,11 @@
       "LevelPlaneID": 20331,
       "LevelFloorID": 20331001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        1,
-        2,
-        103270227
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_1",
+        "2",
+        "103270227"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -425,6 +430,7 @@
       "TakeParamIntList": [
         103270215
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_103270213",
@@ -443,7 +449,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20331001,
       "WayPointGroupID": 49,
-      "WayPointEntityID": 400001
+      "WayPointEntityID": 400001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270214,
@@ -491,6 +499,7 @@
       "TakeParamIntList": [
         103270204
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -543,7 +552,9 @@
       "GotoParam": [],
       "WayPointFloorID": 20331001,
       "WayPointGroupID": 114,
-      "WayPointEntityID": 400001
+      "WayPointEntityID": 400001,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270216,
@@ -554,6 +565,8 @@
       "TakeParamIntList": [
         103270204
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -578,7 +591,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270217,
@@ -589,6 +604,8 @@
       "TakeParamIntList": [
         103270204
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -613,7 +630,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270218,
@@ -624,6 +643,8 @@
       "TakeParamIntList": [
         103270204
       ],
+      "TakePriority": 3,
+      "TakeParamStrList": [],
       "FinishType": "HeartDialDialoguePerformanceFinish",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -648,7 +669,9 @@
       "CustomValueReward": [],
       "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
-      "GotoParam": []
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103270219,
@@ -864,7 +887,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        1
+        "OldValue_1"
       ],
       "CustomValueReward": [],
       "GroupIDList": [],
@@ -920,7 +943,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -952,7 +975,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -1113,6 +1136,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,
@@ -1121,6 +1146,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2
@@ -1128,7 +1155,7 @@
     }
   ],
   "CustomValueSaveIndexList": [
-    0
+    "OldValue_0"
   ],
   "IsShow": true,
   "AssistWayPointPackList": []

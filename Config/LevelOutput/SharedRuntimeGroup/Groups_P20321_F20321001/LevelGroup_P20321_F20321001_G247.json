@@ -3,6 +3,7 @@
   "AreaAnchorName": "LevelArea_P20321_F20321001_G247",
   "SaveType": "Reset",
   "SavedValueCondition": {
+    "Conditions": [],
     "Operation": "And"
   },
   "LoadOnInitial": true,
@@ -13,7 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
-  "TagContainer": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Audio.BGM",
+      "TagHash": -136549387
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -215,5 +221,9 @@
   "NPCList": [],
   "CrowdList": [],
   "PedestrianList": [],
-  "SmartObjectList": []
+  "PedestrianV2List": [],
+  "AudienceList": [],
+  "SmartObjectList": [],
+  "CurveList": [],
+  "LittleGameList": []
 }

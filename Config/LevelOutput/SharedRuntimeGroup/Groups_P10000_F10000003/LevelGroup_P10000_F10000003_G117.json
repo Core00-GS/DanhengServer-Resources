@@ -37,7 +37,7 @@
       },
       "TalkDialogGroupIDList": [],
       "DefaultAnimationType": "FreeStyle",
-      "DefaultIdleFreeStyleMotionID": 900300000,
+      "DefaultIdleFreeStyleMotionID": 900010000,
       "OverrideSeriesID": 4294967295,
       "BornType": "Mission",
       "InitialHiddenNodeList": [],
@@ -46,7 +46,9 @@
         "PackList": [],
         "EnableDialogCamera": true
       },
-      "InteractIconType": "ChatIcon",
+      "InteractIconType": {
+        "JsonValueStr": "ChatIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "OverrideReplaceMaterialKeyList": [],

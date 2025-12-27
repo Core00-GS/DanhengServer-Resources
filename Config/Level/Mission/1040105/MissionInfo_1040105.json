@@ -231,6 +231,7 @@
       "TakeParamIntList": [
         104010581
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_104010507",
@@ -898,9 +899,7 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
-      "GroupIDList": [
-        73
-      ],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "GotoParam": [],
       "WayPointFloorID": 20411001,
@@ -915,10 +914,11 @@
       "LevelPlaneID": 20411,
       "LevelFloorID": 20411001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        104010548
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "104010548"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -997,9 +997,7 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
-      "GroupIDList": [
-        74
-      ],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "GotoParam": [],
       "WayPointFloorID": 20411001,
@@ -1383,6 +1381,7 @@
       "TakeParamIntList": [
         104010581
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -1490,7 +1489,9 @@
       "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 1,
-      "CustomValueList": [],
+      "CustomValueList": [
+        "OldValue_1"
+      ],
       "SubRewardID": 2001386,
       "CustomValueReward": [],
       "GroupIDList": [
@@ -1517,7 +1518,9 @@
       "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 1,
-      "CustomValueList": [],
+      "CustomValueList": [
+        "OldValue_1"
+      ],
       "CustomValueReward": [],
       "GroupIDList": [
         127
@@ -1679,7 +1682,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -2178,10 +2181,11 @@
       "LevelPlaneID": 20411,
       "LevelFloorID": 20411001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        104010548
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "104010548"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -2510,6 +2514,8 @@
       "TakeParamIntList": [
         104010581
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "MazePlaneID": 20411,
       "MazeFloorID": 20411001,
       "FinishType": "FloorSavedValue",
@@ -2677,9 +2683,7 @@
       "Progress": 1,
       "CustomValueList": [],
       "CustomValueReward": [],
-      "GroupIDList": [
-        248
-      ],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "GotoParam": [],
       "StoryLineIDList": [],
@@ -2965,6 +2969,18 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
+      "ValidValueParamList": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "Former",
       "ValidValueParamList": [
         0,
         1,
@@ -3045,7 +3061,21 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -3058,7 +3088,21 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -3071,7 +3115,21 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -3084,7 +3142,21 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -3097,7 +3169,21 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
@@ -3110,13 +3196,28 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": [
+                  {
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
+                    "ValidateInBacktrace": true
+                  }
+                ]
+              }
+            ]
           }
         },
         {
           "WayPointType": "Prop",
           "WayPointGroupID": 19,
           "WayPointEntityID": 300003,
+          "SubmissionID": 104010511,
           "SkipWhenSubMissionFinish": true,
           "DistanceCondition": {
             "ValidateInBacktrace": true
@@ -3148,8 +3249,12 @@
               {
                 "ConditionList": [
                   {
-                    "$type": "RPG.GameCore.AssistWayPointPropStateCondition",
-                    "TargetPropState": "Open",
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
                     "ValidateInBacktrace": true
                   }
                 ]
@@ -3161,6 +3266,7 @@
           "WayPointType": "Prop",
           "WayPointGroupID": 19,
           "WayPointEntityID": 300017,
+          "SubmissionID": 104010511,
           "SkipWhenSubMissionFinish": true,
           "DistanceCondition": {
             "ValidateInBacktrace": true
@@ -3170,8 +3276,12 @@
               {
                 "ConditionList": [
                   {
-                    "$type": "RPG.GameCore.AssistWayPointTimelineStateCondition",
-                    "TargetTimelineState": "L0_Root",
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
                     "ValidateInBacktrace": true
                   }
                 ]
@@ -3280,7 +3390,11 @@
             "ValidateInBacktrace": true
           },
           "FinishConditionMain": {
-            "ConditionPackList": []
+            "ConditionPackList": [
+              {
+                "ConditionList": []
+              }
+            ]
           }
         },
         {
@@ -3297,8 +3411,12 @@
               {
                 "ConditionList": [
                   {
-                    "$type": "RPG.GameCore.AssistWayPointTimelineStateCondition",
-                    "TargetTimelineState": "L1_Angle01",
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
                     "ValidateInBacktrace": true
                   }
                 ]
@@ -3309,7 +3427,7 @@
         {
           "WayPointType": "Prop",
           "WayPointGroupID": 192,
-          "WayPointEntityID": 300007,
+          "WayPointEntityID": 300002,
           "SubmissionID": 104010514,
           "SkipWhenSubMissionFinish": true,
           "DistanceCondition": {
@@ -3320,8 +3438,12 @@
               {
                 "ConditionList": [
                   {
-                    "$type": "RPG.GameCore.AssistWayPointPropStateCondition",
-                    "TargetPropState": "Open",
+                    "$type": "RPG.GameCore.AssistWayPointFCVCondition",
+                    "TargetFCV": {
+                      "$type": "RPG.GameCore.FloorCustomFloatConfig",
+                      "ID": 10049,
+                      "Name": "FCV_GreenGuide"
+                    },
                     "ValidateInBacktrace": true
                   }
                 ]

@@ -77,6 +77,7 @@
     "LocalPlayer_PlayerGirl_10_MazeSkill",
     "LocalPlayer_CommonAbility_AttackBreak"
   ],
+  "DynamicValues": {},
   "BeHitRotate": true,
   "EnableFootIK": true,
   "EnableIdleShow": true,
@@ -88,5 +89,7 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Avatar/NPC_Avatar_PlayerGirl_00_ReplaceCharacterMaterial.json",
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

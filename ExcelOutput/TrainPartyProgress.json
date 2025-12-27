@@ -1,24 +1,25 @@
 [
   {
-    "PassengerUnlockActPath": "",
     "TeamIDList": [
       1
     ],
+    "PassengerUnlockActPath": "",
     "UnlockPassengerList": [],
     "ProgressTitle": {
       "Hash": 2065062191,
       "Hash64": 6273583131620554953
     },
+    "ProgressID": 1,
     "CoinRatio": 100,
     "InitialStatExp": 10,
-    "ProgressID": 1,
+    "UnlcokRequireArea": 0,
     "StatRatio": 100
   },
   {
-    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1006.json",
     "TeamIDList": [
       2
     ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1006.json",
     "UnlockPassengerList": [
       1006
     ],
@@ -26,17 +27,17 @@
       "Hash": -1826620578,
       "Hash64": 6056700406292439853
     },
+    "ProgressID": 2,
     "CoinRatio": 200,
     "InitialStatExp": 50,
-    "ProgressID": 2,
-    "StatRatio": 100,
-    "UnlcokRequireArea": 12
+    "UnlcokRequireArea": 12,
+    "StatRatio": 100
   },
   {
-    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1007.json",
     "TeamIDList": [
       3
     ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1007.json",
     "UnlockPassengerList": [
       1007
     ],
@@ -44,16 +45,17 @@
       "Hash": 902262777,
       "Hash64": 3501253616769994859
     },
+    "ProgressID": 3,
     "CoinRatio": 500,
     "InitialStatExp": 200,
-    "ProgressID": 3,
+    "UnlcokRequireArea": 0,
     "StatRatio": 100
   },
   {
-    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1008.json",
     "TeamIDList": [
       4
     ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1008.json",
     "UnlockPassengerList": [
       1008
     ],
@@ -61,16 +63,17 @@
       "Hash": 1661777664,
       "Hash64": 10877108258978153344
     },
+    "ProgressID": 4,
     "CoinRatio": 800,
     "InitialStatExp": 200,
-    "ProgressID": 4,
+    "UnlcokRequireArea": 0,
     "StatRatio": 100
   },
   {
-    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1009.json",
     "TeamIDList": [
       5
     ],
+    "PassengerUnlockActPath": "Config/Level/TrainParty/TrainPartyPerformance/TPPerformance_PassengerUnlockAct_1009.json",
     "UnlockPassengerList": [
       1009
     ],
@@ -78,13 +81,13 @@
       "Hash": 95693723,
       "Hash64": 446280639594049606
     },
+    "ProgressID": 5,
     "CoinRatio": 1200,
     "InitialStatExp": 300,
-    "ProgressID": 5,
+    "UnlcokRequireArea": 0,
     "StatRatio": 500
   },
   {
-    "PassengerUnlockActPath": "",
     "TeamIDList": [
       6,
       2,
@@ -92,14 +95,16 @@
       4,
       5
     ],
+    "PassengerUnlockActPath": "",
     "UnlockPassengerList": [],
     "ProgressTitle": {
       "Hash": 498978250,
       "Hash64": 15178624413919232745
     },
+    "ProgressID": 6,
     "CoinRatio": 1200,
     "InitialStatExp": 300,
-    "ProgressID": 6,
+    "UnlcokRequireArea": 0,
     "StatRatio": 500
   }
 ]

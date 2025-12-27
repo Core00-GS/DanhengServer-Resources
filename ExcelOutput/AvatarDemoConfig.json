@@ -1,36 +1,49 @@
 [
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1102.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310130
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000021,
       2000022
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_999.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_999.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002040
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
-    "AvatarID": 1013,
-    "RewardID": 100,
+    "StageID": 310130,
+    "RandomSeed": 0,
+    "ScoringGroupID": 0,
+    "RaidID": 0,
     "MapEntranceID": 30527001,
     "MazeGroupID1": 6,
-    "StageID": 310130
+    "AvatarID": 1013,
+    "GuideGroupID": 0,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 100,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310010
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000081,
@@ -38,36 +51,38 @@
       2000083,
       2000084
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1001.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1001.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310010,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1001,
     "GuideGroupID": 31001,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011001,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 1744077107,
       "Hash64": 14884259041296224346
-    },
-    "MazeGroupID1": 5,
-    "StageID": 310010
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1001.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310011
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000341,
@@ -75,103 +90,113 @@
       2000343,
       2000344
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1001.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1001.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1001.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310011,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
-    "AvatarID": 1001,
-    "GuideGroupID": 31001,
-    "RewardID": 3011001,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 310011
+    "AvatarID": 1001,
+    "GuideGroupID": 31001,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1202.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312020
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000101,
       2000102,
       2000103
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1202.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1202.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1202.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1012030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312020,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1202,
     "GuideGroupID": 31202,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011202,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 460318168,
       "Hash64": 307525097972443539
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312020
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1102.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311020
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000001,
       2000002
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1102.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1102.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002040
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311020,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998903,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1102,
     "GuideGroupID": 31102,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011102,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 561074717,
       "Hash64": 6955944790835000276
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311020
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1105.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000031,
@@ -179,36 +204,38 @@
       2000033,
       2000034
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1105.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1105.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311050,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998904,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1105,
     "GuideGroupID": 31105,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011105,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 964359244,
       "Hash64": 13699129685700206963
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311050
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1105.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000031,
@@ -216,32 +243,38 @@
       2000033,
       2000034
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1105.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1105.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1105.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311052,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998904,
-    "AvatarID": 1105,
-    "GuideGroupID": 31105,
-    "RewardID": 3011105,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311052
+    "AvatarID": 1105,
+    "GuideGroupID": 31105,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011105,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1106.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311060
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000041,
@@ -249,213 +282,225 @@
       2000043,
       2000044
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1106.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1106.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311060,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1106,
     "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011106,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -1764524111,
       "Hash64": 13397699045381259233
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311060
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1109.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311090
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000051,
       2000053
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1109.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1109.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311090,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998901,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1109,
     "GuideGroupID": 31109,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011109,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -1361239584,
       "Hash64": 6321700716689849572
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311090
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1109.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311091
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000331,
       2000332,
       2000333
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1109.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1109.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1109.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311091,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998901,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1109,
     "GuideGroupID": 31109,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011109,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -1361239585,
       "Hash64": 2614096532315657529
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311091
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1204.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312040
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000091,
       2000092
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1204.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1204.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1012030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312040,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1204,
     "GuideGroupID": 31204,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011204,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 1266887222,
       "Hash64": 1358480404816763829
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312040
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1103.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311030
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000061,
       2000062
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1103.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1103.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1012030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311030,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1103,
     "GuideGroupID": 31103,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011103,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 2127158658,
       "Hash64": 11704285752325425015
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311030
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1205.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312060
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000071,
       2000072,
       2000073
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1206.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1206.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1206.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312060,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1206,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011206,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -1865280660,
       "Hash64": 15727622907194719472
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312060
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1206.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312060
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000191,
@@ -463,32 +508,38 @@
       2000193,
       2000194
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1206.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1206.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1206.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312061,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
-    "AvatarID": 1206,
-    "GuideGroupID": 31206,
-    "RewardID": 3011206,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312061
+    "AvatarID": 1206,
+    "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011206,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1006.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310060
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000111,
@@ -496,73 +547,76 @@
       2000113,
       2000114
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1006.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1006.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1006.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310060,
+    "RandomSeed": 12345,
     "ScoringGroupID": 5001,
     "RaidID": 9998907,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1006,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011006,
-    "RandomSeed": 12345,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -178237194,
       "Hash64": 13581641931009284057
-    },
-    "MazeGroupID1": 5,
-    "StageID": 310060
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1203.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312030
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000121,
       2000125,
       2000124
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1203.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1203.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1203.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312030,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1203,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011203,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": -1105765773,
       "Hash64": 14355084789879382859
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312030
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1207.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312070
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000131,
@@ -570,36 +624,38 @@
       2000133,
       2000134
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1207.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1207.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1207.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312070,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1207,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011207,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 863602695,
       "Hash64": 8063165992252701014
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312070
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1009.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310091
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000141,
@@ -607,36 +663,38 @@
       2000143,
       2000144
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1009.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1009.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1009.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1022010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310091,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30527001,
+    "MazeGroupID1": 6,
     "AvatarID": 1009,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011009,
-    "MapEntranceID": 30527001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 1387846746,
       "Hash64": 9657199302198622137
-    },
-    "MazeGroupID1": 6,
-    "StageID": 310091
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1002.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310020
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000151,
@@ -644,37 +702,38 @@
       2000153,
       2000154
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1002.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1002.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1002.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310020,
+    "RandomSeed": 123446,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1002,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011002,
-    "RandomSeed": 123446,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 2147361634,
       "Hash64": 14364400686650262591
-    },
-    "MazeGroupID1": 5,
-    "StageID": 310020
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1201.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312010
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000161,
@@ -682,37 +741,38 @@
       2000163,
       2000164
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1201.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1201.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1201.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002040
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312010,
+    "RandomSeed": 12345,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
     "AvatarID": 1201,
     "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011201,
-    "RandomSeed": 12345,
-    "MapEntranceID": 30524001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 2026402109,
       "Hash64": 10746608727826561901
-    },
-    "MazeGroupID1": 8,
-    "StageID": 312010
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1103.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311031
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000061,
@@ -720,36 +780,38 @@
       2000063,
       2000064
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1103.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1103.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1103.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1012030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311031,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9992001,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
     "AvatarID": 1103,
     "GuideGroupID": 31103,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011103,
-    "MapEntranceID": 30501001,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
     "AvatarDemoGuide": {
       "Hash": 2127158657,
       "Hash64": 3711300165639183013
-    },
-    "MazeGroupID1": 5,
-    "StageID": 311031
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1106.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311061
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000041,
@@ -757,448 +819,532 @@
       2000043,
       2000044
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1106.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1106.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1106.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1002020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311061,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1106,
-    "GuideGroupID": 31106,
-    "RewardID": 3011106,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311061
+    "AvatarID": 1106,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011106,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1008.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310080
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000181,
       2000182,
       2000183
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1008.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1008.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1008.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310080,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1008,
-    "GuideGroupID": 31106,
-    "RewardID": 3011008,
     "MapEntranceID": 30527001,
     "MazeGroupID1": 6,
-    "StageID": 310080
+    "AvatarID": 1008,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011008,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1205.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000171,
       2000172,
       2000173
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1205.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1205.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1205.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312050,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1205,
-    "GuideGroupID": 31106,
-    "RewardID": 3011205,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 312050
+    "AvatarID": 1205,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011205,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1108.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311080
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000221,
       2000222,
       2000223
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1108.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1108.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1108.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003040
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311080,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1108,
-    "GuideGroupID": 31106,
-    "RewardID": 3011108,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311080
+    "AvatarID": 1108,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011108,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1111.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311110
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000211,
       2000212,
       2000213
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1111.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1111.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1111.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311110,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1111,
-    "GuideGroupID": 31106,
-    "RewardID": 3011111,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311110
+    "AvatarID": 1111,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011111,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1005.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000201,
       2000204,
       2000203
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1005.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1005.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1005.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310050,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1005,
-    "GuideGroupID": 31106,
-    "RewardID": 3011005,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 310050
+    "AvatarID": 1005,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011005,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1003.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310030
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000231,
       2000232,
       2000233
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1003.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1003.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1003.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1022010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310030,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1003,
-    "GuideGroupID": 31106,
-    "RewardID": 3011003,
     "MapEntranceID": 30502001,
     "MazeGroupID1": 12,
-    "StageID": 310030
+    "AvatarID": 1003,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011003,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1004.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       310040
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000241,
       2000242,
       2000243
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1004.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1004.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1004.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 310040,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1004,
-    "GuideGroupID": 31106,
-    "RewardID": 3011004,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 310040
+    "AvatarID": 1004,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011004,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1101.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311010
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000251,
       2000252,
       2000253
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1101.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1101.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1101.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311010,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1101,
-    "GuideGroupID": 31106,
-    "RewardID": 3011101,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311010
+    "AvatarID": 1101,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011101,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1104.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311040
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000261,
       2000262,
       2000263
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1104.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1104.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1104.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311040,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1104,
-    "GuideGroupID": 31106,
-    "RewardID": 3011104,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311040
+    "AvatarID": 1104,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011104,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1107.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311070
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000271,
       2000272,
       2000273
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1107.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1107.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1107.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311070,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1107,
-    "GuideGroupID": 31106,
-    "RewardID": 3011107,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311070
+    "AvatarID": 1107,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011107,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1209.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312090
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000281,
       2000282,
       2000283
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1209.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1209.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1209.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312090,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1209,
-    "GuideGroupID": 31106,
-    "RewardID": 3011209,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 312090
+    "AvatarID": 1209,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011209,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1211.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312110
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000291,
       2000295,
       2000294
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "SpriteOutput/TrialRole/TrialRoleGachaTab/TabIcon_1211.png",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1211.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1211.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8012020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312110,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1211,
-    "GuideGroupID": 31106,
-    "RewardID": 3011211,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 312110
+    "AvatarID": 1211,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011211,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1213.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312130
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000301,
       2000302,
       2000303
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1213.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1213.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1213.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312130,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1213,
-    "GuideGroupID": 31106,
-    "RewardID": 3011213,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312130
+    "AvatarID": 1213,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011213,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1208.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312080
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000311,
@@ -1206,32 +1352,38 @@
       2000313,
       2000314
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1208.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1208.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1208.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312080,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1208,
-    "GuideGroupID": 31106,
-    "RewardID": 3011208,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312080
+    "AvatarID": 1208,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011208,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1110.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311100
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000321,
@@ -1239,32 +1391,38 @@
       2000323,
       2000324
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1110.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1110.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1110.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311100,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1110,
-    "GuideGroupID": 31106,
-    "RewardID": 3011110,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311100
+    "AvatarID": 1110,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011110,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1210.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312100
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000371,
@@ -1272,64 +1430,76 @@
       2000373,
       2000374
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1210.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1210.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1210.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312100,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1210,
-    "GuideGroupID": 31106,
-    "RewardID": 3011210,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312100
+    "AvatarID": 1210,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011210,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1212.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312120
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000351,
       2000352,
       2000353
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1212.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1212.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1212.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312120,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1212,
-    "GuideGroupID": 31106,
-    "RewardID": 3011212,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312120
+    "AvatarID": 1212,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011212,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1112.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311120
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000361,
@@ -1337,64 +1507,76 @@
       2000363,
       2000364
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1112.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1112.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1112.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311120,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1112,
-    "GuideGroupID": 31106,
-    "RewardID": 3011112,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311120
+    "AvatarID": 1112,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011112,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1102.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       311024
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000381,
       2000382,
       2000383
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1102.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1102.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1102.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 311024,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1102,
-    "GuideGroupID": 31106,
-    "RewardID": 3011102,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 311024
+    "AvatarID": 1102,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011102,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1217.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312170
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000391,
@@ -1402,70 +1584,76 @@
       2000393,
       2000394
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1217.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1217.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1217.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312170,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1217,
-    "GuideGroupID": 31106,
-    "RewardID": 3011217,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312170
+    "AvatarID": 1217,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011217,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1302.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313020
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000401,
       2000402,
       2000403
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1302.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1302.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1302.png",
-    "OverrideDisplaySkillTriggerKeyList": [
-      "Skill01",
-      "Skill02",
-      "Skill31",
-      "SkillP01",
-      "SkillMaze"
-    ],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313020,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1302,
-    "GuideGroupID": 31106,
-    "RewardID": 3011302,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 313020
+    "AvatarID": 1302,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011302,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1215.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312150
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000411,
@@ -1473,96 +1661,114 @@
       2000413,
       2000414
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1215.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1215.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1215.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312150,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1215,
-    "GuideGroupID": 31106,
-    "RewardID": 3011215,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312150
+    "AvatarID": 1215,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011215,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1303.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313030
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000421,
       2000422,
       2000423
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1303.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1303.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1303.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313030,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1303,
-    "GuideGroupID": 31106,
-    "RewardID": 3011303,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 313030
+    "AvatarID": 1303,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011303,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1305.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000431,
       2000432,
       2000433
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1305.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1305.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1305.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1013020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313050,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1305,
-    "GuideGroupID": 31106,
-    "RewardID": 3011305,
     "MapEntranceID": 30501001,
     "MazeGroupID1": 5,
-    "StageID": 313050
+    "AvatarID": 1305,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011305,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1214.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312140
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000441,
@@ -1570,32 +1776,38 @@
       2000443,
       2000444
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1214.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1214.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1214.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312140,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1214,
-    "GuideGroupID": 31106,
-    "RewardID": 3011214,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312140
+    "AvatarID": 1214,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011214,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1307.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313070
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000451,
@@ -1603,64 +1815,76 @@
       2000453,
       2000454
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1307.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1307.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1307.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313070,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1307,
-    "GuideGroupID": 31106,
-    "RewardID": 3011307,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313070
+    "AvatarID": 1307,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011307,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1312.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313120
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000461,
       2000462,
       2000463
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1312.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1312.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1312.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1013020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313120,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1312,
-    "GuideGroupID": 31106,
-    "RewardID": 3011312,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313120
+    "AvatarID": 1312,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011312,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1306.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313060
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000471,
@@ -1668,32 +1892,38 @@
       2000473,
       2000474
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1306.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1306.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1306.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313060,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1306,
-    "GuideGroupID": 31106,
-    "RewardID": 3011306,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313060
+    "AvatarID": 1306,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011306,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1204.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312044
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000481,
@@ -1701,32 +1931,38 @@
       2000483,
       2000484
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1204.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1204.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1204.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312044,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1204,
-    "GuideGroupID": 31204,
-    "RewardID": 3011204,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312044
+    "AvatarID": 1204,
+    "GuideGroupID": 31204,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011204,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1308.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313080
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000491,
@@ -1735,96 +1971,114 @@
       2000494,
       2000495
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1308.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1308.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1308.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       3003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "NormalWaveNotShowDetail": true,
+    "StageID": 313080,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1308,
-    "GuideGroupID": 31106,
-    "RewardID": 3011308,
     "MapEntranceID": 30500001,
     "MazeGroupID1": 20,
-    "StageID": 313080
+    "AvatarID": 1308,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011308,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": false,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1304.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313040
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000501,
       2000502,
       2000503
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1304.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1304.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1304.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1023010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313040,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1304,
-    "GuideGroupID": 31106,
-    "RewardID": 3011304,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313040
+    "AvatarID": 1304,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011304,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1301.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313010
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000511,
       2000512,
       2000513
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1301.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1301.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1301.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8033010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313010,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1301,
-    "GuideGroupID": 31204,
-    "RewardID": 3011301,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313010
+    "AvatarID": 1301,
+    "GuideGroupID": 31204,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011301,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1309.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313090
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000521,
@@ -1832,32 +2086,38 @@
       2000523,
       2000524
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1309.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1309.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1309.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313090,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1309,
-    "GuideGroupID": 31106,
-    "RewardID": 3011309,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313090
+    "AvatarID": 1309,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011309,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1315.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313150
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000531,
@@ -1865,32 +2125,38 @@
       2000533,
       2000534
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1315.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1315.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1315.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313150,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
     "AvatarID": 1315,
     "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3011315,
-    "MapEntranceID": 30521001,
-    "MazeGroupID1": 11,
-    "StageID": 313150
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/8005.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       380050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000544,
@@ -1899,32 +2165,38 @@
       2000542,
       2000546
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_8005.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_8005.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       3013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 380050,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
     "AvatarID": 8005,
     "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3018005,
-    "MapEntranceID": 30521001,
-    "MazeGroupID1": 11,
-    "StageID": 380050
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/8006.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       380050
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000544,
@@ -1933,32 +2205,38 @@
       2000542,
       2000546
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_8006.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_8005.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       3013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 380060,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 8006,
-    "GuideGroupID": 31106,
-    "RewardID": 3018005,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 380060
+    "AvatarID": 8006,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3018005,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1310.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313100
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000551,
@@ -1967,33 +2245,38 @@
       2000554,
       2000555
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1310.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1310.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1310.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       3013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "NormalWaveNotShowDetail": true,
-    "EnableMazeSkillEffect": true,
+    "StageID": 313100,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1310,
-    "GuideGroupID": 31106,
-    "RewardID": 3011310,
     "MapEntranceID": 30523001,
     "MazeGroupID1": 20,
-    "StageID": 313100
+    "AvatarID": 1310,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011310,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1314.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313140
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000561,
@@ -2001,64 +2284,76 @@
       2000563,
       2000564
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1314.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1314.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1314.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313140,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1314,
-    "GuideGroupID": 31106,
-    "RewardID": 3011314,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313140
+    "AvatarID": 1314,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011314,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1221.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312210
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000571,
       2000574,
       2000573
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1221.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1221.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1221.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312210,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1221,
-    "GuideGroupID": 31106,
-    "RewardID": 3011221,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312210
+    "AvatarID": 1221,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011221,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1218.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312180
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000581,
@@ -2066,32 +2361,38 @@
       2000583,
       2000584
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1218.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1218.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1218.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003050
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312180,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1218,
-    "GuideGroupID": 31106,
-    "RewardID": 3011218,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312180
+    "AvatarID": 1218,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011218,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1220.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312200
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000591,
@@ -2099,33 +2400,38 @@
       2000593,
       2000594
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1220.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1220.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1220.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023020
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "NormalWaveNotShowDetail": true,
-    "EnableMazeSkillEffect": true,
+    "StageID": 312200,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1220,
-    "GuideGroupID": 31106,
-    "RewardID": 3011220,
     "MapEntranceID": 30525001,
     "MazeGroupID1": 7,
-    "StageID": 312200
+    "AvatarID": 1220,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011220,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1223.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312230
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000601,
@@ -2133,32 +2439,38 @@
       2000603,
       2000604
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1223.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1223.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1223.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312230,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1223,
-    "GuideGroupID": 31106,
-    "RewardID": 3011223,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312230
+    "AvatarID": 1223,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011223,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1222.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312220
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000611,
@@ -2167,32 +2479,38 @@
       2000614,
       2000615
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1222.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1222.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1222.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       3003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312220,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1222,
-    "GuideGroupID": 31106,
-    "RewardID": 3011222,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312220
+    "AvatarID": 1222,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011222,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1317.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313170
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000621,
@@ -2200,32 +2518,38 @@
       2000623,
       2000624
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1317.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1317.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1317.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2033010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313170,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1317,
-    "GuideGroupID": 31106,
-    "RewardID": 3011317,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313170
+    "AvatarID": 1317,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011317,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1313.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       313130
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000641,
@@ -2233,32 +2557,38 @@
       2000643,
       2000644
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1313.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1313.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1313.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 313130,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1313,
-    "GuideGroupID": 31106,
-    "RewardID": 3011313,
     "MapEntranceID": 30521001,
     "MazeGroupID1": 11,
-    "StageID": 313130
+    "AvatarID": 1313,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011313,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1225.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312250
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000632,
@@ -2266,32 +2596,38 @@
       2000633,
       2000634
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1225.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1225.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1225.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       8003050
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312250,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1225,
-    "GuideGroupID": 31106,
-    "RewardID": 3011225,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312250
+    "AvatarID": 1225,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011225,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/8007.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       380070
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000651,
@@ -2300,32 +2636,38 @@
       2000654,
       2000655
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_8007.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_8007.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       4013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 380070,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
     "AvatarID": 8007,
     "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "RewardID": 3018007,
-    "MapEntranceID": 30530001,
-    "MazeGroupID1": 9,
-    "StageID": 380070
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/8008.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       380070
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000651,
@@ -2334,32 +2676,38 @@
       2000654,
       2000655
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_8008.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_8007.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       4013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 380080,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 8008,
-    "GuideGroupID": 31106,
-    "RewardID": 3018007,
     "MapEntranceID": 30530001,
     "MazeGroupID1": 9,
-    "StageID": 380080
+    "AvatarID": 8008,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3018007,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1401.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       314010
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000661,
@@ -2367,32 +2715,38 @@
       2000663,
       2000664
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1401.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1401.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1401.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       1003010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 314010,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1401,
-    "GuideGroupID": 31106,
-    "RewardID": 3011401,
     "MapEntranceID": 30527001,
     "MazeGroupID1": 6,
-    "StageID": 314010
+    "AvatarID": 1401,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011401,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1402.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       314020
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000671,
@@ -2401,32 +2755,38 @@
       2000674,
       2000675
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1402.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1402.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1402.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2023030
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 314020,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1402,
-    "GuideGroupID": 31106,
-    "RewardID": 3011402,
     "MapEntranceID": 30530001,
     "MazeGroupID1": 9,
-    "StageID": 314020
+    "AvatarID": 1402,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011402,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1403.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       314030
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000691,
@@ -2434,32 +2794,38 @@
       2000693,
       2000694
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1403.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1403.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1403.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       4013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 314030,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1403,
-    "GuideGroupID": 31106,
-    "RewardID": 3011403,
     "MapEntranceID": 30530001,
     "MazeGroupID1": 9,
-    "StageID": 314030
+    "AvatarID": 1403,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011403,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1404.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       314040
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000681,
@@ -2467,32 +2833,117 @@
       2000688,
       2000689
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1404.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1404.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1404.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       4023010
+    ],
+    "StageID": 314040,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1404,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011404,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314070
     ],
     "ConfigList1": [
       200001
     ],
-    "EnableMazeSkillEffect": true,
+    "TrialAvatarList": [
+      2000701,
+      2000702,
+      2000703,
+      2000704,
+      2000705
+    ],
+    "NpcMonsterIDList1": [
+      4013010
+    ],
+    "StageID": 314070,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1404,
+    "MapEntranceID": 30532001,
+    "MazeGroupID1": 12,
+    "AvatarID": 1407,
     "GuideGroupID": 31106,
-    "RewardID": 3011404,
-    "MapEntranceID": 30530001,
-    "MazeGroupID1": 9,
-    "StageID": 314040
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011407,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1221.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314050
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000725,
+      2000726,
+      2000727,
+      2000728
+    ],
+    "NpcMonsterIDList1": [
+      1003010
+    ],
+    "StageID": 314050,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1405,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011405,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312211
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000711,
@@ -2500,32 +2951,38 @@
       2000713,
       2000714
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1221.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1221.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1221.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2013010
     ],
-    "ConfigList1": [
-      200001
-    ],
-    "EnableMazeSkillEffect": true,
+    "StageID": 312211,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1221,
-    "GuideGroupID": 31106,
-    "RewardID": 3011221,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312211
+    "AvatarID": 1221,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011221,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   },
   {
-    "AvatarIntroCutinPath": "SpriteOutput/AvatarShopIcon/Avatar/1217.png",
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
     "EventIDList1": [
       312171
+    ],
+    "ConfigList1": [
+      200001
     ],
     "TrialAvatarList": [
       2000721,
@@ -2533,26 +2990,1165 @@
       2000723,
       2000724
     ],
-    "OperationRecordPath": "",
-    "AvatarCutinPath": "SpriteOutput/TrialRole/TrialRoleQuestTab/QuestTabIcon_1217.png",
-    "AvatarTabPath": "",
-    "AvatarIntroPrefab": "UI/Quest/TrialRole/AvatarFigure/AvatarRole_1217.prefab",
-    "AvatarBackgroundPath": "SpriteOutput/TrialRole/TrialRoleBg/TrialRoleBg_1217.png",
-    "OverrideDisplaySkillTriggerKeyList": [],
     "NpcMonsterIDList1": [
       2013020
+    ],
+    "StageID": 312171,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30524001,
+    "MazeGroupID1": 8,
+    "AvatarID": 1217,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011217,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313085
     ],
     "ConfigList1": [
       200001
     ],
-    "EnableMazeSkillEffect": true,
+    "TrialAvatarList": [
+      2000731,
+      2000733,
+      2000735,
+      2000736
+    ],
+    "NpcMonsterIDList1": [
+      3003010
+    ],
+    "StageID": 313085,
+    "RandomSeed": 0,
     "ScoringGroupID": 5001,
     "RaidID": 9998902,
-    "AvatarID": 1217,
+    "MapEntranceID": 30500001,
+    "MazeGroupID1": 20,
+    "AvatarID": 1308,
     "GuideGroupID": 31106,
-    "RewardID": 3011217,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011308,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": false,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312181
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000741,
+      2000742,
+      2000743,
+      2000744
+    ],
+    "NpcMonsterIDList1": [
+      2023020
+    ],
+    "StageID": 312181,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
     "MapEntranceID": 30524001,
     "MazeGroupID1": 8,
-    "StageID": 312171
+    "AvatarID": 1218,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011218,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": false,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313051
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000751,
+      2000752,
+      2000753,
+      2000754
+    ],
+    "NpcMonsterIDList1": [
+      8033010
+    ],
+    "StageID": 313051,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
+    "AvatarID": 1305,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011305,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": false,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312251
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000761,
+      2000762,
+      2000763,
+      2000764
+    ],
+    "NpcMonsterIDList1": [
+      3003041
+    ],
+    "StageID": 312251,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30527001,
+    "MazeGroupID1": 6,
+    "AvatarID": 1225,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011225,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314060
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000801,
+      2000802,
+      2000803,
+      2000804
+    ],
+    "NpcMonsterIDList1": [
+      2023030
+    ],
+    "StageID": 314060,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1406,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011406,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314011
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000771,
+      2000773,
+      2000774,
+      2000772
+    ],
+    "NpcMonsterIDList1": [
+      1003010
+    ],
+    "StageID": 314011,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30527001,
+    "MazeGroupID1": 6,
+    "AvatarID": 1401,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011401,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314021
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000781,
+      2000782,
+      2000783,
+      2000784,
+      2000785
+    ],
+    "NpcMonsterIDList1": [
+      2023030
+    ],
+    "StageID": 314021,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1402,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011402,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314090
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000791,
+      2000792,
+      2000793,
+      2000794,
+      2000795
+    ],
+    "NpcMonsterIDList1": [
+      4033030
+    ],
+    "StageID": 314090,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1409,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011409,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312129
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000871,
+      2000872,
+      2000873,
+      2000874
+    ],
+    "NpcMonsterIDList1": [
+      3024010
+    ],
+    "StageID": 312129,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30533002,
+    "MazeGroupID1": 8,
+    "AvatarID": 1212,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3010000,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312059
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000881,
+      2000882,
+      2000883,
+      2000884,
+      2000885
+    ],
+    "NpcMonsterIDList1": [
+      2034010
+    ],
+    "StageID": 312059,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30533002,
+    "MazeGroupID1": 8,
+    "AvatarID": 1205,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3010000,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310069
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000863,
+      2000861,
+      2000862,
+      2000864
+    ],
+    "NpcMonsterIDList1": [
+      4033030
+    ],
+    "StageID": 310069,
+    "RandomSeed": 12345,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998907,
+    "MapEntranceID": 30533001,
+    "MazeGroupID1": 6,
+    "AvatarID": 1006,
+    "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3010000,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": -178237187,
+      "Hash64": 13059716640805917584
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310059
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000821,
+      2000822,
+      2000823,
+      2000824
+    ],
+    "NpcMonsterIDList1": [
+      3014020
+    ],
+    "StageID": 310059,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30533001,
+    "MazeGroupID1": 6,
+    "AvatarID": 1005,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3010000,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314080
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000831,
+      2000832,
+      2000833,
+      2000834
+    ],
+    "NpcMonsterIDList1": [
+      2034010
+    ],
+    "StageID": 314080,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30534001,
+    "MazeGroupID1": 12,
+    "AvatarID": 1408,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011408,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310150
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000811,
+      2000812,
+      2000813,
+      2000814
+    ],
+    "NpcMonsterIDList1": [
+      4033010
+    ],
+    "StageID": 310150,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
+    "AvatarID": 1015,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011015,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310140
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000891,
+      2000896,
+      2000895,
+      2000894
+    ],
+    "NpcMonsterIDList1": [
+      2023020
+    ],
+    "StageID": 310140,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
+    "AvatarID": 1014,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011014,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312121
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000841,
+      2000842,
+      2000843,
+      2000844
+    ],
+    "NpcMonsterIDList1": [
+      1003010
+    ],
+    "StageID": 312121,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30533002,
+    "MazeGroupID1": 8,
+    "AvatarID": 1212,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011212,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      312051
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000851,
+      2000852,
+      2000853,
+      2000854,
+      2000855
+    ],
+    "NpcMonsterIDList1": [
+      2033010
+    ],
+    "StageID": 312051,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30533002,
+    "MazeGroupID1": 8,
+    "AvatarID": 1205,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011205,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313061
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000912,
+      2000911,
+      2000913,
+      2000914
+    ],
+    "NpcMonsterIDList1": [
+      1013020
+    ],
+    "StageID": 313061,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
+    "AvatarID": 1306,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011306,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313104
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000901,
+      2000902,
+      2000903,
+      2000904
+    ],
+    "NpcMonsterIDList1": [
+      3003041
+    ],
+    "StageID": 313104,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30523001,
+    "MazeGroupID1": 20,
+    "AvatarID": 1310,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011310,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": true,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313131
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000921,
+      2000922,
+      2000923,
+      2000924,
+      2000925
+    ],
+    "NpcMonsterIDList1": [
+      4033020
+    ],
+    "StageID": 313131,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1313,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011313,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314101
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000931,
+      2000932,
+      2000933,
+      2000934
+    ],
+    "NpcMonsterIDList1": [
+      4053010
+    ],
+    "StageID": 314101,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1410,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011410,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310051
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000941,
+      2000942,
+      2000943,
+      2000944
+    ],
+    "NpcMonsterIDList1": [
+      3003010
+    ],
+    "StageID": 310051,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
+    "AvatarID": 1005,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011005,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      310061
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000953,
+      2000951,
+      2000952,
+      2000954
+    ],
+    "NpcMonsterIDList1": [
+      4033030
+    ],
+    "StageID": 310061,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998907,
+    "MapEntranceID": 30501001,
+    "MazeGroupID1": 5,
+    "AvatarID": 1006,
+    "GuideGroupID": 31206,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011006,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314121
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000961,
+      2000962,
+      2000963,
+      2000964
+    ],
+    "NpcMonsterIDList1": [
+      4023010
+    ],
+    "StageID": 314121,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1412,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011412,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314141
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000972,
+      2000971,
+      2000973,
+      2000974
+    ],
+    "NpcMonsterIDList1": [
+      4033020
+    ],
+    "StageID": 314141,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1414,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011414,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314051
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000981,
+      2000982,
+      2000983,
+      2000984
+    ],
+    "NpcMonsterIDList1": [
+      4023020
+    ],
+    "StageID": 314051,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1405,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011405,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314130
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2000994,
+      2000995,
+      2000992,
+      2000993,
+      2000991
+    ],
+    "NpcMonsterIDList1": [
+      4033030
+    ],
+    "StageID": 314130,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30530001,
+    "MazeGroupID1": 9,
+    "AvatarID": 1413,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011413,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      314150
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2001001,
+      2001002,
+      2001003,
+      2001004
+    ],
+    "NpcMonsterIDList1": [
+      4033010
+    ],
+    "StageID": 314150,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30537001,
+    "MazeGroupID1": 5,
+    "AvatarID": 1415,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011415,
+    "EnableSwitchAvatar": false,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
+  },
+  {
+    "OperationRecordPath": "",
+    "OverrideDisplaySkillTriggerKeyList": [],
+    "EventIDList1": [
+      313210
+    ],
+    "ConfigList1": [
+      200001
+    ],
+    "TrialAvatarList": [
+      2001103,
+      2001102,
+      2001101,
+      2001104
+    ],
+    "NpcMonsterIDList1": [
+      4023020
+    ],
+    "StageID": 313210,
+    "RandomSeed": 0,
+    "ScoringGroupID": 5001,
+    "RaidID": 9998902,
+    "MapEntranceID": 30521001,
+    "MazeGroupID1": 11,
+    "AvatarID": 1321,
+    "GuideGroupID": 31106,
+    "AvatarDemoTitle": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "RewardID": 3011321,
+    "EnableSwitchAvatar": true,
+    "NormalWaveNotShowDetail": false,
+    "EnableMazeSkillEffect": true,
+    "AvatarDemoGuide": {
+      "Hash": 0,
+      "Hash64": 0
+    }
   }
 ]

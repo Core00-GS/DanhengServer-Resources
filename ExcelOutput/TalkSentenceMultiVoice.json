@@ -5398,8 +5398,8 @@
   },
   {
     "VoiceIDList": [
-      504000251,
-      504000252
+      504093027,
+      504093028
     ],
     "TalkSentenceID": 504022002
   },
@@ -5717,5 +5717,558 @@
       504000214
     ],
     "TalkSentenceID": 504059801
+  },
+  {
+    "VoiceIDList": [
+      504060101,
+      504060102
+    ],
+    "TalkSentenceID": 504060101
+  },
+  {
+    "VoiceIDList": [
+      504060107,
+      504060108
+    ],
+    "TalkSentenceID": 504061101
+  },
+  {
+    "VoiceIDList": [
+      504060111,
+      504060112
+    ],
+    "TalkSentenceID": 504062101
+  },
+  {
+    "VoiceIDList": [
+      504060109,
+      504060110
+    ],
+    "TalkSentenceID": 504063101
+  },
+  {
+    "VoiceIDList": [
+      504060113,
+      504060114
+    ],
+    "TalkSentenceID": 504066101
+  },
+  {
+    "VoiceIDList": [
+      504060105,
+      504060106
+    ],
+    "TalkSentenceID": 504067101
+  },
+  {
+    "VoiceIDList": [
+      504060103,
+      504060104
+    ],
+    "TalkSentenceID": 504068101
+  },
+  {
+    "VoiceIDList": [
+      504093077,
+      504093078
+    ],
+    "TalkSentenceID": 504072001
+  },
+  {
+    "VoiceIDList": [
+      504093019,
+      504093020
+    ],
+    "TalkSentenceID": 504073001
+  },
+  {
+    "VoiceIDList": [
+      504093053,
+      504093054
+    ],
+    "TalkSentenceID": 504075001
+  },
+  {
+    "VoiceIDList": [
+      504093013,
+      504093014
+    ],
+    "TalkSentenceID": 504076001
+  },
+  {
+    "VoiceIDList": [
+      504093021,
+      504093022
+    ],
+    "TalkSentenceID": 504077001
+  },
+  {
+    "VoiceIDList": [
+      504093001,
+      504093002
+    ],
+    "TalkSentenceID": 504078001
+  },
+  {
+    "VoiceIDList": [
+      504093011,
+      504093012
+    ],
+    "TalkSentenceID": 504079001
+  },
+  {
+    "VoiceIDList": [
+      504093007,
+      504093008
+    ],
+    "TalkSentenceID": 504081101
+  },
+  {
+    "VoiceIDList": [
+      504093045,
+      504093046
+    ],
+    "TalkSentenceID": 504082101
+  },
+  {
+    "VoiceIDList": [
+      504093055,
+      504093056
+    ],
+    "TalkSentenceID": 504083001
+  },
+  {
+    "VoiceIDList": [
+      504093023,
+      504093024
+    ],
+    "TalkSentenceID": 504084101
+  },
+  {
+    "VoiceIDList": [
+      504093015,
+      504093016
+    ],
+    "TalkSentenceID": 504085001
+  },
+  {
+    "VoiceIDList": [
+      504093073,
+      504093074
+    ],
+    "TalkSentenceID": 504086101
+  },
+  {
+    "VoiceIDList": [
+      504093035,
+      504093037
+    ],
+    "TalkSentenceID": 504087001
+  },
+  {
+    "VoiceIDList": [
+      504093075,
+      504093076
+    ],
+    "TalkSentenceID": 504088001
+  },
+  {
+    "VoiceIDList": [
+      504093033,
+      504093034
+    ],
+    "TalkSentenceID": 504089001
+  },
+  {
+    "VoiceIDList": [
+      504093067,
+      504093068
+    ],
+    "TalkSentenceID": 504090001
+  },
+  {
+    "VoiceIDList": [
+      504093061,
+      504093062
+    ],
+    "TalkSentenceID": 504091101
+  },
+  {
+    "VoiceIDList": [
+      504093063,
+      504093064
+    ],
+    "TalkSentenceID": 504092001
+  },
+  {
+    "VoiceIDList": [
+      504093039,
+      504093040
+    ],
+    "TalkSentenceID": 504093001
+  },
+  {
+    "VoiceIDList": [
+      504093069,
+      504093070
+    ],
+    "TalkSentenceID": 504094001
+  },
+  {
+    "VoiceIDList": [
+      504093003,
+      504093004
+    ],
+    "TalkSentenceID": 504095001
+  },
+  {
+    "VoiceIDList": [
+      504093017,
+      504093018
+    ],
+    "TalkSentenceID": 504097001
+  },
+  {
+    "VoiceIDList": [
+      504093059,
+      504093060
+    ],
+    "TalkSentenceID": 504098001
+  },
+  {
+    "VoiceIDList": [
+      504106070,
+      504106071
+    ],
+    "TalkSentenceID": 504108001
+  },
+  {
+    "VoiceIDList": [
+      504106068,
+      504106069
+    ],
+    "TalkSentenceID": 504109001
+  },
+  {
+    "VoiceIDList": [
+      504106064,
+      504106065
+    ],
+    "TalkSentenceID": 504110001
+  },
+  {
+    "VoiceIDList": [
+      504106066,
+      504106067
+    ],
+    "TalkSentenceID": 504111001
+  },
+  {
+    "VoiceIDList": [
+      504106072,
+      504106073
+    ],
+    "TalkSentenceID": 504112001
+  },
+  {
+    "VoiceIDList": [
+      504106074,
+      504106075
+    ],
+    "TalkSentenceID": 504113001
+  },
+  {
+    "VoiceIDList": [
+      504106005,
+      504106028
+    ],
+    "TalkSentenceID": 434084101
+  },
+  {
+    "VoiceIDList": [
+      504120001,
+      504120002
+    ],
+    "TalkSentenceID": 504122101
+  },
+  {
+    "VoiceIDList": [
+      504120003,
+      504120004
+    ],
+    "TalkSentenceID": 504123101
+  },
+  {
+    "VoiceIDList": [
+      504120005,
+      504120006
+    ],
+    "TalkSentenceID": 504121101
+  },
+  {
+    "VoiceIDList": [
+      504120007,
+      504120008
+    ],
+    "TalkSentenceID": 504120101
+  },
+  {
+    "VoiceIDList": [
+      504120009,
+      504120010
+    ],
+    "TalkSentenceID": 504125101
+  },
+  {
+    "VoiceIDList": [
+      504120011,
+      504120012
+    ],
+    "TalkSentenceID": 504124101
+  },
+  {
+    "VoiceIDList": [
+      502370011,
+      502370012,
+      502370013
+    ],
+    "TalkSentenceID": 537016799
+  },
+  {
+    "VoiceIDList": [
+      502370036,
+      502370037,
+      502370038
+    ],
+    "TalkSentenceID": 537016199
+  },
+  {
+    "VoiceIDList": [
+      502370031,
+      502370032,
+      502370033
+    ],
+    "TalkSentenceID": 537016299
+  },
+  {
+    "VoiceIDList": [
+      502370026,
+      502370027,
+      502370028
+    ],
+    "TalkSentenceID": 537016399
+  },
+  {
+    "VoiceIDList": [
+      502370046,
+      502370047,
+      502370048
+    ],
+    "TalkSentenceID": 537016599
+  },
+  {
+    "VoiceIDList": [
+      502370041,
+      502370042,
+      502370043
+    ],
+    "TalkSentenceID": 537016699
+  },
+  {
+    "VoiceIDList": [
+      502370036,
+      502370037,
+      502370038
+    ],
+    "TalkSentenceID": 537014162
+  },
+  {
+    "VoiceIDList": [
+      502370016,
+      502370017,
+      502370018
+    ],
+    "TalkSentenceID": 537014262
+  },
+  {
+    "VoiceIDList": [
+      502370051,
+      502370052,
+      502370053
+    ],
+    "TalkSentenceID": 537014362
+  },
+  {
+    "VoiceIDList": [
+      502370026,
+      502370027,
+      502370028
+    ],
+    "TalkSentenceID": 537014562
+  },
+  {
+    "VoiceIDList": [
+      502370041,
+      502370042,
+      502370043
+    ],
+    "TalkSentenceID": 537014662
+  },
+  {
+    "VoiceIDList": [
+      502370006,
+      502370007,
+      502370008
+    ],
+    "TalkSentenceID": 537014862
+  },
+  {
+    "VoiceIDList": [
+      502370021,
+      502370022,
+      502370023
+    ],
+    "TalkSentenceID": 537014962
+  },
+  {
+    "VoiceIDList": [
+      502370001,
+      502370002,
+      502370003
+    ],
+    "TalkSentenceID": 537015062
+  },
+  {
+    "VoiceIDList": [
+      502370024,
+      502370025
+    ],
+    "TalkSentenceID": 502370201
+  },
+  {
+    "VoiceIDList": [
+      502370034,
+      502370035
+    ],
+    "TalkSentenceID": 502370501
+  },
+  {
+    "VoiceIDList": [
+      502370039,
+      502370040
+    ],
+    "TalkSentenceID": 502370801
+  },
+  {
+    "VoiceIDList": [
+      502370044,
+      502370045
+    ],
+    "TalkSentenceID": 502371101
+  },
+  {
+    "VoiceIDList": [
+      502370054,
+      502370055
+    ],
+    "TalkSentenceID": 502371401
+  },
+  {
+    "VoiceIDList": [
+      502370004,
+      502370005
+    ],
+    "TalkSentenceID": 502371701
+  },
+  {
+    "VoiceIDList": [
+      502370009,
+      502370010
+    ],
+    "TalkSentenceID": 502371901
+  },
+  {
+    "VoiceIDList": [
+      502370029,
+      502370030
+    ],
+    "TalkSentenceID": 502372201
+  },
+  {
+    "VoiceIDList": [
+      502370014,
+      502370015
+    ],
+    "TalkSentenceID": 502372501
+  },
+  {
+    "VoiceIDList": [
+      502370019,
+      502370020
+    ],
+    "TalkSentenceID": 502372801
+  },
+  {
+    "VoiceIDList": [
+      502370049,
+      502370050
+    ],
+    "TalkSentenceID": 502373101
+  },
+  {
+    "VoiceIDList": [
+      502370021,
+      502370022,
+      502370023
+    ],
+    "TalkSentenceID": 502373401
+  },
+  {
+    "VoiceIDList": [
+      502370051,
+      502370052,
+      502370053
+    ],
+    "TalkSentenceID": 502373501
+  },
+  {
+    "VoiceIDList": [
+      502370031,
+      502370032,
+      502370033
+    ],
+    "TalkSentenceID": 502373701
+  },
+  {
+    "VoiceIDList": [
+      502370011,
+      502370012,
+      502370013
+    ],
+    "TalkSentenceID": 502373801
+  },
+  {
+    "VoiceIDList": [
+      502370046,
+      502370047,
+      502370048
+    ],
+    "TalkSentenceID": 502373901
+  },
+  {
+    "VoiceIDList": [
+      502370016,
+      502370017,
+      502370018
+    ],
+    "TalkSentenceID": 502374101
+  },
+  {
+    "VoiceIDList": [
+      502370006,
+      502370007,
+      502370008
+    ],
+    "TalkSentenceID": 502374201
   }
 ]

@@ -56,5 +56,14 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Monster/NPC_Monster_W3_Sam_00_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryCrystal_W3_Sam_00"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

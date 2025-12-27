@@ -38,10 +38,11 @@
       "LevelPlaneID": 20241,
       "LevelFloorID": 20241001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        4,
-        434012601
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "4",
+        "434012601"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -66,10 +67,11 @@
       "LevelPlaneID": 10202,
       "LevelFloorID": 10202004,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        434012601
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "434012601"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -95,10 +97,11 @@
       "LevelPlaneID": 20223,
       "LevelFloorID": 20223001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        434012601
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "434012601"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -123,10 +126,11 @@
       "LevelPlaneID": 20232,
       "LevelFloorID": 20232001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        3,
-        434012601
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "3",
+        "434012601"
       ],
       "FinishType": "Talk",
       "ParamType": "Equal",
@@ -202,6 +206,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2,
@@ -211,6 +217,8 @@
     },
     {
       "Index": 1,
+      "Name": "OldValue_1",
+      "Type": "ClientOnly",
       "isLocal": true,
       "ValidValueParamList": [
         1,

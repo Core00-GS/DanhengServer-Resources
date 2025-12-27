@@ -98,8 +98,7 @@
         "Radius": 1.5,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "CampID": 4,
       "State": "Open",
@@ -117,10 +116,14 @@
       "HideInStory": true,
       "PerformanceHideFlags": 15,
       "OverrideMapIconType": 99,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -132,10 +135,11 @@
         }
       },
       "Name": "Portal",
+      "RotY": 300.0,
       "ID": 300001,
-      "PosX": 0.02,
-      "PosY": 82.54938,
-      "PosZ": -132.3851
+      "PosX": -227.75,
+      "PosY": 20.92062,
+      "PosZ": -223.16
     }
   ],
   "DistrictList": [],

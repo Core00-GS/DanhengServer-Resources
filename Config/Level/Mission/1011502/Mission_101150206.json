@@ -22,6 +22,7 @@
       "TaskList": [
         {
           "$type": "RPG.GameCore.PlayMissionTalk",
+          "MuteBattleVO": true,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,
@@ -54,13 +55,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 412316860416
+            "FixedValue": {
+              "RawValue": 412316860416,
+              "Value": 96.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "CreateList": [],
@@ -74,13 +77,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 412316860416
+                "FixedValue": {
+                  "RawValue": 412316860416,
+                  "Value": 96.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -122,13 +127,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 412316860416
+                "FixedValue": {
+                  "RawValue": 412316860416,
+                  "Value": 96.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             }
@@ -150,13 +157,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 412316860416
+            "FixedValue": {
+              "RawValue": 412316860416,
+              "Value": 96.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "DestroyList": [],
@@ -184,13 +193,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 412316860416
+            "FixedValue": {
+              "RawValue": 412316860416,
+              "Value": 96.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "CreateList": [],
@@ -215,13 +226,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 412316860416
+                  "FixedValue": {
+                    "RawValue": 412316860416,
+                    "Value": 96.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -239,13 +252,15 @@
             "MultiGroupFetch": [
               {
                 "GroupID": {
-                  "fixedValue": {
-                    "RawValue": 412316860416
+                  "FixedValue": {
+                    "RawValue": 412316860416,
+                    "Value": 96.0
                   }
                 },
                 "ID": {
-                  "fixedValue": {
-                    "RawValue": 1288498778734592
+                  "FixedValue": {
+                    "RawValue": 1288498778734592,
+                    "Value": 300002.0
                   }
                 }
               }
@@ -300,13 +315,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 412316860416
+                      "FixedValue": {
+                        "RawValue": 412316860416,
+                        "Value": 96.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288498778734592
+                      "FixedValue": {
+                        "RawValue": 1288498778734592,
+                        "Value": 300002.0
                       }
                     }
                   }
@@ -342,13 +359,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 412316860416
+                      "FixedValue": {
+                        "RawValue": 412316860416,
+                        "Value": 96.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288498778734592
+                      "FixedValue": {
+                        "RawValue": 1288498778734592,
+                        "Value": 300002.0
                       }
                     }
                   }
@@ -413,13 +432,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 412316860416
+                      "FixedValue": {
+                        "RawValue": 412316860416,
+                        "Value": 96.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288498778734592
+                      "FixedValue": {
+                        "RawValue": 1288498778734592,
+                        "Value": 300002.0
                       }
                     }
                   }
@@ -437,13 +458,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 412316860416
+            "FixedValue": {
+              "RawValue": 412316860416,
+              "Value": 96.0
             }
           },
           "DestroyList": [],
@@ -454,6 +477,7 @@
           "$type": "RPG.GameCore.SetMissionCustomValue",
           "SubmissionID": 101150206,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "ValidValueParamList": [
               1,
               2
@@ -499,13 +523,15 @@
                 "MultiGroupFetch": [
                   {
                     "GroupID": {
-                      "fixedValue": {
-                        "RawValue": 412316860416
+                      "FixedValue": {
+                        "RawValue": 412316860416,
+                        "Value": 96.0
                       }
                     },
                     "ID": {
-                      "fixedValue": {
-                        "RawValue": 1288498778734592
+                      "FixedValue": {
+                        "RawValue": 1288498778734592,
+                        "Value": 300002.0
                       }
                     }
                   }
@@ -523,13 +549,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288503073701888
+            "FixedValue": {
+              "RawValue": 1288503073701888,
+              "Value": 300003.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 412316860416
+            "FixedValue": {
+              "RawValue": 412316860416,
+              "Value": 96.0
             }
           },
           "DestroyList": [],
@@ -540,6 +568,7 @@
           "$type": "RPG.GameCore.SetMissionCustomValue",
           "SubmissionID": 101150206,
           "MissionCustomValue": {
+            "Name": "OldValue_0",
             "ValidValueParamList": [
               1,
               2

@@ -1,98 +1,194 @@
 [
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDotBurn.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4001
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDotElectric.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4002
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffEye.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4003
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDetonate.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4004
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuff_EvoLveBuild_Attack.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4005
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffDamageTakenRatioIce.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4006
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconRogueBuff04.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4021
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffFoible.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4022
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffStanceRatioElement.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4023
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconRogueBuff04.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4024
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffCriticalUp.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4025
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/ActivityStrongChallenge/IconStrongChallengeTalent0503.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4026
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffFatigueRatio.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4041
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff110.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4042
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffStanceRatioDown.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4043
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconRogueNousDiceBuff.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4044
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuffDamagePenetrateElement.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4045
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDeBuffMultiMindControlEffect.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4046
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconRogueS1Buff01.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4061
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDotLaceration.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4062
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/ActivityFantasticStoryBuff/ActivityBattleBuff104.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4063
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconMonsterUnknownWeakPointCore.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4064
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconDotCage.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4065
   },
   {
     "MagicUnitIcon": "SpriteOutput/BuffIcon/Inlevel/IconBuff_EvoLveBuild_Nihility.png",
+    "MagicUnitName": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "MagicUnitID": 4066
   },
   {

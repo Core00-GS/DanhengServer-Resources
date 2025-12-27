@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 403726925824
+            "FixedValue": {
+              "RawValue": 403726925824,
+              "Value": 94.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TaskEnabled": true,
@@ -25,26 +27,30 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 403726925824
+                "FixedValue": {
+                  "RawValue": 403726925824,
+                  "Value": 94.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288494483767296
+                "FixedValue": {
+                  "RawValue": 1288494483767296,
+                  "Value": 300001.0
                 }
               }
             },
             "MultiPropKey": []
           },
           "TargetGroupID": {
-            "fixedValue": {
-              "RawValue": 403726925824
+            "FixedValue": {
+              "RawValue": 403726925824,
+              "Value": 94.0
             }
           },
           "TargetID": {
-            "fixedValue": {
-              "RawValue": 1288494483767296
+            "FixedValue": {
+              "RawValue": 1288494483767296,
+              "Value": 300001.0
             }
           },
           "TargetTypes": [],

@@ -1,11 +1,11 @@
 [
   {
-    "EndingOptionKey": "TalkSentence_802411410",
-    "AvatarIDList": [],
     "EndingStoryIDList": [
       1,
       11
     ],
+    "AvatarIDList": [],
+    "StartTalkImage": "",
     "TurnIDList": [
       101,
       102,
@@ -24,29 +24,32 @@
       115
     ],
     "StoryLineImage": "",
-    "StartTalkImage": "",
-    "StoryLine": 1,
-    "StoryHardDesc": {
-      "Hash": -250146820,
-      "Hash64": 5784996678433989964
+    "EndingOptionKey": "TalkSentence_802411410",
+    "StoryLineDesc": {
+      "Hash": -544730519,
+      "Hash64": 4272292206981348682
     },
-    "RewardID": 240011,
     "StoryLineName": {
       "Hash": 61878283,
       "Hash64": 16197369886857036067
     },
-    "StoryLineDesc": {
-      "Hash": -544730519,
-      "Hash64": 4272292206981348682
-    }
+    "StoryHardDesc": {
+      "Hash": -250146820,
+      "Hash64": 5784996678433989964
+    },
+    "StoryLine": 1,
+    "RewardID": 240011,
+    "StartTalkSentenceID": 0,
+    "TalkSentenceID": 0,
+    "UnlockID": 0
   },
   {
-    "EndingOptionKey": "TalkSentence_802411410_2",
-    "AvatarIDList": [],
     "EndingStoryIDList": [
       1,
       12
     ],
+    "AvatarIDList": [],
+    "StartTalkImage": "",
     "TurnIDList": [
       201,
       202,
@@ -65,30 +68,32 @@
       215
     ],
     "StoryLineImage": "",
-    "StartTalkImage": "",
-    "StoryLine": 2,
-    "UnlockID": 101,
-    "StoryHardDesc": {
-      "Hash": -250146821,
-      "Hash64": 11323982595313038351
+    "EndingOptionKey": "TalkSentence_802411410_2",
+    "StoryLineDesc": {
+      "Hash": -2110814460,
+      "Hash64": 11940794866875054261
     },
-    "RewardID": 240012,
     "StoryLineName": {
       "Hash": 465162810,
       "Hash64": 11153294477570441910
     },
-    "StoryLineDesc": {
-      "Hash": -2110814460,
-      "Hash64": 11940794866875054261
-    }
+    "StoryHardDesc": {
+      "Hash": -250146821,
+      "Hash64": 11323982595313038351
+    },
+    "StoryLine": 2,
+    "RewardID": 240012,
+    "StartTalkSentenceID": 0,
+    "TalkSentenceID": 0,
+    "UnlockID": 101
   },
   {
-    "EndingOptionKey": "TalkSentence_802411410_3",
-    "AvatarIDList": [],
     "EndingStoryIDList": [
       1,
       13
     ],
+    "AvatarIDList": [],
+    "StartTalkImage": "",
     "TurnIDList": [
       301,
       302,
@@ -107,30 +112,32 @@
       315
     ],
     "StoryLineImage": "",
-    "StartTalkImage": "",
-    "StoryLine": 3,
-    "UnlockID": 102,
-    "StoryHardDesc": {
-      "Hash": -250146822,
-      "Hash64": 9250490516547097980
+    "EndingOptionKey": "TalkSentence_802411410_3",
+    "StoryLineDesc": {
+      "Hash": 618068895,
+      "Hash64": 11467417309773002602
     },
-    "RewardID": 240013,
     "StoryLineName": {
       "Hash": -1100921131,
       "Hash64": 14043634676548949113
     },
-    "StoryLineDesc": {
-      "Hash": 618068895,
-      "Hash64": 11467417309773002602
-    }
+    "StoryHardDesc": {
+      "Hash": -250146822,
+      "Hash64": 9250490516547097980
+    },
+    "StoryLine": 3,
+    "RewardID": 240013,
+    "StartTalkSentenceID": 0,
+    "TalkSentenceID": 0,
+    "UnlockID": 102
   },
   {
-    "EndingOptionKey": "TalkSentence_802411410_4",
-    "AvatarIDList": [],
     "EndingStoryIDList": [
       1,
       14
     ],
+    "AvatarIDList": [],
+    "StartTalkImage": "",
     "TurnIDList": [
       401,
       402,
@@ -149,21 +156,23 @@
       415
     ],
     "StoryLineImage": "",
-    "StartTalkImage": "",
-    "StoryLine": 4,
-    "UnlockID": 103,
-    "StoryHardDesc": {
-      "Hash": -250146823,
-      "Hash64": 17197963724723386707
+    "EndingOptionKey": "TalkSentence_802411410_4",
+    "StoryLineDesc": {
+      "Hash": -1304245406,
+      "Hash64": 2376568873990503995
     },
-    "RewardID": 240014,
     "StoryLineName": {
       "Hash": -697636604,
       "Hash64": 8849969240897898873
     },
-    "StoryLineDesc": {
-      "Hash": -1304245406,
-      "Hash64": 2376568873990503995
-    }
+    "StoryHardDesc": {
+      "Hash": -250146823,
+      "Hash64": 17197963724723386707
+    },
+    "StoryLine": 4,
+    "RewardID": 240014,
+    "StartTalkSentenceID": 0,
+    "TalkSentenceID": 0,
+    "UnlockID": 103
   }
 ]

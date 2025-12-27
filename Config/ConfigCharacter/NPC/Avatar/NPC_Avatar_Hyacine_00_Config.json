@@ -34,7 +34,7 @@
   "NavTurnBackTurnSpeed": 540.0,
   "NavMovingSteerTurnSpeed": 75.0,
   "NavMovingSteerTurnBackTurnSpeed": 75.0,
-  "ShoesType": "boot",
+  "ShoesType": "flatS",
   "FreeStyleCharacterID": "NPC_Avatar_Girl_Hyacine_00",
   "FreeStyleCharacterConfigPath": "Config/ConfigCharacter/FreeStyle/Avatar/Avatar_Girl_Hyacine_00_FreeStyle_Config.json",
   "LockTargetDistance": 5.0,
@@ -63,5 +63,17 @@
   "UseDefaultSteerMode": true,
   "TalkEmotionAssetPath": "Story/TalkEmotion/Avatar/Hyacine_00_TalkEmotion.asset",
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Avatar/NPC_Avatar_Hyacine_00_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryCrystal_Hyacine_00",
+        "StoryCrystalWithoutEffect_Hyacine_00",
+        "StoryNanookCyborgIllusion_Hyacine_00",
+        "StoryChrysosFury_Hyacine_00"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

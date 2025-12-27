@@ -72,7 +72,22 @@
       "TagHash": 520707853
     }
   ],
-  "AnchorList": [],
+  "AnchorList": [
+    {
+      "Name": "Anchor1",
+      "ID": 1,
+      "PosX": 1.397,
+      "PosY": 25.12657,
+      "PosZ": 337.476
+    },
+    {
+      "Name": "Anchor2",
+      "ID": 2,
+      "PosX": -50.06,
+      "PosY": 25.11084,
+      "PosZ": 338.185
+    }
+  ],
   "MonsterList": [],
   "PropList": [],
   "DistrictList": [
@@ -103,8 +118,7 @@
         "Radius": 5.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -143,8 +157,7 @@
         "Radius": 5.0,
         "DimX": 1.0,
         "DimY": 1.0,
-        "DimZ": 1.0,
-        "PointList": []
+        "DimZ": 1.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -183,8 +196,7 @@
         "Radius": 5.0,
         "DimX": 8.0,
         "DimY": 8.0,
-        "DimZ": 8.0,
-        "PointList": []
+        "DimZ": 8.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -223,8 +235,7 @@
         "Radius": 5.0,
         "DimX": 8.0,
         "DimY": 8.0,
-        "DimZ": 8.0,
-        "PointList": []
+        "DimZ": 8.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",
@@ -263,8 +274,7 @@
         "Radius": 5.0,
         "DimX": 8.0,
         "DimY": 8.0,
-        "DimZ": 8.0,
-        "PointList": []
+        "DimZ": 8.0
       },
       "LoadOnInitial": true,
       "DistrictType": "Level",

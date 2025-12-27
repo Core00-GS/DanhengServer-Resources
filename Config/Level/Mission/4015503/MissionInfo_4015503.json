@@ -20,6 +20,7 @@
       "TakeParamIntList": [
         4015503
       ],
+      "TakePriority": 1,
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
@@ -60,6 +61,7 @@
       "TakeParamIntList": [
         4015503
       ],
+      "TakePriority": 2,
       "MazePlaneID": 10341,
       "MazeFloorID": 10341001,
       "FinishType": "PropState",
@@ -90,6 +92,7 @@
       "TakeParamIntList": [
         4015503
       ],
+      "TakePriority": 3,
       "MazePlaneID": 10341,
       "MazeFloorID": 10341001,
       "FinishType": "PropState",
@@ -120,6 +123,7 @@
       "TakeParamIntList": [
         4015503
       ],
+      "TakePriority": 4,
       "MazePlaneID": 10341,
       "MazeFloorID": 10341001,
       "FinishType": "PropState",
@@ -150,6 +154,7 @@
       "TakeParamIntList": [
         4015503
       ],
+      "TakePriority": 5,
       "MazePlaneID": 10341,
       "MazeFloorID": 10341001,
       "FinishType": "PropState",

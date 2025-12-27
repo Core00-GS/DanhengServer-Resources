@@ -76,5 +76,11 @@
     "RowBombPath": "",
     "SquareBombPath": "",
     "PieceID": 13
+  },
+  {
+    "ImagePath": "UI/UI_Texture/Object/UI_Obj_Bubble_02.png",
+    "RowBombPath": "",
+    "SquareBombPath": "",
+    "PieceID": 14
   }
 ]

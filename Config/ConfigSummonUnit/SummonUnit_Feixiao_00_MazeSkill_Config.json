@@ -4,8 +4,9 @@
   "TickLodTemplateName": "DefaultStaticEntity",
   "ShoesType": "boot",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "TriggerConfig": {
@@ -14,8 +15,9 @@
         "TriggerName": "GatheringRange",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 51539607552
+          "FixedValue": {
+            "RawValue": 51539607552,
+            "Value": 12.0
           }
         },
         "RayStartOffsetY": 1.0,
@@ -30,8 +32,9 @@
         "TriggerName": "AttackRange",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 17179869184
+          "FixedValue": {
+            "RawValue": 17179869184,
+            "Value": 4.0
           }
         },
         "RayStartOffsetY": 1.0,

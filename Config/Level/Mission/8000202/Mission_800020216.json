@@ -20,6 +20,7 @@
         {
           "$type": "RPG.GameCore.PlaySimpleTalk",
           "KeepDisplay": true,
+          "BlackMaskFadeDuration": 0.5,
           "SimpleTalkList": [
             {
               "TextSpeed": 20.0,

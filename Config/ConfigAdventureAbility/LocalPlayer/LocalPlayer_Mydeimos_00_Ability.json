@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_Mydeimos_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -61,43 +60,51 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 9878424782
+                    "FixedValue": {
+                      "RawValue": 9878424782,
+                      "Value": 2.3
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 81604376
+                    "FixedValue": {
+                      "RawValue": 81604376,
+                      "Value": 0.02
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 240518167
+                    "FixedValue": {
+                      "RawValue": 240518167,
+                      "Value": 0.06
                     }
                   },
                   "DefaultMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 17179869184
+                    "FixedValue": {
+                      "RawValue": 17179869184,
+                      "Value": 4.0
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 17179869184
+                    "FixedValue": {
+                      "RawValue": 17179869184,
+                      "Value": 4.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 81604376
+                    "FixedValue": {
+                      "RawValue": 81604376,
+                      "Value": 0.02
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 236223200
+                    "FixedValue": {
+                      "RawValue": 236223200,
+                      "Value": 0.05
                     }
                   }
                 }
@@ -113,8 +120,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 266287972
+                "FixedValue": {
+                  "RawValue": 266287972,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -145,8 +153,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 390842024
+                "FixedValue": {
+                  "RawValue": 390842024,
+                  "Value": 0.09
                 }
               },
               "TaskEnabled": true,
@@ -217,8 +226,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 644245095
+                "FixedValue": {
+                  "RawValue": 644245095,
+                  "Value": 0.15
                 }
               },
               "TaskEnabled": true,
@@ -249,13 +259,15 @@
                     {
                       "NormalizedTimeStart": {},
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 10737418242
+                        "FixedValue": {
+                          "RawValue": 10737418242,
+                          "Value": 2.5
                         }
                       }
                     }
@@ -271,8 +283,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 266287972
+                    "FixedValue": {
+                      "RawValue": 266287972,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -303,8 +316,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 390842024
+                    "FixedValue": {
+                      "RawValue": 390842024,
+                      "Value": 0.09
                     }
                   },
                   "TaskEnabled": true,
@@ -368,8 +382,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 644245095
+                    "FixedValue": {
+                      "RawValue": 644245095,
+                      "Value": 0.15
                     }
                   },
                   "TaskEnabled": true,
@@ -400,13 +415,15 @@
                         {
                           "NormalizedTimeStart": {},
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 214748365
+                            "FixedValue": {
+                              "RawValue": 214748365,
+                              "Value": 0.05
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 8589934592
+                            "FixedValue": {
+                              "RawValue": 8589934592,
+                              "Value": 2.0
                             }
                           }
                         }
@@ -422,8 +439,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 266287972
+                        "FixedValue": {
+                          "RawValue": 266287972,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -454,8 +472,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 390842024
+                        "FixedValue": {
+                          "RawValue": 390842024,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -496,8 +515,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 644245095
+                        "FixedValue": {
+                          "RawValue": 644245095,
+                          "Value": 0.15
                         }
                       },
                       "TaskEnabled": true,
@@ -527,8 +547,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 249108101
+                        "FixedValue": {
+                          "RawValue": 249108101,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -559,8 +580,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 390842024
+                        "FixedValue": {
+                          "RawValue": 390842024,
+                          "Value": 0.09
                         }
                       },
                       "TaskEnabled": true,
@@ -602,8 +624,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 644245095
+                        "FixedValue": {
+                          "RawValue": 644245095,
+                          "Value": 0.15
                         }
                       },
                       "TaskEnabled": true,
@@ -658,8 +681,7 @@
       ],
       "Name": "LocalPlayer_Mydeimos_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -687,16 +709,18 @@
             "Alias": "Caster"
           },
           "Distance": {
-            "fixedValue": {
-              "RawValue": 17179869184
+            "FixedValue": {
+              "RawValue": 17179869184,
+              "Value": 4.0
             }
           },
           "OffsetX": {},
           "OffsetY": {},
           "YawAngle": {},
           "Duration": {
-            "fixedValue": {
-              "RawValue": 12884901888
+            "FixedValue": {
+              "RawValue": 12884901888,
+              "Value": 3.0
             }
           },
           "ForbidSkillMsg": true,
@@ -729,8 +753,9 @@
           },
           "ModifierName": "ADV_Modifier_Maze_Mydeimos_HolyShield",
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": 8589934592
+            "FixedValue": {
+              "RawValue": 8589934592,
+              "Value": 2.0
             }
           },
           "TaskEnabled": true,
@@ -744,8 +769,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 93368856
+            "FixedValue": {
+              "RawValue": 93368856,
+              "Value": 0.02
             }
           },
           "TaskEnabled": true,
@@ -798,8 +824,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 133143986
+            "FixedValue": {
+              "RawValue": 133143986,
+              "Value": 0.03
             }
           },
           "TaskEnabled": true,
@@ -820,8 +847,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 502511172
+            "FixedValue": {
+              "RawValue": 502511172,
+              "Value": 0.12
             }
           },
           "TaskEnabled": true,
@@ -849,8 +877,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 672255587
+            "FixedValue": {
+              "RawValue": 672255587,
+              "Value": 0.16
             }
           },
           "TaskEnabled": true,
@@ -903,8 +932,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 730144441
+            "FixedValue": {
+              "RawValue": 730144441,
+              "Value": 0.17
             }
           },
           "TaskEnabled": true,
@@ -943,8 +973,9 @@
           },
           "AnimStateName": "MazeSkill",
           "NormalizedTimeEnd": {
-            "fixedValue": {
-              "RawValue": 751619276
+            "FixedValue": {
+              "RawValue": 751619276,
+              "Value": 0.17
             }
           },
           "TaskEnabled": true,
@@ -989,8 +1020,10 @@
               },
               "ID": 140401,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Mydeimos_00_Ability.AbilityList.1.OnStart.15.OnAttack.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1050,8 +1083,7 @@
     {
       "Name": "LocalPlayer_Mydeimos_00_BeforeBattleStunListener",
       "TargetInfo": {
-        "TargetType": "Caster",
-        "MaxTargetCount": 1
+        "TargetType": "Caster"
       },
       "OnStart": [
         {
@@ -1062,8 +1094,9 @@
           },
           "ModifierName": "ADV_StageAbility_Mydeimos_00_BeforeBattleStunListener",
           "Count": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "TaskEnabled": true,
@@ -1075,8 +1108,7 @@
       "ManualTriggerType": "Free",
       "Name": "LocalPlayer_Mydeimos_00_MazeSkill_Stun",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -1119,8 +1151,10 @@
               },
               "ID": 140401,
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Mydeimos_00_Ability.AbilityList.3.OnStart.0.OnAttack.0.LifeTime.FixedValue"
                 }
               },
               "TaskEnabled": true,
@@ -1162,21 +1196,6 @@
           "IsClientOnly": true
         }
       ],
-      "OnDestroy": [
-        {
-          "$type": "RPG.GameCore.RemoveEffect",
-          "TargetType": {
-            "$type": "RPG.GameCore.TargetAlias",
-            "Alias": "ModifierOwnerEntity"
-          },
-          "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Argenti_00/Eff_Avatar_Argenti_00_MazeSkill_Icon.prefab",
-          "IsNeedFadeOut": true,
-          "FadeOutRegionStart": -1.0,
-          "FadeOutRegionEnd": -1.0,
-          "TaskEnabled": true,
-          "IsClientOnly": true
-        }
-      ],
       "Count": 1,
       "Stacking": "Replace"
     },
@@ -1206,13 +1225,16 @@
             "IsClientOnly": true
           },
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Mydeimos_00_Ability.GlobalModifiers.ADV_StageAbility_Mydeimos_00_BeforeBattleStunListener.OnBeforeBattle.0.LifeTime.FixedValue"
             }
           },
           "Count": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "TaskEnabled": true,

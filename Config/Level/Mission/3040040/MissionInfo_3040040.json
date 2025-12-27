@@ -77,6 +77,7 @@
       "TakeParamIntList": [
         3040040
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_304004003",
@@ -101,6 +102,7 @@
       "TakeParamIntList": [
         3040040
       ],
+      "TakeParamStrList": [],
       "FinishType": "Talk",
       "ParamType": "Equal",
       "ParamStr1": "Mission_304004004",
@@ -342,6 +344,16 @@
       "IgnoreVerseParamList": []
     }
   ],
-  "MissionCustomValueList": [],
+  "MissionCustomValueList": [
+    {
+      "Index": 1,
+      "Name": "MissionResult_304004004",
+      "isRange": true,
+      "ValidValueParamList": [
+        0,
+        0
+      ]
+    }
+  ],
   "AssistWayPointPackList": []
 }

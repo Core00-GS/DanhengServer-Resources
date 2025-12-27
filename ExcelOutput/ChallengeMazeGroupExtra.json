@@ -170,5 +170,33 @@
   {
     "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_10.png",
     "GroupID": 1022
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_11.png",
+    "GroupID": 1023
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_08.png",
+    "GroupID": 1024
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_03_03.png",
+    "GroupID": 1025
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_10.png",
+    "GroupID": 1026
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_13.png",
+    "GroupID": 1027
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_03_03.png",
+    "GroupID": 1028
+  },
+  {
+    "ThemePosterBgPicPath": "SpriteOutput/Abyss/2D_SceneBg/AbyssSenceBgl_Red_14.png",
+    "GroupID": 1029
   }
 ]

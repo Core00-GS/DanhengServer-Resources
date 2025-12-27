@@ -14,7 +14,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612721": {
       "LifeTime": -1.0,
@@ -200,7 +201,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_612751": {
       "LifeTime": -1.0,
@@ -286,7 +288,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_619921": {
       "LifeTime": -1.0,
@@ -342,7 +345,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641201": {
       "LifeTime": -1.0,
@@ -368,7 +372,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641211": {
       "LifeTime": -1.0,
@@ -394,7 +399,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641230": {
       "LifeTime": -1.0,
@@ -410,7 +416,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641231": {
       "LifeTime": -1.0,
@@ -426,7 +433,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641240": {
       "LifeTime": -1.0,
@@ -442,7 +450,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641241": {
       "LifeTime": -1.0,
@@ -468,7 +477,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641251": {
       "LifeTime": -1.0,
@@ -514,7 +524,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641261": {
       "LifeTime": -1.0,
@@ -540,7 +551,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_641271": {
       "LifeTime": -1.0,
@@ -1056,7 +1068,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_642260": {
       "LifeTime": -1.0,
@@ -1352,7 +1365,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_632002": {
       "LifeTime": -1.0,
@@ -1408,7 +1422,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Replace"
+      "Stacking": "Replace",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_632007": {
       "LifeTime": -1.0,
@@ -1424,7 +1439,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_632008": {
       "LifeTime": -1.0,
@@ -1440,7 +1456,8 @@
         }
       ],
       "Count": -1,
-      "Stacking": "Unique"
+      "Stacking": "Unique",
+      "DynamicValues": {}
     },
     "ADV_StageAbility_632009": {
       "LifeTime": -1.0,

@@ -1,106 +1,128 @@
 [
   {
-    "BonusValue": -10.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 408064842793,
+      "Value": 95.01
+    },
     "SetID": 124,
-    "Threshold": {
-      "RawValue": 408064842793
-    }
+    "BonusValue": -10.0,
+    "Property": "Speed"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 515396075520,
+      "Value": 120.0
+    },
     "SetID": 301,
-    "Threshold": {
-      "RawValue": 515396075520
-    }
+    "BonusValue": 10.0,
+    "Property": "Speed"
   },
   {
-    "BonusValue": 15.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 515396075520,
+      "Value": 120.0
+    },
     "SetID": 302,
-    "Threshold": {
-      "RawValue": 515396075520
-    }
+    "BonusValue": 15.0,
+    "Property": "Speed"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "StatusProbability",
+    "Threshold": {
+      "RawValue": 2147483650,
+      "Value": 0.5
+    },
     "SetID": 304,
-    "Threshold": {
-      "RawValue": 2147483650
-    }
+    "BonusValue": 10.0,
+    "Property": "StatusProbability"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "CriticalDamage",
+    "Threshold": {
+      "RawValue": 5153960756,
+      "Value": 1.2
+    },
     "SetID": 305,
-    "Threshold": {
-      "RawValue": 5153960756
-    }
+    "BonusValue": 10.0,
+    "Property": "CriticalDamage"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "CriticalChance",
+    "Threshold": {
+      "RawValue": 2147483650,
+      "Value": 0.5
+    },
     "SetID": 306,
-    "Threshold": {
-      "RawValue": 2147483650
-    }
+    "BonusValue": 10.0,
+    "Property": "CriticalChance"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 622770257920,
+      "Value": 145.0
+    },
     "SetID": 307,
-    "Threshold": {
-      "RawValue": 622770257920
-    }
+    "BonusValue": 10.0,
+    "Property": "Speed"
   },
   {
-    "BonusValue": 15.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 515396075520,
+      "Value": 120.0
+    },
     "SetID": 308,
-    "Threshold": {
-      "RawValue": 515396075520
-    }
-  },
-  {
-    "BonusValue": 10.0,
-    "Property": "CriticalChance",
-    "SetID": 309,
-    "Threshold": {
-      "RawValue": 3006477110
-    }
-  },
-  {
     "BonusValue": 15.0,
-    "Property": "StatusResistance",
+    "Property": "Speed"
+  },
+  {
+    "Threshold": {
+      "RawValue": 3006477110,
+      "Value": 0.7
+    },
+    "SetID": 309,
+    "BonusValue": 10.0,
+    "Property": "CriticalChance"
+  },
+  {
+    "Threshold": {
+      "RawValue": 1288490190,
+      "Value": 0.3
+    },
     "SetID": 310,
-    "Threshold": {
-      "RawValue": 1288490190
-    }
+    "BonusValue": 15.0,
+    "Property": "StatusResistance"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "Speed",
+    "Threshold": {
+      "RawValue": 579820584960,
+      "Value": 135.0
+    },
     "SetID": 311,
-    "Threshold": {
-      "RawValue": 579820584960
-    }
+    "BonusValue": 10.0,
+    "Property": "Speed"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "MaxHP",
+    "Threshold": {
+      "RawValue": 21474836480000,
+      "Value": 5000.0
+    },
     "SetID": 319,
-    "Threshold": {
-      "RawValue": 21474836480000
-    }
+    "BonusValue": 10.0,
+    "Property": "MaxHP"
   },
   {
-    "BonusValue": 10.0,
-    "Property": "CriticalChance",
-    "SetID": 320,
     "Threshold": {
-      "RawValue": 3006477110
-    }
+      "RawValue": 3006477110,
+      "Value": 0.7
+    },
+    "SetID": 320,
+    "BonusValue": 10.0,
+    "Property": "CriticalChance"
+  },
+  {
+    "Threshold": {
+      "RawValue": 15461882265600,
+      "Value": 3600.0
+    },
+    "SetID": 322,
+    "BonusValue": 10.0,
+    "Property": "Attack"
   }
 ]

@@ -20,6 +20,7 @@
     "MuseumItemID": 250009,
     "EventMuseumItemID": 2,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001202
   },
   {
@@ -31,6 +32,7 @@
     "MuseumItemID": 250012,
     "EventMuseumItemID": 3,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001203
   },
   {
@@ -42,6 +44,7 @@
     "MuseumItemID": 250008,
     "EventMuseumItemID": 5,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001205
   },
   {
@@ -53,6 +56,7 @@
     "MuseumItemID": 250006,
     "EventMuseumItemID": 6,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001206
   },
   {
@@ -64,6 +68,7 @@
     "MuseumItemID": 250007,
     "EventMuseumItemID": 7,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001207
   },
   {
@@ -75,6 +80,7 @@
     "MuseumItemID": 250011,
     "EventMuseumItemID": 8,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001208
   },
   {
@@ -85,6 +91,8 @@
     },
     "MuseumItemID": 250013,
     "EventMuseumItemID": 9,
+    "IsTargetReward": false,
+    "ForceComplete": false,
     "MissionID": 8001209
   },
   {
@@ -96,6 +104,7 @@
     "MuseumItemID": 250020,
     "EventMuseumItemID": 11,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001211
   },
   {
@@ -106,6 +115,8 @@
     },
     "MuseumItemID": 250023,
     "EventMuseumItemID": 12,
+    "IsTargetReward": false,
+    "ForceComplete": false,
     "MissionID": 8001212
   },
   {
@@ -117,6 +128,7 @@
     "MuseumItemID": 250019,
     "EventMuseumItemID": 13,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001213
   },
   {
@@ -128,6 +140,7 @@
     "MuseumItemID": 250022,
     "EventMuseumItemID": 15,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001215
   },
   {
@@ -139,6 +152,7 @@
     "MuseumItemID": 250021,
     "EventMuseumItemID": 16,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001216
   },
   {
@@ -150,6 +164,7 @@
     "MuseumItemID": 250031,
     "EventMuseumItemID": 19,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001219
   },
   {
@@ -161,6 +176,7 @@
     "MuseumItemID": 250032,
     "EventMuseumItemID": 20,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001220
   },
   {
@@ -171,6 +187,8 @@
     },
     "MuseumItemID": 250033,
     "EventMuseumItemID": 23,
+    "IsTargetReward": false,
+    "ForceComplete": false,
     "MissionID": 8001224
   },
   {
@@ -181,6 +199,8 @@
     },
     "MuseumItemID": 250034,
     "EventMuseumItemID": 24,
+    "IsTargetReward": false,
+    "ForceComplete": false,
     "MissionID": 8001223
   },
   {
@@ -192,6 +212,7 @@
     "MuseumItemID": 250037,
     "EventMuseumItemID": 25,
     "IsTargetReward": true,
+    "ForceComplete": false,
     "MissionID": 8001226
   }
 ]

@@ -6,8 +6,9 @@
   "ShoesType": "boot",
   "AttachPoint": "Origin",
   "Duration": {
-    "fixedValue": {
-      "RawValue": -4294967296
+    "FixedValue": {
+      "RawValue": -4294967296,
+      "Value": -1.0
     }
   },
   "OnCreate": [],
@@ -18,8 +19,9 @@
         "TriggerName": "JadeNpcMonsterTrigger",
         "DefaultEnable": true,
         "Radius": {
-          "fixedValue": {
-            "RawValue": 42949672960
+          "FixedValue": {
+            "RawValue": 42949672960,
+            "Value": 10.0
           }
         },
         "UseVerticalBound": true,
@@ -40,8 +42,9 @@
             },
             "ID": 131401,
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": -4294967296
+              "FixedValue": {
+                "RawValue": -4294967296,
+                "Value": -1.0
               }
             },
             "TaskEnabled": true,
@@ -55,8 +58,9 @@
             },
             "ModifierName": "ADV_StageAbility_Maze_Jade_Flag",
             "LifeTime": {
-              "fixedValue": {
-                "RawValue": -4294967296
+              "FixedValue": {
+                "RawValue": -4294967296,
+                "Value": -1.0
               }
             },
             "TaskEnabled": true,

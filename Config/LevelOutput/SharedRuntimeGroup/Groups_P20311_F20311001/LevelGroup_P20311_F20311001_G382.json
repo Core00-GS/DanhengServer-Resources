@@ -14,6 +14,12 @@
   "StreamingTemplateType": "Standard",
   "HoyoGroupLowestLoadPlatformQuality": "VeryLow",
   "ConflictWhiteList": [],
+  "TagContainer": [
+    {
+      "Tag": "Group.Audio.Sound",
+      "TagHash": 1757672304
+    }
+  ],
   "AnchorList": [],
   "MonsterList": [],
   "PropList": [],
@@ -4285,90 +4291,9 @@
       "Trigger": {
         "Shape": "Box",
         "Radius": 1.0,
-        "DimX": 30.0,
-        "DimY": 6.0,
-        "DimZ": 40.0,
-        "PointList": []
-      },
-      "LoadOnInitial": true,
-      "CanTriggerByFakeAvatar": true,
-      "NPCCrowdRadius": 25.0,
-      "ValueSource": {},
-      "Name": "District9",
-      "ID": 9,
-      "PosX": -140.37,
-      "PosY": 17.88,
-      "PosZ": -147.67
-    },
-    {
-      "Scale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
-        "normalized": {
-          "x": 0.577350259,
-          "y": 0.577350259,
-          "z": 0.577350259,
-          "normalized": {
-            "x": 0.5773503,
-            "y": 0.5773503,
-            "z": 0.5773503,
-            "magnitude": 1.00000012,
-            "sqrMagnitude": 1.00000024
-          },
-          "magnitude": 0.99999994,
-          "sqrMagnitude": 0.99999994
-        },
-        "magnitude": 1.73205078,
-        "sqrMagnitude": 3.0
-      },
-      "Trigger": {
-        "Shape": "Box",
-        "Radius": 1.0,
         "DimX": 46.0,
         "DimY": 24.0,
-        "DimZ": 36.0,
-        "PointList": []
-      },
-      "LoadOnInitial": true,
-      "CanTriggerByFakeAvatar": true,
-      "NPCCrowdRadius": 25.0,
-      "ValueSource": {},
-      "Name": "District14",
-      "ID": 14,
-      "PosX": 368.77,
-      "PosY": 19.36,
-      "PosZ": -281.55
-    },
-    {
-      "Scale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
-        "normalized": {
-          "x": 0.577350259,
-          "y": 0.577350259,
-          "z": 0.577350259,
-          "normalized": {
-            "x": 0.5773503,
-            "y": 0.5773503,
-            "z": 0.5773503,
-            "magnitude": 1.00000012,
-            "sqrMagnitude": 1.00000024
-          },
-          "magnitude": 0.99999994,
-          "sqrMagnitude": 0.99999994
-        },
-        "magnitude": 1.73205078,
-        "sqrMagnitude": 3.0
-      },
-      "Trigger": {
-        "Shape": "Box",
-        "Radius": 1.0,
-        "DimX": 46.0,
-        "DimY": 24.0,
-        "DimZ": 36.0,
-        "PointList": []
+        "DimZ": 36.0
       },
       "LoadOnInitial": true,
       "OnEnterAudioState": [

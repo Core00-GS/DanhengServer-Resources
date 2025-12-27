@@ -3,7 +3,12 @@
   "AreaAnchorName": "LevelArea_P10401_F10401001_G21",
   "SaveType": "Reset",
   "SavedValueCondition": {
-    "Conditions": [],
+    "Conditions": [
+      {
+        "SavedValueName": "FSV_LoadEntrance_4",
+        "Operation": "Equal"
+      }
+    ],
     "Operation": "And"
   },
   "LoadOnInitial": true,
@@ -88,8 +93,7 @@
             "y": 1.0,
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
-          },
-          "PointList": []
+          }
         },
         "ExitTrigger": {
           "Shape": "Box",
@@ -101,8 +105,7 @@
             "y": 1.0,
             "magnitude": 1.0,
             "sqrMagnitude": 1.0
-          },
-          "PointList": []
+          }
         }
       },
       "StateConfigs": [],
@@ -112,10 +115,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {
@@ -162,10 +169,14 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "DialogueTriggerSkipSpecifiedFakeAvatarList": [],
       "CameraCenterEntityList": [],
       "CameraConfig": {},
+      "OverrideAdvEffectMap": {},
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
       "SpawnConfig": {

@@ -1,62 +1,62 @@
 [
   {
     "BaseValue": 1.728,
-    "RelicSubAffix": "AttackDelta",
-    "Type": "Attack"
+    "Type": "Attack",
+    "RelicSubAffix": "AttackDelta"
   },
   {
     "BaseValue": 3.888,
-    "RelicSubAffix": "AttackAddedRatio",
-    "Type": "Attack"
+    "Type": "Attack",
+    "RelicSubAffix": "AttackAddedRatio"
   },
   {
     "BaseValue": 1.728,
-    "RelicSubAffix": "HPDelta",
-    "Type": "HP"
+    "Type": "HP",
+    "RelicSubAffix": "HPDelta"
   },
   {
     "BaseValue": 3.888,
-    "RelicSubAffix": "HPAddedRatio",
-    "Type": "HP"
+    "Type": "HP",
+    "RelicSubAffix": "HPAddedRatio"
   },
   {
     "BaseValue": 1.728,
-    "RelicSubAffix": "DefenceDelta",
-    "Type": "Defence"
+    "Type": "Defence",
+    "RelicSubAffix": "DefenceDelta"
   },
   {
     "BaseValue": 3.888,
-    "RelicSubAffix": "DefenceAddedRatio",
-    "Type": "Defence"
+    "Type": "Defence",
+    "RelicSubAffix": "DefenceAddedRatio"
   },
   {
     "BaseValue": 4.6,
-    "RelicSubAffix": "SpeedDelta",
-    "Type": "Speed"
+    "Type": "Speed",
+    "RelicSubAffix": "SpeedDelta"
   },
   {
     "BaseValue": 4.374,
-    "RelicSubAffix": "CriticalChanceBase",
-    "Type": "CriticalChance"
+    "Type": "CriticalChance",
+    "RelicSubAffix": "CriticalChanceBase"
   },
   {
     "BaseValue": 4.374,
-    "RelicSubAffix": "CriticalDamageBase",
-    "Type": "CriticalDamage"
+    "Type": "CriticalDamage",
+    "RelicSubAffix": "CriticalDamageBase"
   },
   {
     "BaseValue": 3.888,
-    "RelicSubAffix": "StatusProbabilityBase",
-    "Type": "StatusProbability"
+    "Type": "StatusProbability",
+    "RelicSubAffix": "StatusProbabilityBase"
   },
   {
     "BaseValue": 3.888,
-    "RelicSubAffix": "StatusResistanceBase",
-    "Type": "StatusResistance"
+    "Type": "StatusResistance",
+    "RelicSubAffix": "StatusResistanceBase"
   },
   {
     "BaseValue": 4.374,
-    "RelicSubAffix": "BreakDamageAddedRatioBase",
-    "Type": "BreakDamage"
+    "Type": "BreakDamage",
+    "RelicSubAffix": "BreakDamageAddedRatioBase"
   }
 ]

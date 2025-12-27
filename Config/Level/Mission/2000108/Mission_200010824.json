@@ -6,8 +6,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -46,13 +47,15 @@
         {
           "$type": "RPG.GameCore.CreateNPC",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 25769803776
+            "FixedValue": {
+              "RawValue": 25769803776,
+              "Value": 6.0
             }
           },
           "GroupNpcID": {
-            "fixedValue": {
-              "RawValue": 1718025573105664
+            "FixedValue": {
+              "RawValue": 1718025573105664,
+              "Value": 400009.0
             }
           },
           "TaskEnabled": true,

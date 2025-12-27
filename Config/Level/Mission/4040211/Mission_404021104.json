@@ -9,13 +9,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 188978561024
+            "FixedValue": {
+              "RawValue": 188978561024,
+              "Value": 44.0
             }
           },
           "DestroyList": [],
@@ -25,13 +27,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 188978561024
+            "FixedValue": {
+              "RawValue": 188978561024,
+              "Value": 44.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "TaskEnabled": true,
@@ -40,7 +44,9 @@
         {
           "$type": "RPG.GameCore.PropSetupUITrigger",
           "ButtonIcon": "SpriteOutput/TalkIcon/CheckIcon.png",
-          "IconType": "CheckIcon",
+          "IconType": {
+            "JsonValueStr": "CheckIcon"
+          },
           "ButtonText": {
             "Hash": 278713940,
             "Hash64": 7018795788841107991
@@ -62,13 +68,15 @@
             "FetchType": "SinglePropByPropID",
             "SinglePropID": {
               "GroupID": {
-                "fixedValue": {
-                  "RawValue": 188978561024
+                "FixedValue": {
+                  "RawValue": 188978561024,
+                  "Value": 44.0
                 }
               },
               "ID": {
-                "fixedValue": {
-                  "RawValue": 1288498778734592
+                "FixedValue": {
+                  "RawValue": 1288498778734592,
+                  "Value": 300002.0
                 }
               }
             }
@@ -113,7 +121,9 @@
           "Predicate": {
             "$type": "RPG.GameCore.ByCompareMissionCustomValue",
             "MainMissionID": 4040216,
-            "MissionCustomValue": {},
+            "MissionCustomValue": {
+              "Name": "OldValue_0"
+            },
             "EquationType": "Equal",
             "TargetValue": 2,
             "TaskEnabled": true,
@@ -181,13 +191,15 @@
             "$type": "RPG.GameCore.TargetFetchAdvPropEx"
           },
           "ID": {
-            "fixedValue": {
-              "RawValue": 1288498778734592
+            "FixedValue": {
+              "RawValue": 1288498778734592,
+              "Value": 300002.0
             }
           },
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 188978561024
+            "FixedValue": {
+              "RawValue": 188978561024,
+              "Value": 44.0
             }
           },
           "DestroyList": [],

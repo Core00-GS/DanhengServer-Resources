@@ -9,10 +9,8 @@
       "QuickEntrance",
       "Team",
       "ActionNormal",
-      "Buff"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Buff",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -32,17 +30,21 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
-    "ID": 1001,
-    "ActionOperationSetID": 135
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 135,
+    "ID": 1001
   },
   {
     "HideHudUINodeList": [
-      "Phone"
+      "Phone",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [],
-    "ID": 1002,
-    "ActionOperationSetID": 136
+    "LockInputActionName": [],
+    "ActionOperationSetID": 136,
+    "ID": 1002
   },
   {
     "HideHudUINodeList": [
@@ -55,9 +57,9 @@
       "Team",
       "Buff",
       "Attack",
-      "Skill"
+      "Skill",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "Mission",
@@ -76,17 +78,21 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1003
   },
   {
     "HideHudUINodeList": [
       "Phone",
-      "ActionNormal"
+      "ActionNormal",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "MobilePhone"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1004
   },
   {
@@ -98,10 +104,8 @@
       "Chat",
       "QuickEntrance",
       "Team",
-      "Buff"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Buff",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -121,6 +125,10 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1005
   },
   {
@@ -131,9 +139,9 @@
       "QuickEntrance",
       "Buff",
       "Attack",
-      "Skill"
+      "Skill",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "PhoneNotice",
       "Chat",
@@ -148,8 +156,9 @@
       "MobilePhone",
       "PhoneMessage"
     ],
-    "ID": 1006,
-    "ActionOperationSetID": 170
+    "LockInputActionName": [],
+    "ActionOperationSetID": 170,
+    "ID": 1006
   },
   {
     "HideHudUINodeList": [
@@ -164,9 +173,9 @@
       "Team",
       "Joystick",
       "ActionNormal",
-      "Buff"
+      "Buff",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "Mission",
@@ -185,6 +194,8 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1007
   },
   {
@@ -197,10 +208,8 @@
       "QuickEntrance",
       "Team",
       "Buff",
-      "ActionNormal"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "ActionNormal",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -220,6 +229,10 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1008
   },
   {
@@ -238,10 +251,8 @@
       "Buff",
       "Attack",
       "Skill",
-      "Run"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Run",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -262,6 +273,10 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1009
   },
   {
@@ -279,10 +294,8 @@
       "Buff",
       "Attack",
       "Skill",
-      "Run"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Run",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -303,6 +316,10 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1010
   },
   {
@@ -321,10 +338,8 @@
       "Buff",
       "Attack",
       "Skill",
-      "Run"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Run",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -345,6 +360,10 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1011
   },
   {
@@ -358,10 +377,8 @@
       "Attack",
       "Skill",
       "Run",
-      "Buff"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Buff",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "Mission",
@@ -379,8 +396,11 @@
       "ShortCutWheel",
       "RaidMap"
     ],
-    "ID": 1012,
-    "ActionOperationSetID": 177
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 177,
+    "ID": 1012
   },
   {
     "HideHudUINodeList": [
@@ -393,9 +413,9 @@
       "Team",
       "Buff",
       "Attack",
-      "Skill"
+      "Skill",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "Mission",
@@ -414,6 +434,8 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1013
   },
   {
@@ -427,10 +449,8 @@
       "Team",
       "Attack",
       "Skill",
-      "Buff"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "Buff",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -449,6 +469,10 @@
       "ShortCutWheel",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
     "ID": 1014
   },
   {
@@ -462,9 +486,9 @@
       "Team",
       "Attack",
       "Skill",
-      "Buff"
+      "Buff",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "Mission",
@@ -482,11 +506,14 @@
       "ShortCutWheel",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1015
   },
   {
-    "HideHudUINodeList": [],
-    "LockInputActionName": [],
+    "HideHudUINodeList": [
+      "ActivityInvite"
+    ],
     "LockGotoTypeList": [
       "AreaSwitch",
       "TeamEdit",
@@ -516,6 +543,8 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1016
   },
   {
@@ -533,9 +562,9 @@
       "Buff",
       "Attack",
       "Skill",
-      "Run"
+      "Run",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "TeamEdit",
@@ -565,8 +594,9 @@
       "RaidMap",
       "StoryLineAreaSwitch"
     ],
-    "ID": 1017,
-    "ActionOperationSetID": 2
+    "LockInputActionName": [],
+    "ActionOperationSetID": 2,
+    "ID": 1017
   },
   {
     "HideHudUINodeList": [
@@ -580,10 +610,8 @@
       "Joystick",
       "ActionNormal",
       "Buff",
-      "StoryLine"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "StoryLine",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "AreaSwitch",
@@ -604,8 +632,11 @@
       "StoryLineAreaSwitch",
       "StoryLineSwitch"
     ],
-    "ID": 1018,
-    "ActionOperationSetID": 177
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 177,
+    "ID": 1018
   },
   {
     "HideHudUINodeList": [
@@ -624,9 +655,9 @@
       "Skill",
       "Run",
       "StoryLine",
-      "Talk"
+      "Talk",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "TeamEdit",
@@ -657,6 +688,8 @@
       "StoryLineAreaSwitch",
       "StoryLineSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1019
   },
   {
@@ -670,10 +703,8 @@
       "Team",
       "ActionNormal",
       "Buff",
-      "StoryLine"
-    ],
-    "LockInputActionName": [
-      "Maze_Walk"
+      "StoryLine",
+      "ActivityInvite"
     ],
     "LockGotoTypeList": [
       "Mission",
@@ -693,8 +724,11 @@
       "StoryLineAreaSwitch",
       "StoryLineSwitch"
     ],
-    "ID": 1020,
-    "ActionOperationSetID": 177
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 177,
+    "ID": 1020
   },
   {
     "HideHudUINodeList": [
@@ -714,9 +748,9 @@
       "Skill",
       "Run",
       "StoryLine",
-      "Talk"
+      "Talk",
+      "ActivityInvite"
     ],
-    "LockInputActionName": [],
     "LockGotoTypeList": [
       "AreaSwitch",
       "TeamEdit",
@@ -747,6 +781,254 @@
       "StoryLineAreaSwitch",
       "StoryLineSwitch"
     ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
     "ID": 1021
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "Team",
+      "Joystick",
+      "ActionNormal",
+      "Buff",
+      "StoryLine",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "PhoneNotice",
+      "Chat",
+      "TeamEdit",
+      "Avatar",
+      "Inventory",
+      "Shop",
+      "Activity",
+      "Gacha",
+      "Wikipedia",
+      "BattlePass",
+      "DailyMission",
+      "ShortCutWheel",
+      "StoryLineSwitch"
+    ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
+    "ID": 1022
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Map",
+      "Mission",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "MissionTrace",
+      "Team",
+      "Joystick",
+      "ActionNormal",
+      "Buff",
+      "StoryLine",
+      "Talk",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "AreaSwitch",
+      "BigMap",
+      "StoryLineAreaSwitch",
+      "PhoneNotice",
+      "Chat",
+      "TeamEdit",
+      "Avatar",
+      "Inventory",
+      "Shop",
+      "Mission",
+      "Activity",
+      "Gacha",
+      "Wikipedia",
+      "BattlePass",
+      "DailyMission",
+      "ShortCutWheel",
+      "StoryLineSwitch"
+    ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
+    "ID": 1023
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Mission",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "Team",
+      "ActionNormal",
+      "Buff",
+      "StoryLine",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "AreaSwitch",
+      "Mission",
+      "PhoneNotice",
+      "Wikipedia",
+      "Chat",
+      "Avatar",
+      "TeamEdit",
+      "Inventory",
+      "Shop",
+      "Activity",
+      "BigMap",
+      "Gacha",
+      "BattlePass",
+      "DailyMission",
+      "ShortCutWheel",
+      "RaidMap",
+      "StoryLineAreaSwitch",
+      "StoryLineSwitch"
+    ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 135,
+    "ID": 1024
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Map",
+      "Mission",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "MissionTrace",
+      "Team",
+      "Joystick",
+      "Buff",
+      "Attack",
+      "Skill",
+      "Run",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "AreaSwitch",
+      "TeamEdit",
+      "Avatar",
+      "Inventory",
+      "Shop",
+      "Mission",
+      "Activity",
+      "Mail",
+      "Notice",
+      "DailyMission",
+      "LevelReward",
+      "BigMap",
+      "MobilePhone",
+      "Gacha",
+      "PhoneMessage",
+      "Friend",
+      "BattlePass",
+      "PhoneNotice",
+      "Archive",
+      "Chat",
+      "AetherArchive",
+      "AetherInventory",
+      "AetherTeamEdit",
+      "AetherSpirit",
+      "ShortCutWheel",
+      "RaidMap",
+      "StoryLineAreaSwitch",
+      "StoryLineSwitch"
+    ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
+    "ID": 1025
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Mission",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "Team",
+      "Joystick",
+      "ActionNormal",
+      "Buff",
+      "StoryLine",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "PhoneNotice",
+      "Chat",
+      "TeamEdit",
+      "Avatar",
+      "Inventory",
+      "Shop",
+      "Mission",
+      "Activity",
+      "Gacha",
+      "Wikipedia",
+      "BattlePass",
+      "DailyMission",
+      "ShortCutWheel",
+      "StoryLineSwitch"
+    ],
+    "LockInputActionName": [
+      "Maze_Walk"
+    ],
+    "ActionOperationSetID": 0,
+    "ID": 1026
+  },
+  {
+    "HideHudUINodeList": [
+      "Phone",
+      "Map",
+      "Mission",
+      "Message",
+      "Guide",
+      "Chat",
+      "QuickEntrance",
+      "MissionTrace",
+      "Team",
+      "Joystick",
+      "ActionNormal",
+      "Buff",
+      "StoryLine",
+      "ActivityInvite"
+    ],
+    "LockGotoTypeList": [
+      "AreaSwitch",
+      "Mission",
+      "PhoneNotice",
+      "Wikipedia",
+      "Chat",
+      "Avatar",
+      "TeamEdit",
+      "Inventory",
+      "Shop",
+      "Activity",
+      "Gacha",
+      "BattlePass",
+      "DailyMission",
+      "ShortCutWheel",
+      "RaidMap",
+      "StoryLineAreaSwitch"
+    ],
+    "LockInputActionName": [],
+    "ActionOperationSetID": 0,
+    "ID": 1027
   }
 ]

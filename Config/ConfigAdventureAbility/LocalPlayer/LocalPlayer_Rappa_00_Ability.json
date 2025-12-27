@@ -3,8 +3,7 @@
     {
       "Name": "LocalPlayer_Rappa_00_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -52,43 +51,51 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "OffsetTargetDistance": {
-                    "fixedValue": {
-                      "RawValue": 5153960756
+                    "FixedValue": {
+                      "RawValue": 5153960756,
+                      "Value": 1.2
                     }
                   },
                   "NormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 115964115
+                    "FixedValue": {
+                      "RawValue": 115964115,
+                      "Value": 0.03
                     }
                   },
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 244813134
+                    "FixedValue": {
+                      "RawValue": 244813134,
+                      "Value": 0.06
                     }
                   },
                   "DefaultMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 17179869184
+                    "FixedValue": {
+                      "RawValue": 17179869184,
+                      "Value": 4.0
                     }
                   },
                   "MaxMoveDistance": {
-                    "fixedValue": {
-                      "RawValue": 21474836480
+                    "FixedValue": {
+                      "RawValue": 21474836480,
+                      "Value": 5.0
                     }
                   },
                   "MaxSpeed": {
-                    "fixedValue": {
-                      "RawValue": 1288490188800
+                    "FixedValue": {
+                      "RawValue": 1288490188800,
+                      "Value": 300.0
                     }
                   },
                   "SteerNormalizedTimeStart": {
-                    "fixedValue": {
-                      "RawValue": 115964115
+                    "FixedValue": {
+                      "RawValue": 115964115,
+                      "Value": 0.03
                     }
                   },
                   "SteerNormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 244813134
+                    "FixedValue": {
+                      "RawValue": 244813134,
+                      "Value": 0.06
                     }
                   }
                 }
@@ -104,8 +111,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 257698038
+                "FixedValue": {
+                  "RawValue": 257698038,
+                  "Value": 0.06
                 }
               },
               "TaskEnabled": true,
@@ -154,8 +162,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 601295422
+                "FixedValue": {
+                  "RawValue": 601295422,
+                  "Value": 0.14
                 }
               },
               "TaskEnabled": true,
@@ -185,18 +194,21 @@
                   "MovingRangeList": [
                     {
                       "NormalizedTimeStart": {
-                        "fixedValue": {
-                          "RawValue": 115964115
+                        "FixedValue": {
+                          "RawValue": 115964115,
+                          "Value": 0.03
                         }
                       },
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 244813134
+                        "FixedValue": {
+                          "RawValue": 244813134,
+                          "Value": 0.06
                         }
                       },
                       "DefaultMoveDistance": {
-                        "fixedValue": {
-                          "RawValue": 8589934592
+                        "FixedValue": {
+                          "RawValue": 8589934592,
+                          "Value": 2.0
                         }
                       }
                     }
@@ -212,8 +224,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 214748365
+                    "FixedValue": {
+                      "RawValue": 214748365,
+                      "Value": 0.05
                     }
                   },
                   "TaskEnabled": true,
@@ -244,8 +257,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 257698038
+                    "FixedValue": {
+                      "RawValue": 257698038,
+                      "Value": 0.06
                     }
                   },
                   "TaskEnabled": true,
@@ -286,8 +300,9 @@
                   },
                   "AnimStateName": "Attack_1",
                   "NormalizedTimeEnd": {
-                    "fixedValue": {
-                      "RawValue": 601295422
+                    "FixedValue": {
+                      "RawValue": 601295422,
+                      "Value": 0.14
                     }
                   },
                   "TaskEnabled": true,
@@ -317,18 +332,21 @@
                       "MovingRangeList": [
                         {
                           "NormalizedTimeStart": {
-                            "fixedValue": {
-                              "RawValue": 115964115
+                            "FixedValue": {
+                              "RawValue": 115964115,
+                              "Value": 0.03
                             }
                           },
                           "NormalizedTimeEnd": {
-                            "fixedValue": {
-                              "RawValue": 244813134
+                            "FixedValue": {
+                              "RawValue": 244813134,
+                              "Value": 0.06
                             }
                           },
                           "DefaultMoveDistance": {
-                            "fixedValue": {
-                              "RawValue": 4294967296
+                            "FixedValue": {
+                              "RawValue": 4294967296,
+                              "Value": 1.0
                             }
                           }
                         }
@@ -344,8 +362,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -376,8 +395,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 257698038
+                        "FixedValue": {
+                          "RawValue": 257698038,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -418,8 +438,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 601295422
+                        "FixedValue": {
+                          "RawValue": 601295422,
+                          "Value": 0.14
                         }
                       },
                       "TaskEnabled": true,
@@ -449,8 +470,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 214748365
+                        "FixedValue": {
+                          "RawValue": 214748365,
+                          "Value": 0.05
                         }
                       },
                       "TaskEnabled": true,
@@ -481,8 +503,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 257698038
+                        "FixedValue": {
+                          "RawValue": 257698038,
+                          "Value": 0.06
                         }
                       },
                       "TaskEnabled": true,
@@ -523,8 +546,9 @@
                       },
                       "AnimStateName": "Attack_1",
                       "NormalizedTimeEnd": {
-                        "fixedValue": {
-                          "RawValue": 601295422
+                        "FixedValue": {
+                          "RawValue": 601295422,
+                          "Value": 0.14
                         }
                       },
                       "TaskEnabled": true,
@@ -545,8 +569,7 @@
       "ManualTriggerType": "BySummonUnit",
       "Name": "LocalPlayer_Rappa_00_MazeSkill_TriggerHitMonster",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -656,8 +679,9 @@
                 "Alias": "Caster"
               },
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "AutoMove": true,
@@ -709,8 +733,7 @@
       "ManualTriggerType": "Free",
       "Name": "LocalPlayer_Rappa_00_MazeSkill_End",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -772,8 +795,9 @@
             "Alias": "Caster"
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "AutoMove": true,
@@ -843,8 +867,9 @@
         {
           "$type": "RPG.GameCore.WaitSecond",
           "WaitTime": {
-            "fixedValue": {
-              "RawValue": 1288490190
+            "FixedValue": {
+              "RawValue": 1288490190,
+              "Value": 0.3
             }
           },
           "MaxAdvencePerTick": -1.0,
@@ -902,8 +927,9 @@
                 "Alias": "Caster"
               },
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "AutoMove": true,
@@ -952,8 +978,7 @@
       "ManualTriggerType": "Free",
       "Name": "LocalPlayer_Rappa_00_MazeSkill_Abort",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -1032,8 +1057,9 @@
             "Alias": "Caster"
           },
           "MaxSteerSpeed": {
-            "fixedValue": {
-              "RawValue": -4294967296
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
             }
           },
           "AutoMove": true,
@@ -1096,8 +1122,7 @@
       "ManualTriggerType": "Free",
       "Name": "LocalPlayer_Rappa_00_MazeSkill_ListenInput",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -1133,8 +1158,10 @@
           ],
           "WaitInteraction": true,
           "MaxWaitTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.4.OnStart.1.MaxWaitTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1147,13 +1174,15 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "DynamicKey": {
             "Value": "DV_AbilityEnd"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -1178,13 +1207,15 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "DynamicKey": {
             "Value": "DV_AbilityEnd"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -1201,8 +1232,7 @@
       ],
       "Name": "LocalPlayer_Rappa_00_MazeSkill",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -1235,13 +1265,16 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.2.Value.FixedValue"
             }
           },
           "DynamicKey": {
             "Value": "SprintModifiedSteerSpeed"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -1251,13 +1284,16 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.3.Value.FixedValue"
             }
           },
           "DynamicKey": {
             "Value": "SprintModifiedSpeed"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         },
         {
@@ -1308,8 +1344,9 @@
                         },
                         "CompareType": "Less",
                         "CompareValue": {
-                          "fixedValue": {
-                            "RawValue": 8589934592
+                          "FixedValue": {
+                            "RawValue": 8589934592,
+                            "Value": 2.0
                           }
                         },
                         "IgnoreRadius": true,
@@ -1323,8 +1360,9 @@
                           "Alias": "AbilityTargetEntity"
                         },
                         "ToleranceAngle": {
-                          "fixedValue": {
-                            "RawValue": 322122547200
+                          "FixedValue": {
+                            "RawValue": 322122547200,
+                            "Value": 75.0
                           }
                         },
                         "TaskEnabled": true,
@@ -1348,8 +1386,9 @@
                         },
                         "CompareType": "Less",
                         "CompareValue": {
-                          "fixedValue": {
-                            "RawValue": 25769803776
+                          "FixedValue": {
+                            "RawValue": 25769803776,
+                            "Value": 6.0
                           }
                         },
                         "IgnoreRadius": true,
@@ -1363,8 +1402,9 @@
                           "Alias": "AbilityTargetEntity"
                         },
                         "ToleranceAngle": {
-                          "fixedValue": {
-                            "RawValue": 193273528320
+                          "FixedValue": {
+                            "RawValue": 193273528320,
+                            "Value": 45.0
                           }
                         },
                         "TaskEnabled": true,
@@ -1388,8 +1428,9 @@
                         },
                         "CompareType": "GreaterEqual",
                         "CompareValue": {
-                          "fixedValue": {
-                            "RawValue": 25769803776
+                          "FixedValue": {
+                            "RawValue": 25769803776,
+                            "Value": 6.0
                           }
                         },
                         "IgnoreRadius": true,
@@ -1403,8 +1444,9 @@
                           "Alias": "AbilityTargetEntity"
                         },
                         "ToleranceAngle": {
-                          "fixedValue": {
-                            "RawValue": 85899345920
+                          "FixedValue": {
+                            "RawValue": 85899345920,
+                            "Value": 20.0
                           }
                         },
                         "TaskEnabled": true,
@@ -1441,14 +1483,16 @@
                     "Alias": "AbilityTargetEntity"
                   },
                   "MaxDuration": {
-                    "fixedValue": {
-                      "RawValue": 4294967
+                    "FixedValue": {
+                      "RawValue": 4294967,
+                      "Value": 0.0
                     }
                   },
                   "MaxDistance": {},
                   "MaxSteerSpeed": {
-                    "fixedValue": {
-                      "RawValue": 4294967296000000
+                    "FixedValue": {
+                      "RawValue": 4294967296000000,
+                      "Value": 1000000.0
                     }
                   },
                   "CanPlayerControl": true,
@@ -1472,14 +1516,16 @@
                 "Alias": "AbilityTargetEntity"
               },
               "MaxDuration": {
-                "fixedValue": {
-                  "RawValue": 4294967
+                "FixedValue": {
+                  "RawValue": 4294967,
+                  "Value": 0.0
                 }
               },
               "MaxDistance": {},
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": 4294967296000000
+                "FixedValue": {
+                  "RawValue": 4294967296000000,
+                  "Value": 1000000.0
                 }
               },
               "CanPlayerControl": true,
@@ -1506,16 +1552,18 @@
             "Alias": "Caster"
           },
           "Distance": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "OffsetX": {},
           "OffsetY": {},
           "YawAngle": {},
           "Duration": {
-            "fixedValue": {
-              "RawValue": 107374182400
+            "FixedValue": {
+              "RawValue": 107374182400,
+              "Value": 25.0
             }
           },
           "TaskEnabled": true,
@@ -1529,8 +1577,10 @@
           },
           "ID": 131702,
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.7.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1554,8 +1604,9 @@
             },
             "CompareType": "Equal",
             "CompareValue": {
-              "fixedValue": {
-                "RawValue": 4294967296
+              "FixedValue": {
+                "RawValue": 4294967296,
+                "Value": 1.0
               }
             },
             "TaskEnabled": true
@@ -1572,23 +1623,31 @@
                 "Alias": "AbilityTargetEntity"
               },
               "MaxDuration": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.9.FailedTaskList.0.MaxDuration.FixedValue"
                 }
               },
               "MaxSpeed": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.9.FailedTaskList.0.MaxSpeed.FixedValue"
                 }
               },
               "MinSpeed": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.9.FailedTaskList.0.MinSpeed.FixedValue"
                 }
               },
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.OnStart.9.FailedTaskList.0.MaxSteerSpeed.FixedValue"
                 }
               },
               "CanPlayerControl": true,
@@ -1600,6 +1659,7 @@
           "TaskEnabled": true
         }
       ],
+      "DynamicValues": {},
       "TaskListTemplate": [
         {
           "Name": "Rappa_Sprint_PreProcess",
@@ -1618,8 +1678,9 @@
               },
               "ModifierName": "ADV_Modifier_Maze_Rappa_HolyShield",
               "LifeTime": {
-                "fixedValue": {
-                  "RawValue": 94489280512
+                "FixedValue": {
+                  "RawValue": 94489280512,
+                  "Value": 22.0
                 }
               },
               "TaskEnabled": true,
@@ -1683,8 +1744,9 @@
               "ParameterName": "IsSprinting",
               "ParameterType": "Bool",
               "Value": {
-                "fixedValue": {
-                  "RawValue": 4294967296
+                "FixedValue": {
+                  "RawValue": 4294967296,
+                  "Value": 1.0
                 }
               },
               "TaskEnabled": true,
@@ -1733,6 +1795,7 @@
               "DynamicKey": {
                 "Value": "Rappa_00_Achievenment"
               },
+              "SkipInCharmAction": true,
               "TaskEnabled": true
             },
             {
@@ -1752,24 +1815,30 @@
                 "Alias": "AbilityTargetEntity"
               },
               "MaxDuration": {
-                "fixedValue": {
-                  "RawValue": 2576980380
+                "FixedValue": {
+                  "RawValue": 2576980380,
+                  "Value": 0.6
                 }
               },
               "MaxSpeed": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.TaskListTemplate.0.TaskList.13.MaxSpeed.FixedValue"
                 }
               },
               "MinSpeed": {
-                "fixedValue": {
-                  "RawValue": 4294967296
+                "FixedValue": {
+                  "RawValue": 4294967296,
+                  "Value": 1.0
                 }
               },
               "SpeedCurve": "Camera/BlendCurve/BlendCut_1317_MazeSkillMove_Pre.asset",
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": -149061134974976
+                "FixedValue": {
+                  "RawValue": -149061134974976,
+                  "Value": -34706.0,
+                  "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.5.TaskListTemplate.0.TaskList.13.MaxSteerSpeed.FixedValue"
                 }
               },
               "CanPlayerControl": true,
@@ -1785,8 +1854,9 @@
               },
               "AnimStateName": "MazeSkill_Start",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 743029342
+                "FixedValue": {
+                  "RawValue": 743029342,
+                  "Value": 0.17
                 }
               },
               "TaskEnabled": true,
@@ -1800,8 +1870,9 @@
               },
               "AnimStateName": "MazeSkill_Start",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 4290672330
+                "FixedValue": {
+                  "RawValue": 4290672330,
+                  "Value": 1.0
                 }
               },
               "SkipWhenStateChange": true,
@@ -1815,8 +1886,9 @@
                 "Alias": "Caster"
               },
               "MaxSteerSpeed": {
-                "fixedValue": {
-                  "RawValue": -4294967296
+                "FixedValue": {
+                  "RawValue": -4294967296,
+                  "Value": -1.0
                 }
               },
               "AutoMove": true,
@@ -1832,8 +1904,7 @@
       "ManualTriggerType": "Free",
       "Name": "LocalPlayer_Rappa_00_Achievenment",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -1844,8 +1915,10 @@
           },
           "ModifierName": "ADV_StageAbility_Maze_Achievenment",
           "LifeTime": {
-            "fixedValue": {
-              "RawValue": -149061134974976
+            "FixedValue": {
+              "RawValue": -149061134974976,
+              "Value": -34706.0,
+              "Path": "LocalPlayer_Rappa_00_Ability.AbilityList.6.OnStart.0.LifeTime.FixedValue"
             }
           },
           "TaskEnabled": true,
@@ -1878,8 +1951,9 @@
                 },
                 "CompareType": "Equal",
                 "CompareValue": {
-                  "fixedValue": {
-                    "RawValue": 4294967296
+                  "FixedValue": {
+                    "RawValue": 4294967296,
+                    "Value": 1.0
                   }
                 },
                 "TaskEnabled": true
@@ -1896,17 +1970,203 @@
             "Alias": "Caster"
           },
           "Value": {
-            "fixedValue": {
-              "RawValue": 4294967296
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
             }
           },
           "DynamicKey": {
             "Value": "Rappa_00_Achievenment"
           },
+          "SkipInCharmAction": true,
           "TaskEnabled": true
         }
       ]
     }
   ],
-  "GlobalModifiers": {}
+  "GlobalModifiers": {
+    "ADV_StageAbility_Maze_Rappa": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_Modifier_Maze_Rappa_IsHit": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "Count": -1,
+      "Stacking": "Unique"
+    },
+    "ADV_Modifier_Maze_Rappa": {
+      "LifeTime": 20.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.PredicateTaskList",
+          "Predicate": {
+            "$type": "RPG.GameCore.AdventureByPlayerCurrentSkillType",
+            "SkillType": "MazeSkill",
+            "TaskEnabled": true,
+            "IsClientOnly": true
+          },
+          "SuccessTaskList": [
+            {
+              "$type": "RPG.GameCore.ModifierAttachEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Rappa_00/Eff_Avatar_Rappa_00_MazeSkill01_Body_01.prefab",
+              "MinMutexTime": -1.0,
+              "MutexType": "Entity",
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            },
+            {
+              "$type": "RPG.GameCore.ModifierAttachEffect",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "EffectPath": "Effects/Eff_Prefab/Eff_Avatar/Eff_Rappa_00/Eff_Avatar_Rappa_00_MazeSkill01_Body_02.prefab",
+              "MinMutexTime": -1.0,
+              "MutexType": "Entity",
+              "MaxMutexCount": 1,
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "FailedTaskList": [
+            {
+              "$type": "RPG.GameCore.AdventureTriggerTargetAbility",
+              "TargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "SkillType": "MazeSkill",
+              "AbilityName": "LocalPlayer_Rappa_00_MazeSkill_Abort",
+              "AbilityTargetType": {
+                "$type": "RPG.GameCore.TargetAlias",
+                "Alias": "Caster"
+              },
+              "TaskEnabled": true,
+              "IsClientOnly": true
+            }
+          ],
+          "TaskEnabled": true
+        }
+      ],
+      "OnUnstage": [
+        {
+          "$type": "RPG.GameCore.RemoveSelfModifier",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    },
+    "ADV_Modifier_Maze_Rappa_HolyShield": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "BehaviorFlagList": [
+        "HolyShield"
+      ],
+      "TickInterval": 1.0,
+      "Count": 1,
+      "Stacking": "Merge"
+    },
+    "ADV_Modifier_Maze_Rappa_SummonUnit": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.CreateSummonUnit",
+          "Summoner": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "SummonUnitID": 13171,
+          "AttachTarget": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "AdvLocalPlayer"
+          },
+          "PosTarget": {
+            "$type": "RPG.GameCore.TargetAlias",
+            "Alias": "Caster"
+          },
+          "Distance": {
+            "FixedValue": {
+              "RawValue": 4294967296,
+              "Value": 1.0
+            }
+          },
+          "OffsetX": {},
+          "OffsetY": {},
+          "YawAngle": {},
+          "Duration": {
+            "FixedValue": {
+              "RawValue": -4294967296,
+              "Value": -1.0
+            }
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "OnDestroy": [
+        {
+          "$type": "RPG.GameCore.DestroySummonUnit",
+          "SummonUnit": {
+            "$type": "RPG.GameCore.TargetFetchSummonUnit",
+            "Summoner": {
+              "$type": "RPG.GameCore.TargetAlias",
+              "Alias": "ModifierOwnerEntity"
+            },
+            "SummonUnitID": 13171
+          },
+          "TaskEnabled": true,
+          "IsClientOnly": true
+        }
+      ],
+      "Count": -1,
+      "Stacking": "Unique"
+    },
+    "M_ADV_Maze_Rappa_StopSprintFlag": {
+      "LifeTime": -1.0,
+      "Level": 1,
+      "LevelMax": 1,
+      "IsCountDownAfterBattle": true,
+      "ApplyBehaviorFlagBindEffects": true,
+      "TickInterval": 1.0,
+      "OnCreate": [
+        {
+          "$type": "RPG.GameCore.DebugLog",
+          "Message": "M_ADV_Maze_Rappa_StopSprintFlag",
+          "TaskEnabled": true
+        }
+      ],
+      "Count": 1,
+      "Stacking": "Refresh"
+    }
+  }
 }

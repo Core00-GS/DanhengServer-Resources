@@ -4,7 +4,8 @@
       306007
     ],
     "EnemyID": 1,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -18,7 +19,8 @@
       306014
     ],
     "EnemyID": 2,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -28,7 +30,8 @@
       306015
     ],
     "EnemyID": 3,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -37,15 +40,16 @@
       306005
     ],
     "EnemyID": 4,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306016
     ],
     "EnemyID": 5,
-    "SpecialMonsterID": 8002040,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 8002040
   },
   {
     "StageEventList": [
@@ -54,74 +58,80 @@
       306009
     ],
     "EnemyID": 6,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306018
     ],
     "EnemyID": 7,
-    "SpecialMonsterID": 8002050,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 8002050
   },
   {
     "StageEventList": [
       306019
     ],
     "EnemyID": 8,
-    "SpecialMonsterID": 8002060,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 8002060
   },
   {
     "StageEventList": [
       306020
     ],
     "EnemyID": 9,
-    "SpecialMonsterID": 8002070,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 8002070
   },
   {
     "StageEventList": [
       306021
     ],
     "EnemyID": 10,
-    "SpecialMonsterID": 8002080,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 8002080
   },
   {
     "StageEventList": [
       306011
     ],
     "EnemyID": 301,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306013
     ],
     "EnemyID": 302,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306005
     ],
     "EnemyID": 303,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306015
     ],
     "EnemyID": 304,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
       306017
     ],
     "EnemyID": 305,
-    "EnemyLevel": 3
+    "EnemyLevel": 3,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -137,7 +147,8 @@
       306305
     ],
     "EnemyID": 101,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -152,7 +163,8 @@
       306310
     ],
     "EnemyID": 102,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -168,7 +180,8 @@
       306305
     ],
     "EnemyID": 103,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -184,7 +197,8 @@
       306310
     ],
     "EnemyID": 104,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -200,7 +214,8 @@
       306305
     ],
     "EnemyID": 105,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -215,7 +230,8 @@
       306310
     ],
     "EnemyID": 106,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -232,7 +248,8 @@
       306305
     ],
     "EnemyID": 107,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -248,7 +265,8 @@
       306411
     ],
     "EnemyID": 108,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -265,7 +283,8 @@
       306406
     ],
     "EnemyID": 109,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -280,7 +299,8 @@
       306411
     ],
     "EnemyID": 110,
-    "EnemyLevel": 1
+    "EnemyLevel": 1,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -289,7 +309,8 @@
       306012
     ],
     "EnemyID": 201,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -298,7 +319,8 @@
       306010
     ],
     "EnemyID": 202,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -307,7 +329,8 @@
       306010
     ],
     "EnemyID": 203,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 0
   },
   {
     "StageEventList": [
@@ -316,6 +339,7 @@
       306006
     ],
     "EnemyID": 204,
-    "EnemyLevel": 2
+    "EnemyLevel": 2,
+    "SpecialMonsterID": 0
   }
 ]

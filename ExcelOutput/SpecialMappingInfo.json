@@ -3,18 +3,21 @@
     "ParamList": [
       402
     ],
+    "WorldLevel": 0,
     "ID": 2223
   },
   {
     "ParamList": [
       403
     ],
+    "WorldLevel": 0,
     "ID": 2235
   },
   {
     "ParamList": [
       401
     ],
+    "WorldLevel": 0,
     "ID": 2236
   },
   {
@@ -24,6 +27,7 @@
       50000,
       150000
     ],
+    "WorldLevel": 0,
     "ID": 2267
   },
   {
@@ -31,6 +35,7 @@
       50002,
       150001
     ],
+    "WorldLevel": 0,
     "ID": 2289
   },
   {
@@ -38,6 +43,7 @@
       50003,
       150003
     ],
+    "WorldLevel": 0,
     "ID": 2266
   },
   {
@@ -45,6 +51,7 @@
       50005,
       150005
     ],
+    "WorldLevel": 0,
     "ID": 2347
   },
   {
@@ -52,6 +59,7 @@
       6032411,
       6032414
     ],
+    "WorldLevel": 0,
     "ID": 2355
   },
   {
@@ -59,6 +67,7 @@
       6032412,
       6032415
     ],
+    "WorldLevel": 0,
     "ID": 2356
   },
   {
@@ -66,6 +75,7 @@
       6032413,
       6032416
     ],
+    "WorldLevel": 0,
     "ID": 2357
   },
   {
@@ -73,6 +83,7 @@
       2200010,
       2200011
     ],
+    "WorldLevel": 0,
     "ID": 2359
   },
   {
@@ -80,24 +91,28 @@
       2200012,
       2200013
     ],
+    "WorldLevel": 0,
     "ID": 2360
   },
   {
     "ParamList": [
       2200014
     ],
+    "WorldLevel": 0,
     "ID": 2361
   },
   {
     "ParamList": [
       2200015
     ],
+    "WorldLevel": 0,
     "ID": 2362
   },
   {
     "ParamList": [
       2200110
     ],
+    "WorldLevel": 0,
     "ID": 2363
   },
   {
@@ -105,6 +120,7 @@
       2200111,
       2200112
     ],
+    "WorldLevel": 0,
     "ID": 2364
   },
   {
@@ -112,6 +128,7 @@
       2200210,
       2200211
     ],
+    "WorldLevel": 0,
     "ID": 2365
   },
   {
@@ -119,6 +136,7 @@
       2200212,
       2200213
     ],
+    "WorldLevel": 0,
     "ID": 2366
   },
   {
@@ -126,12 +144,14 @@
       2200214,
       2200215
     ],
+    "WorldLevel": 0,
     "ID": 2402
   },
   {
     "ParamList": [
       2200300
     ],
+    "WorldLevel": 0,
     "ID": 2428
   },
   {
@@ -139,6 +159,7 @@
       2200301,
       2200302
     ],
+    "WorldLevel": 0,
     "ID": 2453
   },
   {
@@ -146,12 +167,14 @@
       50006,
       150006
     ],
+    "WorldLevel": 0,
     "ID": 2308
   },
   {
     "ParamList": [
       40004
     ],
+    "WorldLevel": 0,
     "ID": 5005
   },
   {
@@ -159,12 +182,14 @@
       30008,
       130008
     ],
+    "WorldLevel": 0,
     "ID": 2368
   },
   {
     "ParamList": [
       1
     ],
+    "WorldLevel": 0,
     "ID": 2381
   },
   {
@@ -172,12 +197,14 @@
       50007,
       150007
     ],
+    "WorldLevel": 0,
     "ID": 2384
   },
   {
     "ParamList": [
       50008
     ],
+    "WorldLevel": 0,
     "ID": 2400
   },
   {
@@ -185,12 +212,14 @@
       50009,
       150009
     ],
+    "WorldLevel": 0,
     "ID": 2397
   },
   {
     "ParamList": [
       50010
     ],
+    "WorldLevel": 0,
     "ID": 2395
   },
   {
@@ -198,6 +227,7 @@
       50014,
       150014
     ],
+    "WorldLevel": 0,
     "ID": 2418
   },
   {
@@ -205,30 +235,35 @@
       50012,
       150012
     ],
+    "WorldLevel": 0,
     "ID": 2401
   },
   {
     "ParamList": [
       0
     ],
+    "WorldLevel": 0,
     "ID": 10065
   },
   {
     "ParamList": [
       1
     ],
+    "WorldLevel": 0,
     "ID": 10067
   },
   {
     "ParamList": [
       50011
     ],
+    "WorldLevel": 0,
     "ID": 2396
   },
   {
     "ParamList": [
       50016
     ],
+    "WorldLevel": 0,
     "ID": 2419
   },
   {
@@ -236,6 +271,7 @@
       50018,
       150018
     ],
+    "WorldLevel": 0,
     "ID": 2429
   },
   {
@@ -243,18 +279,21 @@
       50021,
       150021
     ],
+    "WorldLevel": 0,
     "ID": 2439
   },
   {
     "ParamList": [
       50020
     ],
+    "WorldLevel": 0,
     "ID": 2440
   },
   {
     "ParamList": [
       50017
     ],
+    "WorldLevel": 0,
     "ID": 2436
   },
   {
@@ -262,6 +301,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2442
   },
   {
@@ -269,6 +309,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2443
   },
   {
@@ -276,6 +317,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2444
   },
   {
@@ -283,6 +325,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2445
   },
   {
@@ -290,6 +333,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2446
   },
   {
@@ -297,6 +341,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2447
   },
   {
@@ -304,6 +349,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2448
   },
   {
@@ -311,6 +357,7 @@
       50015,
       150015
     ],
+    "WorldLevel": 0,
     "ID": 2420
   },
   {
@@ -318,6 +365,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2457
   },
   {
@@ -325,6 +373,7 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2458
   },
   {
@@ -332,30 +381,36 @@
       50022,
       150022
     ],
+    "WorldLevel": 0,
     "ID": 2459
   },
   {
     "ParamList": [
-      6
+      6,
+      10
     ],
+    "WorldLevel": 0,
     "ID": 2454
   },
   {
     "ParamList": [
       30011
     ],
+    "WorldLevel": 0,
     "ID": 5012
   },
   {
     "ParamList": [
       30011
     ],
+    "WorldLevel": 0,
     "ID": 5013
   },
   {
     "ParamList": [
       30014
     ],
+    "WorldLevel": 0,
     "ID": 5022
   },
   {
@@ -363,6 +418,7 @@
       50026,
       150026
     ],
+    "WorldLevel": 0,
     "ID": 2470
   },
   {
@@ -370,6 +426,7 @@
       2200601,
       2200602
     ],
+    "WorldLevel": 0,
     "ID": 2472
   },
   {
@@ -377,6 +434,7 @@
       2200605,
       2200606
     ],
+    "WorldLevel": 0,
     "ID": 2473
   },
   {
@@ -384,18 +442,21 @@
       2200603,
       2200604
     ],
+    "WorldLevel": 0,
     "ID": 2474
   },
   {
     "ParamList": [
       2200607
     ],
+    "WorldLevel": 0,
     "ID": 2475
   },
   {
     "ParamList": [
       2200608
     ],
+    "WorldLevel": 0,
     "ID": 2476
   },
   {
@@ -403,20 +464,208 @@
       2200609,
       2200610
     ],
+    "WorldLevel": 0,
     "ID": 2477
+  },
+  {
+    "ParamList": [
+      2200611
+    ],
+    "WorldLevel": 0,
+    "ID": 2478
+  },
+  {
+    "ParamList": [
+      2200612
+    ],
+    "WorldLevel": 0,
+    "ID": 2479
+  },
+  {
+    "ParamList": [
+      2200613,
+      2200614
+    ],
+    "WorldLevel": 0,
+    "ID": 2480
+  },
+  {
+    "ParamList": [
+      2200615
+    ],
+    "WorldLevel": 0,
+    "ID": 2481
+  },
+  {
+    "ParamList": [
+      2200616
+    ],
+    "WorldLevel": 0,
+    "ID": 2482
+  },
+  {
+    "ParamList": [
+      2200618,
+      2200619
+    ],
+    "WorldLevel": 0,
+    "ID": 2483
+  },
+  {
+    "ParamList": [
+      2200620
+    ],
+    "WorldLevel": 0,
+    "ID": 2484
+  },
+  {
+    "ParamList": [
+      2200621
+    ],
+    "WorldLevel": 0,
+    "ID": 2485
+  },
+  {
+    "ParamList": [
+      2200622,
+      2200623
+    ],
+    "WorldLevel": 0,
+    "ID": 2486
+  },
+  {
+    "ParamList": [
+      2200624
+    ],
+    "WorldLevel": 0,
+    "ID": 2487
+  },
+  {
+    "ParamList": [
+      2200627
+    ],
+    "WorldLevel": 0,
+    "ID": 2489
+  },
+  {
+    "ParamList": [
+      2200625,
+      2200626
+    ],
+    "WorldLevel": 0,
+    "ID": 2490
   },
   {
     "ParamList": [
       50024,
       150024
     ],
+    "WorldLevel": 0,
     "ID": 2456
+  },
+  {
+    "ParamList": [
+      50029,
+      150029
+    ],
+    "WorldLevel": 0,
+    "ID": 2502
+  },
+  {
+    "ParamList": [
+      50033
+    ],
+    "WorldLevel": 0,
+    "ID": 2503
   },
   {
     "ParamList": [
       50034,
       150034
     ],
+    "WorldLevel": 0,
     "ID": 2504
+  },
+  {
+    "ParamList": [
+      50035
+    ],
+    "WorldLevel": 0,
+    "ID": 2505
+  },
+  {
+    "ParamList": [
+      50028
+    ],
+    "WorldLevel": 0,
+    "ID": 2506
+  },
+  {
+    "ParamList": [
+      50042
+    ],
+    "WorldLevel": 0,
+    "ID": 2508
+  },
+  {
+    "ParamList": [
+      50041,
+      150041
+    ],
+    "WorldLevel": 0,
+    "ID": 2511
+  },
+  {
+    "ParamList": [
+      50057,
+      2031105
+    ],
+    "WorldLevel": 0,
+    "ID": 2513
+  },
+  {
+    "ParamList": [
+      50063
+    ],
+    "WorldLevel": 0,
+    "ID": 2514
+  },
+  {
+    "ParamList": [
+      50045,
+      150045
+    ],
+    "WorldLevel": 0,
+    "ID": 2509
+  },
+  {
+    "ParamList": [
+      50064
+    ],
+    "WorldLevel": 0,
+    "ID": 2516
+  },
+  {
+    "ParamList": [
+      50070
+    ],
+    "WorldLevel": 0,
+    "ID": 2521
+  },
+  {
+    "ParamList": [
+      50068,
+      150068
+    ],
+    "WorldLevel": 0,
+    "ID": 2526
+  },
+  {
+    "ParamList": [
+      50074,
+      150074
+    ],
+    "WorldLevel": 0,
+    "ID": 2519
   }
 ]

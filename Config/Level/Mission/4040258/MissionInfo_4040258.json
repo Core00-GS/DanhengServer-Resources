@@ -23,7 +23,7 @@
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [
-        0
+        "OldValue_0"
       ],
       "CustomValueReward": [],
       "GroupIDList": [
@@ -37,10 +37,11 @@
       "LevelPlaneID": 20223,
       "LevelFloorID": 20223001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        1,
-        404025801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "1",
+        "404025801"
       ],
       "FinishType": "MessagePerformSectionFinish",
       "ParamType": "Equal",
@@ -60,10 +61,11 @@
       "LevelPlaneID": 20223,
       "LevelFloorID": 20223001,
       "TakeType": "CustomValue",
-      "TakeParamIntList": [
-        0,
-        2,
-        404025801
+      "TakeParamIntList": [],
+      "TakeParamStrList": [
+        "OldValue_0",
+        "2",
+        "404025801"
       ],
       "FinishType": "MessagePerformSectionFinish",
       "ParamType": "Equal",
@@ -143,6 +145,8 @@
   ],
   "MissionCustomValueList": [
     {
+      "Name": "OldValue_0",
+      "Type": "Former",
       "ValidValueParamList": [
         1,
         2

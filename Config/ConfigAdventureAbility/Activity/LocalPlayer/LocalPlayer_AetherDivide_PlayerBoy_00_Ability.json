@@ -21,8 +21,7 @@
       ],
       "Name": "LocalPlayer_AetherDivide_PlayerBoy_NormalAtk01",
       "TargetInfo": {
-        "TargetType": "SkillPointEntityOrNone",
-        "MaxTargetCount": 1
+        "TargetType": "SkillPointEntityOrNone"
       },
       "OnStart": [
         {
@@ -101,8 +100,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 167503722
+                "FixedValue": {
+                  "RawValue": 167503722,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -139,8 +139,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 180388626
+                "FixedValue": {
+                  "RawValue": 180388626,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -257,8 +258,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 167503722
+                "FixedValue": {
+                  "RawValue": 167503722,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,
@@ -295,8 +297,9 @@
               },
               "AnimStateName": "Attack_1",
               "NormalizedTimeEnd": {
-                "fixedValue": {
-                  "RawValue": 180388626
+                "FixedValue": {
+                  "RawValue": 180388626,
+                  "Value": 0.04
                 }
               },
               "TaskEnabled": true,

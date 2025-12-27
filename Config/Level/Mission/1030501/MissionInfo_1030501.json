@@ -540,19 +540,25 @@
       "TakeParamIntList": [
         103050118
       ],
+      "TakeParamStrList": [],
       "FinishType": "SubMissionFinishCnt",
       "ParamType": "ListContain",
       "ParamIntList": [
         103050120,
         103050122
       ],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 2,
       "CustomValueList": [],
       "CustomValueReward": [],
+      "GroupIDList": [],
       "RequiredNPCSeriesIDList": [],
       "IsShow": true,
-      "IsShowProgress": true
+      "IsShowProgress": true,
+      "GotoParam": [],
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103050120,
@@ -564,6 +570,8 @@
       "TakeParamIntList": [
         103050118
       ],
+      "TakePriority": 1,
+      "TakeParamStrList": [],
       "MazePlaneID": 20312,
       "MazeFloorID": 20312001,
       "FinishType": "PropState",
@@ -571,6 +579,8 @@
       "ParamInt1": 152,
       "ParamInt2": 300001,
       "ParamInt3": 19,
+      "ParamIntList": [],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 1,
       "IsBackTrack": true,
@@ -581,11 +591,14 @@
       ],
       "RequiredNPCSeriesIDList": [],
       "WayPointType": "Prop",
+      "GotoParam": [],
       "WayPointFloorID": 20312001,
       "WayPointGroupID": 152,
       "WayPointEntityID": 300001,
       "WayPointShowRangeMin": 14,
-      "MapWaypointRange": 15.0
+      "MapWaypointRange": 15.0,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103050121,
@@ -622,12 +635,16 @@
       "TakeParamIntList": [
         103050118
       ],
+      "TakePriority": 2,
+      "TakeParamStrList": [],
       "MazePlaneID": 20312,
       "MazeFloorID": 20312001,
       "FinishType": "PropDestruct",
       "ParamType": "Equal",
       "ParamInt1": 128,
       "ParamInt2": 300002,
+      "ParamIntList": [],
+      "ParamItemList": [],
       "FinishActionList": [],
       "Progress": 1,
       "CustomValueList": [],
@@ -637,11 +654,14 @@
       ],
       "RequiredNPCSeriesIDList": [],
       "WayPointType": "Prop",
+      "GotoParam": [],
       "WayPointFloorID": 20312001,
       "WayPointGroupID": 128,
       "WayPointEntityID": 300002,
       "WayPointShowRangeMin": 14,
-      "MapWaypointRange": 15.0
+      "MapWaypointRange": 15.0,
+      "StoryLineIDList": [],
+      "IgnoreVerseParamList": []
     },
     {
       "ID": 103050123,

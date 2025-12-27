@@ -76,5 +76,17 @@
     "MaxFastRunScale": 1.5
   },
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "CharacterReplaceMaterialConfigPath": "Config/ConfigReplaceCharacterMaterial/Normal/NPC_Normal_ReplaceCharacterMaterial.json",
+  "EditorReplaceMaterialKeyList": [
+    {
+      "Keys": [
+        "StoryHoloGram_Common",
+        "StoryHoloGram_OnlyItem",
+        "StoryCrystal_Lady",
+        "StoryFury_Lady"
+      ]
+    }
+  ],
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

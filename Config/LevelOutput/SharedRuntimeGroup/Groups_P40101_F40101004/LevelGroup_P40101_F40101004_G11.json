@@ -52,6 +52,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -104,6 +107,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,
@@ -142,14 +148,14 @@
         "Values": [
           {
             "$type": "RPG.GameCore.SharedString",
-            "Value": "\u6700\u540e\u7684\u95e8",
+            "Value": "最后的门",
             "Key": "RaidM302_LastDoor"
           }
         ],
         "SharedValues": [
           {
             "$type": "RPG.GameCore.SharedString",
-            "Value": "\u6700\u540e\u7684\u95e8",
+            "Value": "最后的门",
             "Key": "RaidM302_LastDoor"
           }
         ]
@@ -171,6 +177,9 @@
       "TalkDialogGroupIDList": [],
       "ServerInteractVerificationIDList": [],
       "OverrideMapIconType": -1,
+      "InteractIconType": {
+        "JsonValueStr": "ChatMissionIcon"
+      },
       "DialogueTriggerSkipFakeAvatar": true,
       "LookAtPlayerTriggerRadius": 2.0,
       "OverrideLockRaycastOffset": 1.5,

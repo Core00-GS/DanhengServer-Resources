@@ -1,62 +1,77 @@
 [
   {
+    "controlType": "LeftButton",
     "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseLeftKey.png",
-    "controlType": "LeftButton"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "RightButton",
     "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseRightKey.png",
-    "controlType": "RightButton"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "MiddleButton",
     "iconForMouse": "",
-    "controlType": "MiddleButton"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "NegativeX",
     "iconForMouse": "",
-    "controlType": "NegativeX"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "PositiveX",
     "iconForMouse": "",
-    "controlType": "PositiveX"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "NegativeY",
     "iconForMouse": "",
-    "controlType": "NegativeY"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "PositiveY",
     "iconForMouse": "",
-    "controlType": "PositiveY"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "PositiveScrollWheel",
     "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseCenterKeyScroll.png",
-    "controlType": "PositiveScrollWheel"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "NegativeScrollWheel",
     "iconForMouse": "SpriteOutput/KeyMapIcons/PC/IconMouseCenterKeyScroll.png",
-    "controlType": "NegativeScrollWheel"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button4",
     "iconForMouse": "",
-    "controlType": "Button4"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button5",
     "iconForMouse": "",
-    "controlType": "Button5"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button6",
     "iconForMouse": "",
-    "controlType": "Button6"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button7",
     "iconForMouse": "",
-    "controlType": "Button7"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button8",
     "iconForMouse": "",
-    "controlType": "Button8"
+    "isSettingMouseType": false
   },
   {
+    "controlType": "Button9",
     "iconForMouse": "",
-    "controlType": "Button9"
+    "isSettingMouseType": false
   }
 ]

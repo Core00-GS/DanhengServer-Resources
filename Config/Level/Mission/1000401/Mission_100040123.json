@@ -6,13 +6,15 @@
         {
           "$type": "RPG.GameCore.CreateProp",
           "GroupID": {
-            "fixedValue": {
-              "RawValue": 42949672960
+            "FixedValue": {
+              "RawValue": 42949672960,
+              "Value": 10.0
             }
           },
           "GroupPropID": {
-            "fixedValue": {
-              "RawValue": 1288554613309440
+            "FixedValue": {
+              "RawValue": 1288554613309440,
+              "Value": 300015.0
             }
           },
           "TaskEnabled": true,

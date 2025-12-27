@@ -89,6 +89,7 @@
     "LocalPlayer_Moze_NormalAtk01",
     "LocalPlayer_CommonAbility_AttackBreak"
   ],
+  "DynamicValues": {},
   "BeHitRotate": true,
   "EnableFootIK": true,
   "EnableIdleShow": true,
@@ -100,5 +101,6 @@
   ],
   "UseDefaultSteerMode": true,
   "BreakRecoverStandByType": "StandBy",
-  "MoveDeltaPositionOtherDirectionConstraint": 0.15
+  "MoveDeltaPositionOtherDirectionConstraint": 0.15,
+  "HitBoxFollowRootPoint": true
 }

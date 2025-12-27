@@ -8,9 +8,7 @@
           "TargetEntityType": "Prop",
           "ID": 300001,
           "GroupID": 47,
-          "EditHeight": true,
-          "MinHeight": -100.0,
-          "MaxHeight": -100.0,
+          "YOffest": -100.0,
           "TaskEnabled": true,
           "IsClientOnly": true
         }

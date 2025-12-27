@@ -2,9 +2,14 @@
   {
     "IconPath": "SpriteOutput/ItemIcon/110501.png",
     "ResBarKey": "",
+    "IntroID": 0,
+    "Priority": 2,
     "GuideType": "RogueRelease",
     "ID": 1001,
-    "Priority": 1,
+    "Desc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Name": {
       "Hash": 746677850,
       "Hash64": 3848846982209751333
@@ -13,12 +18,33 @@
   {
     "IconPath": "SpriteOutput/ItemIcon/110501.png",
     "ResBarKey": "",
+    "IntroID": 0,
+    "Priority": 3,
     "GuideType": "RogueBeta",
     "ID": 1002,
-    "Priority": 2,
+    "Desc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
     "Name": {
       "Hash": 746677847,
       "Hash64": 7101172980135609973
+    }
+  },
+  {
+    "IconPath": "SpriteOutput/ItemIcon/110501.png",
+    "ResBarKey": "",
+    "IntroID": 0,
+    "Priority": 1,
+    "GuideType": "GridFight",
+    "ID": 1003,
+    "Desc": {
+      "Hash": 0,
+      "Hash64": 0
+    },
+    "Name": {
+      "Hash": 746677848,
+      "Hash64": 11179573777653333385
     }
   }
 ]

@@ -136,6 +136,22 @@
     }
   },
   {
+    "ContactsCamp": 18,
+    "SortID": 18,
+    "Name": {
+      "Hash": 953467689,
+      "Hash64": 2158591601921327483
+    }
+  },
+  {
+    "ContactsCamp": 19,
+    "SortID": 19,
+    "Name": {
+      "Hash": 953467688,
+      "Hash64": 12706869428416016721
+    }
+  },
+  {
     "ContactsCamp": 99,
     "SortID": 99,
     "Name": {
